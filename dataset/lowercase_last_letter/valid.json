@@ -1,0 +1,298 @@
+[
+  {
+    "input": "MIRROR",
+    "output": "r"
+  },
+  {
+    "input": "WRITE",
+    "output": "e"
+  },
+  {
+    "input": "RELAX",
+    "output": "x"
+  },
+  {
+    "input": "DETERMINED",
+    "output": "d"
+  },
+  {
+    "input": "EXIST",
+    "output": "t"
+  },
+  {
+    "input": "CAMERA",
+    "output": "a"
+  },
+  {
+    "input": "SPEAK",
+    "output": "k"
+  },
+  {
+    "input": "CHIMPANZEE",
+    "output": "e"
+  },
+  {
+    "input": "ZUCCHINI",
+    "output": "i"
+  },
+  {
+    "input": "GLOVES",
+    "output": "s"
+  },
+  {
+    "input": "UPBEAT",
+    "output": "t"
+  },
+  {
+    "input": "GENUINE",
+    "output": "e"
+  },
+  {
+    "input": "LIME",
+    "output": "e"
+  },
+  {
+    "input": "AMIABLE",
+    "output": "e"
+  },
+  {
+    "input": "RESOLUTE",
+    "output": "e"
+  },
+  {
+    "input": "OLD",
+    "output": "d"
+  },
+  {
+    "input": "TOMATO",
+    "output": "o"
+  },
+  {
+    "input": "DEVOTED",
+    "output": "d"
+  },
+  {
+    "input": "BITTER",
+    "output": "r"
+  },
+  {
+    "input": "GECKO",
+    "output": "o"
+  },
+  {
+    "input": "REGARDING",
+    "output": "g"
+  },
+  {
+    "input": "KIND",
+    "output": "d"
+  },
+  {
+    "input": "PENSIVE",
+    "output": "e"
+  },
+  {
+    "input": "EAGLE",
+    "output": "e"
+  },
+  {
+    "input": "FUNNY",
+    "output": "y"
+  },
+  {
+    "input": "EXAMINE",
+    "output": "e"
+  },
+  {
+    "input": "GRAPEFRUIT",
+    "output": "t"
+  },
+  {
+    "input": "EMU",
+    "output": "u"
+  },
+  {
+    "input": "TRANQUIL",
+    "output": "l"
+  },
+  {
+    "input": "BREATHE",
+    "output": "e"
+  },
+  {
+    "input": "CHEETAH",
+    "output": "h"
+  },
+  {
+    "input": "DICE",
+    "output": "e"
+  },
+  {
+    "input": "WITHIN",
+    "output": "n"
+  },
+  {
+    "input": "CREATE",
+    "output": "e"
+  },
+  {
+    "input": "SODA",
+    "output": "a"
+  },
+  {
+    "input": "ZAP",
+    "output": "p"
+  },
+  {
+    "input": "VIOLIN",
+    "output": "n"
+  },
+  {
+    "input": "BENEATH",
+    "output": "h"
+  },
+  {
+    "input": "DIRTY",
+    "output": "y"
+  },
+  {
+    "input": "CORAL",
+    "output": "l"
+  },
+  {
+    "input": "READ",
+    "output": "d"
+  },
+  {
+    "input": "HEDGEHOG",
+    "output": "g"
+  },
+  {
+    "input": "GOLD",
+    "output": "d"
+  },
+  {
+    "input": "FISHING POLE",
+    "output": "e"
+  },
+  {
+    "input": "WOMBAT",
+    "output": "t"
+  },
+  {
+    "input": "WOODPECKER",
+    "output": "r"
+  },
+  {
+    "input": "HARMONIOUS",
+    "output": "s"
+  },
+  {
+    "input": "PIG",
+    "output": "g"
+  },
+  {
+    "input": "FOX",
+    "output": "x"
+  },
+  {
+    "input": "OVERCOME",
+    "output": "e"
+  },
+  {
+    "input": "ROCK",
+    "output": "k"
+  },
+  {
+    "input": "OSTRICH",
+    "output": "h"
+  },
+  {
+    "input": "LEOPARD",
+    "output": "d"
+  },
+  {
+    "input": "SINCERE",
+    "output": "e"
+  },
+  {
+    "input": "GNU",
+    "output": "u"
+  },
+  {
+    "input": "SHE",
+    "output": "e"
+  },
+  {
+    "input": "PATIENT",
+    "output": "t"
+  },
+  {
+    "input": "PLANT",
+    "output": "t"
+  },
+  {
+    "input": "KOALA",
+    "output": "a"
+  },
+  {
+    "input": "AS",
+    "output": "s"
+  },
+  {
+    "input": "KIND-HEARTED",
+    "output": "d"
+  },
+  {
+    "input": "RED",
+    "output": "d"
+  },
+  {
+    "input": "SPICY",
+    "output": "y"
+  },
+  {
+    "input": "WITHOUT",
+    "output": "t"
+  },
+  {
+    "input": "INSIGHTFUL",
+    "output": "l"
+  },
+  {
+    "input": "BLISSFUL",
+    "output": "l"
+  },
+  {
+    "input": "DOWN",
+    "output": "n"
+  },
+  {
+    "input": "MAXIMIZE",
+    "output": "e"
+  },
+  {
+    "input": "YEARN",
+    "output": "n"
+  },
+  {
+    "input": "QUIET",
+    "output": "t"
+  },
+  {
+    "input": "NURTURE",
+    "output": "e"
+  },
+  {
+    "input": "YO-YO",
+    "output": "o"
+  },
+  {
+    "input": "JACKFRUIT",
+    "output": "t"
+  },
+  {
+    "input": "HOUSE",
+    "output": "e"
+  }
+]

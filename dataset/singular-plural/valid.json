@@ -1,0 +1,78 @@
+[
+  {
+    "input": "lantern",
+    "output": "lanterns"
+  },
+  {
+    "input": "toy",
+    "output": "toys"
+  },
+  {
+    "input": "glove",
+    "output": "gloves"
+  },
+  {
+    "input": "glass",
+    "output": "glasses"
+  },
+  {
+    "input": "tablet",
+    "output": "tablets"
+  },
+  {
+    "input": "thread",
+    "output": "threads"
+  },
+  {
+    "input": "mug",
+    "output": "mugs"
+  },
+  {
+    "input": "watch",
+    "output": "watches"
+  },
+  {
+    "input": "crayon",
+    "output": "crayons"
+  },
+  {
+    "input": "ship",
+    "output": "ships"
+  },
+  {
+    "input": "mirror",
+    "output": "mirrors"
+  },
+  {
+    "input": "kettle",
+    "output": "kettles"
+  },
+  {
+    "input": "car",
+    "output": "cars"
+  },
+  {
+    "input": "drill",
+    "output": "drills"
+  },
+  {
+    "input": "book",
+    "output": "books"
+  },
+  {
+    "input": "bucket",
+    "output": "buckets"
+  },
+  {
+    "input": "zipper",
+    "output": "zippers"
+  },
+  {
+    "input": "iron",
+    "output": "irons"
+  },
+  {
+    "input": "moon",
+    "output": "moons"
+  }
+]

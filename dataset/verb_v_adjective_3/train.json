@@ -1,0 +1,2802 @@
+[
+  {
+    "input": "jovial, youthful, value",
+    "output": "value"
+  },
+  {
+    "input": "observant, agreeable, practice",
+    "output": "practice"
+  },
+  {
+    "input": "lovable, reflect, mild",
+    "output": "reflect"
+  },
+  {
+    "input": "speak, versatile, calm",
+    "output": "speak"
+  },
+  {
+    "input": "funny, uncover, thick",
+    "output": "uncover"
+  },
+  {
+    "input": "natural, master, gracious",
+    "output": "master"
+  },
+  {
+    "input": "agile, fresh, qualify",
+    "output": "qualify"
+  },
+  {
+    "input": "naive, plan, devoted",
+    "output": "plan"
+  },
+  {
+    "input": "open, unique, brave",
+    "output": "open"
+  },
+  {
+    "input": "speak, friendly, dark",
+    "output": "speak"
+  },
+  {
+    "input": "memorize, intuitive, dazzling",
+    "output": "memorize"
+  },
+  {
+    "input": "wonderful, use, whimsical",
+    "output": "use"
+  },
+  {
+    "input": "discover, mirthful, agreeable",
+    "output": "discover"
+  },
+  {
+    "input": "fresh, visit, upbeat",
+    "output": "visit"
+  },
+  {
+    "input": "cheap, divide, determined",
+    "output": "divide"
+  },
+  {
+    "input": "rotten, achieve, affectionate",
+    "output": "achieve"
+  },
+  {
+    "input": "devoted, zesty, view",
+    "output": "view"
+  },
+  {
+    "input": "blithe, weak, join",
+    "output": "join"
+  },
+  {
+    "input": "choose, cold, talented",
+    "output": "choose"
+  },
+  {
+    "input": "sensitive, kindle, weak",
+    "output": "kindle"
+  },
+  {
+    "input": "grow, passionate, expensive",
+    "output": "grow"
+  },
+  {
+    "input": "race, affectionate, amazing",
+    "output": "race"
+  },
+  {
+    "input": "genuine, diligent, complete",
+    "output": "complete"
+  },
+  {
+    "input": "cowardly, analyze, friendly",
+    "output": "analyze"
+  },
+  {
+    "input": "zap, sweet, wonderful",
+    "output": "zap"
+  },
+  {
+    "input": "read, bold, agreeable",
+    "output": "read"
+  },
+  {
+    "input": "measure, lovely, idealistic",
+    "output": "measure"
+  },
+  {
+    "input": "playful, talk, modern",
+    "output": "talk"
+  },
+  {
+    "input": "affectionate, lucky, knit",
+    "output": "knit"
+  },
+  {
+    "input": "trustworthy, quirky, argue",
+    "output": "argue"
+  },
+  {
+    "input": "good, stupid, produce",
+    "output": "produce"
+  },
+  {
+    "input": "altruistic, analyze, weak",
+    "output": "analyze"
+  },
+  {
+    "input": "playful, warmhearted, realize",
+    "output": "realize"
+  },
+  {
+    "input": "salty, fascinating, knock",
+    "output": "knock"
+  },
+  {
+    "input": "amiable, natural, divide",
+    "output": "divide"
+  },
+  {
+    "input": "grateful, devoted, consult",
+    "output": "consult"
+  },
+  {
+    "input": "kiss, zealous, dynamic",
+    "output": "kiss"
+  },
+  {
+    "input": "mellow, radiant, finish",
+    "output": "finish"
+  },
+  {
+    "input": "loud, forgive, zesty",
+    "output": "forgive"
+  },
+  {
+    "input": "read, grateful, blithe",
+    "output": "read"
+  },
+  {
+    "input": "dark, choose, young",
+    "output": "choose"
+  },
+  {
+    "input": "release, calm, tall",
+    "output": "release"
+  },
+  {
+    "input": "exuberant, handle, bold",
+    "output": "handle"
+  },
+  {
+    "input": "transform, passionate, lucky",
+    "output": "transform"
+  },
+  {
+    "input": "silly, focus, blissful",
+    "output": "focus"
+  },
+  {
+    "input": "clean, juggle, generous",
+    "output": "juggle"
+  },
+  {
+    "input": "analyze, bitter, quirky",
+    "output": "analyze"
+  },
+  {
+    "input": "thin, make, cold",
+    "output": "make"
+  },
+  {
+    "input": "tall, understand, wonderful",
+    "output": "understand"
+  },
+  {
+    "input": "hopeful, gracious, overcome",
+    "output": "overcome"
+  },
+  {
+    "input": "weak, zap, quick-witted",
+    "output": "zap"
+  },
+  {
+    "input": "live, expensive, sensible",
+    "output": "live"
+  },
+  {
+    "input": "dynamic, collect, expensive",
+    "output": "collect"
+  },
+  {
+    "input": "vivacious, collect, wonderful",
+    "output": "collect"
+  },
+  {
+    "input": "plan, benevolent, charismatic",
+    "output": "plan"
+  },
+  {
+    "input": "negotiate, inventive, amiable",
+    "output": "negotiate"
+  },
+  {
+    "input": "walk, good, generous",
+    "output": "walk"
+  },
+  {
+    "input": "study, intrepid, versatile",
+    "output": "study"
+  },
+  {
+    "input": "intuitive, insightful, fear",
+    "output": "fear"
+  },
+  {
+    "input": "practice, exquisite, bountiful",
+    "output": "practice"
+  },
+  {
+    "input": "patient, understand, affectionate",
+    "output": "understand"
+  },
+  {
+    "input": "design, vibrant, fierce",
+    "output": "design"
+  },
+  {
+    "input": "handle, intuitive, slow",
+    "output": "handle"
+  },
+  {
+    "input": "consult, idealistic, blissful",
+    "output": "consult"
+  },
+  {
+    "input": "tall, win, nurturing",
+    "output": "win"
+  },
+  {
+    "input": "consult, bountiful, kind-hearted",
+    "output": "consult"
+  },
+  {
+    "input": "patient, qualify, modest",
+    "output": "qualify"
+  },
+  {
+    "input": "diligent, quick, explore",
+    "output": "explore"
+  },
+  {
+    "input": "remember, soft, cheap",
+    "output": "remember"
+  },
+  {
+    "input": "charming, finish, hard",
+    "output": "finish"
+  },
+  {
+    "input": "choose, loud, eager",
+    "output": "choose"
+  },
+  {
+    "input": "kick, versatile, natural",
+    "output": "kick"
+  },
+  {
+    "input": "adoring, knot, quick",
+    "output": "knot"
+  },
+  {
+    "input": "fearless, climb, light",
+    "output": "climb"
+  },
+  {
+    "input": "tender, select, nurturing",
+    "output": "select"
+  },
+  {
+    "input": "dirty, resilient, forgive",
+    "output": "forgive"
+  },
+  {
+    "input": "amazing, mild, negotiate",
+    "output": "negotiate"
+  },
+  {
+    "input": "decide, bright, modern",
+    "output": "decide"
+  },
+  {
+    "input": "fascinating, trustworthy, cry",
+    "output": "cry"
+  },
+  {
+    "input": "quirky, manipulate, resilient",
+    "output": "manipulate"
+  },
+  {
+    "input": "mellow, lucky, visit",
+    "output": "visit"
+  },
+  {
+    "input": "young, solve, brave",
+    "output": "solve"
+  },
+  {
+    "input": "manage, fierce, hungry",
+    "output": "manage"
+  },
+  {
+    "input": "enchanting, lift, clever",
+    "output": "lift"
+  },
+  {
+    "input": "sour, juggle, uplifting",
+    "output": "juggle"
+  },
+  {
+    "input": "innocent, dislike, brave",
+    "output": "dislike"
+  },
+  {
+    "input": "know, short, serene",
+    "output": "know"
+  },
+  {
+    "input": "upbeat, brave, hate",
+    "output": "hate"
+  },
+  {
+    "input": "resourceful, relax, cheap",
+    "output": "relax"
+  },
+  {
+    "input": "magnificent, merge, vivacious",
+    "output": "merge"
+  },
+  {
+    "input": "transform, dazzling, adorable",
+    "output": "transform"
+  },
+  {
+    "input": "zesty, deliver, lucky",
+    "output": "deliver"
+  },
+  {
+    "input": "exuberant, define, harmonious",
+    "output": "define"
+  },
+  {
+    "input": "unite, short, agreeable",
+    "output": "unite"
+  },
+  {
+    "input": "quirky, join, unselfish",
+    "output": "join"
+  },
+  {
+    "input": "serious, nourish, young",
+    "output": "nourish"
+  },
+  {
+    "input": "operate, fast, bold",
+    "output": "operate"
+  },
+  {
+    "input": "generous, idealistic, manipulate",
+    "output": "manipulate"
+  },
+  {
+    "input": "joyful, lift, exuberant",
+    "output": "lift"
+  },
+  {
+    "input": "eloquent, intrepid, need",
+    "output": "need"
+  },
+  {
+    "input": "train, optimistic, dirty",
+    "output": "train"
+  },
+  {
+    "input": "remember, quizzical, old",
+    "output": "remember"
+  },
+  {
+    "input": "bountiful, laugh, long",
+    "output": "laugh"
+  },
+  {
+    "input": "idealistic, deliver, intelligent",
+    "output": "deliver"
+  },
+  {
+    "input": "mirthful, value, dirty",
+    "output": "value"
+  },
+  {
+    "input": "doubt, affectionate, big",
+    "output": "doubt"
+  },
+  {
+    "input": "talented, resolute, make",
+    "output": "make"
+  },
+  {
+    "input": "natural, patient, knot",
+    "output": "knot"
+  },
+  {
+    "input": "kiss, bountiful, amiable",
+    "output": "kiss"
+  },
+  {
+    "input": "dazzling, clean, help",
+    "output": "help"
+  },
+  {
+    "input": "friendly, test, big",
+    "output": "test"
+  },
+  {
+    "input": "exchange, zany, quick",
+    "output": "exchange"
+  },
+  {
+    "input": "altruistic, decide, calm",
+    "output": "decide"
+  },
+  {
+    "input": "breathe, thin, gentle",
+    "output": "breathe"
+  },
+  {
+    "input": "collect, courageous, smart",
+    "output": "collect"
+  },
+  {
+    "input": "sincere, short, sample",
+    "output": "sample"
+  },
+  {
+    "input": "realize, sad, young",
+    "output": "realize"
+  },
+  {
+    "input": "complete, bountiful, kind",
+    "output": "complete"
+  },
+  {
+    "input": "celebrate, tall, determined",
+    "output": "celebrate"
+  },
+  {
+    "input": "intelligent, diligent, release",
+    "output": "release"
+  },
+  {
+    "input": "cheerful, salty, understand",
+    "output": "understand"
+  },
+  {
+    "input": "peaceful, grateful, verify",
+    "output": "verify"
+  },
+  {
+    "input": "join, affectionate, sincere",
+    "output": "join"
+  },
+  {
+    "input": "youthful, tender, unite",
+    "output": "unite"
+  },
+  {
+    "input": "grow, honest, calm",
+    "output": "grow"
+  },
+  {
+    "input": "hopeful, navigate, warmhearted",
+    "output": "navigate"
+  },
+  {
+    "input": "patient, listen, magnificent",
+    "output": "listen"
+  },
+  {
+    "input": "heavy, walk, generous",
+    "output": "walk"
+  },
+  {
+    "input": "rotten, nurturing, validate",
+    "output": "validate"
+  },
+  {
+    "input": "expensive, relax, cheerful",
+    "output": "relax"
+  },
+  {
+    "input": "sincere, inquisitive, negotiate",
+    "output": "negotiate"
+  },
+  {
+    "input": "celebrate, genuine, small",
+    "output": "celebrate"
+  },
+  {
+    "input": "determined, save, exquisite",
+    "output": "save"
+  },
+  {
+    "input": "intrepid, update, bountiful",
+    "output": "update"
+  },
+  {
+    "input": "live, sensitive, dark",
+    "output": "live"
+  },
+  {
+    "input": "decide, graceful, long",
+    "output": "decide"
+  },
+  {
+    "input": "measure, dry, sweet",
+    "output": "measure"
+  },
+  {
+    "input": "knot, kind, quick-witted",
+    "output": "knot"
+  },
+  {
+    "input": "calculate, silly, blissful",
+    "output": "calculate"
+  },
+  {
+    "input": "notice, knowledgeable, graceful",
+    "output": "notice"
+  },
+  {
+    "input": "intuitive, sensible, minimize",
+    "output": "minimize"
+  },
+  {
+    "input": "write, peaceful, sweet",
+    "output": "write"
+  },
+  {
+    "input": "destroy, quirky, fast",
+    "output": "destroy"
+  },
+  {
+    "input": "short, land, upbeat",
+    "output": "land"
+  },
+  {
+    "input": "witty, use, inquisitive",
+    "output": "use"
+  },
+  {
+    "input": "sad, keen, celebrate",
+    "output": "celebrate"
+  },
+  {
+    "input": "kindred, kindle, lovely",
+    "output": "kindle"
+  },
+  {
+    "input": "unwavering, fresh, calculate",
+    "output": "calculate"
+  },
+  {
+    "input": "approve, friendly, mild",
+    "output": "approve"
+  },
+  {
+    "input": "land, versatile, talented",
+    "output": "land"
+  },
+  {
+    "input": "wonderful, consult, lively",
+    "output": "consult"
+  },
+  {
+    "input": "ecstatic, grateful, observe",
+    "output": "observe"
+  },
+  {
+    "input": "zesty, know, tranquil",
+    "output": "know"
+  },
+  {
+    "input": "pensive, approve, exquisite",
+    "output": "approve"
+  },
+  {
+    "input": "expensive, remember, sensitive",
+    "output": "remember"
+  },
+  {
+    "input": "thick, short, attack",
+    "output": "attack"
+  },
+  {
+    "input": "diligent, smart, realize",
+    "output": "realize"
+  },
+  {
+    "input": "keep, devoted, hot",
+    "output": "keep"
+  },
+  {
+    "input": "dazzling, noble, kneel",
+    "output": "kneel"
+  },
+  {
+    "input": "graceful, achieve, exquisite",
+    "output": "achieve"
+  },
+  {
+    "input": "observe, reliable, intrepid",
+    "output": "observe"
+  },
+  {
+    "input": "upbeat, fast, speak",
+    "output": "speak"
+  },
+  {
+    "input": "keen, minimize, innocent",
+    "output": "minimize"
+  },
+  {
+    "input": "expensive, new, query",
+    "output": "query"
+  },
+  {
+    "input": "mild, passionate, master",
+    "output": "master"
+  },
+  {
+    "input": "tranquil, amazing, query",
+    "output": "query"
+  },
+  {
+    "input": "charming, serve, amazing",
+    "output": "serve"
+  },
+  {
+    "input": "idealistic, consult, dazzling",
+    "output": "consult"
+  },
+  {
+    "input": "graceful, negotiate, benevolent",
+    "output": "negotiate"
+  },
+  {
+    "input": "make, jubilant, brave",
+    "output": "make"
+  },
+  {
+    "input": "kill, cold, brave",
+    "output": "kill"
+  },
+  {
+    "input": "thick, bad, remember",
+    "output": "remember"
+  },
+  {
+    "input": "adorable, kill, tender",
+    "output": "kill"
+  },
+  {
+    "input": "wise, sensitive, finish",
+    "output": "finish"
+  },
+  {
+    "input": "determined, adorable, question",
+    "output": "question"
+  },
+  {
+    "input": "caring, altruistic, understand",
+    "output": "understand"
+  },
+  {
+    "input": "lucky, quirky, decide",
+    "output": "decide"
+  },
+  {
+    "input": "stupid, resilient, operate",
+    "output": "operate"
+  },
+  {
+    "input": "insightful, decide, cheerful",
+    "output": "decide"
+  },
+  {
+    "input": "tender, trustworthy, open",
+    "output": "open"
+  },
+  {
+    "input": "divide, exuberant, thick",
+    "output": "divide"
+  },
+  {
+    "input": "quick, forgive, patient",
+    "output": "forgive"
+  },
+  {
+    "input": "hot, release, bitter",
+    "output": "release"
+  },
+  {
+    "input": "clever, hopeful, kick",
+    "output": "kick"
+  },
+  {
+    "input": "observant, hungry, doubt",
+    "output": "doubt"
+  },
+  {
+    "input": "resourceful, volunteer, sensible",
+    "output": "volunteer"
+  },
+  {
+    "input": "believe, exuberant, amazing",
+    "output": "believe"
+  },
+  {
+    "input": "think, old, courageous",
+    "output": "think"
+  },
+  {
+    "input": "calm, sour, nurture",
+    "output": "nurture"
+  },
+  {
+    "input": "visualize, trustworthy, heavy",
+    "output": "visualize"
+  },
+  {
+    "input": "generous, design, thin",
+    "output": "design"
+  },
+  {
+    "input": "light, notice, hungry",
+    "output": "notice"
+  },
+  {
+    "input": "finish, adorable, resourceful",
+    "output": "finish"
+  },
+  {
+    "input": "enjoy, genuine, pensive",
+    "output": "enjoy"
+  },
+  {
+    "input": "modest, salty, reflect",
+    "output": "reflect"
+  },
+  {
+    "input": "wet, thin, climb",
+    "output": "climb"
+  },
+  {
+    "input": "walk, wonderful, radiant",
+    "output": "walk"
+  },
+  {
+    "input": "lift, blissful, tranquil",
+    "output": "lift"
+  },
+  {
+    "input": "kind-hearted, enjoy, smart",
+    "output": "enjoy"
+  },
+  {
+    "input": "determined, speak, ecstatic",
+    "output": "speak"
+  },
+  {
+    "input": "tall, weak, compete",
+    "output": "compete"
+  },
+  {
+    "input": "peaceful, tender, uncover",
+    "output": "uncover"
+  },
+  {
+    "input": "humble, master, adorable",
+    "output": "master"
+  },
+  {
+    "input": "natural, noble, nurture",
+    "output": "nurture"
+  },
+  {
+    "input": "expensive, speak, bad",
+    "output": "speak"
+  },
+  {
+    "input": "eager, zap, altruistic",
+    "output": "zap"
+  },
+  {
+    "input": "listen, jovial, resourceful",
+    "output": "listen"
+  },
+  {
+    "input": "mellow, climb, adoring",
+    "output": "climb"
+  },
+  {
+    "input": "produce, warmhearted, bountiful",
+    "output": "produce"
+  },
+  {
+    "input": "old, kindhearted, win",
+    "output": "win"
+  },
+  {
+    "input": "inventive, travel, tranquil",
+    "output": "travel"
+  },
+  {
+    "input": "qualify, hot, clean",
+    "output": "qualify"
+  },
+  {
+    "input": "resourceful, joyful, study",
+    "output": "study"
+  },
+  {
+    "input": "modern, measure, caring",
+    "output": "measure"
+  },
+  {
+    "input": "deliver, sensible, salty",
+    "output": "deliver"
+  },
+  {
+    "input": "fascinating, listen, bountiful",
+    "output": "listen"
+  },
+  {
+    "input": "delightful, overcome, enthusiastic",
+    "output": "overcome"
+  },
+  {
+    "input": "intrepid, serve, unwavering",
+    "output": "serve"
+  },
+  {
+    "input": "warm, launch, youthful",
+    "output": "launch"
+  },
+  {
+    "input": "lucky, juggle, kind-hearted",
+    "output": "juggle"
+  },
+  {
+    "input": "practice, bitter, idealistic",
+    "output": "practice"
+  },
+  {
+    "input": "funny, practice, strong",
+    "output": "practice"
+  },
+  {
+    "input": "determined, slow, compete",
+    "output": "compete"
+  },
+  {
+    "input": "approve, spicy, idealistic",
+    "output": "approve"
+  },
+  {
+    "input": "design, heavy, bitter",
+    "output": "design"
+  },
+  {
+    "input": "obtain, dazzling, devoted",
+    "output": "obtain"
+  },
+  {
+    "input": "dirty, dance, diligent",
+    "output": "dance"
+  },
+  {
+    "input": "gracious, deliver, radiant",
+    "output": "deliver"
+  },
+  {
+    "input": "observe, naughty, gracious",
+    "output": "observe"
+  },
+  {
+    "input": "divide, intelligent, thoughtful",
+    "output": "divide"
+  },
+  {
+    "input": "schedule, talented, brave",
+    "output": "schedule"
+  },
+  {
+    "input": "negotiate, joyful, small",
+    "output": "negotiate"
+  },
+  {
+    "input": "copy, carefree, bountiful",
+    "output": "copy"
+  },
+  {
+    "input": "dance, wise, charming",
+    "output": "dance"
+  },
+  {
+    "input": "overcome, ecstatic, hopeful",
+    "output": "overcome"
+  },
+  {
+    "input": "ecstatic, race, warmhearted",
+    "output": "race"
+  },
+  {
+    "input": "predict, big, tall",
+    "output": "predict"
+  },
+  {
+    "input": "target, innocent, warm",
+    "output": "target"
+  },
+  {
+    "input": "harmonious, believe, gracious",
+    "output": "believe"
+  },
+  {
+    "input": "thin, short, remove",
+    "output": "remove"
+  },
+  {
+    "input": "relax, rotten, dynamic",
+    "output": "relax"
+  },
+  {
+    "input": "fierce, loving, learn",
+    "output": "learn"
+  },
+  {
+    "input": "grateful, kick, courageous",
+    "output": "kick"
+  },
+  {
+    "input": "brave, kindle, serene",
+    "output": "kindle"
+  },
+  {
+    "input": "sensible, exist, salty",
+    "output": "exist"
+  },
+  {
+    "input": "cheerful, gracious, nurture",
+    "output": "nurture"
+  },
+  {
+    "input": "fast, dirty, arrive",
+    "output": "arrive"
+  },
+  {
+    "input": "quiet, whimsical, jovial",
+    "output": "quiet"
+  },
+  {
+    "input": "affable, compete, delightful",
+    "output": "compete"
+  },
+  {
+    "input": "serene, realize, patient",
+    "output": "realize"
+  },
+  {
+    "input": "bright, consider, cold",
+    "output": "consider"
+  },
+  {
+    "input": "travel, fast, modest",
+    "output": "travel"
+  },
+  {
+    "input": "xerox, faithful, gracious",
+    "output": "xerox"
+  },
+  {
+    "input": "lift, sour, joyous",
+    "output": "lift"
+  },
+  {
+    "input": "fearless, peaceful, change",
+    "output": "change"
+  },
+  {
+    "input": "generous, old, complete",
+    "output": "complete"
+  },
+  {
+    "input": "bitter, hard, gather",
+    "output": "gather"
+  },
+  {
+    "input": "open, affectionate, cheap",
+    "output": "open"
+  },
+  {
+    "input": "kindred, relax, heavy",
+    "output": "relax"
+  },
+  {
+    "input": "altruistic, persuade, mellow",
+    "output": "persuade"
+  },
+  {
+    "input": "friendly, know, knowledgeable",
+    "output": "know"
+  },
+  {
+    "input": "dazzling, bountiful, juggle",
+    "output": "juggle"
+  },
+  {
+    "input": "mirthful, race, faithful",
+    "output": "race"
+  },
+  {
+    "input": "quizzical, caring, kindle",
+    "output": "kindle"
+  },
+  {
+    "input": "jolly, study, daring",
+    "output": "study"
+  },
+  {
+    "input": "relax, kindred, heavy",
+    "output": "relax"
+  },
+  {
+    "input": "resolute, prepare, ecstatic",
+    "output": "prepare"
+  },
+  {
+    "input": "decide, bad, gracious",
+    "output": "decide"
+  },
+  {
+    "input": "measure, observant, funny",
+    "output": "measure"
+  },
+  {
+    "input": "zealous, talk, clever",
+    "output": "talk"
+  },
+  {
+    "input": "bad, schedule, energetic",
+    "output": "schedule"
+  },
+  {
+    "input": "good, wonderful, hear",
+    "output": "hear"
+  },
+  {
+    "input": "celebrate, observant, lovely",
+    "output": "celebrate"
+  },
+  {
+    "input": "passionate, lucky, value",
+    "output": "value"
+  },
+  {
+    "input": "dislike, insightful, strong",
+    "output": "dislike"
+  },
+  {
+    "input": "spicy, knot, resourceful",
+    "output": "knot"
+  },
+  {
+    "input": "obtain, innocent, sour",
+    "output": "obtain"
+  },
+  {
+    "input": "manage, weak, bad",
+    "output": "manage"
+  },
+  {
+    "input": "sour, maximize, new",
+    "output": "maximize"
+  },
+  {
+    "input": "jolly, memorize, adorable",
+    "output": "memorize"
+  },
+  {
+    "input": "thick, playful, nourish",
+    "output": "nourish"
+  },
+  {
+    "input": "visualize, generous, kindhearted",
+    "output": "visualize"
+  },
+  {
+    "input": "live, lively, whimsical",
+    "output": "live"
+  },
+  {
+    "input": "wise, gracious, complete",
+    "output": "complete"
+  },
+  {
+    "input": "smart, energetic, compete",
+    "output": "compete"
+  },
+  {
+    "input": "target, thoughtful, fascinating",
+    "output": "target"
+  },
+  {
+    "input": "reliable, resolute, believe",
+    "output": "believe"
+  },
+  {
+    "input": "vibrant, unselfish, remember",
+    "output": "remember"
+  },
+  {
+    "input": "jolt, funny, zany",
+    "output": "jolt"
+  },
+  {
+    "input": "cowardly, nurturing, volunteer",
+    "output": "volunteer"
+  },
+  {
+    "input": "gracious, vibrant, master",
+    "output": "master"
+  },
+  {
+    "input": "generous, cheerful, jog",
+    "output": "jog"
+  },
+  {
+    "input": "versatile, complete, loving",
+    "output": "complete"
+  },
+  {
+    "input": "peaceful, visualize, affable",
+    "output": "visualize"
+  },
+  {
+    "input": "knowledgeable, zesty, save",
+    "output": "save"
+  },
+  {
+    "input": "rotten, expensive, argue",
+    "output": "argue"
+  },
+  {
+    "input": "keen, remove, small",
+    "output": "remove"
+  },
+  {
+    "input": "discuss, fascinating, mirthful",
+    "output": "discuss"
+  },
+  {
+    "input": "clever, adorable, play",
+    "output": "play"
+  },
+  {
+    "input": "bountiful, brave, quiet",
+    "output": "quiet"
+  },
+  {
+    "input": "sensible, weak, kill",
+    "output": "kill"
+  },
+  {
+    "input": "silly, quiet, work",
+    "output": "work"
+  },
+  {
+    "input": "blithe, open, bright",
+    "output": "open"
+  },
+  {
+    "input": "resilient, yield, enchanting",
+    "output": "yield"
+  },
+  {
+    "input": "short, create, charismatic",
+    "output": "create"
+  },
+  {
+    "input": "open, playful, graceful",
+    "output": "open"
+  },
+  {
+    "input": "jovial, tall, join",
+    "output": "join"
+  },
+  {
+    "input": "explore, lovable, eloquent",
+    "output": "explore"
+  },
+  {
+    "input": "jovial, organize, fearless",
+    "output": "organize"
+  },
+  {
+    "input": "amazing, enjoy, amiable",
+    "output": "enjoy"
+  },
+  {
+    "input": "fast, lovely, quiet",
+    "output": "quiet"
+  },
+  {
+    "input": "delightful, sample, magnificent",
+    "output": "sample"
+  },
+  {
+    "input": "explore, intrepid, charming",
+    "output": "explore"
+  },
+  {
+    "input": "quick, laugh, enchanting",
+    "output": "laugh"
+  },
+  {
+    "input": "juggle, vivacious, kind",
+    "output": "juggle"
+  },
+  {
+    "input": "query, passionate, natural",
+    "output": "query"
+  },
+  {
+    "input": "uplifting, mellow, observe",
+    "output": "observe"
+  },
+  {
+    "input": "whimsical, modest, make",
+    "output": "make"
+  },
+  {
+    "input": "sweet, yield, agile",
+    "output": "yield"
+  },
+  {
+    "input": "watch, agreeable, silly",
+    "output": "watch"
+  },
+  {
+    "input": "serve, wet, fast",
+    "output": "serve"
+  },
+  {
+    "input": "help, tall, mild",
+    "output": "help"
+  },
+  {
+    "input": "sweet, kindle, heavy",
+    "output": "kindle"
+  },
+  {
+    "input": "unique, kick, loud",
+    "output": "kick"
+  },
+  {
+    "input": "hopeful, vivacious, design",
+    "output": "design"
+  },
+  {
+    "input": "patient, remove, youthful",
+    "output": "remove"
+  },
+  {
+    "input": "zesty, update, zany",
+    "output": "update"
+  },
+  {
+    "input": "keen, dirty, launch",
+    "output": "launch"
+  },
+  {
+    "input": "fierce, decide, insightful",
+    "output": "decide"
+  },
+  {
+    "input": "kill, dirty, magnificent",
+    "output": "kill"
+  },
+  {
+    "input": "wonderful, write, idealistic",
+    "output": "write"
+  },
+  {
+    "input": "innocent, remember, calm",
+    "output": "remember"
+  },
+  {
+    "input": "unselfish, intelligent, knot",
+    "output": "knot"
+  },
+  {
+    "input": "play, expensive, ecstatic",
+    "output": "play"
+  },
+  {
+    "input": "rotten, reliable, sail",
+    "output": "sail"
+  },
+  {
+    "input": "kindle, pensive, amazing",
+    "output": "kindle"
+  },
+  {
+    "input": "jubilant, compete, exquisite",
+    "output": "compete"
+  },
+  {
+    "input": "achieve, keen, smart",
+    "output": "achieve"
+  },
+  {
+    "input": "ecstatic, vibrant, view",
+    "output": "view"
+  },
+  {
+    "input": "soft, volunteer, warmhearted",
+    "output": "volunteer"
+  },
+  {
+    "input": "use, reliable, intuitive",
+    "output": "use"
+  },
+  {
+    "input": "relax, knowledgeable, adoring",
+    "output": "relax"
+  },
+  {
+    "input": "affectionate, mellow, knit",
+    "output": "knit"
+  },
+  {
+    "input": "idealistic, realize, joyous",
+    "output": "realize"
+  },
+  {
+    "input": "xerox, kindred, laughing",
+    "output": "xerox"
+  },
+  {
+    "input": "choose, thick, faithful",
+    "output": "choose"
+  },
+  {
+    "input": "volunteer, bold, happy",
+    "output": "volunteer"
+  },
+  {
+    "input": "inventive, overcome, mellow",
+    "output": "overcome"
+  },
+  {
+    "input": "blithe, prepare, happy",
+    "output": "prepare"
+  },
+  {
+    "input": "nurture, thoughtful, bad",
+    "output": "nurture"
+  },
+  {
+    "input": "cheerful, achieve, inquisitive",
+    "output": "achieve"
+  },
+  {
+    "input": "playful, knot, peaceful",
+    "output": "knot"
+  },
+  {
+    "input": "question, faithful, zealous",
+    "output": "question"
+  },
+  {
+    "input": "kill, slow, courageous",
+    "output": "kill"
+  },
+  {
+    "input": "old, discuss, sweet",
+    "output": "discuss"
+  },
+  {
+    "input": "intelligent, noble, visualize",
+    "output": "visualize"
+  },
+  {
+    "input": "modest, weak, verify",
+    "output": "verify"
+  },
+  {
+    "input": "write, resourceful, hot",
+    "output": "write"
+  },
+  {
+    "input": "observe, determined, reliable",
+    "output": "observe"
+  },
+  {
+    "input": "focus, gentle, nurturing",
+    "output": "focus"
+  },
+  {
+    "input": "youthful, win, dazzling",
+    "output": "win"
+  },
+  {
+    "input": "merge, delightful, agile",
+    "output": "merge"
+  },
+  {
+    "input": "discuss, long, resourceful",
+    "output": "discuss"
+  },
+  {
+    "input": "devoted, sail, exquisite",
+    "output": "sail"
+  },
+  {
+    "input": "magnificent, define, serious",
+    "output": "define"
+  },
+  {
+    "input": "blissful, persuade, long",
+    "output": "persuade"
+  },
+  {
+    "input": "joyful, know, affable",
+    "output": "know"
+  },
+  {
+    "input": "know, bountiful, jolly",
+    "output": "know"
+  },
+  {
+    "input": "inquisitive, short, master",
+    "output": "master"
+  },
+  {
+    "input": "adoring, eager, judge",
+    "output": "judge"
+  },
+  {
+    "input": "open, warmhearted, peaceful",
+    "output": "open"
+  },
+  {
+    "input": "deliver, carefree, noble",
+    "output": "deliver"
+  },
+  {
+    "input": "consider, genuine, ecstatic",
+    "output": "consider"
+  },
+  {
+    "input": "dance, modest, amiable",
+    "output": "dance"
+  },
+  {
+    "input": "walk, quiet, bitter",
+    "output": "walk"
+  },
+  {
+    "input": "joyous, adoring, paint",
+    "output": "paint"
+  },
+  {
+    "input": "kill, hot, jolly",
+    "output": "kill"
+  },
+  {
+    "input": "thin, light, handle",
+    "output": "handle"
+  },
+  {
+    "input": "versatile, mirthful, sample",
+    "output": "sample"
+  },
+  {
+    "input": "versatile, volunteer, jubilant",
+    "output": "volunteer"
+  },
+  {
+    "input": "lovely, radiant, nurture",
+    "output": "nurture"
+  },
+  {
+    "input": "hungry, serious, create",
+    "output": "create"
+  },
+  {
+    "input": "naughty, land, zealous",
+    "output": "land"
+  },
+  {
+    "input": "quiet, cheerful, old",
+    "output": "quiet"
+  },
+  {
+    "input": "insightful, quirky, dislike",
+    "output": "dislike"
+  },
+  {
+    "input": "nurturing, mark, fresh",
+    "output": "mark"
+  },
+  {
+    "input": "humble, maximize, bright",
+    "output": "maximize"
+  },
+  {
+    "input": "xerox, mirthful, wet",
+    "output": "xerox"
+  },
+  {
+    "input": "design, innocent, witty",
+    "output": "design"
+  },
+  {
+    "input": "uplifting, blithe, deliver",
+    "output": "deliver"
+  },
+  {
+    "input": "weak, finish, strong",
+    "output": "finish"
+  },
+  {
+    "input": "nourish, eloquent, unselfish",
+    "output": "nourish"
+  },
+  {
+    "input": "examine, salty, amazing",
+    "output": "examine"
+  },
+  {
+    "input": "big, grow, brave",
+    "output": "grow"
+  },
+  {
+    "input": "land, long, agile",
+    "output": "land"
+  },
+  {
+    "input": "serene, navigate, delightful",
+    "output": "navigate"
+  },
+  {
+    "input": "diligent, trustworthy, complete",
+    "output": "complete"
+  },
+  {
+    "input": "charming, judge, spicy",
+    "output": "judge"
+  },
+  {
+    "input": "discover, mirthful, enchanting",
+    "output": "discover"
+  },
+  {
+    "input": "sweet, resourceful, nurture",
+    "output": "nurture"
+  },
+  {
+    "input": "quick-witted, innocent, mark",
+    "output": "mark"
+  },
+  {
+    "input": "trustworthy, consult, hopeful",
+    "output": "consult"
+  },
+  {
+    "input": "gentle, decide, whimsical",
+    "output": "decide"
+  },
+  {
+    "input": "label, tenacious, silly",
+    "output": "label"
+  },
+  {
+    "input": "young, reflect, thick",
+    "output": "reflect"
+  },
+  {
+    "input": "cheap, jump, soft",
+    "output": "jump"
+  },
+  {
+    "input": "vivacious, copy, modern",
+    "output": "copy"
+  },
+  {
+    "input": "reach, hard, patient",
+    "output": "reach"
+  },
+  {
+    "input": "stupid, train, joyful",
+    "output": "train"
+  },
+  {
+    "input": "tall, reflect, loud",
+    "output": "reflect"
+  },
+  {
+    "input": "deliver, wise, knowledgeable",
+    "output": "deliver"
+  },
+  {
+    "input": "charismatic, realize, delightful",
+    "output": "realize"
+  },
+  {
+    "input": "laughing, knit, lovable",
+    "output": "knit"
+  },
+  {
+    "input": "idealistic, realize, pensive",
+    "output": "realize"
+  },
+  {
+    "input": "smart, memorize, graceful",
+    "output": "memorize"
+  },
+  {
+    "input": "luminous, mark, tranquil",
+    "output": "mark"
+  },
+  {
+    "input": "master, expensive, long",
+    "output": "master"
+  },
+  {
+    "input": "joyous, strong, approve",
+    "output": "approve"
+  },
+  {
+    "input": "hot, versatile, kiss",
+    "output": "kiss"
+  },
+  {
+    "input": "justify, quick, calm",
+    "output": "justify"
+  },
+  {
+    "input": "exquisite, wise, cry",
+    "output": "cry"
+  },
+  {
+    "input": "whimsical, watch, witty",
+    "output": "watch"
+  },
+  {
+    "input": "resolute, adoring, gather",
+    "output": "gather"
+  },
+  {
+    "input": "resourceful, teach, charming",
+    "output": "teach"
+  },
+  {
+    "input": "cold, view, long",
+    "output": "view"
+  },
+  {
+    "input": "climb, strong, innocent",
+    "output": "climb"
+  },
+  {
+    "input": "lovable, innocent, develop",
+    "output": "develop"
+  },
+  {
+    "input": "happy, hopeful, breathe",
+    "output": "breathe"
+  },
+  {
+    "input": "plan, short, hungry",
+    "output": "plan"
+  },
+  {
+    "input": "diligent, fresh, listen",
+    "output": "listen"
+  },
+  {
+    "input": "serene, doubt, kind",
+    "output": "doubt"
+  },
+  {
+    "input": "energetic, patient, compete",
+    "output": "compete"
+  },
+  {
+    "input": "big, young, kick",
+    "output": "kick"
+  },
+  {
+    "input": "fear, calm, unselfish",
+    "output": "fear"
+  },
+  {
+    "input": "view, quiet, bright",
+    "output": "view"
+  },
+  {
+    "input": "bad, predict, intelligent",
+    "output": "predict"
+  },
+  {
+    "input": "dirty, doubt, keen",
+    "output": "doubt"
+  },
+  {
+    "input": "quizzical, lucky, validate",
+    "output": "validate"
+  },
+  {
+    "input": "spicy, innocent, land",
+    "output": "land"
+  },
+  {
+    "input": "breathe, clever, joyous",
+    "output": "breathe"
+  },
+  {
+    "input": "sensitive, unite, naughty",
+    "output": "unite"
+  },
+  {
+    "input": "hard, define, mild",
+    "output": "define"
+  },
+  {
+    "input": "silly, lucky, save",
+    "output": "save"
+  },
+  {
+    "input": "courageous, exist, brave",
+    "output": "exist"
+  },
+  {
+    "input": "observant, resolute, listen",
+    "output": "listen"
+  },
+  {
+    "input": "kneel, determined, honest",
+    "output": "kneel"
+  },
+  {
+    "input": "eloquent, thirsty, lift",
+    "output": "lift"
+  },
+  {
+    "input": "weak, sample, naive",
+    "output": "sample"
+  },
+  {
+    "input": "radiant, read, exuberant",
+    "output": "read"
+  },
+  {
+    "input": "thick, target, fresh",
+    "output": "target"
+  },
+  {
+    "input": "genuine, compete, nurturing",
+    "output": "compete"
+  },
+  {
+    "input": "blissful, judge, bad",
+    "output": "judge"
+  },
+  {
+    "input": "recruit, loving, wonderful",
+    "output": "recruit"
+  },
+  {
+    "input": "make, agreeable, bold",
+    "output": "make"
+  },
+  {
+    "input": "stupid, whimsical, merge",
+    "output": "merge"
+  },
+  {
+    "input": "knock, modest, uplifting",
+    "output": "knock"
+  },
+  {
+    "input": "good, vibrant, knit",
+    "output": "knit"
+  },
+  {
+    "input": "focus, dazzling, diligent",
+    "output": "focus"
+  },
+  {
+    "input": "bright, caring, sample",
+    "output": "sample"
+  },
+  {
+    "input": "bold, natural, observe",
+    "output": "observe"
+  },
+  {
+    "input": "keep, tranquil, serene",
+    "output": "keep"
+  },
+  {
+    "input": "juggle, tall, exuberant",
+    "output": "juggle"
+  },
+  {
+    "input": "study, fearless, dry",
+    "output": "study"
+  },
+  {
+    "input": "create, quick, tall",
+    "output": "create"
+  },
+  {
+    "input": "test, mild, quizzical",
+    "output": "test"
+  },
+  {
+    "input": "calculate, lovely, resourceful",
+    "output": "calculate"
+  },
+  {
+    "input": "patient, quirky, train",
+    "output": "train"
+  },
+  {
+    "input": "charming, listen, kindhearted",
+    "output": "listen"
+  },
+  {
+    "input": "idealistic, zap, fresh",
+    "output": "zap"
+  },
+  {
+    "input": "quiet, daring, yearn",
+    "output": "yearn"
+  },
+  {
+    "input": "uplifting, win, trustworthy",
+    "output": "win"
+  },
+  {
+    "input": "keep, quiet, enthusiastic",
+    "output": "keep"
+  },
+  {
+    "input": "inquisitive, cowardly, help",
+    "output": "help"
+  },
+  {
+    "input": "serene, friendly, jog",
+    "output": "jog"
+  },
+  {
+    "input": "bad, eager, uncover",
+    "output": "uncover"
+  },
+  {
+    "input": "maximize, clever, carefree",
+    "output": "maximize"
+  },
+  {
+    "input": "agreeable, quizzical, change",
+    "output": "change"
+  },
+  {
+    "input": "young, paint, stupid",
+    "output": "paint"
+  },
+  {
+    "input": "attack, unwavering, energetic",
+    "output": "attack"
+  },
+  {
+    "input": "salty, quizzical, reach",
+    "output": "reach"
+  },
+  {
+    "input": "create, quick, humble",
+    "output": "create"
+  },
+  {
+    "input": "bright, short, xerox",
+    "output": "xerox"
+  },
+  {
+    "input": "naughty, quirky, jog",
+    "output": "jog"
+  },
+  {
+    "input": "carefree, magnificent, judge",
+    "output": "judge"
+  },
+  {
+    "input": "weak, master, hopeful",
+    "output": "master"
+  },
+  {
+    "input": "sour, attack, hard",
+    "output": "attack"
+  },
+  {
+    "input": "bad, daring, oversee",
+    "output": "oversee"
+  },
+  {
+    "input": "rotten, quizzical, open",
+    "output": "open"
+  },
+  {
+    "input": "clean, harmonious, doubt",
+    "output": "doubt"
+  },
+  {
+    "input": "long, jog, warmhearted",
+    "output": "jog"
+  },
+  {
+    "input": "magnificent, grateful, live",
+    "output": "live"
+  },
+  {
+    "input": "exuberant, amiable, visit",
+    "output": "visit"
+  },
+  {
+    "input": "volunteer, enthusiastic, good",
+    "output": "volunteer"
+  },
+  {
+    "input": "uncover, luminous, dirty",
+    "output": "uncover"
+  },
+  {
+    "input": "kneel, diligent, optimistic",
+    "output": "kneel"
+  },
+  {
+    "input": "fascinating, reliable, explore",
+    "output": "explore"
+  },
+  {
+    "input": "treat, unwavering, tenacious",
+    "output": "treat"
+  },
+  {
+    "input": "merge, bitter, mellow",
+    "output": "merge"
+  },
+  {
+    "input": "jovial, visualize, optimistic",
+    "output": "visualize"
+  },
+  {
+    "input": "cheerful, play, kindred",
+    "output": "play"
+  },
+  {
+    "input": "funny, validate, heavy",
+    "output": "validate"
+  },
+  {
+    "input": "knowledgeable, resolute, consult",
+    "output": "consult"
+  },
+  {
+    "input": "innocent, hungry, keep",
+    "output": "keep"
+  },
+  {
+    "input": "exquisite, long, save",
+    "output": "save"
+  },
+  {
+    "input": "zesty, sail, faithful",
+    "output": "sail"
+  },
+  {
+    "input": "new, collect, harmonious",
+    "output": "collect"
+  },
+  {
+    "input": "peaceful, jovial, use",
+    "output": "use"
+  },
+  {
+    "input": "complete, amazing, good",
+    "output": "complete"
+  },
+  {
+    "input": "fierce, versatile, update",
+    "output": "update"
+  },
+  {
+    "input": "innocent, deliver, slow",
+    "output": "deliver"
+  },
+  {
+    "input": "sweet, copy, enchanting",
+    "output": "copy"
+  },
+  {
+    "input": "cold, perform, adoring",
+    "output": "perform"
+  },
+  {
+    "input": "adoring, volunteer, harmonious",
+    "output": "volunteer"
+  },
+  {
+    "input": "celebrate, optimistic, blithe",
+    "output": "celebrate"
+  },
+  {
+    "input": "zoom, quick-witted, long",
+    "output": "zoom"
+  },
+  {
+    "input": "jolt, reliable, luminous",
+    "output": "jolt"
+  },
+  {
+    "input": "laughing, fierce, jolt",
+    "output": "jolt"
+  },
+  {
+    "input": "exuberant, yearn, enthusiastic",
+    "output": "yearn"
+  },
+  {
+    "input": "forgive, idealistic, friendly",
+    "output": "forgive"
+  },
+  {
+    "input": "adoring, bitter, sample",
+    "output": "sample"
+  },
+  {
+    "input": "unselfish, quirky, walk",
+    "output": "walk"
+  },
+  {
+    "input": "choose, devoted, insightful",
+    "output": "choose"
+  },
+  {
+    "input": "work, weak, loving",
+    "output": "work"
+  },
+  {
+    "input": "watch, fearless, tranquil",
+    "output": "watch"
+  },
+  {
+    "input": "use, vivacious, generous",
+    "output": "use"
+  },
+  {
+    "input": "witty, resilient, notice",
+    "output": "notice"
+  },
+  {
+    "input": "listen, thin, thick",
+    "output": "listen"
+  },
+  {
+    "input": "wet, charming, gather",
+    "output": "gather"
+  },
+  {
+    "input": "quiet, jolly, small",
+    "output": "quiet"
+  },
+  {
+    "input": "kiss, rotten, heavy",
+    "output": "kiss"
+  },
+  {
+    "input": "keen, friendly, kneel",
+    "output": "kneel"
+  },
+  {
+    "input": "good, natural, manipulate",
+    "output": "manipulate"
+  },
+  {
+    "input": "strong, transform, sweet",
+    "output": "transform"
+  },
+  {
+    "input": "fast, perform, heavy",
+    "output": "perform"
+  },
+  {
+    "input": "perform, resourceful, warmhearted",
+    "output": "perform"
+  },
+  {
+    "input": "thoughtful, knot, genuine",
+    "output": "knot"
+  },
+  {
+    "input": "talk, dynamic, loving",
+    "output": "talk"
+  },
+  {
+    "input": "graceful, bitter, sail",
+    "output": "sail"
+  },
+  {
+    "input": "quiet, serious, charismatic",
+    "output": "quiet"
+  },
+  {
+    "input": "bright, examine, magnificent",
+    "output": "examine"
+  },
+  {
+    "input": "modest, courageous, discuss",
+    "output": "discuss"
+  },
+  {
+    "input": "yearn, cold, nurturing",
+    "output": "yearn"
+  },
+  {
+    "input": "resourceful, long, understand",
+    "output": "understand"
+  },
+  {
+    "input": "soft, naive, master",
+    "output": "master"
+  },
+  {
+    "input": "win, lively, mirthful",
+    "output": "win"
+  },
+  {
+    "input": "change, zany, grateful",
+    "output": "change"
+  },
+  {
+    "input": "hungry, trustworthy, memorize",
+    "output": "memorize"
+  },
+  {
+    "input": "patient, radiant, visit",
+    "output": "visit"
+  },
+  {
+    "input": "innocent, vivacious, travel",
+    "output": "travel"
+  },
+  {
+    "input": "smart, calculate, funny",
+    "output": "calculate"
+  },
+  {
+    "input": "patient, small, cry",
+    "output": "cry"
+  },
+  {
+    "input": "trustworthy, charming, doubt",
+    "output": "doubt"
+  },
+  {
+    "input": "listen, bad, gracious",
+    "output": "listen"
+  },
+  {
+    "input": "inventive, know, dazzling",
+    "output": "know"
+  },
+  {
+    "input": "trustworthy, yield, naive",
+    "output": "yield"
+  },
+  {
+    "input": "eloquent, lift, witty",
+    "output": "lift"
+  },
+  {
+    "input": "wise, adventurous, join",
+    "output": "join"
+  },
+  {
+    "input": "big, clever, merge",
+    "output": "merge"
+  },
+  {
+    "input": "vivacious, keen, celebrate",
+    "output": "celebrate"
+  },
+  {
+    "input": "query, gracious, bold",
+    "output": "query"
+  },
+  {
+    "input": "gentle, resilient, need",
+    "output": "need"
+  },
+  {
+    "input": "expensive, clean, kiss",
+    "output": "kiss"
+  },
+  {
+    "input": "xerox, exuberant, heavy",
+    "output": "xerox"
+  },
+  {
+    "input": "delightful, master, cheerful",
+    "output": "master"
+  },
+  {
+    "input": "learn, insightful, courageous",
+    "output": "learn"
+  },
+  {
+    "input": "value, thin, loving",
+    "output": "value"
+  },
+  {
+    "input": "change, loving, versatile",
+    "output": "change"
+  },
+  {
+    "input": "faithful, unite, keen",
+    "output": "unite"
+  },
+  {
+    "input": "dirty, play, gentle",
+    "output": "play"
+  },
+  {
+    "input": "old, kick, sour",
+    "output": "kick"
+  },
+  {
+    "input": "exquisite, lecture, hot",
+    "output": "lecture"
+  },
+  {
+    "input": "cold, faithful, change",
+    "output": "change"
+  },
+  {
+    "input": "vivacious, divide, optimistic",
+    "output": "divide"
+  },
+  {
+    "input": "lovely, heavy, travel",
+    "output": "travel"
+  },
+  {
+    "input": "build, whimsical, quirky",
+    "output": "build"
+  },
+  {
+    "input": "master, hungry, bright",
+    "output": "master"
+  },
+  {
+    "input": "quick-witted, sincere, write",
+    "output": "write"
+  },
+  {
+    "input": "luminous, innocent, achieve",
+    "output": "achieve"
+  },
+  {
+    "input": "good, divide, genuine",
+    "output": "divide"
+  },
+  {
+    "input": "strong, perform, cowardly",
+    "output": "perform"
+  },
+  {
+    "input": "manage, witty, charismatic",
+    "output": "manage"
+  },
+  {
+    "input": "tender, determined, search",
+    "output": "search"
+  },
+  {
+    "input": "trustworthy, cold, launch",
+    "output": "launch"
+  },
+  {
+    "input": "solve, tranquil, mirthful",
+    "output": "solve"
+  },
+  {
+    "input": "patient, modern, choose",
+    "output": "choose"
+  },
+  {
+    "input": "naive, unique, realize",
+    "output": "realize"
+  },
+  {
+    "input": "sad, reach, salty",
+    "output": "reach"
+  },
+  {
+    "input": "faithful, observant, target",
+    "output": "target"
+  },
+  {
+    "input": "hungry, sensible, climb",
+    "output": "climb"
+  },
+  {
+    "input": "amiable, operate, hot",
+    "output": "operate"
+  },
+  {
+    "input": "bad, travel, radiant",
+    "output": "travel"
+  },
+  {
+    "input": "unselfish, plan, fast",
+    "output": "plan"
+  },
+  {
+    "input": "brave, jolt, altruistic",
+    "output": "jolt"
+  },
+  {
+    "input": "nurturing, exquisite, keep",
+    "output": "keep"
+  },
+  {
+    "input": "charming, sad, calculate",
+    "output": "calculate"
+  },
+  {
+    "input": "eloquent, serene, breathe",
+    "output": "breathe"
+  },
+  {
+    "input": "manage, clean, ecstatic",
+    "output": "manage"
+  },
+  {
+    "input": "old, remove, short",
+    "output": "remove"
+  },
+  {
+    "input": "lucky, old, choose",
+    "output": "choose"
+  },
+  {
+    "input": "agile, youthful, manipulate",
+    "output": "manipulate"
+  },
+  {
+    "input": "quick, reach, daring",
+    "output": "reach"
+  },
+  {
+    "input": "complete, adoring, keen",
+    "output": "complete"
+  },
+  {
+    "input": "benevolent, unique, manage",
+    "output": "manage"
+  },
+  {
+    "input": "smart, wonderful, lecture",
+    "output": "lecture"
+  },
+  {
+    "input": "kick, bold, agreeable",
+    "output": "kick"
+  },
+  {
+    "input": "decide, salty, pensive",
+    "output": "decide"
+  },
+  {
+    "input": "participate, enchanting, adventurous",
+    "output": "participate"
+  },
+  {
+    "input": "dance, quick, courageous",
+    "output": "dance"
+  },
+  {
+    "input": "nurturing, good, handle",
+    "output": "handle"
+  },
+  {
+    "input": "witty, judge, carefree",
+    "output": "judge"
+  },
+  {
+    "input": "peaceful, gentle, yearn",
+    "output": "yearn"
+  },
+  {
+    "input": "intelligent, funny, reflect",
+    "output": "reflect"
+  },
+  {
+    "input": "need, fierce, eager",
+    "output": "need"
+  },
+  {
+    "input": "thirsty, affable, help",
+    "output": "help"
+  },
+  {
+    "input": "believe, stupid, charismatic",
+    "output": "believe"
+  },
+  {
+    "input": "energetic, noble, watch",
+    "output": "watch"
+  },
+  {
+    "input": "value, friendly, kindred",
+    "output": "value"
+  },
+  {
+    "input": "magnificent, sweet, zap",
+    "output": "zap"
+  },
+  {
+    "input": "quiet, faithful, humble",
+    "output": "quiet"
+  },
+  {
+    "input": "resilient, value, clean",
+    "output": "value"
+  },
+  {
+    "input": "dry, joyous, nurture",
+    "output": "nurture"
+  },
+  {
+    "input": "cowardly, talk, blithe",
+    "output": "talk"
+  },
+  {
+    "input": "nurture, sensible, adorable",
+    "output": "nurture"
+  },
+  {
+    "input": "help, dark, exuberant",
+    "output": "help"
+  },
+  {
+    "input": "create, patient, talented",
+    "output": "create"
+  },
+  {
+    "input": "magnificent, yield, friendly",
+    "output": "yield"
+  },
+  {
+    "input": "jog, fearless, dazzling",
+    "output": "jog"
+  },
+  {
+    "input": "laugh, fierce, bitter",
+    "output": "laugh"
+  },
+  {
+    "input": "quiet, participate, mellow",
+    "output": "participate"
+  },
+  {
+    "input": "race, young, friendly",
+    "output": "race"
+  },
+  {
+    "input": "dislike, dynamic, noble",
+    "output": "dislike"
+  },
+  {
+    "input": "transform, kindhearted, jolly",
+    "output": "transform"
+  },
+  {
+    "input": "laugh, tenacious, smart",
+    "output": "laugh"
+  },
+  {
+    "input": "learn, blithe, small",
+    "output": "learn"
+  },
+  {
+    "input": "kick, trustworthy, peaceful",
+    "output": "kick"
+  },
+  {
+    "input": "genuine, generous, paint",
+    "output": "paint"
+  },
+  {
+    "input": "achieve, devoted, eager",
+    "output": "achieve"
+  },
+  {
+    "input": "adoring, kindred, understand",
+    "output": "understand"
+  },
+  {
+    "input": "inventive, kill, fearless",
+    "output": "kill"
+  },
+  {
+    "input": "negotiate, kind-hearted, slow",
+    "output": "negotiate"
+  },
+  {
+    "input": "zap, versatile, serious",
+    "output": "zap"
+  },
+  {
+    "input": "blissful, destroy, naughty",
+    "output": "destroy"
+  },
+  {
+    "input": "funny, sample, vivacious",
+    "output": "sample"
+  },
+  {
+    "input": "like, mirthful, big",
+    "output": "like"
+  },
+  {
+    "input": "mark, short, ecstatic",
+    "output": "mark"
+  },
+  {
+    "input": "trustworthy, slow, judge",
+    "output": "judge"
+  },
+  {
+    "input": "label, tenacious, fresh",
+    "output": "label"
+  },
+  {
+    "input": "hear, hungry, naughty",
+    "output": "hear"
+  },
+  {
+    "input": "celebrate, dynamic, friendly",
+    "output": "celebrate"
+  },
+  {
+    "input": "believe, pensive, naughty",
+    "output": "believe"
+  },
+  {
+    "input": "transform, uplifting, playful",
+    "output": "transform"
+  },
+  {
+    "input": "lecture, uplifting, long",
+    "output": "lecture"
+  },
+  {
+    "input": "adoring, long, kick",
+    "output": "kick"
+  },
+  {
+    "input": "obtain, insightful, reliable",
+    "output": "obtain"
+  },
+  {
+    "input": "dark, devoted, kindle",
+    "output": "kindle"
+  },
+  {
+    "input": "sour, ecstatic, juggle",
+    "output": "juggle"
+  },
+  {
+    "input": "thick, quiet, modest",
+    "output": "quiet"
+  },
+  {
+    "input": "nurturing, tranquil, reflect",
+    "output": "reflect"
+  },
+  {
+    "input": "thick, speak, vibrant",
+    "output": "speak"
+  },
+  {
+    "input": "recruit, inquisitive, charismatic",
+    "output": "recruit"
+  },
+  {
+    "input": "zap, quick, idealistic",
+    "output": "zap"
+  },
+  {
+    "input": "create, talented, generous",
+    "output": "create"
+  },
+  {
+    "input": "determined, need, dry",
+    "output": "need"
+  },
+  {
+    "input": "harmonious, intelligent, develop",
+    "output": "develop"
+  },
+  {
+    "input": "transform, tenacious, devoted",
+    "output": "transform"
+  },
+  {
+    "input": "learn, zany, cheap",
+    "output": "learn"
+  },
+  {
+    "input": "lovable, validate, resourceful",
+    "output": "validate"
+  },
+  {
+    "input": "kind, vibrant, sail",
+    "output": "sail"
+  },
+  {
+    "input": "laughing, live, fearless",
+    "output": "live"
+  },
+  {
+    "input": "bright, diligent, sample",
+    "output": "sample"
+  },
+  {
+    "input": "courageous, examine, long",
+    "output": "examine"
+  },
+  {
+    "input": "consider, serene, faithful",
+    "output": "consider"
+  },
+  {
+    "input": "resilient, enjoy, exquisite",
+    "output": "enjoy"
+  },
+  {
+    "input": "relax, whimsical, bad",
+    "output": "relax"
+  },
+  {
+    "input": "qualify, altruistic, pensive",
+    "output": "qualify"
+  },
+  {
+    "input": "use, knowledgeable, jovial",
+    "output": "use"
+  },
+  {
+    "input": "determined, gracious, knit",
+    "output": "knit"
+  },
+  {
+    "input": "calm, juggle, devoted",
+    "output": "juggle"
+  },
+  {
+    "input": "query, joyful, smart",
+    "output": "query"
+  },
+  {
+    "input": "funny, manipulate, inquisitive",
+    "output": "manipulate"
+  },
+  {
+    "input": "energetic, mild, remember",
+    "output": "remember"
+  },
+  {
+    "input": "benevolent, sample, affable",
+    "output": "sample"
+  },
+  {
+    "input": "obtain, affable, charming",
+    "output": "obtain"
+  },
+  {
+    "input": "focus, bountiful, short",
+    "output": "focus"
+  },
+  {
+    "input": "expensive, question, modern",
+    "output": "question"
+  },
+  {
+    "input": "cold, lift, thoughtful",
+    "output": "lift"
+  },
+  {
+    "input": "fascinating, enjoy, stupid",
+    "output": "enjoy"
+  },
+  {
+    "input": "whimsical, spicy, forgive",
+    "output": "forgive"
+  },
+  {
+    "input": "thirsty, diligent, negotiate",
+    "output": "negotiate"
+  },
+  {
+    "input": "warm, witty, launch",
+    "output": "launch"
+  },
+  {
+    "input": "paint, clever, uplifting",
+    "output": "paint"
+  },
+  {
+    "input": "negotiate, insightful, hard",
+    "output": "negotiate"
+  },
+  {
+    "input": "believe, charismatic, energetic",
+    "output": "believe"
+  },
+  {
+    "input": "faithful, join, sensible",
+    "output": "join"
+  },
+  {
+    "input": "playful, fascinating, celebrate",
+    "output": "celebrate"
+  },
+  {
+    "input": "give, exuberant, loud",
+    "output": "give"
+  },
+  {
+    "input": "diligent, modern, write",
+    "output": "write"
+  },
+  {
+    "input": "analyze, mirthful, wonderful",
+    "output": "analyze"
+  },
+  {
+    "input": "nourish, lively, loud",
+    "output": "nourish"
+  },
+  {
+    "input": "idealistic, jog, long",
+    "output": "jog"
+  }
+]

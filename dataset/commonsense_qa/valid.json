@@ -1,0 +1,3950 @@
+[
+  {
+    "input": "If the temperature was really high, what is a likely reason for awaking in the middle of the night and being unable to fall back asleep?\na: having to pee\nb: discomfort\nc: depression\nd: irritability\ne: shock",
+    "output": "b"
+  },
+  {
+    "input": "What happens when snow on a mountain becomes heavy?\na: build really neat fort\nb: avalanches\nc: shovelling\nd: eat cake\ne: blizzard",
+    "output": "b"
+  },
+  {
+    "input": "Where can you find a movie theater along with other stores in one placE?\na: downtown area\nb: urban area\nc: new york city\nd: shopping mall\ne: military base",
+    "output": "d"
+  },
+  {
+    "input": "What are blue birds known to do?\na: spread wings\nb: sing songs\nc: pick berries\nd: lay eggs\ne: scream",
+    "output": "b"
+  },
+  {
+    "input": "If a human hits their hand on something it is their own what that caused it?\na: muscles\nb: inner voices\nc: two arms\nd: one body\ne: stupidity",
+    "output": "e"
+  },
+  {
+    "input": "I went to eat in a restaurant, but I left because the person at the front wasn't what?\na: drinking wine\nb: make reservations\nc: polite\nd: spit on me\ne: prepared to pay",
+    "output": "c"
+  },
+  {
+    "input": "Where did the two best friends end up having a slumber party?\na: movie internet cafe\nb: fraternity house\nc: internet cafe\nd: friend's house\ne: school",
+    "output": "d"
+  },
+  {
+    "input": "What would you have if you poured water on yourself?\na: thin blood\nb: room temperature\nc: start melting\nd: spring forth\ne: wet clothes",
+    "output": "e"
+  },
+  {
+    "input": "Where can birds clean themselves?\na: outside\nb: nest\nc: birdhouse\nd: roof\ne: water fountain",
+    "output": "e"
+  },
+  {
+    "input": "The crossroads were deserted of traffic, where was it located?\na: life\nb: desert\nc: countryside\nd: journey\ne: city",
+    "output": "c"
+  },
+  {
+    "input": "Stood below the balloons and studied them closely.  As he looked to the sky, he didn't see anything holding them up.  He wondered what the balloons where?\na: aloft\nb: overhead\nc: upwards\nd: upstairs\ne: above",
+    "output": "a"
+  },
+  {
+    "input": "Where are all participants likely to need sports equipment?\na: dicks sporting goods\nb: sporting event\nc: mall\nd: sears\ne: sporting goods store",
+    "output": "b"
+  },
+  {
+    "input": "Where could you find millions of jellyfish?\na: north sea\nb: smack\nc: sponge bob's house\nd: store\ne: sea water",
+    "output": "a"
+  },
+  {
+    "input": "What is a common sign that someone is lying?\na: ordering dog food online\nb: avoid eye contact\nc: feel guilty\nd: fall asleep\ne: blush",
+    "output": "b"
+  },
+  {
+    "input": "With the card slot lit up he knew how to get started finding his balance with what?\na: slot machine\nb: ticket machine\nc: bank machine\nd: telephone\ne: automated teller",
+    "output": "e"
+  },
+  {
+    "input": "The boy was popular, but because of the things he liked he was considered a bit of a what?\na: disliked\nb: weirdo\nc: nerdy\nd: unknown\ne: geek",
+    "output": "e"
+  },
+  {
+    "input": "Where could you find a fox hunting when not in a forest?\na: open meadow\nb: arctic tundra\nc: beach\nd: great outdoors\ne: england",
+    "output": "a"
+  },
+  {
+    "input": "Where would you play basketball outside?\na: scoring\nb: sporting goods store\nc: park\nd: dribbling\ne: gymnasium",
+    "output": "c"
+  },
+  {
+    "input": "The morbidly obese man with unkempt facial hair got his dream job, he was eating hamburger for a show every week which brought him total what?\na: french fries\nb: enjoy\nc: nausea\nd: satisfaction\ne: gas",
+    "output": "d"
+  },
+  {
+    "input": "The lion sensed his competitor was timid, so what attitude did the lion take?\na: reckless\nb: bellicose\nc: defensive\nd: aggressive\ne: dauntless",
+    "output": "d"
+  },
+  {
+    "input": "Some times I have trouble expressing myself, but I use clothing, sometimes even ugly clothing as a form of this.\na: fun\nb: fashion\nc: pain\nd: communication\ne: embarrassment",
+    "output": "d"
+  },
+  {
+    "input": "Sometimes when people think some wrongdoing has ocurred in government, how do they react?\na: talk to each other\nb: cook food\nc: demand justice\nd: learn from each other\ne: share food",
+    "output": "c"
+  },
+  {
+    "input": "Where did the kidnappers take the sloth from?\na: wilderness\nb: encyclopedia\nc: school\nd: dictionary\ne: countryside",
+    "output": "a"
+  },
+  {
+    "input": "He was really cashing in after the accident, the judge ruled he would be what in full?\na: selling out\nb: hitting the jackpot\nc: receiving money\nd: happy\ne: getting paid",
+    "output": "c"
+  },
+  {
+    "input": "During one the many famous helicopter tours you can get a bald eagle perceptive of what natural landmark?\na: forrest\nb: grand canyon\nc: colorado\nd: mountains\ne: u.s",
+    "output": "b"
+  },
+  {
+    "input": "What type of corn structure would contain many passageways?\na: jungle\nb: house\nc: maze\nd: labyrinth\ne: hotel",
+    "output": "c"
+  },
+  {
+    "input": "What does someone feel after running twenty six miles?\na: sore feet\nb: death\nc: twenty six\nd: feel tired\ne: short breath",
+    "output": "d"
+  },
+  {
+    "input": "If I was very excited about meeting people who were very close family, what emotion would I be feeling?\na: love\nb: anxiety\nc: being bored\nd: making new friends\ne: ugly",
+    "output": "a"
+  },
+  {
+    "input": "When people discover something new while chatting with friends, why are they likely to continue talking?\na: agreement\nb: to fill their time\nc: discomfort\nd: misunderstanding\ne: learning about",
+    "output": "e"
+  },
+  {
+    "input": "Computers were important in John's work, but they were useless if they weren't what?\na: help people\nb: networked\nc: crash\nd: enable\ne: do work",
+    "output": "b"
+  },
+  {
+    "input": "Where might one be unrestricted on a superhighway?\na: semi-truck\nb: city\nc: germany\nd: america\ne: computer network",
+    "output": "c"
+  },
+  {
+    "input": "What do people in the art industry work hard to do?\na: earn money\nb: make decisions\nc: have imagination\nd: create\ne: produce goods",
+    "output": "d"
+  },
+  {
+    "input": "The spy left the record at the drop, his handlers could be seen doing what?\na: hold onto\nb: carrying\nc: pick up\nd: catch\ne: picking up",
+    "output": "e"
+  },
+  {
+    "input": "It was important precious cargo, so it was delivered as quickly as possible by means of what?\na: aeroplane\nb: boat\nc: ship's hold\nd: airplane\ne: ferry",
+    "output": "a"
+  },
+  {
+    "input": "The electricity went out in the house, what did the man suspect was the cause?\na: cause fire\nb: short fuse\nc: power outage\nd: produce heat\ne: shock",
+    "output": "b"
+  },
+  {
+    "input": "Sam didn't expect to see something like that underground.  He used his hand to shade his eyes from what?\na: direct sunlight\nb: brightness\nc: moon\nd: full sunlight\ne: bright light",
+    "output": "e"
+  },
+  {
+    "input": "James used an axe and a saw to chop wood, shape it, and make a shelter.  He kept adding wood to it, building it bigger and bigger, until it became a what?\na: shelterbelt\nb: tree\nc: house\nd: home\ne: bus stop",
+    "output": "c"
+  },
+  {
+    "input": "I just met someone, why would they say hello?\na: smile\nb: shake hands\nc: greet\nd: goodbye\ne: say hello",
+    "output": "c"
+  },
+  {
+    "input": "When you spend time contemplating ideas what will you get?\na: relaxation\nb: revelations\nc: action\nd: understanding\ne: broke",
+    "output": "b"
+  },
+  {
+    "input": "James was a senior. He was looking forward to talking a year off once he was finished.  Where might James be?\na: highschool or college\nb: high school or college\nc: ball stopped\nd: republican party\ne: old people's home",
+    "output": "b"
+  },
+  {
+    "input": "Sally loved shopping and she hated it.  She loved getting what she wanted, and she never bought to much, but it was still painful for her to buy, because she hated any what?\na: overspending\nb: standing in line\nc: loss of money\nd: run out of money\ne: new shoes",
+    "output": "c"
+  },
+  {
+    "input": "Where do people read newspapers while riding to work?\na: subway\nb: front door\nc: lawn\nd: bookstore\ne: library",
+    "output": "a"
+  },
+  {
+    "input": "Why would you want to be using computer?\na: carpal tunnel syndrome\nb: eye strain\nc: work\nd: pleasure\ne: increased efficiency",
+    "output": "e"
+  },
+  {
+    "input": "The plants are hungry, what do they need to do for satiation?\na: reproduce asexually\nb: dont drink water\nc: bear fruits and vegetables\nd: photosynthesis\ne: grow tall",
+    "output": "d"
+  },
+  {
+    "input": "A person's hand hurts after hitting the bottle. What might happen to the bottle?\na: alcoholism\nb: breaking\nc: fly\nd: nausea\ne: ticket",
+    "output": "b"
+  },
+  {
+    "input": "The four equal sides were all a smooth surface, he had carved and sanded a perfect what?\na: lake\nb: tetrahedron\nc: ball\nd: object\ne: mirror",
+    "output": "b"
+  },
+  {
+    "input": "It was very humid and he wasn't hydrated, so when he was running he was stricken with what?\na: becoming tired\nb: sore feet\nc: tiredness\nd: leg cramps\ne: headache",
+    "output": "d"
+  },
+  {
+    "input": "When people are drinking alcohol, what state are they in?\na: having sex\nb: death\nc: arousal\nd: disorientation\ne: sickness",
+    "output": "d"
+  },
+  {
+    "input": "If you need more information on a subject you can read books to what?\na: include information\nb: explain problems\nc: get confused\nd: win prizes\ne: further knowledge",
+    "output": "e"
+  },
+  {
+    "input": "What place could you go to and find an apple tree there?\na: washington state\nb: paradise\nc: farm\nd: south africa\ne: dirt",
+    "output": "d"
+  },
+  {
+    "input": "If your cake is still unbaked, where should you put it?\na: oven\nb: refrigerator\nc: bakery\nd: birthday party\ne: trash",
+    "output": "a"
+  },
+  {
+    "input": "The christian rock band was on a large stage, the singer's foot got caught on a wire and he had a small what?\na: commit sin\nb: fail\nc: disobey\nd: stumble\ne: boo boo",
+    "output": "d"
+  },
+  {
+    "input": "John notices that the solution is getting warm.  This is an expected consequence of what?\na: pleasure\nb: global warming\nc: starting fire\nd: increase of temperature\ne: feeling comfortable",
+    "output": "d"
+  },
+  {
+    "input": "What is someone likely to feel while going into a trance?\na: sleepwalking\nb: memory loss\nc: hypnotized\nd: confusion\ne: peacefulness",
+    "output": "e"
+  },
+  {
+    "input": "Where does a marmoset not usually go?\na: dictionary\nb: wilderness\nc: fly\nd: underground\ne: colorado",
+    "output": "d"
+  },
+  {
+    "input": "Where is bacteria likely to be slimy?\na: ground\nb: finger\nc: petri dish\nd: water\ne: soap",
+    "output": "d"
+  },
+  {
+    "input": "The knob of the kitchen drawer wouldn't stay tightened, so he went to buy a new screw where?\na: control panel\nb: television\nc: opening mailbox\nd: supermarket\ne: hardware store",
+    "output": "e"
+  },
+  {
+    "input": "If I wanted to work a crossword puzzle, where might I find one?\na: playground\nb: newspaper\nc: kindergarten class\nd: toy store\ne: toy shop",
+    "output": "b"
+  },
+  {
+    "input": "The token was taken out of the folder due to being fraudulent, what was it taken from?\na: ashtray\nb: pocket\nc: coin collection\nd: slot machine\ne: deposit box",
+    "output": "c"
+  },
+  {
+    "input": "The shark actually counted as evidence, so where did the legal team bring it?\na: court room\nb: shallow waters\nc: poker game\nd: sea world\ne: pond arena",
+    "output": "a"
+  },
+  {
+    "input": "Where do you bring empty food cans?\na: recycling center\nb: store\nc: backpack\nd: house\ne: supermarket",
+    "output": "a"
+  },
+  {
+    "input": "If someone is fiddling with something what skill do they likely have?\na: practice\nb: skill\nc: thief\nd: dexterity\ne: knowledge of music",
+    "output": "d"
+  },
+  {
+    "input": "Where in a meadow would a snake hide?\na: underwater\nb: tropical forest\nc: amazon river\nd: western texas\ne: high grass",
+    "output": "e"
+  },
+  {
+    "input": "Success is usually a product of preparation and what?\na: awards ceremony\nb: various situations\nc: vocation\nd: working hard\ne: promotion",
+    "output": "d"
+  },
+  {
+    "input": "As a person is dying, what might be a sign that it is happening?\na: would cease to exist\nb: no longer exist\nc: change color\nd: born again\ne: change of color",
+    "output": "e"
+  },
+  {
+    "input": "What would honey be if it is not thick?\na: full of bees\nb: slender\nc: unacquainted\nd: clear\ne: free flowing",
+    "output": "e"
+  },
+  {
+    "input": "The hike was just too early for him, rather than water he put a cup of coffee in his what?\na: deli\nb: canteen\nc: kitchen\nd: office\ne: diner",
+    "output": "b"
+  },
+  {
+    "input": "Why do young people swallow semen ?\na: you're into\nb: prostitute\nc: you're curious\nd: curiosity\ne: heterosexual woman in love",
+    "output": "c"
+  },
+  {
+    "input": "Where are you likely to find a cubicle for many corporations?\na: office building\nb: work\nc: bank\nd: office work\ne: restroom",
+    "output": "a"
+  },
+  {
+    "input": "what do you extend to have a bigger back yard?\na: suburb\nb: back of house\nc: forest\nd: property\ne: neighborhood",
+    "output": "d"
+  },
+  {
+    "input": "Where would you get a washcloth if you do not have one?\na: bathing\nb: bathroom sink\nc: garage\nd: linen closet\ne: walmart",
+    "output": "e"
+  },
+  {
+    "input": "The token was tossed aside carelessly, where did it end up?\na: pocket\nb: ashtray\nc: slot machine\nd: floor\ne: coin collection",
+    "output": "b"
+  },
+  {
+    "input": "How might one go about instituting a civil action?\na: disobedience\nb: court case\nc: trial\nd: anger\ne: complications",
+    "output": "b"
+  },
+  {
+    "input": "What is likely to crash in an intersection?\na: fork in road\nb: town center\nc: city street\nd: cars\ne: street corner",
+    "output": "d"
+  },
+  {
+    "input": "If I am communication, what is my chief motive for doing so?\na: distributed information\nb: conductor\nc: people to think\nd: sharing of knowledge\ne: confusion",
+    "output": "a"
+  },
+  {
+    "input": "If a soldier is directed by someone with a higher status what do they have to do?\na: die in battle\nb: coming home\nc: shoot enemy\nd: storm buildings\ne: follow orders",
+    "output": "e"
+  },
+  {
+    "input": "What is the first thing a farmer must do to start a crop?\na: till the soil\nb: plant seeds\nc: produce food\nd: farm land\ne: grow corn",
+    "output": "b"
+  },
+  {
+    "input": "Why do people go about killing people ?\na: murder\nb: get killed\nc: sporting event\nd: hate\ne: feel remorse",
+    "output": "d"
+  },
+  {
+    "input": "Even if was clean and chlorinated, shallow water wouldn't make for much summer fun in your backyard what?\na: lake\nb: childrens pools\nc: pond\nd: swimming pool\ne: puddle",
+    "output": "d"
+  },
+  {
+    "input": "What does going to bed with your spouse for sex lead to?\na: bad dreams\nb: a good nights sleep\nc: rest\nd: sleepiness\ne: get pregnant",
+    "output": "e"
+  },
+  {
+    "input": "Where do kids in elementary school keep grapes?\na: kitchen\nb: wine country\nc: fridge\nd: lunch box\ne: food store",
+    "output": "d"
+  },
+  {
+    "input": "James found himself watching films all the time.  He did it because he was too high strung and needed some what?\na: like\nb: stupidity\nc: relaxation\nd: enjoyment\ne: loved",
+    "output": "c"
+  },
+  {
+    "input": "What could you be doing if you are relaxing and are awake but have your eyes closed?\na: read book\nb: listening to music\nc: falling asleep\nd: watching tv\ne: reading",
+    "output": "b"
+  },
+  {
+    "input": "Fencing is a sport and like other sports their is a risk of what?\na: pain\nb: small cuts\nc: competition\nd: injury\ne: puncture wound",
+    "output": "d"
+  },
+  {
+    "input": "When stressed, what will the result of exercising often be?\na: heart attacks\nb: busy\nc: good health\nd: relaxation\ne: tiredness",
+    "output": "d"
+  },
+  {
+    "input": "She was contemplating which make-up to where, what prompted her to think about this?\na: food\nb: action\nc: thinking\nd: reflection\ne: discovery",
+    "output": "d"
+  },
+  {
+    "input": "What type of presentation might be set up on a table?\na: demonstration\nb: conference\nc: furniture store\nd: dance program\ne: dining room",
+    "output": "a"
+  },
+  {
+    "input": "What happens to a building around half of the time every day?\na: it gets dark\nb: cast shadow\nc: face north\nd: target\ne: fall down",
+    "output": "b"
+  },
+  {
+    "input": "The man really like the picture and wanted to look at it while checking emails, where did he paste it?\na: desktop\nb: table\nc: art show\nd: art show\ne: newspaper",
+    "output": "a"
+  },
+  {
+    "input": "If I screw a chain ring onto something, what am I fixing?\na: necklace\nb: wall outlet fixture\nc: tool box\nd: computer\ne: motorcycle",
+    "output": "e"
+  },
+  {
+    "input": "The former wrestler wanted to give back, he donated a new main wrestling mat to the what?\na: bathroom\nb: public\nc: school\nd: living room\ne: house",
+    "output": "c"
+  },
+  {
+    "input": "The pioneer went to the general store for food preservation supplies, what was he looking for?\na: barrels\nb: checkers\nc: baking soda\nd: salt\ne: water",
+    "output": "d"
+  },
+  {
+    "input": "Who does the teacher speak with most during the week?\na: school children\nb: teach pupils\nc: work in school\nd: other teachers\ne: time test",
+    "output": "a"
+  },
+  {
+    "input": "What do you need to do to keep a surprise party a surprise?\na: keep secret\nb: laugh\nc: enjoy\nd: scare\ne: send flowers",
+    "output": "a"
+  },
+  {
+    "input": "When someone is talking a lot and being lively, they are said to be?\na: speaking from mouth\nb: voice\nc: blabbering\nd: being alive\ne: speech",
+    "output": "d"
+  },
+  {
+    "input": "The sloth was very muscular, but he couldn't compete in the contest because it had a humans only rule.  What contest was the sloth trying to enter?\na: universe\nb: dictionary\nc: global\nd: commercial\ne: countryside",
+    "output": "a"
+  },
+  {
+    "input": "They desperately needed new sports equipment, the students had a bake sale for the what?\na: mall\nb: arena\nc: school\nd: gym room\ne: sears",
+    "output": "c"
+  },
+  {
+    "input": "Index cards were on display at the museum, what kind of museum was it?\na: office supply store\nb: library\nc: card catalogue\nd: oral report\ne: park",
+    "output": "b"
+  },
+  {
+    "input": "John and James spent most of their time communicating with each other on their project.  The time required to communicate slowed their what?\na: static\nb: train of thought.\nc: progress\nd: transfer of information\ne: collaboration",
+    "output": "c"
+  },
+  {
+    "input": "Some people hate attending meeting, they're worried it'll bore and they will what?\na: fall asleep\nb: being laid off\nc: result\nd: understanding\ne: have fun",
+    "output": "a"
+  },
+  {
+    "input": "Where might I find information on current events in print form?\na: internet\nb: car\nc: television\nd: book\ne: newspaper",
+    "output": "e"
+  },
+  {
+    "input": "Joe found that shopping  was dangerous for him.  Even though he had a great job, or maybe because of it, he found himself doing this a great deal. There were always funds left over, but not enough for his taste.  What was he doing when he was shopping?\na: overspending\nb: loss of money\nc: run out of money\nd: spending money\ne: deficit",
+    "output": "a"
+  },
+  {
+    "input": "Stress can affect your mood, sometimes even leading to what?\na: headache\nb: high blood pressure\nc: fatigue\nd: depression\ne: heart attacks",
+    "output": "d"
+  },
+  {
+    "input": "What does cancer have the potential to do?\na: spread\nb: kill\nc: result in death\nd: hurry death\ne: bad",
+    "output": "b"
+  },
+  {
+    "input": "What does a lead for a journalist lead to?\na: very heavy\nb: lead pencil\nc: store\nd: card game\ne: news article",
+    "output": "e"
+  },
+  {
+    "input": "A human wants to submerge himself in water, what should he use?\na: whirlpool bath\nb: coffee cup\nc: cup\nd: soft drink\ne: puddle",
+    "output": "a"
+  },
+  {
+    "input": "When a person has a meal or sips hot drinks while reading, what will happen?\na: catch cold\nb: drink coffee\nc: gain knowledge\nd: feel fresh\ne: eat dinner",
+    "output": "c"
+  },
+  {
+    "input": "You can put what next to a side chair to make a nice place to read and drink coffee?\na: office\nb: library\nc: table\nd: building\ne: coffee shop",
+    "output": "c"
+  },
+  {
+    "input": "James is watching a film.  In the end, when the dog is shot, he finds himself doing what?\na: entertainment\nb: falling asleep\nc: skateboarding\nd: farting\ne: crying",
+    "output": "e"
+  },
+  {
+    "input": "John was writing into the wee hours.  Because of this he left a mess where?\na: apartment\nb: table\nc: closet\nd: desk\ne: night stand",
+    "output": "d"
+  },
+  {
+    "input": "When you play around with your dog they will have?\na: alive\nb: health\nc: fun\nd: playing dead\ne: black",
+    "output": "c"
+  },
+  {
+    "input": "What generally elected position might be prone to be labelled a weasel?\na: public office\nb: out of doors\nc: washington dc\nd: swimming pool\ne: henhouse",
+    "output": "a"
+  },
+  {
+    "input": "The condominium has public recreational areas, what was the purpose of these?\na: park cars\nb: complex\nc: florida\nd: washington\ne: community",
+    "output": "e"
+  },
+  {
+    "input": "John came to see Sam and Sam kicked him out.  Sam didn't like company.  He prefered what?\na: you\nb: abbreviation\nc: solitude\nd: loneliness\ne: alone",
+    "output": "c"
+  },
+  {
+    "input": "It was finals week and students wanted to be left alone, one put a do not disturb paper sign out in the what?\na: store window\nb: public place\nc: doorway\nd: shop window\ne: hallway",
+    "output": "e"
+  },
+  {
+    "input": "What happens while chatting with friends about current events?\na: laughter\nb: exchanging information\nc: hope\nd: feel close to\ne: social approval",
+    "output": "b"
+  },
+  {
+    "input": "Where does an athlete usually prepare for a game?\na: restaurant\nb: sporting event\nc: stadium\nd: olympics\ne: locker room",
+    "output": "e"
+  },
+  {
+    "input": "Most people who are family like to greet each other with a what?\na: apartments\nb: listen to music\nc: have friends\nd: know what ophiolites\ne: hug",
+    "output": "e"
+  },
+  {
+    "input": "Round bread covered with cheese and pepperoni comes out of an oven at what sort of eatery?\na: restaurant\nb: prison\nc: refrigerator\nd: pizza place\ne: own home",
+    "output": "d"
+  },
+  {
+    "input": "What would happen to airplanes before they start falling down?\na: stall\nb: taxi\nc: crash\nd: slow down\ne: halt",
+    "output": "a"
+  },
+  {
+    "input": "From where is a submarine launched?\na: shipyard\nb: land\nc: sea\nd: shoot icbm missile\ne: water",
+    "output": "a"
+  },
+  {
+    "input": "What continent is a marmot likely to be found on?\na: south america\nb: outside\nc: new zealand\nd: wilderness\ne: jungle",
+    "output": "a"
+  },
+  {
+    "input": "When cooking sheep meat a lot of people might want to be well?\na: ram\nb: lamb\nc: done\nd: ram\ne: wolf",
+    "output": "c"
+  },
+  {
+    "input": "What would you need to do to start work if you do not work in your house?\na: walk in rain\nb: sleep at night\nc: go somewhere\nd: rest\ne: ride bus",
+    "output": "c"
+  },
+  {
+    "input": "Where would you find a sign and a long line of cars behind it?\na: texas\nb: city\nc: street corner\nd: roadblock\ne: bus stop",
+    "output": "d"
+  },
+  {
+    "input": "In order to wrestle better you lift weights to?\na: have strength\nb: strong\nc: take lessons\nd: fo brushing\ne: get naked",
+    "output": "a"
+  },
+  {
+    "input": "When learning about the world and different cultures, what is important if you are committed to eliminating preconceived notions\na: newness\nb: loss of innocence\nc: enlightenment\nd: open mind\ne: smartness",
+    "output": "d"
+  },
+  {
+    "input": "How does someone begin eating?\na: cooking\nb: watching tv\nc: chewing\nd: drink\ne: bite",
+    "output": "c"
+  },
+  {
+    "input": "It could have been a beautiful day, but what stopped the sun from shining?\na: cloudy\nb: grotesque\nc: evil\nd: hideous\ne: ugly",
+    "output": "a"
+  },
+  {
+    "input": "What can be used to carry a small dog?\na: swimming pool\nb: basket\nc: dog show\nd: backyard\ne: own home",
+    "output": "b"
+  },
+  {
+    "input": "What do you do to make sure that you are remembering?\na: bad time\nb: closing eyes\nc: answering question\nd: stopping to think\ne: forgetting",
+    "output": "d"
+  },
+  {
+    "input": "People celebrate by going places and riding rides.  What's one obvious place people might go to celebrate?\na: state park\nb: opera\nc: disneyland\nd: carnival\ne: park",
+    "output": "c"
+  },
+  {
+    "input": "John walked into the courtyard of a famous palace.  Where might he be?\na: spain\nb: versailles\nc: courtroom\nd: office complex\ne: lawn",
+    "output": "b"
+  },
+  {
+    "input": "Bobby sat on the examination table.  Happy that this was a simple procedure, and he could do it here instead of staying overnight some place else.  Where might he be?\na: hospital\nb: school\nc: obituary\nd: doctor's office\ne: vets office",
+    "output": "d"
+  },
+  {
+    "input": "Where would you keep a chair to toss your clothes on before retiring for the evening?\na: airport\nb: floor\nc: office\nd: floor\ne: bedroom",
+    "output": "e"
+  },
+  {
+    "input": "Where do you keep your pizza slice before you eat it?\na: table\nb: plate\nc: restaurant\nd: oven\ne: popular",
+    "output": "b"
+  },
+  {
+    "input": "If you're telling many people about tasks you perform you have what?\na: bragging\nb: accomplish\nc: annoyance\nd: religion\ne: learn about",
+    "output": "b"
+  },
+  {
+    "input": "Inside what structure do you normally take a bath?\na: room that is upstairs\nb: own home\nc: hotel room\nd: house\ne: found in house",
+    "output": "d"
+  },
+  {
+    "input": "Some people add up to something, but others put in no effort in their lives ending with what result?\na: amount to nothing\nb: talking loudly\nc: mathematics\nd: learn from each other\ne: state facts",
+    "output": "a"
+  },
+  {
+    "input": "The politician promised money, what was he hoping to do?\na: buy party\nb: increase power\nc: settle everything\nd: control people\ne: buy food",
+    "output": "d"
+  },
+  {
+    "input": "If being bored was a problem and you wanted to quickly read the latest news, you could do so by doing what?\na: surf net\nb: allen key\nc: use television\nd: make patchwork quilt\ne: play chess",
+    "output": "a"
+  },
+  {
+    "input": "The day of hard work had led to fatigue, during lunch break he fell to what?\na: go to bed\nb: get physical activity\nc: have rest\nd: earth\ne: sleep",
+    "output": "e"
+  },
+  {
+    "input": "How would one describe the effects of a hurricane?\na: horrendous\nb: disaster\nc: bring destruction\nd: tornadoes\ne: tremendous",
+    "output": "a"
+  },
+  {
+    "input": "What would something be if you do not need it?\na: satisfied\nb: unnecessary\nc: luxury\nd: sufficient\ne: extra",
+    "output": "b"
+  },
+  {
+    "input": "The cubicles felt like their own little rooms, you could hardly even see over the what?\na: square shape\nb: doors and windows\nc: apartment\nd: border\ne: high walls",
+    "output": "e"
+  },
+  {
+    "input": "What will be created after an excavation is finished?\na: montana\nb: work area\nc: city\nd: quarry\ne: truck",
+    "output": "d"
+  },
+  {
+    "input": "James sat down and looked at the menu, then he placed an order.  Where might he be?\na: shop\nb: cafe\nc: internet sites\nd: table\ne: advertisement",
+    "output": "b"
+  },
+  {
+    "input": "Someone who is selfish wouldn't share a sandwich with their hungry friend, someone who is what might though?\na: philanthropic\nb: unselfish\nc: selfless\nd: altruistic\ne: not hungry",
+    "output": "c"
+  },
+  {
+    "input": "Where are you not likely to find a bed?\na: hotel room\nb: rest area\nc: hospital\nd: neighbor's house\ne: loft",
+    "output": "b"
+  },
+  {
+    "input": "The business man was promoted recently, to celebrate he went where to buy an expensive wristwatch?\na: case\nb: jewelry store\nc: shopping\nd: jewelery box\ne: hock",
+    "output": "b"
+  },
+  {
+    "input": "Where would footprints be left on a man made item?\na: roof\nb: carpet\nc: ground\nd: surface of earth\ne: rug",
+    "output": "e"
+  },
+  {
+    "input": "Why would you be bringing suit that is for outside use?\na: verdict\nb: ruling\nc: going to court\nd: swimming\ne: rock climbing",
+    "output": "d"
+  },
+  {
+    "input": "He came from old money and had a fortune, but he made new money making shrewd trades where?\na: eat cake\nb: cookie\nc: stock market\nd: real estate\ne: treasure chest",
+    "output": "c"
+  },
+  {
+    "input": "What would a cat want if it is not hungry but it is bored?\na: fried chicken\nb: nothing to do with\nc: tuna fish\nd: stroked\ne: milk to drink",
+    "output": "d"
+  },
+  {
+    "input": "Where would one find a snake in a cage?\na: tropical forest\nb: oregon\nc: woods\nd: pet store\ne: louisiana",
+    "output": "d"
+  },
+  {
+    "input": "Being jobless for 6 months, he had an interview after applying for a job, what did he feel?\na: nausea\nb: rejection\nc: working hard\nd: frustration\ne: stress",
+    "output": "e"
+  },
+  {
+    "input": "The coach explained respect to the players before the game against the worst team in the league, he didn't want his players to what to the opponents?\na: belittle\nb: contemn\nc: diss\nd: castrate\ne: disregard",
+    "output": "a"
+  },
+  {
+    "input": "What do you need to do on your face to watch film?\na: open eyes\nb: wear glasses\nc: go to movies\nd: have eyes\ne: relax",
+    "output": "a"
+  },
+  {
+    "input": "What happens after eating dinner?\na: heart burn\nb: become tired\nc: become full\nd: flatulence\ne: indigestion",
+    "output": "c"
+  },
+  {
+    "input": "What is the worst thing that someone can do while driving?\na: getting somewhere\nb: use gas\nc: doze off\nd: listening others\ne: speeding ticket",
+    "output": "c"
+  },
+  {
+    "input": "The shelf was irregularly shaped, where should it be placed to avoid sticking out in high-traffic areas?\na: school building\nb: corner\nc: outside\nd: wall\ne: cabinet",
+    "output": "b"
+  },
+  {
+    "input": "What type of demands to the unions need to be making to go off strike?\na: reasonable\nb: more money\nc: not go to work\nd: return to work\ne: union",
+    "output": "a"
+  },
+  {
+    "input": "An electronics store had things damaged from the rain, where should these things be stored?\na: large city\nb: strip mall\nc: building\nd: shopping mall\ne: aquarium",
+    "output": "c"
+  },
+  {
+    "input": "The man loved to fish bass, to be happy all he needed was a boat, his equipment, and a what?\na: river\nb: freshwater lake\nc: sunshine\nd: music store\ne: live in ponds",
+    "output": "b"
+  },
+  {
+    "input": "His saw was too big to fit with all his wrenches and screwdrivers in his metal what?\na: toolbox\nb: cabinet\nc: basement\nd: tool shed\ne: tool kit",
+    "output": "a"
+  },
+  {
+    "input": "What happens to the person that is well known for frequent farting?\na: social ostracism\nb: evil\nc: loud noise\nd: bad smell\ne: stinking",
+    "output": "a"
+  },
+  {
+    "input": "Where would you go if you want to see a beautiful thunderstorm?\na: house\nb: wet\nc: bad\nd: dull\ne: plain",
+    "output": "e"
+  },
+  {
+    "input": "Sean put his groceries away and then went to his room to use his computer.  Where would he have put the teabags?\na: mug\nb: refrigerator\nc: teapot\nd: internet cafe\ne: cupboard",
+    "output": "e"
+  },
+  {
+    "input": "The baking open is sometimes made of brick in what kind of place where you get round food?\na: stove\nb: house\nc: person's kitchen\nd: pizza parlor\ne: new york",
+    "output": "d"
+  },
+  {
+    "input": "What do you normally get out to get yourself a drink?\na: bucket\nb: backpack\nc: getting drunk\nd: cup\ne: cabinet",
+    "output": "d"
+  },
+  {
+    "input": "What meal do we often have corn on the cob with?\na: breakfast\nb: supermarket\nc: shop\nd: country\ne: dinner",
+    "output": "e"
+  },
+  {
+    "input": "What could writing cause before it has been finished?\na: communication\nb: bond writing\nc: revolutions\nd: writer's cramp\ne: carpal tunnel syndrome",
+    "output": "d"
+  },
+  {
+    "input": "The people danced to the music, what was the music like for them?\na: soothing\nb: vocal or instrumental\nc: loud\nd: universal\ne: enjoyable",
+    "output": "e"
+  },
+  {
+    "input": "What mood sets in when someone is going to work with a boss they dislike?\na: boredom\nb: teamwork\nc: stress\nd: anger\ne: exhaustion",
+    "output": "d"
+  },
+  {
+    "input": "The band enjoyed their success and fans, they loved to what at the start of every concert?\na: hear crowd go mad\nb: working hard\nc: clap\nd: reproduce\ne: celebrate",
+    "output": "a"
+  },
+  {
+    "input": "He had to fake reading because he was what?\na: illiteracy\nb: watching tv\nc: acculturation\nd: at grade level\ne: illiterate",
+    "output": "e"
+  },
+  {
+    "input": "James was dedicated to contemplating things.  What did he seek?\na: revelations\nb: hesitation\nc: lessons\nd: new insights\ne: enlightenment",
+    "output": "e"
+  },
+  {
+    "input": "For a stressed out mother a baby is cutest when it is able to what?\na: like spinach\nb: laugh\nc: sleep soundly\nd: giggle\ne: clap hands",
+    "output": "c"
+  },
+  {
+    "input": "What happens to people when they do not have enough food?\na: eat fish\nb: they steal\nc: talk to each other\nd: write stories\ne: die of starvation",
+    "output": "e"
+  },
+  {
+    "input": "The engineers were testing the automaton, where were they likely doing this?\na: car assembly plant\nb: do chores\nc: banking\nd: museum\ne: lab",
+    "output": "e"
+  },
+  {
+    "input": "Where would one hope to not find a jellyfish?\na: japanese restaurant\nb: hawaii\nc: pacific ocean\nd: bathtub\ne: salt water",
+    "output": "a"
+  },
+  {
+    "input": "Professionally the fighters always maintained a level of respect, but personally they held each other in what for things that were said?\na: belittlement\nb: humiliate\nc: irreverence\nd: contempt\ne: love",
+    "output": "d"
+  },
+  {
+    "input": "Where could a restaurant be located that would allow someone to sleep there?\na: cafeteria\nb: building\nc: at hotel\nd: business sector\ne: yellow pages",
+    "output": "c"
+  },
+  {
+    "input": "Mom is tidying a house, where would she put the loose dictionary?\na: shelf\nb: library\nc: classroom\nd: table\ne: desk",
+    "output": "a"
+  },
+  {
+    "input": "Though nearby, an apple from an apple tree where would be an imported product to the USA?\na: ohio\nb: washington state\nc: alaska\nd: canada\ne: flowers",
+    "output": "d"
+  },
+  {
+    "input": "What would you be doing if you are bringing suit against someone?\na: swimming\nb: going to court\nc: ruling\nd: randomness\ne: laughter",
+    "output": "b"
+  },
+  {
+    "input": "What runway involves shoes that would not be seen on a drag queen?\na: aircraft takeoff\nb: military base\nc: bowling alley\nd: fashion show\ne: golf course",
+    "output": "c"
+  },
+  {
+    "input": "What is a good way to get food hot?\na: fridge\nb: field\nc: oven\nd: table\ne: cupboard",
+    "output": "c"
+  },
+  {
+    "input": "Before the party, what did the staff need to attend?\na: ocean\nb: studying\nc: celebrating birthday\nd: meeting\ne: stay home",
+    "output": "d"
+  },
+  {
+    "input": "What makes a person feel good?\na: able to read\nb: acknowledgment\nc: complemented\nd: understand themselves\ne: solve problems",
+    "output": "c"
+  },
+  {
+    "input": "James wanted a hot tub just like the one at the spa he visited, but he didn't want anyone to know about it.  He was afraid that if the neighbors knew, they'd all want to use it, and it would turn his house into what?\na: country club\nb: health centre\nc: hospital\nd: backyard\ne: resort",
+    "output": "a"
+  },
+  {
+    "input": "She wanted to try out her brand new hair dryer, but her hair practically dried on it's own before she got it out of the well packaged what?\na: bathroom\nb: trash\nc: drug store\nd: beauty salon\ne: box",
+    "output": "e"
+  },
+  {
+    "input": "What would a sick person do if he or she is not treated?\na: get better\nb: train\nc: battle cancer\nd: throw up\ne: take medicine",
+    "output": "d"
+  },
+  {
+    "input": "When a person is beginning work, what aren't they doing yet?\na: working\nb: resting\nc: tiredness\nd: accomplishing\ne: momentum",
+    "output": "d"
+  },
+  {
+    "input": "What do marine life use to shelter themselves from a shark?\na: coral reef\nb: television program\nc: pacific ocean\nd: open ocean\ne: seaweed",
+    "output": "a"
+  },
+  {
+    "input": "The trainer told him to keep doing the same exercise, he said he had to keep doing it until he what?\na: get tired\nb: lose weight\nc: aerobic activity\nd: fatigue\ne: drink water",
+    "output": "a"
+  },
+  {
+    "input": "The poet wanted to promote his new literature to literary majors, where did he go to do so?\na: classroom\nb: book store\nc: university\nd: study\ne: home",
+    "output": "c"
+  },
+  {
+    "input": "Where is a copy machine likely to be?\na: barn\nb: office\nc: assembly line\nd: museum\ne: kitchen",
+    "output": "b"
+  },
+  {
+    "input": "Where do you dip a spoon into?\na: hole\nb: glass of iced tea\nc: kitchen drawer\nd: table setting\ne: bowl of soup",
+    "output": "e"
+  },
+  {
+    "input": "Where would you find a spare pillowcase in a house?\na: bedroom\nb: linen closet\nc: coverning pillow\nd: bathroom\ne: linen cupboard",
+    "output": "b"
+  },
+  {
+    "input": "A skateboard can have a steep learning curve, but once the basics are mastered you can what?\na: relax\nb: teenager\nc: freedom\nd: have fun\ne: give up",
+    "output": "d"
+  },
+  {
+    "input": "Where the newspaper landed if not on the porch?\na: roof\nb: front door\nc: lawn\nd: subway\ne: library",
+    "output": "c"
+  },
+  {
+    "input": "Where is the milky way?\na: fog\nb: candy bar shelf\nc: stars\nd: space\ne: refrigerator",
+    "output": "d"
+  },
+  {
+    "input": "I person is likely to say they are what after a good dance?\na: sad\nb: like dancing\nc: express yourself\nd: am happy\ne: meet people",
+    "output": "d"
+  },
+  {
+    "input": "Jimmy and Tim like playing together.  When they play for a long time they have to stop because they do what?\na: feeling happy\nb: get hungry\nc: learning\nd: grow up\ne: injury",
+    "output": "b"
+  },
+  {
+    "input": "John plays brass instruments in a band that has a lot of diverse people in it and many different instruments.   They mostly play at clubs.  What sort of band might he be in.\na: rubber band\nb: annoy mom\nc: brass band\nd: marching band\ne: jazz band",
+    "output": "e"
+  },
+  {
+    "input": "He brought his wallet with him, this was because buying products means what?\na: debt\nb: agony\nc: pleasure\nd: wealth\ne: spending money",
+    "output": "e"
+  },
+  {
+    "input": "Justin couldn't dance long because he experienced what?\na: meeting people\nb: having fun\nc: fatigue\nd: manual\ne: become tired",
+    "output": "c"
+  },
+  {
+    "input": "A blowfish lives free. He lives on his own. Where does he live?\na: fish market\nb: pet shop\nc: great outdoors\nd: river\ne: little mermaid",
+    "output": "c"
+  },
+  {
+    "input": "A person doesn't have to keep going to school to what?\na: continue learning\nb: talk to himself\nc: cast shadow\nd: go broke\ne: cross street",
+    "output": "a"
+  },
+  {
+    "input": "A beaver is know for building prowess, their supplies come from where?\na: british columbia\nb: body of water\nc: wooded area\nd: pay debts\ne: zoo",
+    "output": "c"
+  },
+  {
+    "input": "What is it called when a person with mental illness is able to lead a relatively normal life?\na: managed\nb: effectively treated\nc: recur\nd: cause delusion\ne: illusion",
+    "output": "a"
+  },
+  {
+    "input": "Where are peas likely to be freshest?\na: farmer's market\nb: supermarket\nc: freezer\nd: microwave\ne: grocery store",
+    "output": "a"
+  },
+  {
+    "input": "What country in North American can grow beans for a cup of coffee?\na: desk\nb: office\nc: mexico\nd: coffee shop\ne: kitchen office",
+    "output": "c"
+  },
+  {
+    "input": "Surprising an angry person could lead to what?\na: humor\nb: fight\nc: jocose\nd: laughter\ne: accidents",
+    "output": "b"
+  },
+  {
+    "input": "Where could you find a bed that has been used by many people?\na: mattress store\nb: rest area\nc: hotel room\nd: apartment\ne: loft",
+    "output": "c"
+  },
+  {
+    "input": "Where can you spend the night on the ground floor when you're away from home?\na: brownstone\nb: highrise building\nc: hotel\nd: subway\ne: office building",
+    "output": "c"
+  },
+  {
+    "input": "If someone is sitting quietly and biting their nails, what may they be experiencing?\na: relaxation\nb: insights\nc: anxiety\nd: inspiration\ne: contentment",
+    "output": "c"
+  },
+  {
+    "input": "Long term consumption of beer can lead to all sorts of problems, it can be quite what?\na: water\nb: liquid\nc: foamy\nd: intoxicating\ne: harmful",
+    "output": "e"
+  },
+  {
+    "input": "In a court what group passes a sentence?\na: sure\nb: arrive at conviction\nc: on jury\nd: judgemental\ne: mom",
+    "output": "c"
+  },
+  {
+    "input": "For many kids playing baseball is an American pastime, it brings them great what to play?\na: sore muscles\nb: injury\nc: errors\nd: happiness\ne: sadness",
+    "output": "d"
+  },
+  {
+    "input": "She was competing, but felt inadequate, what did she apply to improve performance?\na: steroids\nb: anger\nc: increased effort\nd: adrenaline rush\ne: vain thoughts",
+    "output": "c"
+  },
+  {
+    "input": "What could happen to you after you see some beautiful clouds above you?\na: plain\nb: cold\nc: dull\nd: bad\ne: wet",
+    "output": "e"
+  },
+  {
+    "input": "What is likely long on a cat?\na: eyes\nb: whiskers\nc: four legs\nd: life\ne: sharp claws",
+    "output": "b"
+  },
+  {
+    "input": "The cabinets were imported from the south. John bought they because he knew that they would look good.  Where might they be installed?\na: kitchen\nb: pantry\nc: containing pots and pans\nd: in a flight\ne: mexico",
+    "output": "a"
+  },
+  {
+    "input": "What is a place that might not always have a queen?\na: bee hive\nb: england\nc: castle\nd: deck of cards\ne: chess game",
+    "output": "c"
+  },
+  {
+    "input": "what does a person do to stay healthy?\na: fever\nb: eat every day\nc: excited\nd: headache\ne: expressive",
+    "output": "b"
+  },
+  {
+    "input": "What would you see if there were different types of flowers near you?\na: many colors\nb: smell good\nc: cover fields\nd: smell bad\ne: continue to grow",
+    "output": "a"
+  },
+  {
+    "input": "Superman refuses to kill.  He does this because he feels that every life is what?\na: short\nb: finite\nc: important\nd: good\ne: created",
+    "output": "c"
+  },
+  {
+    "input": "The back courtyard led to a walkout basement, where was it attached to?\na: suburbs\nb: large house\nc: farm house\nd: palace\ne: country estate",
+    "output": "b"
+  },
+  {
+    "input": "Stopping being married to each other seemed to be the best option, they decided to what?\na: being lonely\nb: argue\nc: get divorced\nd: legal fees\ne: pleasure",
+    "output": "c"
+  },
+  {
+    "input": "The person was in the drawing room, but wanted to take his draft to be completed, where did he go?\na: house in england\nb: studio\nc: large house\nd: mansion\ne: studio",
+    "output": "b"
+  },
+  {
+    "input": "Where would a person keep a book while it's being read?\na: closet\nb: library of congress\nc: classroom\nd: in bed\ne: desk",
+    "output": "e"
+  },
+  {
+    "input": "Skiing can be very risky, it can be the cause of a very serious what?\na: fall down\nb: fall in\nc: getting cold\nd: accident\ne: trip and fall",
+    "output": "d"
+  },
+  {
+    "input": "Soldiers who have been killing people during what experience what when they return home?\na: hate\nb: suicidal thoughts\nc: murder\nd: get killed\ne: feel remorse",
+    "output": "e"
+  },
+  {
+    "input": "James had trouble learning the French language because he never had any what to it?\na: attempt\nb: exposure\nc: study\nd: effort\ne: thought",
+    "output": "b"
+  },
+  {
+    "input": "There was a long cottage somewhere.  People thought it was haunted.  It was overgrown, there was nothing near it.  It's was far into the what?\na: mountains\nb: countryside\nc: train\nd: painting\ne: village",
+    "output": "b"
+  },
+  {
+    "input": "People that follow god are usually what?\na: devil\nb: better\nc: satan\nd: dog\ne: mortal",
+    "output": "e"
+  },
+  {
+    "input": "Where do most birds put eggs?\na: nest\nb: forest\nc: cage\nd: store\ne: sky",
+    "output": "a"
+  },
+  {
+    "input": "The hostess was good at her job, she always had a smile when she would what?\na: group people\nb: ready parlor for guests\nc: welcome guests\nd: work room\ne: park",
+    "output": "c"
+  },
+  {
+    "input": "What is a parents primary duty?\na: speak freely\nb: happiness of a child\nc: care for children\nd: school child\ne: control children",
+    "output": "c"
+  },
+  {
+    "input": "If you have rotten food when eating breakfast in bed what will you be doing?\na: mess\nb: joy\nc: vomiting\nd: contentment\ne: pleasure",
+    "output": "c"
+  },
+  {
+    "input": "The cow would come outside even after the storm had passed, it wouldn't leave the what?\na: meat grinder\nb: stable\nc: red barn\nd: gate\ne: green field",
+    "output": "c"
+  },
+  {
+    "input": "What happens when someone is resting when they are tired?\na: time passes\nb: fall asleep\nc: going to sleep\nd: lying down\ne: snore",
+    "output": "b"
+  },
+  {
+    "input": "Most people loved competing, it's a way to show of their what?\na: skill\nb: competition\nc: sportsmanship\nd: opponent\ne: effort",
+    "output": "a"
+  },
+  {
+    "input": "The sample needed to be pure, but the lab assistant got it what?\na: corrupt\nb: applied\nc: dirty\nd: contaminated\ne: fresh",
+    "output": "d"
+  },
+  {
+    "input": "He had to wear a tuxedo while playing the keyboard instrument, so did the other hundred members of the what?\na: music store\nb: band\nc: medium\nd: orchestra\ne: piano store",
+    "output": "d"
+  },
+  {
+    "input": "Sarah wanted to by a new rug.  Ink spilled onto her old one.  Really, she didn't know what that thing had an inkwell in the first place.  What piece of furniture might have been on her run?\na: front of door\nb: bedroom\nc: desk\nd: table\ne: living room",
+    "output": "c"
+  },
+  {
+    "input": "What do all humans want to do with other people of the opposite sex?\na: lay eggs\nb: feel comfortable\nc: work hard\nd: fall in love\ne: kiss",
+    "output": "d"
+  },
+  {
+    "input": "The flour was stored away from the kids so they couldn't play with it, where was it?\na: pantry\nb: grocery store\nc: cupboard\nd: kitchen\ne: table",
+    "output": "a"
+  },
+  {
+    "input": "How would grooming lead to bald spots?\na: cleanliness\nb: mistakes\nc: brushing\nd: beauty\ne: satisfaction",
+    "output": "b"
+  },
+  {
+    "input": "Where are you likely to find much more than a drop of blood on the floor?\na: crime scene\nb: vein\nc: blood bank\nd: slaughter house\ne: needle",
+    "output": "d"
+  },
+  {
+    "input": "Batman bought beer.  There were no bottles available.  He had to settle for what?.\na: shelf\nb: soccer game\nc: keg\nd: can\ne: refrigerator",
+    "output": "d"
+  },
+  {
+    "input": "His outward demeanor was one of appearing lazy, but his imagination was what?\na: laze\nb: hard work\nc: productive\nd: lazybutt\ne: active",
+    "output": "e"
+  },
+  {
+    "input": "John thought that it was relaxing to do what?\na: feeling better\nb: lie back\nc: lower blood pressure\nd: feel happy\ne: fall asleep",
+    "output": "b"
+  },
+  {
+    "input": "What does someone feel when they lose playing soccer?\na: sweating\nb: work out\nc: excitement\nd: anger\ne: getting tired",
+    "output": "d"
+  },
+  {
+    "input": "They were having a hard time see what areas of the wall need a second coat of paint, they needed another light source so the plugged in another what?\na: candle\nb: room\nc: lamp\nd: hallway\ne: sky",
+    "output": "c"
+  },
+  {
+    "input": "On what surface does a bean bag chair sit?\na: floor\nb: den\nc: rooms\nd: house\ne: family room",
+    "output": "a"
+  },
+  {
+    "input": "When someone is physically competing what does their body do?\na: tension\nb: perform better\nc: releases heat\nd: winning or losing\ne: sweat",
+    "output": "e"
+  },
+  {
+    "input": "The print was extremely small, as he was reading letter after letter he began to suffer eye what?\na: strain\nb: though\nc: happiness\nd: realization\ne: understanding",
+    "output": "a"
+  },
+  {
+    "input": "After being in shock, he settle and felt what?\na: quiet noisey\nb: calm\nc: lost\nd: surprised\ne: expected",
+    "output": "b"
+  },
+  {
+    "input": "People were talking on the corner, who were they talking with?\na: god\nb: mix\nc: with people\nd: have friends\ne: see people",
+    "output": "c"
+  },
+  {
+    "input": "He just needed a few things from the shopping center, but he could hardly get down an aisle it was so packed with what?\na: urban area\nb: children\nc: people\nd: stores\ne: suburbs",
+    "output": "c"
+  },
+  {
+    "input": "Most humans by shoes in pairs, this is because they happen to have what?\na: two ears\nb: lay eggs\nc: one head\nd: a bad day\ne: two feet",
+    "output": "e"
+  },
+  {
+    "input": "Where do commuters usually move quickly?\na: road\nb: freeway\nc: city\nd: race track\ne: race",
+    "output": "b"
+  },
+  {
+    "input": "Where would you find a passageway that is mainly used by visitors?\na: building\nb: hotel\nc: cave\nd: house\ne: office",
+    "output": "b"
+  },
+  {
+    "input": "What was used to cut through royal necks in the French Revolution?\na: knives\nb: shoulder\nc: giblets\nd: guillotine\ne: bottle",
+    "output": "d"
+  },
+  {
+    "input": "What will a person going for a jog likely be wearing?\na: grope\nb: acknowledgment\nc: comfortable clothes\nd: ipod\ne: passionate kisses",
+    "output": "c"
+  },
+  {
+    "input": "What is likely the result of a small episode of falling?\na: broken bones\nb: pain\nc: injury\nd: getting hurt contact with\ne: going down",
+    "output": "b"
+  },
+  {
+    "input": "They were baking together, the instructions called for sugar so they got it out of the what?\na: hallway\nb: every home\nc: candy bar\nd: soda pop\ne: cupboard",
+    "output": "e"
+  },
+  {
+    "input": "A person with children might have a lot of plastic things in what place?\na: cupboard\nb: cabinet\nc: own home\nd: everything\ne: garbage dump",
+    "output": "c"
+  },
+  {
+    "input": "Too many people driving causes what?\na: traffic jams\nb: transportation\nc: traffic accident\nd: freeway\ne: moving",
+    "output": "a"
+  },
+  {
+    "input": "What is the process of going somewhere?\na: fire\nb: energy\nc: car\nd: transporting\ne: staying in place",
+    "output": "d"
+  },
+  {
+    "input": "What method does someone use to get the best price when buying products?\na: bankruptcy\nb: loss of money\nc: comparison shopping\nd: overstocking\ne: play games",
+    "output": "c"
+  },
+  {
+    "input": "Where is a likely place to view an old copy machine?\na: industrial area\nb: museum\nc: barn\nd: school\ne: office",
+    "output": "b"
+  },
+  {
+    "input": "What does a police officer in their sixities?\na: retire\nb: direct traffic\nc: case\nd: fine person for speeding\ne: order to stop running",
+    "output": "a"
+  },
+  {
+    "input": "She wants authentic barbecue while visiting southeast Michigan, where should she look?\na: retail store\nb: garage\nc: australia\nd: park\ne: detroit",
+    "output": "e"
+  },
+  {
+    "input": "It seemed the artist now spent more time dreaming than creating, it was as if was waiting for a random strike of what?\na: car accident\nb: nightmares\nc: inspiration\nd: wake up\ne: hallucination",
+    "output": "c"
+  },
+  {
+    "input": "John traveled deeper and deeper.  As he went, the light faded away until it was pitch black. Where might he be?\na: porch\nb: attic\nc: beach\nd: ocean\ne: universe",
+    "output": "d"
+  },
+  {
+    "input": "When he touched the exposed wire he shouldn't have found it surprising that he got what?\na: see work\nb: shocked\nc: humor\nd: startled\ne: funny",
+    "output": "b"
+  },
+  {
+    "input": "Johnny was looking for cookies that his mom had hid from him.  Where might he look for them?\na: dessert\nb: evercookie\nc: evercookie\nd: store\ne: jar",
+    "output": "e"
+  },
+  {
+    "input": "What is a corrupt government likely to lead to?\na: civilization\nb: money\nc: city\nd: control\ne: trouble",
+    "output": "e"
+  },
+  {
+    "input": "If you there is glass in this you could possibly see dishes.\na: dishwasher\nb: window\nc: cabinet\nd: table\ne: shelf",
+    "output": "c"
+  },
+  {
+    "input": "Where is a soldier likely to fight from?\na: armored car\nb: platoon\nc: trenches\nd: tent\ne: battlefield",
+    "output": "c"
+  },
+  {
+    "input": "In what room would you expect to find the sugar?\na: cupboard\nb: container\nc: kitchen\nd: bedroom\ne: neighbor's house",
+    "output": "c"
+  },
+  {
+    "input": "Where would you eat lots of fried foods on a stick?\na: friend's house\nb: kitchen\nc: space shuttle\nd: school\ne: fairgrounds",
+    "output": "e"
+  },
+  {
+    "input": "Where would children be preparing for future playing?\na: zoo\nb: soccer game\nc: classroom\nd: bathroom\ne: toy store",
+    "output": "e"
+  },
+  {
+    "input": "An adult called an engineer does what while on the job?\na: drive train\nb: dress himself\nc: drink beer\nd: marry\ne: field",
+    "output": "a"
+  },
+  {
+    "input": "How would you start living life with someone else?\na: make love\nb: get married\nc: gone to jail\nd: have children\ne: learning",
+    "output": "b"
+  },
+  {
+    "input": "What would be a good way to satisfy my curiosity?\na: find truth\nb: see particular program\nc: go to market\nd: attend school\ne: pizza",
+    "output": "a"
+  },
+  {
+    "input": "She thought she had some old clothes that might work for the costume, she went to retrieve them down in the what?\na: basement\nb: box\nc: trunk\nd: store\ne: attic",
+    "output": "a"
+  },
+  {
+    "input": "Where does a spoon go on one side of a plate?\na: bowl of soup\nb: serving dish\nc: table setting\nd: placemat\ne: glass of iced tea",
+    "output": "c"
+  },
+  {
+    "input": "James wanted a plastic saucer to put some cat food on  He certainly wasn't going to use a good saucer.  Where might he look for one?\na: drawer\nb: kitchen cabinet\nc: china cabinet\nd: tea room\ne: tea cabinet",
+    "output": "b"
+  },
+  {
+    "input": "HOw do you describe a bad real estate agent?\na: stealing\nb: exaggerate\nc: incompetent\nd: cover up\ne: charming",
+    "output": "c"
+  },
+  {
+    "input": "Dan thought that he was bad.  But hid Queen disagreed.  She knighted him.  She thought he was what?\na: exceptional\nb: upright\nc: choice\nd: sufficient\ne: worthy",
+    "output": "e"
+  },
+  {
+    "input": "What can happen with too much relaxing?\na: satisfaction\nb: laziness\nc: invigorating\nd: sleeping\ne: feeling better",
+    "output": "d"
+  },
+  {
+    "input": "What is happening while he's playing basketball for such a long time?\na: sweating\nb: pain\nc: having fun\nd: medium\ne: knee injury",
+    "output": "a"
+  },
+  {
+    "input": "What do dogs need to be happy?\na: walked\nb: guard house\nc: affection\nd: roll over\ne: go outside",
+    "output": "c"
+  },
+  {
+    "input": "Where is gasoline made?\na: burn in oxygen\nb: refineries\nc: boat\nd: gas station\ne: rocks",
+    "output": "b"
+  },
+  {
+    "input": "where do some monkeys tend to live taht is hot?\na: rain forest\nb: tree tops\nc: treetops\nd: great outdoors\ne: tropical areas",
+    "output": "e"
+  },
+  {
+    "input": "James noticed that people who communicate well have fewer problems.  Some people communicate easily with strangers, others need to talk with members of their own groups.  A religion is a type of group.  What do members of a religion have in common?\na: believe in god\nb: talk to each other\nc: pay bills\nd: learn from each other\ne: believe in ghosts",
+    "output": "a"
+  },
+  {
+    "input": "Human beings learn about current events from what print item?\na: question authority\nb: melt\nc: read newspapers\nd: act\ne: dictionary",
+    "output": "c"
+  },
+  {
+    "input": "You'd want marine grade steel cable aboard your what?\na: winch\nb: ship\nc: ground\nd: construction site\ne: suspension bridge",
+    "output": "b"
+  },
+  {
+    "input": "If a group of friends have gathered after reading a book they are likely about to have a what?\na: learn things\nb: discussion\nc: fit\nd: learning\ne: nightmares",
+    "output": "b"
+  },
+  {
+    "input": "Where would you put your garden?\na: park\nb: fence\nc: ground\nd: backyard\ne: balcony",
+    "output": "c"
+  },
+  {
+    "input": "Rocks can be found on many planets and moons, but we know of the widest variety of them on the what?\na: ground\nb: waterfall\nc: surface of earth\nd: museum\ne: atmosphere",
+    "output": "c"
+  },
+  {
+    "input": "How do birds leave the nest?\na: sing songs\nb: lay eggs\nc: falling down\nd: reproduce\ne: spread wings",
+    "output": "e"
+  },
+  {
+    "input": "Mark wanted to know the truth, because he didn't want to continue existing in what?\na: understand\nb: were there\nc: ignorance\nd: in-between\ne: ignorant",
+    "output": "c"
+  },
+  {
+    "input": "What does a person do in a garden?\na: work\nb: catch cold\nc: plant flowers\nd: gain respect\ne: fish lake",
+    "output": "c"
+  },
+  {
+    "input": "There wasn't enough space.  You need to get a bigger what?\na: suitcase\nb: box\nc: sentence\nd: house\ne: paragraph",
+    "output": "b"
+  },
+  {
+    "input": "WHen people are fighting inflation what should they stop doing?\na: problems\nb: spend more\nc: economic instability\nd: buy liquor\ne: deflation",
+    "output": "b"
+  },
+  {
+    "input": "What is another name for a disk for storing information?\na: computer store\nb: computer to store data\nc: computer hard drive\nd: cd player\ne: usb mouse",
+    "output": "c"
+  },
+  {
+    "input": "What kind of wine list can I expect to see in Paris?\na: restaurant\nb: french\nc: boston\nd: canadian\ne: resturant",
+    "output": "b"
+  },
+  {
+    "input": "Where can you buy a two wheel transportation machine?\na: boat\nb: michigan\nc: train station\nd: bicycle shop\ne: trunk of car",
+    "output": "d"
+  },
+  {
+    "input": "Playing poker takes a lot of luck, but being consistent takes what?\na: ante\nb: happiness\nc: skill\nd: losing money\ne: attention",
+    "output": "c"
+  },
+  {
+    "input": "Is there a way for people going into trance to see things that do not exist?\na: meditate\nb: medicated\nc: confusion\nd: epilepsy\ne: hallucination",
+    "output": "e"
+  },
+  {
+    "input": "The people had destroyed his family, he was now killing people with what?\na: joy\nb: laughter\nc: vengeance\nd: terrible\ne: anguish",
+    "output": "c"
+  },
+  {
+    "input": "John is careful about to eating dinner that is healthy because he wants to experience what?\na: indigestion\nb: living longer\nc: eating\nd: acid reflux\ne: stomach ache",
+    "output": "b"
+  },
+  {
+    "input": "If you're skiing without warm clothes you're likely to experience what?\na: get cold\nb: getting cold\nc: fall down\nd: accident\ne: hunger",
+    "output": "b"
+  },
+  {
+    "input": "The tourists spent all day seeing the landmarks, they started at a subway station on upper west side of where?\na: toronto\nb: manhattan\nc: san jose\nd: large city\ne: city underground",
+    "output": "b"
+  },
+  {
+    "input": "There were many features displayed, but most were where for the one particular gallery?\na: large city\nb: art museum\nc: london\nd: france\ne: new york city",
+    "output": "b"
+  },
+  {
+    "input": "When remembering you referencing things that you have what?\na: memory cells\nb: learning about\nc: prior knowledge of\nd: brain cells\ne: nerve cells",
+    "output": "c"
+  },
+  {
+    "input": "What floral area is a monument usually placed in?\na: public growth areas\nb: state park\nc: public gardens\nd: municipal park\ne: cemetary",
+    "output": "c"
+  },
+  {
+    "input": "What do you get for not moving your car during the required time?\na: towed\nb: accidents\nc: driving\nd: getting tired\ne: ticket",
+    "output": "e"
+  },
+  {
+    "input": "The always greeted each other with a kiss, it was a simple way to do what?\na: manipulate\nb: show affection\nc: companion\nd: seperate\ne: electrical circuit",
+    "output": "b"
+  },
+  {
+    "input": "When you love someone, what will that person most likely do?\na: give money\nb: cost nothing\nc: bring joy\nd: last forever\ne: hurt",
+    "output": "c"
+  },
+  {
+    "input": "There is no skylight or anything else to let in light in what kind of structure?\na: house\nb: office building\nc: windowless room\nd: roof\ne: glass box",
+    "output": "c"
+  },
+  {
+    "input": "Curiosity drove the archaeologist, more that the objects themselves he was always looking to what?\na: make money\nb: go somewhere\nc: design software\nd: find truth\ne: use television",
+    "output": "d"
+  },
+  {
+    "input": "Where do kids like to hang out to watch tv and avoid their parents in the house?\na: basement\nb: kitchen\nc: rooms\nd: den\ne: yard",
+    "output": "a"
+  },
+  {
+    "input": "where do you have dressing rooms for all types of things?\na: gym\nb: body\nc: clothing store\nd: department store\ne: closet",
+    "output": "d"
+  },
+  {
+    "input": "Why does a bodybuilder eat so much?\na: pleasant conversation\nb: store food for winter\nc: satisfy hunger\nd: sounds of digestion\ne: gain weight",
+    "output": "e"
+  },
+  {
+    "input": "Water is used as a mirror when designing a what?\na: pool\nb: reflecting pool\nc: fish tank\nd: ocean\ne: sewage treatment plant",
+    "output": "b"
+  },
+  {
+    "input": "What is often true about secular holidays?\na: frequent\nb: unpredictable\nc: short term\nd: time off work\ne: eternal",
+    "output": "c"
+  },
+  {
+    "input": "Where do adults use glue sticks?\na: classroom\nb: desk drawer\nc: at school\nd: office\ne: kitchen drawer",
+    "output": "d"
+  },
+  {
+    "input": "What is a tool for fighting inflation?\na: problems\nb: anxiety\nc: deflation\nd: not noticeable\ne: economic instability",
+    "output": "c"
+  },
+  {
+    "input": "Being fat is unhealthy, one who is should probably exercise to what?\na: stay fit\nb: get in shape\nc: look better\nd: run faster\ne: eat healthily",
+    "output": "b"
+  },
+  {
+    "input": "Broom stood in the middle of the room.  There were two doors on opposite sides of him, but he couldn't see them.  Where were they?\na: large small\nb: extremes\nc: left right\nd: invisible\ne: front back",
+    "output": "c"
+  },
+  {
+    "input": "What can happen in your mind while sleeping?\na: snoring\nb: talking\nc: get cold\nd: nothing\ne: might dream",
+    "output": "e"
+  },
+  {
+    "input": "Where will someone go for killing?\na: investigation\nb: court\nc: going to jail\nd: dies\ne: death of",
+    "output": "c"
+  },
+  {
+    "input": "What can a concert hall also be used for?\na: commercial building\nb: university building\nc: screaming\nd: city\ne: theater",
+    "output": "e"
+  },
+  {
+    "input": "The player lifted his cornet and walked in rhythm, what was the player a member of?\na: museum\nb: high school band\nc: marching band\nd: orchestra\ne: band",
+    "output": "c"
+  },
+  {
+    "input": "The man finished mowing his lawn and enjoyed a glass of lemonade on his porch, he took a sip and told himself that life was what?\na: good\nb: ending soon\nc: fleeting\nd: finite\ne: important",
+    "output": "a"
+  },
+  {
+    "input": "A small dog will be very happy at what gathering of people?\na: barbeque\nb: grandma's house\nc: canada\nd: baby carriage\ne: basket",
+    "output": "a"
+  },
+  {
+    "input": "What aisle do you walk down to get  lettuce?\na: building\nb: canned goods\nc: grocery store\nd: church\ne: department store",
+    "output": "c"
+  },
+  {
+    "input": "Why would you be using television?\na: entertainment\nb: getting tired\nc: turning off\nd: check email\ne: fall asleep",
+    "output": "a"
+  },
+  {
+    "input": "She wanted a condominium near the Gulf of Mexico, where should she look for one?\na: michigan\nb: washington\nc: california\nd: community\ne: florida",
+    "output": "e"
+  },
+  {
+    "input": "Another result of changing society could be what?\na: confusion and chaos\nb: depression\nc: better standard of living\nd: sometimes bad\ne: anger and depression will not change the society .",
+    "output": "c"
+  },
+  {
+    "input": "What do most people often feel before meeting new people?\na: being bored\nb: making new friends\nc: love\nd: anxiety\ne: happy",
+    "output": "d"
+  },
+  {
+    "input": "Where would you find a container full of rice?\na: refrigerator\nb: pantry\nc: pot\nd: closet\ne: kitchens",
+    "output": "b"
+  },
+  {
+    "input": "You may drink from a cup in what small dwelling that are normally grouped together in one building?\na: school\nb: apartment\nc: closet\nd: table\ne: restaurant",
+    "output": "b"
+  },
+  {
+    "input": "What does playing soccer for a long time lead to?\na: excitement\nb: fatigue\nc: anger\nd: hurting\ne: getting tired",
+    "output": "e"
+  },
+  {
+    "input": "The painter started to edge the room with tape, he always took extra care to make the lines clean and crisp when working with an what?\na: triangle\nb: middle\nc: corner\nd: center\ne: interior",
+    "output": "e"
+  },
+  {
+    "input": "If a human is sleepy what can they do to feel more alert?\na: dream dreams\nb: think critically\nc: cross road\nd: drink coffee\ne: drive a car",
+    "output": "d"
+  },
+  {
+    "input": "What area of town is known for having brick row houses?\na: baltimore maryland\nb: ghetto\nc: city center\nd: garden\ne: england",
+    "output": "b"
+  },
+  {
+    "input": "What is a well known way for couples  of celebrating a marriage?\na: eat cake\nb: getting drunk\nc: having sex\nd: cleaning rooms\ne: drink too much",
+    "output": "c"
+  },
+  {
+    "input": "How do people become a couple forever?\na: row about\nb: combination\nc: marry each other\nd: make sex\ne: communicate",
+    "output": "c"
+  },
+  {
+    "input": "What do you see for entertainment on a screen?\na: movie\nb: casino\nc: theatre\nd: show\ne: comedy",
+    "output": "a"
+  },
+  {
+    "input": "Horses are big animals that get a lot of exercise.  Because he this, they need to do what?\na: run quickly\nb: pull wagon\nc: go away\nd: drink water\ne: eat carrots",
+    "output": "d"
+  },
+  {
+    "input": "Where are cars likely to move quickly?\na: car dealership\nb: car show\nc: superb\nd: parking lot\ne: freeway",
+    "output": "e"
+  },
+  {
+    "input": "What do you need to do to use television if it is already turned on?\na: get wet\nb: open eyes\nc: kill\nd: plug in\ne: first turn on power",
+    "output": "b"
+  },
+  {
+    "input": "After beginning work, what did the man do because he was tired?\na: sitting down\nb: procrastination\nc: getting tired\nd: stress\ne: relax",
+    "output": "a"
+  },
+  {
+    "input": "What can you store silicone in?\na: artificial breasts\nb: tube\nc: bag\nd: hardware store\ne: contact lens",
+    "output": "b"
+  },
+  {
+    "input": "Where do you keep extra clothing on a hike?\na: person\nb: hamper\nc: closet\nd: upstairs\ne: backpack",
+    "output": "e"
+  },
+  {
+    "input": "He kept plugging away in his cubicle, it seemed he was the only person not called into the what?\na: building\nb: conference\nc: assessment\nd: demonstration\ne: garage",
+    "output": "b"
+  },
+  {
+    "input": "If people major in computer science, what is a logical career path for them?\na: talk to each other\nb: write programs\nc: choose life\nd: play outside\ne: believe in god",
+    "output": "b"
+  },
+  {
+    "input": "If song were to touch your heart it would do it through what?\na: smelling\nb: hearing\nc: seeing\nd: sight\ne: sniff",
+    "output": "b"
+  },
+  {
+    "input": "What do people do in the cold?\na: complete job\nb: wear hats\nc: wear shorts\nd: believe in god\ne: kill animals",
+    "output": "b"
+  },
+  {
+    "input": "John was good at singing, usually.  But today he couldn't do it.  Why can't John sing?\na: hoarse voice\nb: change in mood\nc: relaxation\nd: feminine voice\ne: being heard",
+    "output": "a"
+  },
+  {
+    "input": "When people in trance are trying to calm themselves what do they do?\na: run\nb: confusion\nc: meditate\nd: epilepsy\ne: hallucination",
+    "output": "c"
+  },
+  {
+    "input": "He thought it was appropriate to visit a french restaurant after the ice hockey game while visiting what famous bilingual city?\na: nyc\nb: big city\nc: wine\nd: snow\ne: montreal",
+    "output": "e"
+  },
+  {
+    "input": "A cat is wandering outside, where is likely to be found?\na: floor\nb: residential area\nc: bed\nd: comfortable position\ne: family room",
+    "output": "b"
+  },
+  {
+    "input": "Jane was going to the party.  She didn't care about making friends or gorging on alcohol, she just wanted to do what?\na: plan\nb: meet new people\nc: work\nd: have fun\ne: getting drunk",
+    "output": "d"
+  },
+  {
+    "input": "What do athletes need to do after a game?\na: play sports\nb: need to rest\nc: take steroids\nd: walk fast\ne: bicycle forever",
+    "output": "b"
+  },
+  {
+    "input": "Where might a yard be tiny?\na: farmland\nb: neighborhood\nc: city\nd: property\ne: subdivision",
+    "output": "c"
+  },
+  {
+    "input": "Jane has a desire to learn every animal's taxonomic name on the planet, what must she do?\na: memorize\nb: visit museum\nc: understand better\nd: attend school\ne: read book",
+    "output": "a"
+  },
+  {
+    "input": "A person met me in the lobby of the office.  We didn't have much in common, but we did something before going up to the meeting.  What did we do?\na: cross street\nb: say love\nc: shake hands\nd: converse\ne: sit up",
+    "output": "d"
+  },
+  {
+    "input": "She loved spending money at the thrift store on knickknacks, this resulted in a lot of what on every shelf in her house?\na: poverty\nb: clutter\nc: getting\nd: satisfaction\ne: more happiness",
+    "output": "b"
+  },
+  {
+    "input": "What sort of life event might draw a large crowd of people together to celebrate?\na: wedding\nb: bus stop\nc: crowd\nd: convention\ne: supermarket",
+    "output": "a"
+  },
+  {
+    "input": "A day didn't go by without somebody needing a saw, that's why everybody had their own at the what?\na: toolbox\nb: hospital\nc: basement\nd: logging camp\ne: tool shed",
+    "output": "d"
+  },
+  {
+    "input": "Where do audiences cheer for athletes?\na: sporting event\nb: movie theater\nc: theatre\nd: church\ne: concert",
+    "output": "a"
+  },
+  {
+    "input": "What could an apple tree do?\na: new hampshire\nb: bloom\nc: washington state\nd: sunshine\ne: spontaneously combust",
+    "output": "b"
+  },
+  {
+    "input": "There's one obvious reason to eat vegetables, they're plain what you?\na: lose weight\nb: good for\nc: bland\nd: chewing\ne: fibre",
+    "output": "b"
+  },
+  {
+    "input": "What would a team be doing when a winning baseball game is imminent?\na: pride\nb: recognition\nc: celebrating\nd: joy\ne: going home",
+    "output": "c"
+  },
+  {
+    "input": "Jim enjoyed killing people, but he did it too often and the cops found out.  What might the cops do to him?\na: going to jail\nb: going to prison\nc: beat him up\nd: get arrested\ne: die",
+    "output": "d"
+  },
+  {
+    "input": "The tickets were supposed to arrive by 1AM, but Sally had been standing in queue for the concert since midnight and it was now 2AM and the line hadn't moved.  Why was this?\na: delays\nb: frustration\nc: sprinting\nd: moving forward\ne: being annoyed",
+    "output": "a"
+  },
+  {
+    "input": "When a play starts in an auditorium, what tends to fade out?\na: lights\nb: theater\nc: other people\nd: crowd\ne: high school",
+    "output": "a"
+  },
+  {
+    "input": "What kind of call are you on if you're hearing several people over speakers?\na: desktop\nb: headphones\nc: connect\nd: concert\ne: conference",
+    "output": "e"
+  },
+  {
+    "input": "What furniture will you normally find near a side chair?\na: bedroom\nb: table\nc: wheel barrow\nd: building\ne: office",
+    "output": "b"
+  },
+  {
+    "input": "Where would you put a ficus if you want to protect it from the rain?\na: arboretum\nb: ground\nc: apartment\nd: california\ne: home",
+    "output": "c"
+  },
+  {
+    "input": "She asked her little boy why, he replied that he didn't know and it was just what?\na: case\nb: reason\nc: how\nd: because\ne: answer",
+    "output": "d"
+  },
+  {
+    "input": "Why do some people quit work and go back to school for?\na: face problems\nb: better themselves\nc: become disillusioned\nd: knowledge\ne: talk to each other",
+    "output": "b"
+  },
+  {
+    "input": "The toothbrush was given to the man for free, where did the man get it?\na: dentist office\nb: bedroom\nc: supermarket\nd: drug store\ne: grocery store",
+    "output": "a"
+  },
+  {
+    "input": "What would you do to a television after you finish using television?\na: entertainment\nb: choosing\nc: change channel\nd: fall asleep\ne: turning off",
+    "output": "e"
+  },
+  {
+    "input": "Dogs are active pets, especially on hot days it's important to keep their bowl full because they what?\na: do many things\nb: trained\nc: withstand dehydration\nd: require water\ne: get lost",
+    "output": "d"
+  },
+  {
+    "input": "What requires a very strong leader?\na: grocery store\nb: country\nc: organization\nd: army\ne: pack",
+    "output": "d"
+  },
+  {
+    "input": "This country spans the entire breadth of the landmass.  What is it called?\na: america\nb: ocean\nc: africa\nd: continent\ne: great outdoors",
+    "output": "a"
+  },
+  {
+    "input": "What does a person want to get at a restaurant?\na: self esteem\nb: compliments\nc: delicious food\nd: easy life\ne: fulfillment",
+    "output": "c"
+  },
+  {
+    "input": "Where can you buy lettuce directly from the grower?\na: supermarket\nb: grocery store\nc: salad\nd: farmer's market\ne: refrigerator",
+    "output": "d"
+  },
+  {
+    "input": "Eating breakfast in bed while seeing a homeless person shivering outside your window may cause you to what?\na: mess\nb: hungry\nc: feel guilty\nd: indigestion\ne: spills",
+    "output": "c"
+  },
+  {
+    "input": "Where do fish spend the majority of their time?\na: body of water\nb: lake superior\nc: underwater\nd: toilet\ne: aquarium",
+    "output": "c"
+  },
+  {
+    "input": "What animal produces milk?\na: supermarket\nb: pig\nc: cow\nd: refrigerator\ne: store",
+    "output": "c"
+  },
+  {
+    "input": "What can machines do that humans cannot?\na: fail to work\nb: perform work\nc: answering questions\nd: see work\ne: fly",
+    "output": "e"
+  },
+  {
+    "input": "What does someone committing perjury likely to have?\na: miscarriage of justice\nb: guilt\nc: testify\nd: lies\ne: truth",
+    "output": "b"
+  },
+  {
+    "input": "James was planning a vacation. he was doing this because he worked hard and needed something. What did he need?\na: stock options\nb: arguments\nc: spending money\nd: relaxation\ne: enjoying",
+    "output": "d"
+  },
+  {
+    "input": "Sally isn't beautiful.  She looks okay, just plain. But she doesn't think so. She has image issues and thinks that she's what?\na: ugly\nb: overweight\nc: bad\nd: average\ne: hideous",
+    "output": "a"
+  },
+  {
+    "input": "If while driving to work another car makes a careless maneuver, what emotion might you feel?\na: boredom\nb: happiness\nc: transportation cost\nd: getting there\ne: road rage",
+    "output": "e"
+  },
+  {
+    "input": "An island off the coast of of California is located where?\na: pacific ocean\nb: mississippi river\nc: body of water\nd: earth\ne: middle of ocean",
+    "output": "a"
+  },
+  {
+    "input": "A lot of people play the fiddle in what state which comes first alphabetically?\na: tennessee\nb: violin case\nc: orchestra\nd: alabama\ne: alaska",
+    "output": "d"
+  },
+  {
+    "input": "When the person realized his dog ran away, how did he feel?\na: become depressed\nb: park\nc: pay bills\nd: promise to do\ne: welcome change",
+    "output": "a"
+  },
+  {
+    "input": "How do you show that you are agreeing with someone?\na: handshake\nb: kiss\nc: nodding\nd: lie\ne: shaking hand",
+    "output": "c"
+  },
+  {
+    "input": "If diamonds are not free nor cheap, what are they?\na: enslaved\nb: free with coupon.\nc: expensive\nd: paid for\ne: imprisoned",
+    "output": "c"
+  },
+  {
+    "input": "What do parents tell their kids to stop doing when they want them to go to sleep?\na: get in bed\nb: get dance\nc: get into bed\nd: stop talking\ne: lay down",
+    "output": "d"
+  },
+  {
+    "input": "They decided to have desert after their meal, they chose chocolate cake from the desert tray at the what?\na: buffet\nb: movies\nc: restaurant\nd: box\ne: supermarket",
+    "output": "c"
+  },
+  {
+    "input": "Sure you could get a drink absolutely anywhere, but he found he lost less money if he was just at the bar where?\na: nightclub\nb: restaurant\nc: miami\nd: las vegas\ne: new york city",
+    "output": "d"
+  },
+  {
+    "input": "When someone is shopping for clothes at a store, where can they try them on and check themselves out in a mirror?\na: bedroom\nb: dressing room\nc: at hotel\nd: fun house\ne: house",
+    "output": "b"
+  },
+  {
+    "input": "If your watching television and accomplish nothing what have you done?\na: getting fat\nb: get fat\nc: typing words\nd: falling asleep\ne: wasted time",
+    "output": "e"
+  },
+  {
+    "input": "Which region has the most famous temple?\na: jerusalem\nb: jewish community\nc: middle east\nd: city\ne: mosque",
+    "output": "c"
+  },
+  {
+    "input": "If you wanted to put a lamp in an area of the room where the walls meet, where would you put it?\na: office\nb: corner\nc: desktop\nd: corner of garden\ne: bedroom",
+    "output": "b"
+  },
+  {
+    "input": "What would I be doing while going to work and walking?\na: listen to radio\nb: solve problems\nc: driving\nd: walk\ne: being late",
+    "output": "a"
+  },
+  {
+    "input": "Exercising daily requires a lot of what mental toughness?\na: effort\nb: exercise\nc: discipline\nd: muscles\ne: run",
+    "output": "c"
+  },
+  {
+    "input": "The division of the company saw their profits skyrocket, what did their overall margins do?\na: unity\nb: multiply\nc: get higher\nd: multiplication\ne: putting together",
+    "output": "b"
+  },
+  {
+    "input": "Where would you go to see a sword?\na: container called scabbard\nb: school\nc: collection\nd: museum\ne: sheath",
+    "output": "d"
+  },
+  {
+    "input": "The child ran to fast and hit his foot on a rock, what happened next?\na: play tag\nb: fall down\nc: flying rock\nd: breathe\ne: become adult",
+    "output": "b"
+  },
+  {
+    "input": "Where could you find a pit that is burned?\na: hungry\nb: cherry\nc: backyard\nd: peach\ne: mine",
+    "output": "c"
+  },
+  {
+    "input": "Where can peanut butter be stored?\na: container\nb: supermarket\nc: pantry\nd: sandwich\ne: jar",
+    "output": "c"
+  },
+  {
+    "input": "Something you do requires effort and what else?\na: make progress\nb: make peace\nc: make war\nd: take time\ne: kindness",
+    "output": "d"
+  },
+  {
+    "input": "Why do people read non fiction?\na: having fun\nb: it's more relatable\nc: learn new things\nd: becoming absorbed\ne: falling asleep",
+    "output": "c"
+  },
+  {
+    "input": "Where would you find some swords in your house?\na: sheath\nb: sword closet\nc: collection\nd: container called scabbard\ne: museum",
+    "output": "c"
+  },
+  {
+    "input": "The doctor noticed the nerve and suggested a scan of everything, what would be scanned?\na: brainstem\nb: skeleton\nc: organism\nd: animal\ne: human body",
+    "output": "e"
+  },
+  {
+    "input": "If someone decided to go somewhere an hour away, they would be doing what in an hour?\na: meet\nb: arriving\nc: have fun\nd: walk away\ne: travel",
+    "output": "b"
+  },
+  {
+    "input": "Where is a fire extinguisher likely to be found behind the seat?\na: school bus\nb: house\nc: garden\nd: stairwell\ne: garage",
+    "output": "a"
+  },
+  {
+    "input": "Where would you store a pillow case that is not in use?\na: kitchen cupboard\nb: bedding store\nc: england\nd: drawer\ne: bedroom",
+    "output": "d"
+  },
+  {
+    "input": "A violin and three other instruments play in what?\na: orchestra\nb: rock band\nc: school\nd: string quartet\ne: music room",
+    "output": "d"
+  },
+  {
+    "input": "What does someone gain from getting divorce?\na: poorer\nb: sadness\nc: depression\nd: tears\ne: freedom",
+    "output": "e"
+  },
+  {
+    "input": "When you dont have a car you take the bus to?\na: get somewhere\nb: go home\nc: commute\nd: get drunk\ne: avoid parking hassle",
+    "output": "a"
+  },
+  {
+    "input": "Where are you if you're drinking beer and watching men hit a black and white ball with their feet?\na: shelf\nb: soccer game\nc: refrigerator\nd: can\ne: on a yacht",
+    "output": "b"
+  },
+  {
+    "input": "Where can I ride my bicycle in order to take graduate classes?\na: bike path\nb: schoolyard\nc: netherlands\nd: street\ne: university",
+    "output": "e"
+  },
+  {
+    "input": "John's know that friends didn't respect him. Every day he suffered what at their hands?\na: humiliate\nb: belittlement\nc: contempt\nd: embarrassed\ne: irreverence",
+    "output": "b"
+  },
+  {
+    "input": "Where would you find a railing you hold on to while moving up?\na: the moon\nb: park\nc: porch\nd: flight of stairs\ne: railway station",
+    "output": "d"
+  },
+  {
+    "input": "Sarah did all of it.  She was the best saleswoman in the city.  But she was never acknowledge for her what?\na: work hard\nb: sell products\nc: field question\nd: slow down\ne: productivity",
+    "output": "a"
+  },
+  {
+    "input": "What is the usual reason people enjoy playing games?\na: entertainment\nb: happiness\nc: competitiveness\nd: anger\ne: winning",
+    "output": "a"
+  },
+  {
+    "input": "What is chatting with friends a type of?\na: communication\nb: happiness\nc: laughter\nd: agreement\ne: fun",
+    "output": "a"
+  },
+  {
+    "input": "What was the practical husband concerned most about when house shopping?\na: arriving\nb: location\nc: excitement\nd: movement\ne: expense",
+    "output": "e"
+  },
+  {
+    "input": "Visiting museum was eerie and weird to him, he hated the stillness of it and having to only what?\na: look at things\nb: appriciation\nc: take pictures\nd: cry\ne: whisper",
+    "output": "e"
+  },
+  {
+    "input": "The woman let her son play with it in his room.  She did not do what?\na: forbid\nb: annoy\nc: prohibit\nd: stop\ne: disallow",
+    "output": "a"
+  },
+  {
+    "input": "What prevents someone from going to bed?\na: rest\nb: insomnia\nc: getting lost\nd: making love\ne: pregnancy",
+    "output": "b"
+  },
+  {
+    "input": "Which lawn do people not care about as much since people don't see it?\na: golf course\nb: front yard\nc: back yard\nd: garden\ne: suburbia",
+    "output": "c"
+  },
+  {
+    "input": "Where could you find a fortune?\na: real estate\nb: treasure chest\nc: stock market\nd: park\ne: imagination",
+    "output": "b"
+  },
+  {
+    "input": "What does a chicken do in a joke?\na: produce eggs\nb: lay eggs\nc: become food\nd: cross road\ne: looks for cars",
+    "output": "d"
+  },
+  {
+    "input": "Where could I buy some chocolate?\na: restaurant\nb: hotel\nc: mouth\nd: box\ne: supermarket",
+    "output": "e"
+  },
+  {
+    "input": "When people social at a bar, the bartender will often do what to the cocktails they serve?\na: meet people\nb: have friends\nc: mix\nd: with people\ne: see people",
+    "output": "c"
+  },
+  {
+    "input": "What will eventually happen someone who is committing murder, even if he or she is not caught?\na: ocean\nb: fear\nc: own death\nd: imprisonment\ne: incarceration",
+    "output": "c"
+  },
+  {
+    "input": "What is a person who is good at sports considered?\na: lazy\nb: own house\nc: talented\nd: affluent\ne: reproduce",
+    "output": "c"
+  },
+  {
+    "input": "If you are in a bar in a glove shaped state where are you?\na: in my pocket\nb: michigan\nc: new york city\nd: restaurant\ne: public house",
+    "output": "b"
+  },
+  {
+    "input": "If I want to open a steakhouse, what should I get first?\na: michigan\nb: florida\nc: wine\nd: texas\ne: building",
+    "output": "e"
+  },
+  {
+    "input": "How would you get to a town?\na: michigan\nb: train station\nc: countryside\nd: squirrel\ne: valley",
+    "output": "b"
+  },
+  {
+    "input": "The science major was planning on digging in the earth one day, his favorite class was what?\na: religion\nb: faith\nc: health\nd: geography\ne: history studies",
+    "output": "d"
+  },
+  {
+    "input": "He showed his ticket and went straight to the bathroom to get out any pee, he didn't want anything to make him have to get up once he took his seat in the what?\na: convenience store\nb: friend's house\nc: his house\nd: school\ne: theater",
+    "output": "e"
+  },
+  {
+    "input": "Reaching advantage in anything requires hard work and?\na: timing\nb: determination\nc: skill\nd: upper hand\ne: superior",
+    "output": "b"
+  },
+  {
+    "input": "What are you about to do if you're standing in line for food?\na: wait turn\nb: pay\nc: frustration\nd: pain\ne: order",
+    "output": "e"
+  },
+  {
+    "input": "Where can you store a book you won't need for a while nearby to fabric items you wear?\na: closet\nb: desk\nc: library of congress\nd: classroom\ne: bookshelf",
+    "output": "a"
+  },
+  {
+    "input": "Having food all the time can lead to what?\na: digesting\nb: not hungry\nc: swelling\nd: weight gain\ne: gas",
+    "output": "d"
+  },
+  {
+    "input": "What does going to party with the opposite sex lead to?\na: get drunk\nb: meet new people\nc: drinking beer\nd: enjoy yourself\ne: having sex",
+    "output": "e"
+  },
+  {
+    "input": "Billy is an archaeologist. He looks for information about ancient human civilization. What is something that he might enjoy finding?\na: school\nb: love\nc: adventure\nd: space shuttle\ne: library",
+    "output": "e"
+  },
+  {
+    "input": "What happens after people perform a concert?\na: smile\nb: music\nc: medium\nd: applause\ne: accomplish",
+    "output": "d"
+  },
+  {
+    "input": "Samantha was a person, but she wasn't comfortable with others.  She'd rather spend her time with what?\na: headache\nb: animal\nc: many people\nd: put together\ne: own house",
+    "output": "b"
+  },
+  {
+    "input": "Where is bacteria easy to wash off?\na: septic tank\nb: finger\nc: ground\nd: hands\ne: mouth",
+    "output": "b"
+  },
+  {
+    "input": "What was the man encouraged to do after he expressed his anger violently?\na: cool off\nb: punch\nc: illustrate point\nd: fight\ne: release energy",
+    "output": "a"
+  },
+  {
+    "input": "What is probably not built out of a wooden rod?\na: broom\nb: broom closet\nc: old clock\nd: hardware store\ne: old houses",
+    "output": "e"
+  },
+  {
+    "input": "Where is garbage brought to by garbagemen?\na: trashcan\nb: landfill\nc: television\nd: computer\ne: dumpster",
+    "output": "b"
+  },
+  {
+    "input": "The plane taxied onto the runway with lots of civilians inside, where was it bound?\na: city\nb: school\nc: military base\nd: bowling alley\ne: airfield",
+    "output": "a"
+  },
+  {
+    "input": "Where can someone find many a finger?\na: point\nb: hand\nc: cake batter to taste\nd: glove\ne: nose",
+    "output": "b"
+  },
+  {
+    "input": "What can someone do to end relaxing?\na: feeling better\nb: invigorating\nc: sleeping\nd: stress\ne: deep breathing",
+    "output": "b"
+  },
+  {
+    "input": "If you've ended your visit with someone, what happens next?\na: thank god\nb: turn around\nc: walk away\nd: work hard\ne: explode",
+    "output": "c"
+  },
+  {
+    "input": "What is likely to be the feeling for  future ideas after seeing idea become reality?\na: fulfilling\nb: virtual living\nc: inspiration\nd: make money\ne: very nice",
+    "output": "c"
+  },
+  {
+    "input": "Where is a doormat likely to be in front of?\na: facade\nb: front door\nc: doorway\nd: entrance porch\ne: hallway",
+    "output": "b"
+  },
+  {
+    "input": "If you're releasing energy through running, what will you likely find on your skin?\na: sweat\nb: movement\nc: exercising\nd: sex\ne: moist",
+    "output": "a"
+  },
+  {
+    "input": "Many politicians like to talk about the small time farmer, but almost all farms are actually what?\na: farm land\nb: financial\nc: business man\nd: industrial\ne: city dweller",
+    "output": "d"
+  },
+  {
+    "input": "John cared for Sally, but Sally couldn't return his feelings. She only felt what?\na: unfeeling\nb: being mean\nc: field\nd: disinterest\ne: negligence",
+    "output": "d"
+  },
+  {
+    "input": "Two friend decided to spend their lives together in matrimony, so what did they arrange?\na: restaurant\nb: wedding\nc: internet cafe\nd: movie\ne: friend's house",
+    "output": "b"
+  },
+  {
+    "input": "When an inventory gets to see idea become reality they will gather their friends together to what?\na: pride\nb: gratification\nc: gamble\nd: feeling of accomplishment\ne: celebrate",
+    "output": "e"
+  },
+  {
+    "input": "What might a good person experience after killing someone?\na: michigan\nb: dies\nc: feeling of guilt\nd: being imprisoned\ne: bloody mess",
+    "output": "c"
+  },
+  {
+    "input": "Several train terminals linked together is an example of what?\na: station\nb: electrical device\nc: battery\nd: initial\ne: transportation system",
+    "output": "e"
+  },
+  {
+    "input": "If a bum wanted to ride for free, where might he go?\na: bus depot\nb: train station\nc: beach\nd: bridge\ne: taxi",
+    "output": "b"
+  },
+  {
+    "input": "What is the closest place to eat when you are not out on the town?\na: serving drinks\nb: food court\nc: shopping center\nd: own house\ne: downtown",
+    "output": "d"
+  },
+  {
+    "input": "What will happen if you inject water into yourself?\na: dilute\nb: thin blood\nc: take several forms\nd: wet clothes\ne: move mountains",
+    "output": "b"
+  },
+  {
+    "input": "They needed a machine to help with their studies, it was used often in the where?\na: industrial area\nb: restaurant\nc: house\nd: laboratory\ne: office",
+    "output": "d"
+  },
+  {
+    "input": "Where do cows graze?\na: green field\nb: dry fields\nc: meat grinder\nd: red barn\ne: countryside",
+    "output": "a"
+  },
+  {
+    "input": "A statue that shoots liquid is called a what?\na: water fountain\nb: large city\nc: museum\nd: pool\ne: central park",
+    "output": "a"
+  },
+  {
+    "input": "If your punched in the nose, your eyes will probably do what?\na: see work\nb: glass over\nc: see light\nd: dry out\ne: fill with tears",
+    "output": "e"
+  },
+  {
+    "input": "If people need something on the other side of a body of water, what must they do?\na: flap their arms and fly\nb: cross river\nc: complete high school\nd: die suddenly\ne: talk to each other",
+    "output": "b"
+  },
+  {
+    "input": "Why do manufacturers have many machines?\na: turn jars\nb: perform work\nc: produce products\nd: answering questions\ne: serve humanity",
+    "output": "c"
+  },
+  {
+    "input": "Amy sat down and turned on her monitor.  She only had an hour of time to do her work.  Where might she be?\na: box\nb: on a train\nc: internet cafe\nd: desktop\ne: view bluescreen",
+    "output": "c"
+  },
+  {
+    "input": "Why would one try to avoid work?\na: making money\nb: leave home\nc: success\nd: malaise\ne: bad mood",
+    "output": "d"
+  },
+  {
+    "input": "After making contact the spy had to go somewhere to what?\na: have fun\nb: meet\nc: whittle\nd: die\ne: arriving",
+    "output": "b"
+  },
+  {
+    "input": "Fan after fan filed in for the big game, it wouldn't be long before what was filled?\na: sporting event\nb: hockey game\nc: soccer field\nd: sports stadium\ne: hot room",
+    "output": "d"
+  },
+  {
+    "input": "Jan tested the current, and noticed that it was high.  He thought that the wires might have too much what?\na: later\nb: updated\nc: still\nd: resistance\ne: now",
+    "output": "d"
+  },
+  {
+    "input": "The peaceful nation was scared of their neighbor amassing troops at the border, what behavior did they fear?\na: violent\nb: warring\nc: eferendum because their country\u2019s constitution mandates that the people go to a referendum after the icj has made a ruling in the case and not before\nd: belligerent\ne: nonpeaceful",
+    "output": "d"
+  },
+  {
+    "input": "If a person wants to make sure their lemonade is the most refreshing, where might they store it?\na: carnival\nb: refrigerator\nc: fairgrounds\nd: summer\ne: freezer",
+    "output": "b"
+  },
+  {
+    "input": "If you want to make a big splash in a river with a rock, from where should you throw it?\na: mountains countryside\nb: ground\nc: bridge\nd: mountain range\ne: surface of earth",
+    "output": "c"
+  },
+  {
+    "input": "Their food was the same every where you went, the fast food restaurant was standard from Los Angeles to where?\na: big cities\nb: america\nc: new york\nd: los angeles\ne: center of town",
+    "output": "c"
+  },
+  {
+    "input": "He felt pride when he looked at his new mile time, what did he do?\na: paint house\nb: compete against\nc: tell many people about\nd: improve yourself\ne: pass class",
+    "output": "d"
+  },
+  {
+    "input": "What does someone want to do if they want to travel?\na: go somewhere\nb: time\nc: energy\nd: have money\ne: go someplace",
+    "output": "a"
+  },
+  {
+    "input": "Where could you find 10 or 100 home that are not attached together?\na: denver\nb: neighborhood\nc: city or town\nd: michigan\ne: apartment building",
+    "output": "b"
+  },
+  {
+    "input": "The place was special to them, you couldn't find it on just any what?\na: map\nb: device\nc: area\nd: almost anywhere\ne: location",
+    "output": "a"
+  },
+  {
+    "input": "In smaller whats are there less needs a bus stop?\na: urban area\nb: busy\nc: airport\nd: boarding bus\ne: towns",
+    "output": "e"
+  },
+  {
+    "input": "Where would you find bleachers inside?\na: soccer\nb: sporting event\nc: pharmacy\nd: gymnasium\ne: seat with view",
+    "output": "d"
+  },
+  {
+    "input": "Danny found an old film in a sealed what?\na: clingfilm\nb: disneyland\nc: cave\nd: cabinet\ne: movie",
+    "output": "d"
+  },
+  {
+    "input": "What do those of a relative committing suicide likely to feel?\na: sorrow\nb: uncomfortable\nc: harm to others\nd: being dead\ne: death",
+    "output": "a"
+  },
+  {
+    "input": "The attack took the player by surprise, he say the game was over and his opponent would win so he decided to just what?\na: work harder\nb: cease fire\nc: surrender\nd: defend\ne: defence",
+    "output": "c"
+  },
+  {
+    "input": "The teens were trying to hide that they get drink, but when they walked in the door their what gave it away?\na: health\nb: fall down\nc: stagger\nd: get arrested\ne: vomit",
+    "output": "c"
+  },
+  {
+    "input": "He found the blowfish off the coast of the Carolina's, it was where?\na: rock band\nb: sea of japan\nc: sushi restaurant\nd: fish market\ne: atlantic ocean",
+    "output": "e"
+  },
+  {
+    "input": "May was watchign a film about turtles who fight crime.  It was a silly film, but exciting.  It gave her a great deal of what?\na: enjoyment\nb: relaxation\nc: stupidity\nd: masturbation\ne: sadness",
+    "output": "a"
+  },
+  {
+    "input": "If you're hearing sounds what product the uses a laser are you using?\na: physics lab\nb: laboratory\nc: bomb\nd: hospital\ne: cd players",
+    "output": "e"
+  },
+  {
+    "input": "Playing guitar is a dream attempted by many, they often chew on the little plastic what?\na: pick\nb: choice\nc: desire\nd: practice\ne: strum strings",
+    "output": "a"
+  },
+  {
+    "input": "Though she had a disability, what did her encouraging and positive coach see in her?\na: qualification\nb: strength\nc: pity\nd: competence\ne: potential",
+    "output": "e"
+  },
+  {
+    "input": "Jane want to learn about riding a bike, what is a skill she needs to master in order to do so?\na: laying down\nb: peddle\nc: falling over\nd: pedaling\ne: falling off",
+    "output": "d"
+  },
+  {
+    "input": "Fencing is a sport in which participants use a what?\na: sword\nb: competition\nc: fence post\nd: protection\ne: dexterity",
+    "output": "a"
+  },
+  {
+    "input": "The fresh herbs, flowers, and vegetables will shrivel up if people don't do this?\na: water plants\nb: believe in god\nc: drive to the nearest pool\nd: speaking english\ne: raise children",
+    "output": "a"
+  },
+  {
+    "input": "Marcy couldn't cry.  She didn't want her parents to know that she was sad.  She hid her sobs by doing what?\na: shed tears\nb: be happy\nc: laughing\nd: smile\ne: talk",
+    "output": "c"
+  },
+  {
+    "input": "Colorado is two states away from the border with what nation?\na: arizona\nb: mexico\nc: utah\nd: united states\ne: texas",
+    "output": "b"
+  },
+  {
+    "input": "One might procure magazines and other items here.\na: library\nb: doctor\nc: table\nd: market\ne: electrical circuit",
+    "output": "d"
+  },
+  {
+    "input": "Although the living room was set up for the party, where did people tend to congregate while the mother worked?\na: wireroom\nb: kitchen\nc: ocean\nd: hallway\ne: outside",
+    "output": "b"
+  },
+  {
+    "input": "Billy  found that his toilet was overflowing.  Water was splashing onto  the floor and making a huge mess.  He got a mop and tried to clean it up.  Where might the toilet be located?\na: apartment\nb: house\nc: bedroom\nd: motel room\ne: bathroom",
+    "output": "e"
+  },
+  {
+    "input": "He seemed to be putting too much stock in the date, even though it wasn't shaggy he went to what?\na: wait for\nb: dress nice\nc: go for haircut\nd: bathe\ne: shave",
+    "output": "c"
+  },
+  {
+    "input": "The boy pondered commititng suicide, but didn't think of the consequences, what would he do should he carry though with it?\na: extreme pain\nb: die\nc: dying\nd: interruption\ne: sit down",
+    "output": "b"
+  },
+  {
+    "input": "They play violin, but can't learn others' musical pieces, what couldn't they do?\na: calluses\nb: take notes\nc: read music\nd: making music\ne: make noise",
+    "output": "c"
+  },
+  {
+    "input": "When meeting a friend, what does one generally do at first?\na: shake hands\nb: say hi\nc: smile\nd: have coffee\ne: give a hug",
+    "output": "b"
+  },
+  {
+    "input": "Sally was bored because she didn't like the junk that was on what?\na: drawer\nb: garage\nc: caddy\nd: bed\ne: television",
+    "output": "e"
+  },
+  {
+    "input": "They were finding information on their political enemies, what did they hope to gain?\na: understanding of\nb: get answers\nc: happiness\nd: gaining knowledge\ne: power",
+    "output": "e"
+  },
+  {
+    "input": "He used his hands to mold the clay, what was hoping to make his clay more like?\na: cup chin\nb: hard\nc: articulate\nd: sign language\ne: cup water",
+    "output": "c"
+  },
+  {
+    "input": "Where in your home would you normally keep your toothpaste?\na: mouth\nb: bathroom\nc: living room\nd: medicine cabinet\ne: suitcase",
+    "output": "b"
+  },
+  {
+    "input": "She had been looking through pictures for hours, she just couldn't eye a suspect among all the what?\na: person's head\nb: faces\nc: mammal\nd: potato\ne: someones face",
+    "output": "b"
+  },
+  {
+    "input": "Sometimes to have to prove you\na: cut grass\nb: go to town\nc: answer telephone call\nd: receive mail\ne: own home",
+    "output": "d"
+  },
+  {
+    "input": "What would you do after hard work if it is not dark outside yet?\na: rest\nb: go to sleep\nc: have fun\nd: get paid\ne: relax",
+    "output": "c"
+  },
+  {
+    "input": "The storm was surprising, where didn't it show up for meteorologists?\na: train\nb: tropical seas\nc: weather report\nd: america\ne: caribbean",
+    "output": "c"
+  },
+  {
+    "input": "If I am contemplating a different opinions, what am I hoping to gain?\na: revelations\nb: frustation\nc: new insights\nd: hesitation\ne: enlightenment",
+    "output": "c"
+  },
+  {
+    "input": "There was a cloud or two out but overall it was very what?\na: clear sky\nb: eat cake\nc: sunny\nd: bringing rain\ne: sunshine",
+    "output": "c"
+  },
+  {
+    "input": "Bob was tossed from his boat in the pacific ocean near the United States.  He sees a shore to the east and swims toward it. Where is he most likely swimming to?\na: seaside town\nb: florida\nc: ocean\nd: picture of sea side\ne: california",
+    "output": "e"
+  },
+  {
+    "input": "The playroom had many classic toys, the child spilled out each and every plastic monkey out of the what?\na: captivity\nb: puzzle\nc: barrel\nd: thailand\ne: rain forest",
+    "output": "c"
+  },
+  {
+    "input": "If you wait until the last minute when buying christmas presents what are you likely to experience?\na: debt\nb: pleasure\nc: good cheer\nd: lack of money\ne: stress",
+    "output": "e"
+  },
+  {
+    "input": "Competing can lead to great highs, and also great lows when suffering what?\na: winning or losing\nb: aggression\nc: gain\nd: defeat\ne: sweat",
+    "output": "d"
+  },
+  {
+    "input": "Joe learned some relaxing exercises from his therapist.  They all centered around what sort of action?\na: feeling good\nb: deep breathing\nc: sleeping\nd: taking a bath\ne: fall asleep",
+    "output": "b"
+  },
+  {
+    "input": "The team began analysing all the DNA evidence, they were hoping to once and for all be what?\na: enlightened\nb: discovering truth\nc: new knowledge\nd: paid\ne: learn more about",
+    "output": "b"
+  },
+  {
+    "input": "The person worked hard and achieved his goals and got to feel what?\na: headache\nb: disappointed\nc: celebrated\nd: simplicity\ne: fulfilled",
+    "output": "e"
+  },
+  {
+    "input": "John kept his right hand on the wall, knowing that it's the simplest way to keep from backtracking.  Where is John?\na: corner\nb: art show\nc: labyrinth\nd: classroom\ne: prison",
+    "output": "c"
+  },
+  {
+    "input": "Where could you find a laundry room that is only used by a few people?\na: hospital\nb: basement of apartment building\nc: college\nd: house\ne: hotel",
+    "output": "d"
+  },
+  {
+    "input": "James is very interested in other planets.  He loved the idea of going to mars, and reads books about it all the time.   He dreams of being on what?\na: love\nb: zoo\nc: school\nd: space shuttle\ne: library",
+    "output": "d"
+  },
+  {
+    "input": "Where are you unlikely to see clouds?\na: top of mountain\nb: inside of a house\nc: ground level\nd: air\ne: sky",
+    "output": "c"
+  },
+  {
+    "input": "What is a nerd most likely to have a curiosity to do that others wouldn't?\na: listen to music\nb: use television\nc: find truth\nd: design software\ne: read book",
+    "output": "d"
+  },
+  {
+    "input": "WHat causes a kid to cry when riding a bike?\na: peddling\nb: peddle\nc: stopping\nd: falling off\ne: pedaling",
+    "output": "d"
+  },
+  {
+    "input": "What blocks sunshine?\na: summer\nb: park\nc: desktop\nd: sea\ne: moon",
+    "output": "e"
+  },
+  {
+    "input": "Automation does a lot in a factory these days, but the heart and soul is still in the what?\na: industrial park\nb: russia\nc: workers\nd: free trade zones\ne: bots",
+    "output": "c"
+  },
+  {
+    "input": "Sarah was on the 30th floor when the fire started.  That made it difficult for her to escape what?\na: carpet\nb: hallway\nc: obesity\nd: building\ne: exchange",
+    "output": "d"
+  },
+  {
+    "input": "Billy hated killing people.   He didn't like seeing people do what?\na: bleed\nb: going to jail\nc: get arrested\nd: die\ne: going to prison",
+    "output": "d"
+  },
+  {
+    "input": "Where would you give something other than money to a clerk?\na: ticket booth\nb: at hotel\nc: shop\nd: bookstore\ne: post office",
+    "output": "e"
+  },
+  {
+    "input": "In a war, the killing ends when every person does what?\na: going to jail\nb: punishment\nc: recognizes their true oppressors\nd: death of\ne: dies",
+    "output": "e"
+  },
+  {
+    "input": "Learning about science can cause what emotion?\na: smiles\nb: feeling hot\nc: invent\nd: excitement\ne: frustration",
+    "output": "e"
+  },
+  {
+    "input": "Where would one find a snake on a mountain?\na: louisiana\nb: oregon\nc: pet store\nd: tropical forest\ne: blue ridge mountains",
+    "output": "b"
+  },
+  {
+    "input": "The vacation price included the hotel and meals, that's why he picked this particular what?\na: town\nb: las vegas\nc: metropolitan area\nd: resort\ne: city",
+    "output": "d"
+  },
+  {
+    "input": "What is the least aggressive way to show anger?\na: write letter\nb: release energy\nc: pass sentence\nd: punch\ne: broke leg",
+    "output": "a"
+  },
+  {
+    "input": "What could using computer not cause if you are paralyzed?\na: pleasure\nb: carpal tunnel syndrome\nc: medical bill\nd: eye strain\ne: increased efficiency",
+    "output": "b"
+  },
+  {
+    "input": "If people are vegetarian, what do they do more of?\na: believe in god\nb: sun themselves\nc: eat hamburgers\nd: gain wealth\ne: eat plants",
+    "output": "e"
+  },
+  {
+    "input": "If a person has one of every kind of a thing, what do they have?\na: complete collection\nb: have to hold\nc: hobby\nd: procrastinate\ne: acknowledgment",
+    "output": "a"
+  },
+  {
+    "input": "The bird was tired, where did it land?\na: cage\nb: sky\nc: on the head of a man\nd: roof\ne: countryside",
+    "output": "d"
+  },
+  {
+    "input": "Why would you be eating breakfast?\na: gas\nb: dirty dishes\nc: get distracted\nd: bad breath\ne: being satisfied",
+    "output": "e"
+  },
+  {
+    "input": "Where can you see a mammoth in NYC?\na: refrigerator\nb: museum exhibit\nc: prehistoric times\nd: museum of natural history\ne: forest",
+    "output": "d"
+  },
+  {
+    "input": "Doing housework is hard, what can that lead to?\na: boredom\nb: arguments\nc: exhaustion\nd: magic powers\ne: headache",
+    "output": "c"
+  },
+  {
+    "input": "What is an uncomfortable consequence of jumping rope?\na: sweating\nb: having fun\nc: smiling\nd: increased heart rate\ne: anger",
+    "output": "a"
+  },
+  {
+    "input": "The baby was cranky, it needed to eat breakfast but refused to what?\na: buy food\nb: open mouth\nc: get out of bed\nd: cry\ne: wake up",
+    "output": "b"
+  },
+  {
+    "input": "The small dog had died and, the family treasured him a lot, where did they decide to place it?\na: coffin\nb: denmark\nc: bucket\nd: basket\ne: new hampshire",
+    "output": "a"
+  },
+  {
+    "input": "Why was the baby crying?\na: too many moms\nb: acting\nc: got injured\nd: distraught\ne: hurt",
+    "output": "e"
+  },
+  {
+    "input": "The person was having a difficult time understanding the computer program, they were beginning to what?\na: stare at computer screen\nb: compile\nc: get frustrated\nd: write code\ne: think logically",
+    "output": "c"
+  },
+  {
+    "input": "What is the opposite of little?\na: least\nb: much\nc: bog\nd: lot of\ne: big",
+    "output": "e"
+  },
+  {
+    "input": "What happens after making friends with someone of the opposite sex?\na: falling in love\nb: smile\nc: talking\nd: shake hands\ne: punch in the face",
+    "output": "a"
+  },
+  {
+    "input": "A gazelle needs to run and jump when it's on what sort of terrain?\na: wildlife refuge\nb: open field\nc: steppe\nd: encyclopedia\ne: field",
+    "output": "c"
+  },
+  {
+    "input": "The wheel was loose, and threatened to fall off when they were what?\na: footloose\nb: sailing\nc: fast\nd: tighten\ne: bind",
+    "output": "c"
+  },
+  {
+    "input": "What do you fill with ink to print?\na: squid\nb: pencil\nc: newspaper\nd: fountain pen\ne: printer",
+    "output": "e"
+  },
+  {
+    "input": "Where are there millions of blowfish?\na: atlantic ocean\nb: jungle\nc: cuba\nd: sea water\ne: lake",
+    "output": "a"
+  },
+  {
+    "input": "The soldier was told to get to the rendezvous point, for there he was suppose to what?\na: fight enemy\nb: go to war\nc: fight for freedom\nd: wait for orders\ne: follow instructions",
+    "output": "d"
+  },
+  {
+    "input": "The father was sick of his lazy son, what did he encourage in him from there on out?\na: hard work\nb: active\nc: energetic\nd: productive\ne: business",
+    "output": "a"
+  },
+  {
+    "input": "Cameron was sleeping under the covers.  He was hunkered down because it was about to do what?\na: talking\nb: get cold\nc: snoring\nd: might dream\ne: wet bed",
+    "output": "b"
+  },
+  {
+    "input": "To play sports professionally you must do what very often?\na: wash your clothes\nb: get in shape\nc: practice\nd: take off uniform\ne: stretch",
+    "output": "c"
+  },
+  {
+    "input": "Why would you stop chatting with friends?\na: learning about\nb: meeting\nc: misunderstanding\nd: laughter\ne: silliness",
+    "output": "c"
+  },
+  {
+    "input": "What institution are you trying to dissolve if you're getting a divorce?\na: court\nb: marriage\nc: being married\nd: two people\ne: lawyer",
+    "output": "b"
+  },
+  {
+    "input": "He put in a mighty effort to his solution, but a better one was discovered making his what?\na: unimportant\nb: innovative\nc: insignificant\nd: helpless\ne: powerless",
+    "output": "a"
+  },
+  {
+    "input": "The idiots in the front row would not stop banging on the glass, there's always at least one of them at a what?\na: bar\nb: sporting event\nc: internet cafe\nd: garage sale\ne: hockey game",
+    "output": "e"
+  },
+  {
+    "input": "Sally appreciated discovering the truth.  After so much worry at gave her what?\na: enlightenment\nb: happiness\nc: conclusion\nd: relief\ne: excitement",
+    "output": "d"
+  },
+  {
+    "input": "Why is a member of the priesthood in a new church advised by friends to start getting in shape?\na: blue 32\nb: losing weight\nc: feel better\nd: pain\ne: exercise",
+    "output": "c"
+  },
+  {
+    "input": "What might people do to protect their legs from getting dirty on the farm?\na: wear jeans\nb: milk cow\nc: believe in god\nd: avoid mud\ne: plant flowers",
+    "output": "a"
+  },
+  {
+    "input": "By playing with educational materials, what were the children doing?\na: fighting\nb: learning\nc: getting tired\nd: injuries\ne: having fun",
+    "output": "b"
+  },
+  {
+    "input": "The man was very tired and sore, he decided to stay in bed to what?\na: rest more\nb: lazy\nc: were sick\nd: to be sick\ne: you're sick",
+    "output": "a"
+  },
+  {
+    "input": "What can eating hamburger cause immediately after eating it?\na: tasty\nb: health problems\nc: eat cake\nd: indigestion\ne: gain weight",
+    "output": "d"
+  },
+  {
+    "input": "The children were making each other laugh, they did this via what?\na: play ball\nb: reading a book\nc: jump rope\nd: tickle\ne: see exhibits",
+    "output": "d"
+  },
+  {
+    "input": "What item does the fork belong on?\na: plate\nb: video game\nc: kitchen drawer\nd: table\ne: road",
+    "output": "a"
+  },
+  {
+    "input": "What has a cash register with a limited items line?\na: bookstore\nb: supermarket\nc: toy store\nd: candy store\ne: shop",
+    "output": "b"
+  },
+  {
+    "input": "Where would you find cloth to sleep on?\na: kitchen\nb: linen closet\nc: fabric store\nd: bedroom\ne: garage",
+    "output": "d"
+  },
+  {
+    "input": "They needed human to act out motion capture, what were they producing?\na: university\nb: movies\nc: actors\nd: cafe\ne: movie theatre",
+    "output": "b"
+  },
+  {
+    "input": "He said he also wanted in, he threatened to tattle what?\na: differently\nb: mere\nc: only\nd: otherwise\ne: anyway",
+    "output": "d"
+  },
+  {
+    "input": "Artificial intelligence is changing society.  Shifting needs and capabilities have led to what?\na: change in leadership\nb: revolution\nc: no water\nd: acceptance\ne: depression",
+    "output": "a"
+  },
+  {
+    "input": "Where could you find a very large amount of air?\na: park\nb: surface of earth\nc: train station\nd: space shuttle\ne: house",
+    "output": "b"
+  },
+  {
+    "input": "The entrance hall was adorned with sports and academic trophy cases and a big banner where?\na: college\nb: school\nc: large home\nd: convention center\ne: hat rack",
+    "output": "b"
+  },
+  {
+    "input": "Where would you find a dictionary near young people getting lessons?\na: shelf\nb: friend's house\nc: table\nd: library\ne: classroom",
+    "output": "e"
+  },
+  {
+    "input": "How can people gain new perspectives?\na: waste paper\nb: tickle tarantulas\nc: pay bills\nd: change direction\ne: travel abroad",
+    "output": "e"
+  },
+  {
+    "input": "You go through a lot of training to be a soldier, this is to prepare you to do what?\na: follow orders\nb: wait for orders\nc: follow instructions\nd: fight for freedom\ne: fight enemy",
+    "output": "e"
+  },
+  {
+    "input": "The sloth heard portuguese being spoken nearby and cowered, where was the sloth?\na: tropical forests\nb: dictionary\nc: amazon basin\nd: congo\ne: tropical rain forest",
+    "output": "c"
+  },
+  {
+    "input": "When people have conflicts with one another, what might happen?\na: party\nb: agree or disagree\nc: gain weight\nd: believe in god\ne: become angry",
+    "output": "e"
+  },
+  {
+    "input": "What will a body be doing after jogging?\na: breath problem\nb: exhaustion\nc: sweating\nd: shortness of breath\ne: shin splints",
+    "output": "c"
+  },
+  {
+    "input": "The heater broke down before the city's Christmas party, so they could no longer host the party in the what?\na: automobile\nb: public building\nc: house\nd: home\ne: train",
+    "output": "b"
+  },
+  {
+    "input": "What would someone be if he or she is not normal?\na: unconventional\nb: orthodox\nc: ill\nd: reverse\ne: tangential",
+    "output": "a"
+  },
+  {
+    "input": "Why would you be going for run if you are not ill?\na: mouth wash\nb: breathlessness\nc: losing weight\nd: better health\ne: satisfaction",
+    "output": "c"
+  },
+  {
+    "input": "The lizard lived at the base of the ancient longest wall, what country did it likely live in?\na: forrest\nb: desert\nc: tropics\nd: china\ne: garden",
+    "output": "d"
+  },
+  {
+    "input": "You should watch out for snakes if floating down what African body of water?\na: wet grass\nb: western texas\nc: high grass\nd: amazon river\ne: tree",
+    "output": "d"
+  },
+  {
+    "input": "Attending church and praying are examples of what?\na: religiosity\nb: peacefulness\nc: relief\nd: feeling better\ne: feel better",
+    "output": "a"
+  },
+  {
+    "input": "What might fear do to people?\na: change\nb: separate people\nc: stop people\nd: motivate\ne: confuse",
+    "output": "e"
+  },
+  {
+    "input": "When someone is pretending to cry they are?\na: acting\nb: yelling\nc: got injured\nd: hurt\ne: miserable",
+    "output": "a"
+  },
+  {
+    "input": "Many in the flock often forget the most basic tenants, a big one being that on god can what?\na: anything\nb: everywhere\nc: judge men\nd: give peace\ne: help people",
+    "output": "c"
+  },
+  {
+    "input": "The policemen wanted to clear the scene of the accident, so what did they do to traffic?\na: hurry along\nb: direct traffic\nc: help\nd: force open door\ne: corner thief",
+    "output": "a"
+  },
+  {
+    "input": "What planet is the atlantic ocean part of?\na: planet\nb: basin\nc: submarines\nd: earth\ne: pacific",
+    "output": "d"
+  },
+  {
+    "input": "Danny hasn't experienced all that it means to be human yet.  He is missing something important.  What might he be missing?\na: space shuttle\nb: library\nc: school\nd: love\ne: wife",
+    "output": "d"
+  },
+  {
+    "input": "The team was able to communicate effectively, they knew what each other would what?\na: send email\nb: talk with people\nc: ring up the president of bermuda\nd: think\ne: speak to",
+    "output": "d"
+  },
+  {
+    "input": "Where would you expect to see a coach in Europe or South America?\na: play football\nb: sporting event\nc: at a laundry mat.\nd: soccer game\ne: hockey game",
+    "output": "d"
+  },
+  {
+    "input": "What rubber toy filled with helium will make a child happy?\na: loved\nb: learn\nc: eat cake\nd: balloon\ne: become adult",
+    "output": "d"
+  },
+  {
+    "input": "Clean linen was important in John's workplace Where might John work?\na: hospital\nb: daycare\nc: dresser drawers\nd: at hotel\ne: cabinet",
+    "output": "a"
+  },
+  {
+    "input": "What does every person talk out of?\na: name\nb: hide\nc: mother and father\nd: mouth\ne: heart",
+    "output": "d"
+  },
+  {
+    "input": "Female ants don't have wings and can only get around by doing what?\na: crawl\nb: follow one another\nc: running\nd: circle food\ne: fly",
+    "output": "a"
+  },
+  {
+    "input": "The child asked what a mammoth was, so his grandpa got a volume of the what out to show the child?\na: ancient times\nb: excavations\nc: south dakota\nd: encyclopedia\ne: backyard",
+    "output": "d"
+  },
+  {
+    "input": "If I have a soapy sponge and a place to use it further away, how should I use it at that moment?\na: wet surface\nb: collect water\nc: hold it\nd: clean dishes\ne: hold water",
+    "output": "e"
+  },
+  {
+    "input": "John fell down the well.  he couldn't believe what he found down there. It was like something out of what?\na: fairytale\nb: farm yard\nc: farm country\nd: michigan\ne: horror movie",
+    "output": "a"
+  },
+  {
+    "input": "Where is there likely a lot of lint?\na: pocket\nb: purse\nc: rug\nd: laundromat\ne: beach",
+    "output": "d"
+  },
+  {
+    "input": "If people are disappointed by something they aren't entitled to, what must they do?\na: like ice cream\nb: dance well\nc: believe in god\nd: make a wish\ne: lower expectations",
+    "output": "e"
+  },
+  {
+    "input": "A cat is a carnivore which means they don't do what?\na: get wet\nb: wool sweater\nc: eat vegetables\nd: hunt prey\ne: sharp claws",
+    "output": "c"
+  },
+  {
+    "input": "Where is the tearoom likely to have originated?\na: canteen\nb: asian countries\nc: england\nd: building\ne: london",
+    "output": "c"
+  },
+  {
+    "input": "He would entertain with a pool party regularly, it was the best way to beat the what?\na: please\nb: hot\nc: guest\nd: bribe\ne: liked",
+    "output": "b"
+  },
+  {
+    "input": "The boy had a lot of might, but he had something else, and the villain learned how to exploit his what?\na: definitely\nb: weak\nc: weakness\nd: wont\ne: will",
+    "output": "c"
+  },
+  {
+    "input": "Studying for taking final exams can be nerve wracking, especially if you're afraid of what?\na: success\nb: graduation\nc: failure\nd: anxiety\ne: studying",
+    "output": "c"
+  },
+  {
+    "input": "They teased him relentlessly for being a girl, this all started when he was caught in the locker room bathroom sitting down to do what?\na: knit\nb: pee\nc: relaxing\nd: watch tv\ne: talk",
+    "output": "b"
+  },
+  {
+    "input": "When people start learning about science and presented with hard science facts, many of them turn to what, despite what they may have learned growing up?\na: experiment\nb: atheism\nc: arabic\nd: scientific knowledge\ne: new ideas",
+    "output": "b"
+  },
+  {
+    "input": "After a while playing, what was happening to the children?\na: fights\nb: competitiveness\nc: having fun\nd: getting tired\ne: learning",
+    "output": "d"
+  },
+  {
+    "input": "What kind of leave did the manager assign all nonessential personnel?\na: mandatory\nb: shall\nc: necessary\nd: essential\ne: required",
+    "output": "a"
+  },
+  {
+    "input": "Louisiana was a confederate state in the what?\na: deep south\nb: united states\nc: 98 of world's crayfish\nd: revolutionary war\ne: gulf states",
+    "output": "a"
+  },
+  {
+    "input": "Where were the cowboys herding the heifers across the property towards?\na: deep sea\nb: slaughterhouse\nc: cattle ranch\nd: countryside\ne: barnyard",
+    "output": "c"
+  },
+  {
+    "input": "Where would a corpse be covered by a blanket?\na: bath store\nb: bedroom\nc: hospital\nd: flower garden\ne: michigan",
+    "output": "c"
+  },
+  {
+    "input": "What happens when people have no nourishment?\na: board ships\nb: suffer hunger\nc: study books\nd: play computer games\ne: believe in god",
+    "output": "b"
+  },
+  {
+    "input": "What do you call the caretakers of a child?\na: principal\nb: birth\nc: loving couple\nd: act of sex\ne: parents",
+    "output": "e"
+  },
+  {
+    "input": "Where can you find a story in print?\na: bookstore\nb: school\nc: newspaper\nd: past\ne: book or magazine",
+    "output": "e"
+  },
+  {
+    "input": "The fire was out of control.  If it wasn't stopped, it might do what to someone?\na: warm up\nb: harm\nc: charming\nd: warm hands\ne: murder",
+    "output": "b"
+  },
+  {
+    "input": "Where can you buy a complex system?\na: place\nb: clothing store\nc: computer store\nd: human body\ne: computer science",
+    "output": "c"
+  },
+  {
+    "input": "Why would a person stay at their job without being paid?\na: thank god\nb: wait in line\nc: volunteer\nd: offer help\ne: enjoy working",
+    "output": "e"
+  },
+  {
+    "input": "A human could have the sweats from working out, but if they wake up with them they probably what?\na: have fever\nb: need to leave\nc: have to sleep\nd: think and reason\ne: torture",
+    "output": "a"
+  },
+  {
+    "input": "What could stop you fron analysing?\na: bad code\nb: change\nc: better knowledge\nd: headache\ne: learning more about",
+    "output": "b"
+  },
+  {
+    "input": "Where do you keep a chess board?\na: house\nb: basement\nc: toy store\nd: cabinet\ne: retirement community",
+    "output": "d"
+  },
+  {
+    "input": "The man needed a toothbrush and some food, where did he go?\na: drug store\nb: mouth\nc: dentist office\nd: he went to the attic\ne: grocery store",
+    "output": "e"
+  },
+  {
+    "input": "I wanted to stand up, what would I use to do this?\na: feet\nb: balance\nc: effort\nd: hands\ne: courage",
+    "output": "a"
+  },
+  {
+    "input": "You can use a stick to swat at what growing in a field?\na: woods\nb: forest\nc: bicycle spokes\nd: home\ne: grass",
+    "output": "e"
+  },
+  {
+    "input": "What causes people to initially begin flirting?\na: curiosity\nb: being slapped\nc: attraction\nd: confusion\ne: getting into trouble",
+    "output": "c"
+  },
+  {
+    "input": "What is a northern country where one might find a bald eagle preserve?\na: canada\nb: colorado\nc: mountain top\nd: utah\ne: in washington",
+    "output": "a"
+  },
+  {
+    "input": "The woman spent a lot of time drinking alcohol, what did doctors advise her not to do?\na: licking on floor\nb: frequent urination\nc: throwing up\nd: get pregnant\ne: toxicity",
+    "output": "d"
+  },
+  {
+    "input": "Where are you likely to find a paper program?\na: theater\nb: computer\nc: opera\nd: television\ne: concert",
+    "output": "c"
+  },
+  {
+    "input": "John loved to paint houses.  How did he usually do it?\na: clothes get stained\nb: with brush\nc: wallpaper\nd: electrical circuit\ne: draw",
+    "output": "b"
+  },
+  {
+    "input": "She was famous for her needlepoint, this one was going to be round so she grabbed her round wooden what?\na: livingroom\nb: artscraft store\nc: sewing\nd: frame\ne: artefact",
+    "output": "d"
+  },
+  {
+    "input": "If you're spending too much time intensely jogging what can happen?\na: blisters\nb: practice for mar-than\nc: improved health\nd: being tired\ne: heart attacks",
+    "output": "e"
+  },
+  {
+    "input": "The comforter was a favorite for cuddling in front of the TV, where did the family put it?\na: outside\nb: washing machine\nc: cedar chest\nd: bedroom\ne: livingroom",
+    "output": "e"
+  },
+  {
+    "input": "WHat is the most fun way to get in shape?\na: feel good\nb: sitting down\nc: sex\nd: overweight\ne: disciplined",
+    "output": "c"
+  },
+  {
+    "input": "What are children in uniforms and helmets about to do?\na: throw things\nb: watch tv\nc: sit down\nd: play sports\ne: play with toys",
+    "output": "d"
+  },
+  {
+    "input": "Where may you be if you're buying pork chops at a corner shop?\na: england\nb: town\nc: desert\nd: kentucky\ne: iowa",
+    "output": "e"
+  },
+  {
+    "input": "Having children do what after dinner helps to teach them responsibilty?\na: need care\nb: watch television\nc: come home\nd: wash dishes\ne: complain",
+    "output": "d"
+  },
+  {
+    "input": "What would you be unable to do on a mountain if there is not good weather?\na: travel\nb: go somewhere\nc: ride bike\nd: play frisbee\ne: climb",
+    "output": "e"
+  },
+  {
+    "input": "How are people typically positioned in an interview?\na: facing each other\nb: round-table\nc: gather together\nd: get angry\ne: believe in god",
+    "output": "a"
+  },
+  {
+    "input": "The speaker did what with the new product for the others?\na: hatred\nb: desk\nc: demonstration\nd: shelf\ne: conference",
+    "output": "c"
+  },
+  {
+    "input": "James slamed into someone playing football, and not for the first time.  He was concerned about the consequences of many what?\na: exhilaration\nb: interactions\nc: head injuries\nd: death\ne: having fun",
+    "output": "c"
+  },
+  {
+    "input": "Someone who had a very bad flight might be given a trip in this to make up for it?\na: first class\nb: propitious\nc: reputable\nd: one\ne: sufficient",
+    "output": "a"
+  },
+  {
+    "input": "What is someone looking for in a new mattress when returning one that had lots of rigidity?\na: ductility\nb: empity\nc: softness\nd: flexibility\ne: malleability",
+    "output": "c"
+  },
+  {
+    "input": "What might help if my dog wants a drink but his bowl is empty?\na: empty bottle\nb: can\nc: cabinet\nd: cup\ne: backpack",
+    "output": "d"
+  },
+  {
+    "input": "What can a vehicle do to groceries?\na: eat\nb: feel impact of accident\nc: slow down\nd: carry\ne: travel",
+    "output": "d"
+  },
+  {
+    "input": "Why do people engage in chatting with friends in class?\na: necessity\nb: answers\nc: inspiration\nd: love\ne: fun",
+    "output": "b"
+  },
+  {
+    "input": "Alcoholic refreshments are sometimes banned in what public places?\na: homeless shelter\nb: bar\nc: park\nd: bridge\ne: school",
+    "output": "c"
+  },
+  {
+    "input": "If someone comes in the room while you're cooking what are they hoping to do?\na: fight\nb: get food\nc: cooked food\nd: steam\ne: having dinner",
+    "output": "b"
+  },
+  {
+    "input": "He came across a raw item but his pack was full, he had to abandon something if he was to what the item?\na: join\nb: acquire\nc: engage\nd: maintain\ne: remit",
+    "output": "b"
+  },
+  {
+    "input": "How would you express information if you do not have a pen or pencil?\na: may disagree\nb: close mouth\nc: write down\nd: talk\ne: eyes",
+    "output": "d"
+  },
+  {
+    "input": "What is a sport that involves hurdles?\na: get tired\nb: winning\nc: have fun\nd: hoping\ne: running",
+    "output": "e"
+  },
+  {
+    "input": "The dog liked to be pet, especially on his floppy what?\na: teeth\nb: four legs\nc: two ears\nd: the gas station ran out of gas today.\ne: paws",
+    "output": "c"
+  },
+  {
+    "input": "Where are there very famous churchyard?\na: village\nb: missouri\nc: country side\nd: england\ne: city",
+    "output": "d"
+  },
+  {
+    "input": "Simon asked his father to read him a story.  His father couldn't find Simon's book, so looked everywhere for it. Where might it be?\na: eat cake\nb: end badly\nc: communicating moral\nd: near end\ne: floor",
+    "output": "e"
+  },
+  {
+    "input": "Bob is a very creative person.  Visiting the museum gave him a lot of what?\na: enjoyment\nb: inspiration\nc: boredom\nd: being bored\ne: lethargy",
+    "output": "b"
+  },
+  {
+    "input": "Where can someone get a new saw?\na: hardware store\nb: toolbox\nc: logging camp\nd: tool kit\ne: auger",
+    "output": "a"
+  },
+  {
+    "input": "You could call it jackson for short, but you'd be leaving out a hole when talking about a place where?\na: lousiana\nb: tennessee\nc: jack\nd: mississippi\ne: wyoming",
+    "output": "e"
+  },
+  {
+    "input": "Where would you put a dollar if you want to go to a store and buy something with it?\na: cash drawer\nb: teh bank\nc: safety deposit box\nd: pocket\ne: piggy bank",
+    "output": "d"
+  },
+  {
+    "input": "What is a fast but expensive way to send small cargo?\na: airplane\nb: ship's hold\nc: boat\nd: truck\ne: train",
+    "output": "a"
+  },
+  {
+    "input": "What is considered to be an outdated way to gain knowledge?\na: encyclopedia\nb: television\nc: head\nd: library\ne: book",
+    "output": "a"
+  },
+  {
+    "input": "What continent  has a country with a historical wall?\na: asia\nb: canada\nc: africa\nd: great outdoors\ne: region",
+    "output": "a"
+  },
+  {
+    "input": "They needed grape juice for their party, they went to buy it and other snacks at the what?\na: field\nb: restaurant\nc: salad\nd: market\ne: food store",
+    "output": "e"
+  },
+  {
+    "input": "The amateur didn't realize his chicken wouldn't lay enough eggs without a what?\na: tuna\nb: eaten\nc: rooster\nd: cow\ne: chopped",
+    "output": "c"
+  },
+  {
+    "input": "The human looked down longingly as he sat in the orbiting space station, what did he miss?\na: nearest house\nb: workplace\nc: surface of earth\nd: office block\ne: his feet",
+    "output": "c"
+  },
+  {
+    "input": "James was traveling abroad for a few weeks and he had trouble finding his double edged razor. He eventually found it together with some cream and a small comb.  What did he find it in?\na: medicine cabinet\nb: shower\nc: shaving kit\nd: first aid kit\ne: the breadbox",
+    "output": "c"
+  },
+  {
+    "input": "How will skin feel after contact with poison ivy?\na: feel lumpy\nb: itches\nc: feel cold\nd: feel pressure\ne: feel clammy",
+    "output": "b"
+  },
+  {
+    "input": "The farmer sought an apple tree cultivar that was hardy in the western United States, where was he looking to plant it?\na: rhode island\nb: texas\nc: new york\nd: idaho\ne: new hampshire",
+    "output": "d"
+  },
+  {
+    "input": "Where is a shelf likely to be hidden behind a door?\na: refrigerator\nb: bookstore\nc: cupboard\nd: school building\ne: wardrobe",
+    "output": "c"
+  },
+  {
+    "input": "If a lantern is not for sale, where is it likely to be?\na: antique shop\nb: campsite\nc: dark place\nd: trash\ne: house",
+    "output": "e"
+  },
+  {
+    "input": "Where is a good place to get a ball?\na: kitchen\nb: child's hand\nc: street\nd: toy store\ne: soccer game",
+    "output": "d"
+  },
+  {
+    "input": "What kind of entertainment may feature a talking weasel on an adventure?\na: children's story\nb: forrest\nc: mulberry bush\nd: animated film\ne: outdoors",
+    "output": "d"
+  },
+  {
+    "input": "Where did the two friends party and get drunk before going back to their sorority?\na: wedding\nb: fraternity house\nc: friend's house\nd: school\ne: bar",
+    "output": "b"
+  },
+  {
+    "input": "What keeps a cigarette fresh?\na: carton\nb: light fire\nc: burn down forest\nd: ashtray\ne: hand",
+    "output": "a"
+  },
+  {
+    "input": "Most dentist offices are found in what groups of homes and businesses?\na: street\nb: suburb\nc: city\nd: hospital\ne: town",
+    "output": "c"
+  },
+  {
+    "input": "Cats are looking longingly at an aquarium, what are they looking to do?\na: like heat\nb: play\nc: eating fish\nd: drink water\ne: come to dinner",
+    "output": "c"
+  },
+  {
+    "input": "Where does a person use an expressway to get around quickly?\na: medium\nb: country\nc: eastern united states\nd: american city\ne: michigan",
+    "output": "d"
+  },
+  {
+    "input": "When hearing music while drinking alcohol, what are people likely to do?\na: become inebriated\nb: socialize\nc: eating\nd: sleep at night\ne: dance",
+    "output": "e"
+  },
+  {
+    "input": "Bill is stuck in marsh when a man comes up to him peaking Cajun, where is he?\na: low lands\nb: new york\nc: forest\nd: louisiana\ne: everglades",
+    "output": "d"
+  },
+  {
+    "input": "If I am looking for specialized medical consultation, where do I tend to travel?\na: vermont\nb: every state\nc: detroit\nd: major city\ne: urban area",
+    "output": "d"
+  },
+  {
+    "input": "The annoying person always had a comment to share, he must think he must what?\na: know everything\nb: compliments\nc: confidence\nd: care about\ne: spare time",
+    "output": "a"
+  },
+  {
+    "input": "What will happen when a person is eating hamburger in a sufficient amount?\na: get full\nb: gaining weight\nc: gain weight\nd: calories\ne: stomach ache",
+    "output": "a"
+  },
+  {
+    "input": "I go on a lot of vacations, what does that make me?\na: vacate\nb: vacationgoer\nc: include cruise\nd: racecation\ne: traveler",
+    "output": "b"
+  },
+  {
+    "input": "Where would you fill a salad bowl with as much as you can eat?\na: dishwasher\nb: a resturant\nc: buffet\nd: french restaurant\ne: cupboard",
+    "output": "c"
+  },
+  {
+    "input": "When the pond near the train tracks froze over the local kids all played hockey, it was the stereotypical thing to do where?\na: train station\nb: michigan\nc: alaska\nd: canada\ne: countryside",
+    "output": "d"
+  },
+  {
+    "input": "Where would there be a ticket office that has people with suitcases?\na: hotel\nb: train station\nc: opera house\nd: end of line\ne: city",
+    "output": "b"
+  },
+  {
+    "input": "What is the hopeful result of going to see a play?\na: sit\nb: being entertained\nc: jobless\nd: meet\ne: laugh",
+    "output": "b"
+  },
+  {
+    "input": "Where is known for it's red suspension bridge?\na: california\nb: over water\nc: river valley\nd: work shop\ne: dental office",
+    "output": "a"
+  },
+  {
+    "input": "If you have a condo in a Wisconsin city known for beer, where are you?\na: city\nb: electrical circuit\nc: residential area\nd: suburbia\ne: milwaukee",
+    "output": "e"
+  },
+  {
+    "input": "Animals make up a large part of the?\na: carrying cargo\nb: favorite\nc: ecosystem\nd: nature\ne: ecology",
+    "output": "c"
+  },
+  {
+    "input": "Where are rats that live with turtles likely to be?\na: roof\nb: sewers\nc: cellar\nd: laboratory\ne: reptile farm",
+    "output": "b"
+  },
+  {
+    "input": "What liquid can be kept in a large container?\na: juice\nb: door\nc: shed\nd: supermarket\ne: cabinet",
+    "output": "a"
+  },
+  {
+    "input": "Where could you find a jellyfish that does not exist?\na: cartoon\nb: japanese restaurant\nc: underwater\nd: moon\ne: red sea",
+    "output": "a"
+  },
+  {
+    "input": "Where would you find many computers in a group of work spaces?\na: office building\nb: canteen\nc: backpack\nd: house\ne: box",
+    "output": "a"
+  },
+  {
+    "input": "If I'm not free, what am I?\na: paid for\nb: enslaved\nc: expensive\nd: imprisoned\ne: locked up",
+    "output": "d"
+  },
+  {
+    "input": "Where does someone get a rubber for sex?\na: drug store\nb: wallet\nc: bedside table\nd: house\ne: classroom",
+    "output": "a"
+  },
+  {
+    "input": "What is a soccer field at a school next to?\na: countryside\nb: swimming pool\nc: open place\nd: park\ne: school yard",
+    "output": "e"
+  },
+  {
+    "input": "Sam was a stranger.  Even so, Mark treated him like what?\na: friend\nb: family\nc: known person\nd: park\ne: outsider",
+    "output": "b"
+  },
+  {
+    "input": "Where would sunshine be likely to fall on a plant that a person owns?\na: street\nb: windowsill\nc: disneyland\nd: grow lights\ne: summer",
+    "output": "b"
+  },
+  {
+    "input": "Athletes soak in hot tubs to relieve what after playing baseball?\na: fame\nb: errors\nc: pain\nd: strikes\ne: sore muscles",
+    "output": "e"
+  },
+  {
+    "input": "Jim wanted to make a fortune but didn't like physical labor or dealing with people, what did he try studying?\na: cookie\nb: real estate\nc: stock market\nd: treasure chest\ne: treasure hunting",
+    "output": "c"
+  },
+  {
+    "input": "Where can someone store extra sheets of paper?\na: printer\nb: box\nc: cutting and folding\nd: cabinet\ne: office",
+    "output": "b"
+  },
+  {
+    "input": "what can get a prisoner in more trouble?\na: dream of freedom\nb: attempt to escape\nc: do time\nd: fast for days\ne: scape jail",
+    "output": "b"
+  },
+  {
+    "input": "If I have a vintage, decorative light source in my possession, what is it likely to be?\na: sun\nb: sky\nc: candle\nd: house\ne: lamp",
+    "output": "c"
+  },
+  {
+    "input": "Sally was looking for a saltshaker.  She looked where she ate, and it wasn't there. She looked in storage, and it wasn't there.   She searched every corner, eventually she found it wedged beside a counter.   Where did she find the saltshaker?\na: own kitchen\nb: denny's restaurant\nc: dinner table\nd: kitchen cupboard\ne: cabinet",
+    "output": "a"
+  },
+  {
+    "input": "What carries blood toward the heart?\na: pumps\nb: vein\nc: hospital\nd: person\ne: soccer game",
+    "output": "b"
+  },
+  {
+    "input": "People do what in crisis?\na: grow shorter\nb: become hysterical\nc: panic\nd: take trips\ne: talk to each other",
+    "output": "b"
+  },
+  {
+    "input": "What is a farmer growing in Illinois or Iowa?\na: grow plants\nb: seed plants\nc: seed crops\nd: grow animals\ne: raise corn",
+    "output": "e"
+  },
+  {
+    "input": "Where does a person who is a weasel tend to be employed?\na: children's song\nb: parks\nc: used car lot\nd: chicken coop\ne: washington d.c",
+    "output": "c"
+  },
+  {
+    "input": "When Bob plugs has electricity next to his nightstand, where is he?\na: church\nb: concert\nc: opera\nd: bedroom\ne: restaurant",
+    "output": "d"
+  },
+  {
+    "input": "The referee wasn't specialized in one thing. He refereed many games.  He was offered a job but wasn't sure what it would be.  What did he know it would be?\na: side with opponent\nb: football\nc: hockey game\nd: part two boxers\ne: sporting event",
+    "output": "e"
+  },
+  {
+    "input": "Humans usually get what from taking a break?\na: not working\nb: feel relaxed\nc: relaxation\nd: distractions\ne: delay",
+    "output": "c"
+  },
+  {
+    "input": "Where do people who use a puck for living go at the end of their work day?\na: locker room\nb: desert\nc: ice hockey game\nd: sporting goods store\ne: hockey rink",
+    "output": "a"
+  },
+  {
+    "input": "The kid wanted to go outside and play, what was he sick of doing?\na: serious\nb: hatred\nc: longplay\nd: doing nothing\ne: musical",
+    "output": "d"
+  },
+  {
+    "input": "After running twenty six miles, what physical feeling is nearly every person likely to feel?\na: excruciating pain\nb: bloody legs\nc: exhaustion\nd: death\ne: passing out",
+    "output": "c"
+  },
+  {
+    "input": "John listened to music when he needed to focus.  It helped him achieve what?\na: express emotion\nb: beautifull\nc: irritate\nd: bad environment\ne: quiet mind",
+    "output": "e"
+  },
+  {
+    "input": "She couldn't hide she liked the boy she was talking to, she had a constant what?\na: make eye contact\nb: smile\nc: another person\nd: listening\ne: compliment",
+    "output": "b"
+  },
+  {
+    "input": "The neolithic person was hungry, so what was their solution to the prblem?\na: thank god\nb: hunt for food\nc: feel humiliated\nd: sleep\ne: prepare to go",
+    "output": "b"
+  },
+  {
+    "input": "They began moving car with their bare hands to save the child trapped underneath, nobody could explain where they got the what to do so?\na: strength\nb: energy\nc: force\nd: drive\ne: mood",
+    "output": "a"
+  },
+  {
+    "input": "When you see something rise, you are where in relation to it?\na: sun set\nb: near\nc: fall\nd: below\ne: lower",
+    "output": "d"
+  },
+  {
+    "input": "One way to relieve your hunger if you live near the coast is to do what?\na: grill\nb: go to market\nc: bring home fish\nd: eat hamburger\ne: make bread",
+    "output": "c"
+  },
+  {
+    "input": "What could be used to write with a steel pen?\na: warehouse\nb: arm\nc: hand\nd: desk drawer\ne: veterinary office",
+    "output": "c"
+  },
+  {
+    "input": "Why would a person be happy about an accident?\na: found a penny\nb: hurt people\nc: not harmed\nd: harm others\ne: make mistakes",
+    "output": "c"
+  },
+  {
+    "input": "What handle did the man grab to when he wanted a snack?\na: fridge\nb: hardware store\nc: frying pan\nd: water fountain\ne: drawer",
+    "output": "a"
+  },
+  {
+    "input": "When drinking booze what can you do to stay busy?\na: reach tentative agreement\nb: stay in bed\nc: stop bicycle\nd: examine thing\ne: suicide",
+    "output": "d"
+  },
+  {
+    "input": "What does everyone try their whole life to be?\na: sad\nb: happy\nc: grow old\nd: cat\ne: believed",
+    "output": "b"
+  },
+  {
+    "input": "Where would you go to get maps that cannot be bought?\na: cabinet\nb: guide drivers\nc: library\nd: internet\ne: bookstore",
+    "output": "c"
+  },
+  {
+    "input": "Humans have a number of body parts that serve multiple functions.  Name something that they have an abundance of, and which serves a dual function.\na: two arms\nb: lay eggs\nc: video game\nd: two eyes\ne: ten fingers",
+    "output": "e"
+  },
+  {
+    "input": "Where can you find pamphlets regarding diseases and ailments?\na: theaters\nb: health department\nc: library\nd: drawer\ne: mail box",
+    "output": "b"
+  },
+  {
+    "input": "During offiical judging what must be avoided?\na: controversy\nb: prejudice\nc: verdict\nd: statement\ne: evaluating",
+    "output": "b"
+  },
+  {
+    "input": "where do you buy a game?\na: casino\nb: playground\nc: toy store\nd: arcade\ne: family room",
+    "output": "c"
+  },
+  {
+    "input": "He always traveled up the mountain when winter arrived, he had a passion and desire to do what?\na: play volleyball\nb: play hockey\nc: ski\nd: knit\ne: skate",
+    "output": "c"
+  },
+  {
+    "input": "What do you need to do so that other people can use television?\na: turn on electricity\nb: open eyes\nc: kill\nd: plug in\ne: watch television",
+    "output": "d"
+  },
+  {
+    "input": "Even when one of the slaves dropped dead on the line the rest were forced to keep what?\na: being\nb: working\nc: alive\nd: jumping\ne: breathing",
+    "output": "b"
+  },
+  {
+    "input": "What is the process of maintaining rosebushes in a lawn called?\na: cooking\nb: landscaping\nc: california\nd: backyard\ne: courtyard",
+    "output": "b"
+  },
+  {
+    "input": "They took a break from all the rides to have lunch, while eating hamburger they talked about how they were going to what on the next ride?\na: heartburn\nb: have fun\nc: enjoy\nd: gas\ne: food poisoning",
+    "output": "b"
+  },
+  {
+    "input": "Where is likely to not just have a kosher restaurant?\na: jerusalem\nb: jewish neighborhoods\nc: dining in\nd: new york city\ne: dining",
+    "output": "d"
+  },
+  {
+    "input": "Sally was standing in queue.  The line was very, very slow.  What was she feeling?\na: frustration\nb: delays\nc: being annoyed\nd: moving forward\ne: progress",
+    "output": "a"
+  },
+  {
+    "input": "If you're suffering from boredom what can you do on your mobile phone?\na: talk to it\nb: surf net\nc: play cards\nd: play chess\ne: see new",
+    "output": "b"
+  },
+  {
+    "input": "Where would you find a computer near very young people learning?\na: apartment\nb: house\nc: classroom\nd: hallway\ne: demonstration",
+    "output": "c"
+  },
+  {
+    "input": "When washing clothes what do you get when the cycle is complete and thus need the second tumbling machine for?\na: wet clothes\nb: fold\nc: wear out\nd: get wet\ne: torn",
+    "output": "a"
+  },
+  {
+    "input": "He was trying to procreate with many individuals, this led to a what?\na: moaning\nb: die\nc: kiss\nd: std\ne: sanity",
+    "output": "d"
+  },
+  {
+    "input": "Where do you keep a credit card?\na: purse\nb: envelope\nc: resturant\nd: wakket\ne: wallet",
+    "output": "e"
+  },
+  {
+    "input": "When remembering a tragedy in the past, what do many people feel?\na: depression\nb: pain\nc: nostalgia\nd: knowing\ne: knowledge",
+    "output": "a"
+  },
+  {
+    "input": "Some people don't have insurance, they can expect a long wait in the waiting room when they go to the walk in what?\na: maternity ward\nb: dentist's office\nc: doctor's office\nd: private doctor\ne: clinic",
+    "output": "e"
+  },
+  {
+    "input": "Where might a person store pamphlets?\na: health department\nb: drawer\nc: bookstore\nd: library\ne: desk",
+    "output": "b"
+  },
+  {
+    "input": "What would not be true about a basketball if it had a hole in it but it did not lose its general shape?\na: punctured\nb: popular in america\nc: full of air\nd: gone\ne: round",
+    "output": "c"
+  },
+  {
+    "input": "If a person isn't able to pay their bills what must they do?\na: know everything\nb: acknowledgment\nc: make more money\nd: throw a party\ne: spare time",
+    "output": "c"
+  },
+  {
+    "input": "The key to living life and not just existing is what?\na: acquiring knowledge\nb: happiness\nc: purpose\nd: existing\ne: joy",
+    "output": "b"
+  },
+  {
+    "input": "Where would you put some coffee if you are thirsty?\na: container\nb: internet cafe\nc: starbucks\nd: cup\ne: supermarket",
+    "output": "d"
+  },
+  {
+    "input": "What can happen after doing housework that does not involve pain?\na: become tired\nb: stress\nc: put on shoes\nd: backache\ne: low pay",
+    "output": "a"
+  },
+  {
+    "input": "What happens to people in horror movies who die?\na: killed in war\nb: murdered\nc: not important\nd: sentenced to jail\ne: cremated",
+    "output": "b"
+  },
+  {
+    "input": "If you yell when a person starts to go in another direction, what are they likely to do?\na: thank god\nb: turn around\nc: work hard\nd: walk away\ne: do a backflip",
+    "output": "b"
+  },
+  {
+    "input": "Where would a business man keep a plane ticket with other documents?\na: briefcase\nb: boarding plane\nc: airport\nd: pocket\ne: shirt sleeve",
+    "output": "a"
+  },
+  {
+    "input": "What has someone who had finished their undergraduate done?\na: graduated\nb: masters\nc: postgraduate\nd: phd\ne: professor",
+    "output": "a"
+  },
+  {
+    "input": "The archaeologist was seeing artifacts that he knew were fake, how did he feel?\na: pleasure\nb: awe inspiring\nc: angry\nd: thinking\ne: painful memories",
+    "output": "c"
+  },
+  {
+    "input": "The traveler needs a place to say, where are hotels located?\na: in a palace\nb: mexico\nc: every country\nd: town\ne: motel",
+    "output": "c"
+  },
+  {
+    "input": "What will happen to skin pinched in something?\na: feel cold\nb: feel pressure\nc: feel bumpy\nd: itches\ne: feel clammy",
+    "output": "b"
+  },
+  {
+    "input": "Where is microphone boom likely to be used to record an album?\na: radio station\nb: recording studio\nc: concert\nd: tv studio\ne: new york",
+    "output": "b"
+  },
+  {
+    "input": "The boy was too nervous to dance, so what was he doing progressively at the ball?\na: dance like crazy\nb: standing still\nc: wallflower\nd: stand still\ne: like dancing",
+    "output": "b"
+  },
+  {
+    "input": "While up in the mountains the locals taught him all the tricks of the fingerboard, he learned the basics of playing the what?\na: violin\nb: banjo\nc: mandolin\nd: guitar\ne: lute",
+    "output": "b"
+  },
+  {
+    "input": "Where do cars usually travel at very high speeds?\na: freeway\nb: road\nc: race track\nd: alley\ne: parking lot",
+    "output": "c"
+  },
+  {
+    "input": "People use a knife to clean their catch on what vessel?\na: table\nb: kitchen drawer\nc: fishing boat\nd: pocket\ne: board",
+    "output": "c"
+  },
+  {
+    "input": "Many sea anemones live in what group of tiny marine animals?\na: intertidal zone\nb: florida keys\nc: flower bed\nd: coral sea\ne: cool",
+    "output": "d"
+  },
+  {
+    "input": "A person had run all day and felt tired, what did they need?\na: water\nb: time to rest\nc: intellectual stimulation\nd: look beautiful\ne: compliments",
+    "output": "b"
+  },
+  {
+    "input": "What could a fan watch?\na: football stadium\nb: sporting event\nc: bathroom\nd: sports stadium\ne: hot room",
+    "output": "b"
+  },
+  {
+    "input": "Where can a woman get birth control pills?\na: drug store\nb: medicine cabinet\nc: hormones\nd: vagina\ne: pharmacy",
+    "output": "e"
+  },
+  {
+    "input": "What can an adult do that a young child cannot in the morning?\na: give up\nb: dress herself\nc: drink beer\nd: work\ne: marry",
+    "output": "b"
+  },
+  {
+    "input": "I feel hunger, but I don't want to get any food because work has been slow this month, what don't I want to do?\na: drink\nb: begin work\nc: have lunch\nd: eat quickly\ne: spend money",
+    "output": "e"
+  },
+  {
+    "input": "The government cracked down on anybody protesting, what did the government dislike?\na: buy cats at petstore\nb: question authority\nc: crowds\nd: forget\ne: wash dishes",
+    "output": "b"
+  },
+  {
+    "input": "What may a person call people who are acting foolishly?\na: strange\nb: kind\nc: dumb\nd: weird\ne: stupid",
+    "output": "e"
+  },
+  {
+    "input": "When a group of people are talking at work they might be doing what?\na: having a concert.\nb: cough\nc: sharing of ideas\nd: speak\ne: sneeze",
+    "output": "c"
+  },
+  {
+    "input": "After procreating what can't some people handle that makes them turn to the government?\na: triplets\nb: having children\nc: added responsibilities\nd: quintuplets\ne: large family",
+    "output": "c"
+  },
+  {
+    "input": "Where is a good place to buy moistener?\na: bathroom\nb: purse\nc: drug store\nd: hand lotion\ne: water",
+    "output": "c"
+  },
+  {
+    "input": "The person knew the police were after him, so what did he do?\na: the sun\nb: catch cold\nc: prepare to go\nd: feel humiliated\ne: hunt for food",
+    "output": "c"
+  },
+  {
+    "input": "Where would you display a picture on a vertical surface?\na: shelf\nb: desktop\nc: editer\nd: wall\ne: art show",
+    "output": "d"
+  },
+  {
+    "input": "Where do nurses work with one doctor?\na: resuscitate\nb: doctor's office\nc: hospital\nd: reception\ne: nursing home",
+    "output": "b"
+  },
+  {
+    "input": "Running is a great workout, it really works up a what?\na: exercise\nb: dehydration\nc: breathing hard\nd: sweat\ne: trip and fall",
+    "output": "d"
+  },
+  {
+    "input": "Sam eat a big dinner.  He eventually stopped having food because he experienced a pleasant sensation.  What did he experience?\na: feeling of fullness\nb: weight gain\nc: nausea\nd: not hungry\ne: upset stomach",
+    "output": "a"
+  },
+  {
+    "input": "Where do people typically make a friend as an adult?\na: at school\nb: neighbor's house\nc: at a bar\nd: workplace\ne: unexpected place",
+    "output": "d"
+  },
+  {
+    "input": "If he did not pass course this semester he would have to what?\na: learn\nb: fail\nc: get certificate\nd: go back to\ne: feel proud",
+    "output": "d"
+  },
+  {
+    "input": "Where would you hit a ball with a stick into other balls?\na: child's hand\nb: pool table\nc: street\nd: toy box\ne: soccer field",
+    "output": "b"
+  },
+  {
+    "input": "Where can a bath towel be borrowed?\na: cupboard\nb: at hotel\nc: swimming pool\nd: clothes line\ne: backpack",
+    "output": "b"
+  },
+  {
+    "input": "What would you need if you want to smoke?\na: you're stupid\nb: kill yourself\nc: roll joint\nd: cigarette\ne: lighter fluid.",
+    "output": "d"
+  },
+  {
+    "input": "What is a synonym for faith?\na: trust\nb: move mountains\nc: uplift\nd: belief\ne: experience",
+    "output": "d"
+  },
+  {
+    "input": "Where do people perter to have linoleum on the ground?\na: mobile home\nb: house\nc: kitchen floor\nd: shed\ne: furniture",
+    "output": "c"
+  },
+  {
+    "input": "This city in Northern Norway is filled within things to do like Polar Nights half marathons and located in the middle of the Northern lights oval, which city is it?\na: northern\nb: nome\nc: troms\u00f8\nd: finnmark\ne: vads\u00f8",
+    "output": "c"
+  },
+  {
+    "input": "How can a company efficiently sell things to their customer?\na: sell\nb: branch out\nc: own factory\nd: ship goods\ne: mail order",
+    "output": "e"
+  },
+  {
+    "input": "What do dogs need to get so they behave appropriately?\na: trained\nb: they will marry\nc: require water\nd: need food\ne: get lost",
+    "output": "a"
+  },
+  {
+    "input": "where is a good place to obtain new soap?\na: supermarket\nb: washing\nc: cabinet\nd: own home\ne: sink",
+    "output": "a"
+  },
+  {
+    "input": "What state is Pat Roberts the senator of?\na: demopublican\nb: new york\nc: nebraska\nd: kansas\ne: colorado",
+    "output": "d"
+  },
+  {
+    "input": "What is leather used for in a car primarily?\na: stable\nb: car seats\nc: purses\nd: handbag\ne: department stores",
+    "output": "b"
+  },
+  {
+    "input": "James wanted to socialize more because he felt he lacked what?\na: free time\nb: entertainment\nc: input\nd: meet people\ne: friendship",
+    "output": "e"
+  },
+  {
+    "input": "What is an important part of living that people often forget to do?\na: trying to stay happy\nb: fall in love\nc: doing sport\nd: die\ne: seeing",
+    "output": "a"
+  },
+  {
+    "input": "The stabbing to death of a person is likely to create what on the ground?\na: pool of blood\nb: being arrested\nc: garden\nd: imprisonment\ne: gruesome",
+    "output": "a"
+  },
+  {
+    "input": "If you catch your girlfriend lying about seeing another guy, you'll most likely experience what?\na: broken heart\nb: mistrust\nc: getting dumped\nd: being fired\ne: get caught",
+    "output": "a"
+  },
+  {
+    "input": "The stack of dirty dishes was quite high, it was definitely time to what?\na: clean\nb: ground\nc: bright\nd: sportsmanlike\ne: bed",
+    "output": "a"
+  },
+  {
+    "input": "I was creating art while angry, what did my painting convey inadvertently?\na: work of art\nb: feeling of accomplishment\nc: making love\nd: pleasure\ne: strong emotion",
+    "output": "e"
+  },
+  {
+    "input": "After studying science for years, what did the agnostic person begin to lose?\na: astronomy\nb: arts\nc: faith\nd: math\ne: chemistry",
+    "output": "c"
+  },
+  {
+    "input": "What is a salesman responsible to do at work?\na: traveling to chicago\nb: get fired\nc: books\nd: sell products\ne: service account",
+    "output": "d"
+  },
+  {
+    "input": "Where are you likely to find the freshest tomatoes?\na: pizza\nb: squashed\nc: refrigerator\nd: market\ne: on pizza",
+    "output": "d"
+  },
+  {
+    "input": "What is the best course of action for a person to take if they want to get up early?\na: go to bed early\nb: fix up alarm\nc: go sleep early\nd: dawn\ne: ask spouse to wake",
+    "output": "a"
+  },
+  {
+    "input": "Jerry was too old for this shit.  He was too square, too.  He never did drugs, never drank, but he was in his what?\na: fifties\nb: geometry\nc: polygon\nd: four sides\ne: town center",
+    "output": "a"
+  },
+  {
+    "input": "If a person wants to sort a pile of stuff, they must start by what?\na: control computer\nb: go on vacation\nc: cross street\nd: gain weight\ne: separate things",
+    "output": "e"
+  },
+  {
+    "input": "The fox was lost among the many trees, where was it?\na: storybook\nb: dense forest\nc: natural habitat\nd: river\ne: mountains",
+    "output": "b"
+  },
+  {
+    "input": "You can find an anemone living in what kind of fluid?\na: tide pool\nb: dictionary\nc: sea water\nd: south pacific\ne: movie scene",
+    "output": "c"
+  },
+  {
+    "input": "What is likely the result of falling from a height?\na: pain\nb: broken bones\nc: going down\nd: diving\ne: injuries",
+    "output": "b"
+  },
+  {
+    "input": "James spent time contemplating what he had learned.  He did this to do what?\na: often ignored\nb: time to pass\nc: gain insight\nd: play by himself\ne: action",
+    "output": "c"
+  },
+  {
+    "input": "The man was watching TV instead of talking to his wife, what is he avoiding?\na: get fat\nb: entertainment\nc: arguments\nd: wasting time\ne: quality time",
+    "output": "c"
+  },
+  {
+    "input": "The invasive A.I. was designed to scan the crowd, where most saw a mass of humanity the evil machine could pick out each what?\na: solitary\nb: single person\nc: few people\nd: crowd\ne: individual",
+    "output": "e"
+  },
+  {
+    "input": "When not in use where on your property would you store you bucket?\na: utility closet\nb: outside\nc: well\nd: garden shed\ne: garage",
+    "output": "d"
+  },
+  {
+    "input": "A cat wants to sleep, how will it lay?\na: comfortable position\nb: floor\nc: residential area\nd: family room\ne: upside down",
+    "output": "a"
+  },
+  {
+    "input": "What will you do after winning a race?\na: celebrate\nb: matchwinning\nc: cash in\nd: celebrate\ne: compete",
+    "output": "a"
+  },
+  {
+    "input": "What would someone wear to protect themselves from a cannon?\na: ungulate\nb: bomber\nc: body armor\nd: tank\ne: hat",
+    "output": "c"
+  },
+  {
+    "input": "You need to press down and twist the top of this to get your pill out. What is it?\na: medicine cabinet\nb: pharmacy\nc: jar\nd: medicine bottle\ne: box",
+    "output": "d"
+  },
+  {
+    "input": "James picked glass walls because they let more light into the room. Why did they let light in?\na: inventive\nb: half empty\nc: recyclable\nd: clear\ne: very fragile",
+    "output": "d"
+  },
+  {
+    "input": "They moved out of the city to have a master bedroom, what kind of home did they seek?\na: large house\nb: suburban home\nc: big house\nd: old house\ne: keeping personal objects",
+    "output": "b"
+  },
+  {
+    "input": "A person with brown skin may share that skin with whom?\na: finger\nb: good health\nc: own family\nd: friends\ne: people",
+    "output": "c"
+  },
+  {
+    "input": "Children leave home with clean clothes and then?\na: use water\nb: soap\nc: launder\nd: cry\ne: get dirty",
+    "output": "e"
+  },
+  {
+    "input": "What's it called when you have seen something through an eyepiece?\na: sights\nb: optical illusion\nc: optical telescope\nd: light microscope\ne: binocular",
+    "output": "a"
+  },
+  {
+    "input": "Ben didn't have much respect for Sue. He would always do what about her wishes?\na: throw away\nb: disregard\nc: being rude\nd: humiliate\ne: abhor",
+    "output": "b"
+  },
+  {
+    "input": "The alley cats were all beginning to gather together, but one loud crash sent them all what?\na: disburse\nb: charming\nc: scattering\nd: spread\ne: dispense",
+    "output": "c"
+  },
+  {
+    "input": "The child was pretending he was in space, regular items were parts of his spaceship thanks to his what?\na: acting skills\nb: imagining\nc: creativity\nd: making up story\ne: alien intelligence",
+    "output": "b"
+  },
+  {
+    "input": "Why does this person stop and look both ways at a railroad crossing?\na: gain weight\nb: promise to do\nc: fear death\nd: cross street\ne: laws",
+    "output": "c"
+  },
+  {
+    "input": "Much like a bicycle a chain drives the back wheel of a what?\na: gear shift\nb: jewelry store\nc: tow truck\nd: motorbike\ne: saloon",
+    "output": "d"
+  },
+  {
+    "input": "Where might you go to buy silk?\na: expensive clothing\nb: garments\nc: chinatown\nd: downtown\ne: nightgown",
+    "output": "c"
+  },
+  {
+    "input": "Where would Bob go to buy pills?\na: pharmacy\nb: jar\nc: hospital\nd: medicine bottle\ne: medicine cabinet",
+    "output": "a"
+  },
+  {
+    "input": "Sean was a native English speaker, a fact that he found helpful.  Ludwig didn't speak the language well because he was what?\na: introduced\nb: foreigner\nc: alien\nd: immigrant\ne: guide foreigners",
+    "output": "b"
+  },
+  {
+    "input": "He had a lot on his plate opening business, this cause a lot of what?\na: headaches\nb: making money\nc: success\nd: failure\ne: stress",
+    "output": "e"
+  },
+  {
+    "input": "James wanted to ruin the parade.  In order to do that, he did something in the middle of the street.  What did he do?\na: found\nb: fix\nc: new construction\nd: construct\ne: produce",
+    "output": "d"
+  },
+  {
+    "input": "Where might a family go on a nice day?\na: supermarket\nb: park\nc: funeral\nd: the beach\ne: wedding",
+    "output": "b"
+  },
+  {
+    "input": "The cat knew to come just by the sound of what being opened?\na: tuna fish\nb: food now\nc: nap\nd: train\ne: four legs",
+    "output": "a"
+  },
+  {
+    "input": "If something is obtuse, what couldn't it be?\na: bright\nb: pointed\nc: correct\nd: acute angled\ne: clear",
+    "output": "d"
+  },
+  {
+    "input": "The man needed representation for arbitration, and a professional decided on giving assistance, what are they trying to avoid?\na: death\nb: law suits\nc: out of pocket\nd: feel loved\ne: surgery",
+    "output": "b"
+  },
+  {
+    "input": "Lance was a hothead, but he was getting better.  He removed himself from the situation and spent some time cooling off.  He didn't need what?\na: expansion\nb: relaxation\nc: soap\nd: revenge\ne: loss of heat",
+    "output": "d"
+  },
+  {
+    "input": "What caused my shirt to get soaked after going jogging?\na: arthritis\nb: lose weight\nc: sweating\nd: exercise\ne: feel better",
+    "output": "c"
+  },
+  {
+    "input": "The spirit ascended to the after life, so what was it leaving?\na: bar\nb: human being\nc: cemetary\nd: graveyard\ne: earth",
+    "output": "b"
+  },
+  {
+    "input": "Where would you use a computer while gaining knowledge?\na: apartment\nb: house\nc: table\nd: house\ne: school",
+    "output": "e"
+  },
+  {
+    "input": "Sally went to her office, which was on the 8th and top floor.  Where does she probably work?\na: skyscraper\nb: tall building\nc: public building\nd: school building\ne: swimming pool",
+    "output": "b"
+  },
+  {
+    "input": "if you cogitate on something for a long time, you can get this feeling?\na: might understand\nb: enjoy\nc: sit comfortably\nd: think about things\ne: get irritated",
+    "output": "a"
+  },
+  {
+    "input": "While performing she fell off the stage causing what?\na: action\nb: fear\nc: injury\nd: pride\ne: butterflies",
+    "output": "c"
+  },
+  {
+    "input": "Why is a period likely to be on a page?\na: history\nb: end of line\nc: tracking of music\nd: school\ne: finish sentence",
+    "output": "b"
+  },
+  {
+    "input": "Where is a good place to find a lot of fictional words?\na: books\nb: newspaper\nc: mouth\nd: sentence\ne: in the package",
+    "output": "a"
+  },
+  {
+    "input": "Someone is putting is carpeting that can handle shoes and heavy foot traffic, where is it being installed?\na: gym\nb: home or office\nc: bedroom\nd: church\ne: houses",
+    "output": "a"
+  },
+  {
+    "input": "Balthazar is a popular french restaurant located where?\na: wine\nb: manhattan\nc: underwater\nd: quebec\ne: montreal",
+    "output": "b"
+  },
+  {
+    "input": "Where must one wear a white shoe?\na: wedding\nb: tennis\nc: closet\nd: left foot\ne: house",
+    "output": "a"
+  },
+  {
+    "input": "If you have plenty to eat when you have lunch you'll do what?\na: eath\nb: pouring coffee\nc: feel empty\nd: get full\ne: getting in line",
+    "output": "d"
+  },
+  {
+    "input": "John doesn't like seeing new movies. He thinks that they're bad, and excessive.   What emotion might he experience where he sees one.\na: curiosity\nb: excitement\nc: education\nd: wonder\ne: fear",
+    "output": "e"
+  },
+  {
+    "input": "Where is one likely to find a brownstone?\na: new york city\nb: subdivision\nc: ring\nd: hazleton\ne: live in",
+    "output": "a"
+  },
+  {
+    "input": "What sets escalators apart from stairs?\na: motion\nb: eat cake\nc: department store\nd: mall\ne: bringing people up",
+    "output": "a"
+  },
+  {
+    "input": "Where in a metropolitan area would you likely find a dance club?\na: downtown area\nb: city hall\nc: toun\nd: united states\ne: downtown district",
+    "output": "a"
+  },
+  {
+    "input": "Aside from water and nourishment what does your dog need?\na: bone\nb: charm\nc: petted\nd: lots of attention\ne: walked",
+    "output": "d"
+  },
+  {
+    "input": "If you exercise intensely what can happen to your respiration?\na: tiredness\nb: shortness of breath\nc: injury\nd: fitness\ne: thirst",
+    "output": "b"
+  },
+  {
+    "input": "The ticket booth informed riders that the train was running late, so where was the ticket booth located?\na: movie theatre\nb: sports arena\nc: school\nd: metro station\ne: auditorium",
+    "output": "d"
+  },
+  {
+    "input": "The women were scantily clad but did their jobs well.  It was easy to use sex to do what?\na: sell beer\nb: cost money\nc: feel good\nd: last hour\ne: sell candy",
+    "output": "a"
+  },
+  {
+    "input": "At a state fair judging pigs requires careful what?\na: verdict\nb: judging\nc: responsibility\nd: evaluating\ne: prejudice",
+    "output": "d"
+  },
+  {
+    "input": "He used an umbrella while tanning, where was he likely?\na: waves\nb: seattle\nc: suitcase\nd: beach\ne: jacket closet",
+    "output": "d"
+  },
+  {
+    "input": "Gary bought stock in a fortune 500 company before going off to the tournament.   He also bought a new what?\na: fishing rod\nb: machine gun\nc: hatred\nd: artillery\ne: double in value",
+    "output": "a"
+  },
+  {
+    "input": "James wasn't much of a leader, because he had nothing to lead.  And a leader without something to lead, no matter how skilled, is useless.  What did James need?\na: battle\nb: army\nc: company\nd: organization\ne: school",
+    "output": "b"
+  },
+  {
+    "input": "The criminal insisted he must do the crime to the bank teller, but she tried to convince him there were other ways in life and this was what?\na: willing\nb: optional\nc: should not\nd: have to\ne: unnecessary",
+    "output": "e"
+  },
+  {
+    "input": "Where would you get a pen if you do not have one?\na: briefcase\nb: desk drawer\nc: friend's house\nd: pocket\ne: sidewalk",
+    "output": "c"
+  },
+  {
+    "input": "If you pour out garbage waste on the road to where will it wash away?\na: sewer\nb: garbage dump\nc: street\nd: garbage can\ne: school",
+    "output": "a"
+  },
+  {
+    "input": "When we are thankful for getting something what do we do?\na: say thank\nb: smile\nc: looking for\nd: get more\ne: show appreciation",
+    "output": "e"
+  },
+  {
+    "input": "How can a human cross a river and not mess up their hair?\na: wisconsin\nb: waterfall\nc: hatred\nd: bridge\ne: valley",
+    "output": "d"
+  },
+  {
+    "input": "When a person with mental illness receives medication and therapy, what has happened?\na: cause irrational behaviour\nb: recur\nc: effectively treated\nd: managed\ne: cause suffering",
+    "output": "c"
+  },
+  {
+    "input": "Where would you most commonly find a marmot?\na: in wild\nb: northern hemisphere\nc: tree\nd: colorado\ne: the beach",
+    "output": "a"
+  },
+  {
+    "input": "James was a mean person, but he was also very what?\na: generous\nb: mean cruel\nc: nice\nd: friendly\ne: kindness",
+    "output": "a"
+  },
+  {
+    "input": "Kissing is normally an activity reserved for your romantic what?\na: anus\nb: partner\nc: arousal\nd: trust\ne: cooperation",
+    "output": "b"
+  },
+  {
+    "input": "There are many natural landmarks that need to be protected at what locations?\na: countryside\nb: city\nc: national park\nd: special place\ne: forest",
+    "output": "c"
+  },
+  {
+    "input": "He read book after book, he always liked to do what things?\na: travel new places\nb: learn new\nc: learn to read\nd: enjoyable\ne: bored",
+    "output": "b"
+  },
+  {
+    "input": "What would you put in a teakettle?\na: england\nb: tea\nc: cupboard\nd: water\ne: japanese tea room",
+    "output": "d"
+  },
+  {
+    "input": "Some people really love competing, it is usually a safe way to get out a little what?\na: wins\nb: defeat\nc: stress\nd: aggression\ne: sweat",
+    "output": "d"
+  },
+  {
+    "input": "Where would you buy food?\na: freezer\nb: store\nc: home\nd: hatred\ne: kitchen",
+    "output": "b"
+  },
+  {
+    "input": "What do dead trees often do?\na: wall in\nb: produce fruit\nc: fall down\nd: branch out\ne: die",
+    "output": "c"
+  },
+  {
+    "input": "The universe is quite vast, most say it is even what?\na: mysterious\nb: very old\nc: full of mysteries\nd: infinite\ne: real",
+    "output": "d"
+  },
+  {
+    "input": "What does a computer have to do before a program can exist?\na: write code\nb: executable file\nc: compile\nd: think logically\ne: get frustrated",
+    "output": "c"
+  },
+  {
+    "input": "What is the best way to release energy?\na: yell\nb: think\nc: exercise\nd: rest\ne: work off",
+    "output": "c"
+  },
+  {
+    "input": "I picked from an apple tree outside of Fort Wayne, where am I?\na: woods\nb: illinois\nc: indiana\nd: washington state\ne: tampa",
+    "output": "c"
+  },
+  {
+    "input": "Who is not famous for a superhighway with no speed limit?\na: europe\nb: germany\nc: industrialized country\nd: city\ne: america",
+    "output": "e"
+  },
+  {
+    "input": "The competitive guy liked to play games, what was his goal?\na: entertaining\nb: dice\nc: win\nd: bored\ne: relax",
+    "output": "c"
+  },
+  {
+    "input": "If you have a small dog you can have it ride in what instead of walking?\na: barbeque\nb: baby carriage\nc: carseat\nd: grandma's house\ne: basket",
+    "output": "b"
+  },
+  {
+    "input": "There's a lot to reproducing, but it begins and end with new life by giving what?\na: overpopulation\nb: birth\nc: presents\nd: propagation\ne: fun",
+    "output": "b"
+  },
+  {
+    "input": "The small dog looked longingly into the warm home and laughing family, what did it want?\na: own home\nb: cold room\nc: suburb\nd: nursing home\ne: own house",
+    "output": "e"
+  },
+  {
+    "input": "Where do humans go to be entertained and eat popcorn?\na: mall\nb: country\nc: movie theatre\nd: park\ne: university",
+    "output": "c"
+  },
+  {
+    "input": "All the day traders did well on the floor that day, they celebrated at a steak house where?\na: united states\nb: town\nc: new york\nd: mexico\ne: beach",
+    "output": "c"
+  },
+  {
+    "input": "what does someone do when they do not reply to a question?\na: ask\nb: question\nc: ignore\nd: answer\ne: mute",
+    "output": "c"
+  },
+  {
+    "input": "What is usually too small for a cat to fit into?\na: american home\nb: barn\nc: paper bag\nd: bed\ne: own home",
+    "output": "c"
+  },
+  {
+    "input": "Lilly owns the only kosher deli in the area.  She isn't in a heavily populated area.  Where might she live?\na: food court\nb: jerusalem\nc: new york city\nd: jewish community\ne: town",
+    "output": "e"
+  },
+  {
+    "input": "What kind of breathing makes noise but does not indicate that you are sick?\na: sigh\nb: clavicular\nc: yawn\nd: cough\ne: live",
+    "output": "a"
+  },
+  {
+    "input": "What causes furniture to become a projectile?\na: canon\nb: baseball\nc: battle field\nd: war zone\ne: tornado",
+    "output": "e"
+  },
+  {
+    "input": "At work I do lots of math, so I keep a calculator open and handy on my what?\na: wristwatch\nb: office\nc: purse\nd: accounting department\ne: desktop",
+    "output": "e"
+  },
+  {
+    "input": "Where does an audience of a broadway show clap?\na: theatre\nb: show\nc: opera\nd: hockey game\ne: school",
+    "output": "a"
+  },
+  {
+    "input": "Why might someone decide to having a checkup for followup?\na: uncertainty\nb: anxiety\nc: stress\nd: anxious\ne: pain",
+    "output": "a"
+  },
+  {
+    "input": "James thought that the desk was built with solidity, but when he rapped on it he could hear what?\na: openness\nb: instability\nc: hollowness\nd: strange sounds\ne: weakness",
+    "output": "c"
+  },
+  {
+    "input": "In what kind of environment does an anemone live?\na: nursery\nb: south pacific\nc: desert\nd: sea water\ne: atlantic ocean",
+    "output": "d"
+  },
+  {
+    "input": "Where do people drive on the left on a motorway?\na: england\nb: europe\nc: new jersey\nd: city\ne: a river",
+    "output": "a"
+  },
+  {
+    "input": "Bailey liked playing games against other people.  He found it exhilarating.  What might Bailey like about games?\na: arguments\nb: anger\nc: learning\nd: relaxation\ne: competitiveness",
+    "output": "e"
+  },
+  {
+    "input": "What do geese do every fall in fields?\na: guard house\nb: fly\nc: eat\nd: follow ultralight airplane\ne: group together",
+    "output": "e"
+  },
+  {
+    "input": "James took his time walking home.  He found himself doing what at every place along the way?\na: stopping\nb: standing still\nc: stay still\nd: stand still\ne: dancing",
+    "output": "a"
+  },
+  {
+    "input": "If I wanted to find out the hours that Marmot was open, I might look where?\na: hiding place\nb: ocean\nc: high mountains\nd: north america\ne: yellow pages",
+    "output": "e"
+  },
+  {
+    "input": "If you're caught buying beer for children what will happen?\na: problems\nb: losing money\nc: get arrested\nd: fighting\ne: relaxation",
+    "output": "c"
+  },
+  {
+    "input": "Where can a human go on Sunday?\na: jail\nb: love\nc: restaurant\nd: church\ne: homes",
+    "output": "d"
+  },
+  {
+    "input": "Bob wants to talk, but he's surrounded by gnats and he thinks they're gross.   No one can hear him because refuses to do what?\na: will listen\nb: open mouth\nc: speak up\nd: express opinions\ne: make sound",
+    "output": "b"
+  },
+  {
+    "input": "Billy lived with his uncle.  This was an unusual arrangement. Name something that is different from this arrangement.\na: dormitories\nb: older generation\nc: most families\nd: aunt's house\ne: aunts house",
+    "output": "c"
+  },
+  {
+    "input": "What do people like least about farting?\na: social ostracism\nb: loud noise\nc: people laughing at\nd: bad smell\ne: flower smells",
+    "output": "d"
+  },
+  {
+    "input": "The measurement was important and they had to make a, what kind of increase, to get it just right?\na: mighty\nb: slight\nc: negligible\nd: useless\ne: petty",
+    "output": "b"
+  },
+  {
+    "input": "Where is an aisle likely to be surrounded by pews?\na: sanctuary\nb: church\nc: drugstore\nd: supermarket\ne: department store",
+    "output": "b"
+  },
+  {
+    "input": "What town is known for disco?\na: rio de janeiro\nb: new york\nc: town\nd: germany\ne: hotel",
+    "output": "a"
+  },
+  {
+    "input": "If I want to listen to the movie what do I need to do?\na: able to hear\nb: pay attention\nc: close eyes\nd: shut up\ne: very quiet",
+    "output": "d"
+  },
+  {
+    "input": "What is the main purpose of farmers?\na: raise cattle\nb: grow corn\nc: farm land\nd: drive tractors\ne: supply food",
+    "output": "e"
+  },
+  {
+    "input": "If person goes to a bar, spends a few hours hitting the bottle, then takes himself home, what might he get?\na: full bladder\nb: ticket\nc: alcoholism\nd: nausea\ne: breaking",
+    "output": "b"
+  },
+  {
+    "input": "Where is the closest dining table not in your home?\na: conference\nb: livingroom\nc: neighbor's house\nd: white house\ne: card room",
+    "output": "c"
+  },
+  {
+    "input": "The monkey realized he was surrounded by water, where was the monkey?\na: madagascar\nb: rain forest\nc: captivity\nd: on a tree\ne: french government",
+    "output": "a"
+  },
+  {
+    "input": "He wore out his dictionary as he worked on his what?\na: determine word's definition\nb: thesaurus\nc: eat cake\nd: novel\ne: encyclopedia",
+    "output": "d"
+  },
+  {
+    "input": "What does Discovery have a number of, starring a shark?\na: open ocean\nb: gulf of mexico\nc: tornado\nd: television program\ne: coral reef",
+    "output": "d"
+  },
+  {
+    "input": "What is likely to be the feeling of someone who does not feel they have been empowered?\na: dishearten\nb: forbid\nc: give up\nd: prohibit\ne: ban",
+    "output": "a"
+  },
+  {
+    "input": "Where can someone keep a small clock?\na: office building\nb: house\nc: department store\nd: lodge\ne: desk",
+    "output": "e"
+  },
+  {
+    "input": "What includes both a person and a jellyfish?\na: humanity\nb: headache\nc: nature\nd: natural world\ne: society",
+    "output": "d"
+  },
+  {
+    "input": "Washing clothes manually leads to what?\na: water and soap\nb: singing\nc: watch tv\nd: train\ne: getting wet",
+    "output": "e"
+  },
+  {
+    "input": "What will the student have to do on the test?\na: finish college\nb: begin teaching\nc: write\nd: answer question\ne: solve equation",
+    "output": "e"
+  },
+  {
+    "input": "Where are human nerves found?\na: possum\nb: person's body\nc: animal\nd: organism\ne: fingertips",
+    "output": "b"
+  },
+  {
+    "input": "What may jogging make you feel like?\na: increased heart rate\nb: improved health\nc: frightened\nd: shin splints\ne: being tired",
+    "output": "e"
+  },
+  {
+    "input": "John goes to the booking office and books a flight to a place that is notoriously foggy, where they like tea, and that is ruled by a Queen.  Where is John going?\na: airport\nb: travel agency\nc: england\nd: mall\ne: toilet",
+    "output": "c"
+  },
+  {
+    "input": "What does giving assistance give to someone?\na: relief\nb: helpfulness\nc: good feeling\nd: pleasure\ne: happiness",
+    "output": "c"
+  },
+  {
+    "input": "A garage is a type of what?\na: home\nb: building\nc: downtown\nd: storage area\ne: car",
+    "output": "b"
+  },
+  {
+    "input": "Where is someone likely to get cold on a balcony?\na: theater\nb: new orleans\nc: michigan\nd: theatre\ne: antartica",
+    "output": "c"
+  },
+  {
+    "input": "Billy wasn't a stranger, but they hadn't spoken to him often, either.  How would you describe him?\na: family\nb: known person\nc: friend\nd: relative\ne: crowd",
+    "output": "b"
+  },
+  {
+    "input": "John was very slow.  His bosses thought that he could be ore what?\na: reliable\nb: fast\nc: hasty\nd: rapid\ne: prompt",
+    "output": "e"
+  },
+  {
+    "input": "Where can you see a cannon and learn about the past?\na: war\nb: fort\nc: pirate ship\nd: warship\ne: war museum",
+    "output": "e"
+  },
+  {
+    "input": "A couple who wants to have a child normally do what?\na: plan to marry\nb: make sex\nc: communicate\nd: sleep in separate rooms\ne: dance",
+    "output": "b"
+  },
+  {
+    "input": "Where would there be many people with umbrellas if there is rain?\na: forest\nb: under the water\nc: disneyland\nd: street\ne: weather",
+    "output": "c"
+  },
+  {
+    "input": "What type of person wants to get in shape?\na: look attractive\nb: overweight\nc: sex\nd: bowel movements\ne: feel good",
+    "output": "b"
+  },
+  {
+    "input": "How does a human solve problems?\na: say hello\nb: have fever\nc: better himself\nd: think critically\ne: have to sleep",
+    "output": "d"
+  },
+  {
+    "input": "I have a machine for making bread, I keep it in my what?\na: laboratory\nb: bathroom\nc: house\nd: museum\ne: industrial area",
+    "output": "c"
+  },
+  {
+    "input": "Where is cheese likely to be dangerous for some creatures?\na: refrigerator\nb: mouse trap\nc: fridge\nd: outside\ne: plate",
+    "output": "b"
+  },
+  {
+    "input": "The crab was being shipped to be eaten, where was he heading?\na: gulf of mexico\nb: north sea\nc: fish market\nd: picnic basket\ne: grocery store",
+    "output": "e"
+  },
+  {
+    "input": "Who collects many a drop of blood?\na: mosquito\nb: human body\nc: needle\nd: slaughter house\ne: blood bank",
+    "output": "e"
+  },
+  {
+    "input": "Sarah liked driving cars more than she liked cigarettes.  After she quit, she'd take long drives for what?\na: smoke\nb: getting somewhere\nc: relaxation\nd: take a break\ne: wreak",
+    "output": "c"
+  },
+  {
+    "input": "There is very little original art these days.  How might most art be described?\na: copy\nb: derivative\nc: reproduction\nd: simile\ne: internet",
+    "output": "b"
+  },
+  {
+    "input": "The children were running late for school, after eating breakfast they left behind their what?\na: being satisfied\nb: dirty dishes\nc: bad breath\nd: blue bus\ne: gas",
+    "output": "b"
+  },
+  {
+    "input": "What is the reason that playing games sometimes take on a more serious tone?\na: entertainment\nb: forgetting\nc: relaxation\nd: competitiveness\ne: happiness",
+    "output": "d"
+  },
+  {
+    "input": "Someone left their shopping bag behind when they grabbed a bit to eat, where is the bag likely?\na: atlantis\nb: retail store\nc: closet\nd: grocery store\ne: restaurant",
+    "output": "e"
+  },
+  {
+    "input": "If something is going to die what is likely to happen first?\na: being sick\nb: stop living\nc: stop breathing\nd: stop moving\ne: go to heaven",
+    "output": "c"
+  },
+  {
+    "input": "James worked at a Kosher Deli in a Jewish  neighborhood in the same city where his grandparents came over from Europe in the 40s. He could see the big green torch from his bedroom.  Where might he live?\na: jerusalem\nb: miami\nc: food court\nd: town\ne: new york city",
+    "output": "e"
+  },
+  {
+    "input": "When someone is seeing new things in a positive environment, what do they feel?\na: fear\nb: curiosity\nc: wonder\nd: anger\ne: excitement",
+    "output": "e"
+  },
+  {
+    "input": "The person was prevented from leaving work, what blocked him in the street?\na: building\nb: demonstration\nc: laugh\nd: garage\ne: conference",
+    "output": "b"
+  },
+  {
+    "input": "Where are woods likely to not have evergreens?\na: tract of undevolped land\nb: country\nc: cut trees deer\nd: rural area\ne: northeast",
+    "output": "e"
+  },
+  {
+    "input": "In the modern days we give what kind of classification to buildings to protect them from being town down?\na: classical\nb: old fashioned\nc: vintage\nd: historical\ne: antique",
+    "output": "d"
+  },
+  {
+    "input": "Happy couples tend to what more so than unhappy couples that do it just as much?\na: part in acrimonious ways\nb: enjoy sex\nc: have sex\nd: divorce\ne: enjoy movie",
+    "output": "b"
+  },
+  {
+    "input": "James lived in the top of a tall tower.  He could see clouds when he looked out his window.  Where might he live?\na: in books\nb: radio station\nc: city\nd: tower\ne: medieval castle",
+    "output": "c"
+  },
+  {
+    "input": "The sun was out and the temperature changing rapidly, it was really beginning to what?\na: drop to zero\nb: increase\nc: cool down\nd: dropping quickly\ne: heat up",
+    "output": "e"
+  },
+  {
+    "input": "Where can you buy socks and jeans?\na: washing machine\nb: laundromat\nc: clothing store\nd: closet\ne: shopping mall",
+    "output": "c"
+  },
+  {
+    "input": "What is the best way to understand a theory better?\na: effort\nb: thinking\nc: knowledge of\nd: time\ne: singing",
+    "output": "b"
+  },
+  {
+    "input": "What bad habit do adults have that can cause lung cancer?\na: count\nb: smoke cigarettes\nc: drive vehicle\nd: drink beer\ne: dress themselves",
+    "output": "b"
+  },
+  {
+    "input": "The small dog always picked up the newspaper from the driveway, where did the dog live?\na: nursing home\nb: dog show\nc: apart\nd: suburb\ne: own house",
+    "output": "d"
+  },
+  {
+    "input": "If you own a cat where is the last place you'd want to find it?\na: trouble\nb: dog's mouth\nc: backyard\nd: nature\ne: home",
+    "output": "b"
+  },
+  {
+    "input": "If you hear about terrible injustices while reading a newspaper what can happen?\na: learning about world\nb: grief\nc: education\nd: get angry\ne: insight",
+    "output": "d"
+  },
+  {
+    "input": "What does an apple tree need to grow?\na: dirt\nb: seeds\nc: south africa\nd: park\ne: paradise",
+    "output": "a"
+  }
+]

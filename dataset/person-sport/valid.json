@@ -1,0 +1,118 @@
+[
+  {
+    "input": "Dave DeBusschere",
+    "output": "baseball"
+  },
+  {
+    "input": "Mari\u00e1n Hossa",
+    "output": "hockey"
+  },
+  {
+    "input": "Wayne Rooney",
+    "output": "soccer"
+  },
+  {
+    "input": "Bud Grant",
+    "output": "football"
+  },
+  {
+    "input": "Igor Larionov",
+    "output": "hockey"
+  },
+  {
+    "input": "Dominik Ha\u0161ek",
+    "output": "hockey"
+  },
+  {
+    "input": "Pavol Demitra",
+    "output": "hockey"
+  },
+  {
+    "input": "Ron W. Miller",
+    "output": "football"
+  },
+  {
+    "input": "Dan Marino",
+    "output": "football"
+  },
+  {
+    "input": "Julius Erving",
+    "output": "basketball"
+  },
+  {
+    "input": "David Villa",
+    "output": "soccer"
+  },
+  {
+    "input": "Blaise Matuidi",
+    "output": "soccer"
+  },
+  {
+    "input": "Tim Duncan",
+    "output": "basketball"
+  },
+  {
+    "input": "Kenny Lofton",
+    "output": "baseball"
+  },
+  {
+    "input": "Maurice Richard",
+    "output": "hockey"
+  },
+  {
+    "input": "Pavel Datsyuk",
+    "output": "hockey"
+  },
+  {
+    "input": "Barry Bonds",
+    "output": "baseball"
+  },
+  {
+    "input": "David Robinson",
+    "output": "basketball"
+  },
+  {
+    "input": "Gary Carter",
+    "output": "baseball"
+  },
+  {
+    "input": "Allen Iverson",
+    "output": "basketball"
+  },
+  {
+    "input": "Bastian Schweinsteiger",
+    "output": "soccer"
+  },
+  {
+    "input": "Hakeem Olajuwon",
+    "output": "basketball"
+  },
+  {
+    "input": "Tom Seaver",
+    "output": "baseball"
+  },
+  {
+    "input": "Lutz Pfannenstiel",
+    "output": "soccer"
+  },
+  {
+    "input": "Roman Reigns",
+    "output": "football"
+  },
+  {
+    "input": "Kobe Bryant",
+    "output": "basketball"
+  },
+  {
+    "input": "Byron White",
+    "output": "football"
+  },
+  {
+    "input": "Ted Williams",
+    "output": "baseball"
+  },
+  {
+    "input": "Tim Cahill",
+    "output": "soccer"
+  }
+]

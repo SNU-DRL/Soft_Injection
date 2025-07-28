@@ -1,0 +1,110 @@
+[
+  {
+    "input": "write",
+    "output": "wrote"
+  },
+  {
+    "input": "secure",
+    "output": "secured"
+  },
+  {
+    "input": "address",
+    "output": "addressed"
+  },
+  {
+    "input": "aim",
+    "output": "aimed"
+  },
+  {
+    "input": "process",
+    "output": "processed"
+  },
+  {
+    "input": "command",
+    "output": "commanded"
+  },
+  {
+    "input": "remember",
+    "output": "remembered"
+  },
+  {
+    "input": "pull",
+    "output": "pulled"
+  },
+  {
+    "input": "order",
+    "output": "ordered"
+  },
+  {
+    "input": "generate",
+    "output": "generated"
+  },
+  {
+    "input": "merge",
+    "output": "merged"
+  },
+  {
+    "input": "imagine",
+    "output": "imagined"
+  },
+  {
+    "input": "play",
+    "output": "played"
+  },
+  {
+    "input": "supply",
+    "output": "supplied"
+  },
+  {
+    "input": "fade",
+    "output": "faded"
+  },
+  {
+    "input": "express",
+    "output": "expressed"
+  },
+  {
+    "input": "post",
+    "output": "posted"
+  },
+  {
+    "input": "capture",
+    "output": "captured"
+  },
+  {
+    "input": "help",
+    "output": "helped"
+  },
+  {
+    "input": "place",
+    "output": "placed"
+  },
+  {
+    "input": "imply",
+    "output": "implied"
+  },
+  {
+    "input": "solve",
+    "output": "solved"
+  },
+  {
+    "input": "view",
+    "output": "viewed"
+  },
+  {
+    "input": "believe",
+    "output": "believed"
+  },
+  {
+    "input": "select",
+    "output": "selected"
+  },
+  {
+    "input": "compose",
+    "output": "composed"
+  },
+  {
+    "input": "withdraw",
+    "output": "withdrew"
+  }
+]

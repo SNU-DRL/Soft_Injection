@@ -1,0 +1,1622 @@
+[
+  {
+    "input": "AMSTERDAM 1996-08-28",
+    "output": "AMSTERDAM"
+  },
+  {
+    "input": "In Houston, Jeff Bagwell homered and Donne Wall allowed one run over seven innings as the Houston Astros defeated the St. Louis Cardinals 4-1.",
+    "output": "Houston"
+  },
+  {
+    "input": "Silver, basis the September contract on New York 's Comex market, was expected to find support at between $ 5.12 - $ 5.15 an ounce and meet resistance from $ 5.25 - $ 5.30, they added.",
+    "output": "New York"
+  },
+  {
+    "input": "So Ballybunion is going to America instead.",
+    "output": "America"
+  },
+  {
+    "input": "Africa ) 66 75 76",
+    "output": "Africa"
+  },
+  {
+    "input": "+11 Seiki Okuda ( Japan ) 81 70 ( through 18 )",
+    "output": "Japan"
+  },
+  {
+    "input": "GLASGOW 1996-08-31",
+    "output": "GLASGOW"
+  },
+  {
+    "input": "8. Irina Yatchenko ( Belarus ) 58.92",
+    "output": "Belarus"
+  },
+  {
+    "input": "7. Gerhard Berger ( Austria ) 17",
+    "output": "Austria"
+  },
+  {
+    "input": "+5 Wayne Westner ( South Africa ) 77 68",
+    "output": "South Africa"
+  },
+  {
+    "input": "Togo win 1-0 on aggregate.",
+    "output": "Togo"
+  },
+  {
+    "input": "WASHINGTON 1996-08-29",
+    "output": "WASHINGTON"
+  },
+  {
+    "input": "-- Karachi newsroom 9221-5685192",
+    "output": "Karachi"
+  },
+  {
+    "input": "2. Annett Neumann ( Germany ) 35.202",
+    "output": "Germany"
+  },
+  {
+    "input": "10. Rubens Barrichello ( Brazil ) Jordan 1:55.645",
+    "output": "Brazil"
+  },
+  {
+    "input": "\" The texts are practically ready, \" he told reporters after a weekend of talks with President Jacques Chirac in a Riviera fortress.",
+    "output": "Riviera"
+  },
+  {
+    "input": "A Shanghai novelist was murdered at her home on Sunday, an official of the city 's Writers Association said on Wednesday.",
+    "output": "Shanghai"
+  },
+  {
+    "input": "Mexico same-day Cetes rates rise on nervousness.",
+    "output": "Mexico"
+  },
+  {
+    "input": "HONG KONG 1996-08-29",
+    "output": "HONG KONG"
+  },
+  {
+    "input": "In a break from tradition, the Open did not seed in strict accordance with ATP rankings, instead taking into account other factors that raised objections of favourtism toward U.S. players.",
+    "output": "U.S."
+  },
+  {
+    "input": "The detention of veteran dissident Wang Donghai showed China 's determination to crush any vestige of dissent during the current profound transitions in the nation 's leadership, a human rights activist said on Saturday.",
+    "output": "China"
+  },
+  {
+    "input": "PRESS DIGEST - HK newspaper editorials - Aug 28.",
+    "output": "HK"
+  },
+  {
+    "input": "At Colchester : Gloucestershire 280 ( J. Russell 63, A. Symonds",
+    "output": "Colchester"
+  },
+  {
+    "input": "Soccer - Burundi disqualification from African Cup confirmed.",
+    "output": "Burundi"
+  },
+  {
+    "input": "1= Andrei Tiwontschik ( Germany ) 5.86",
+    "output": "Germany"
+  },
+  {
+    "input": "CRICKET - AUSTRALIA WIN TOSS AND CHOOSE TO BAT.",
+    "output": "AUSTRALIA"
+  },
+  {
+    "input": "-- William Schomberg, Brasilia newsroom 55-61-2230358",
+    "output": "Brasilia"
+  },
+  {
+    "input": "SOCCER - AUSTRIA FIRST DIVISION RESULTS / STANDINGS.",
+    "output": "AUSTRIA"
+  },
+  {
+    "input": "295 Stewart Ginn ( Australia ) 73 72 77 73",
+    "output": "Australia"
+  },
+  {
+    "input": "LONDON 1996-08-23",
+    "output": "LONDON"
+  },
+  {
+    "input": "4. Kurt Betschart - Bruno Risi ( Switzerland ) 22",
+    "output": "Switzerland"
+  },
+  {
+    "input": "\" In the life of one person you can tell the events that formed the north and south of Ireland as they are today. \"",
+    "output": "Ireland"
+  },
+  {
+    "input": "LONDON 1996-08-23",
+    "output": "LONDON"
+  },
+  {
+    "input": "Around 1,000 Israeli troops patrol a 15 km ( nine-mile ) south Lebanon occupation zone which the Jewish state carved out in 1985 to prevent attacks on its northern bordder.",
+    "output": "Lebanon"
+  },
+  {
+    "input": "Turkish Kurd guerrillas said on Friday they would free seven Turkish soldiers they hold in northern Iraq under a tentative Islamist peace bid.",
+    "output": "Iraq"
+  },
+  {
+    "input": "Florida cop disguised as shrub nabs bad guys.",
+    "output": "Florida"
+  },
+  {
+    "input": "Blind, who played in the 1990 World Cup and the 1992 European championship, was capped 42 times for the Netherlands.",
+    "output": "Netherlands"
+  },
+  {
+    "input": "TORONTO AT CHICAGO",
+    "output": "CHICAGO"
+  },
+  {
+    "input": "GENEVA 1996-08-22",
+    "output": "GENEVA"
+  },
+  {
+    "input": "9. Rui Madeira ( Portugal ) Toyota Celica 16:34",
+    "output": "Portugal"
+  },
+  {
+    "input": "They scored three tries in recording their highest total against New Zealand, salvaging some pride in a season in which the world champions have lost five out of eight tests.",
+    "output": "New Zealand"
+  },
+  {
+    "input": "10. Denmark 8.30",
+    "output": "Denmark"
+  },
+  {
+    "input": "ATHLETICS - LEADING RESULTS AT SHEFFIELD INTERNATIONAL MEETING.",
+    "output": "SHEFFIELD"
+  },
+  {
+    "input": "4. Magali Faure ( France ) 35.888",
+    "output": "France"
+  },
+  {
+    "input": "Estonia assembly fails to elect state president.",
+    "output": "Estonia"
+  },
+  {
+    "input": "6. Julie Baumann ( Switzerland ) 13.11",
+    "output": "Switzerland"
+  },
+  {
+    "input": "The victim was Dai Houying, who wrote about China 's 1966-76 leftist Cultural Revolution and the lives of Chinese intellectuals, the official said.",
+    "output": "China"
+  },
+  {
+    "input": "The 7-pound, 4-ounce ( 3.3 kg ) girl, named Sophia Rose, was born shortly after midnight at South Miami Hospital, publicist Paul Bloch said.",
+    "output": "South Miami Hospital"
+  },
+  {
+    "input": "The PUK-run radio on Friday said Iraqi heavy artillery was pounding its positions in Kurdish-controlled northern Iraq but it gave no details of casualties.",
+    "output": "Iraq"
+  },
+  {
+    "input": "3 - Wayne Ferreira ( South Africa ) beat Todd Woodbridge",
+    "output": "South Africa"
+  },
+  {
+    "input": "Mahala is a Moslem village on Bosnian Serb republic territory.",
+    "output": "Mahala"
+  },
+  {
+    "input": "An 88-year-old army veteran was jailed for 15 years by a Hong Kong court for drugs trafficking after he admitted he had stashed heroin under his mattress, a newspaper said on Saturday.",
+    "output": "Hong Kong"
+  },
+  {
+    "input": "He was caught by police trying to force his way into a home in the rural New Territories, a police spokesman said.",
+    "output": "New Territories"
+  },
+  {
+    "input": "4. Maarten den Bakker ( Netherlands ) TVM all same time",
+    "output": "Netherlands"
+  },
+  {
+    "input": "14. Olivier Panis ( France ) Ligier 1:54.220",
+    "output": "France"
+  },
+  {
+    "input": "Hovercrafts will soon be plying the waters of the Amazon in a bid to reduce the difficulties of transportation on the vast Brazilian waterway, the government said on Thursday.",
+    "output": "Amazon"
+  },
+  {
+    "input": "Norton said she was concerned that the Lloyd 's agreement immunizes it from future litigation regarding Equitas and requires that all legal actions be heard outside of Colorado.",
+    "output": "Colorado"
+  },
+  {
+    "input": "News Corp said strong performances in U.S. television and British newspapers were offset by lower profits from News Corp 's magazine and publishing divisions and further hefty losses from its Asian Star TV operations.",
+    "output": "U.S."
+  },
+  {
+    "input": "\" The main purpose of this press conference is to make it known to the world that the authorities are misusing the law all the time in order to try to crush the democracy movement, \" Suu Kyi told reporters at her Rangoon home.",
+    "output": "Rangoon"
+  },
+  {
+    "input": "The activist was detained by Palestinian intelligence service agents on August 12 after publishing a statement demanding an investigation into the death of a Gaza man who had been questioned by Palestinian authorities.",
+    "output": "Gaza"
+  },
+  {
+    "input": "12. Martin Brundle ( Britain ) Jordan 34",
+    "output": "Britain"
+  },
+  {
+    "input": "2. Marion Clignet ( France ) 3:31.674",
+    "output": "France"
+  },
+  {
+    "input": "Tunbridge Wells : Nottinghamshire 214 ( P. Johnson 84 ; M. McCague 4-55 ), Kent 108-3.",
+    "output": "Tunbridge Wells"
+  },
+  {
+    "input": "LONDON 1996-08-26",
+    "output": "LONDON"
+  },
+  {
+    "input": "1. Charmaine Crooks ( Canada ) two minutes 00.42 seconds",
+    "output": "Canada"
+  },
+  {
+    "input": "Belgrade airport runway repairs Sept 21-26-agency.",
+    "output": "Belgrade"
+  },
+  {
+    "input": "Zaire installs first election delegates.",
+    "output": "Zaire"
+  },
+  {
+    "input": "But it slammed Damascus for creating what it called a dangerous atmosphere.",
+    "output": "Damascus"
+  },
+  {
+    "input": "Kidnappers have seized a Dutch couple who manage a farm in northern Costa Rica and have demanded a $ 1.5 million ransom, authorities said on Monday.",
+    "output": "Costa Rica"
+  },
+  {
+    "input": "7. Rohan Robinson ( Australia ) 49.36",
+    "output": "Australia"
+  },
+  {
+    "input": "-- New Delhi newsroom, +91-11-3012024",
+    "output": "New Delhi"
+  },
+  {
+    "input": "The team will go one to tour Pakistan, playing two tests and three one-day internationals.",
+    "output": "Pakistan"
+  },
+  {
+    "input": "1. Max van Heeswijk ( Netherlands ) Motorola 4 hours 39 minutes",
+    "output": "Netherlands"
+  },
+  {
+    "input": "England first innings",
+    "output": "England"
+  },
+  {
+    "input": "Ian Rush, the Welsh striker signed from Liverpool in the close season, set up the goal, feeding Sharpe as he galloped forward and the former England winger cut inside onto his unfavoured right foot to arc a shot into the right-hand corner of the net.",
+    "output": "England"
+  },
+  {
+    "input": "65 Billy Andrade, Duffy Waldorf, Jesper Parnevik ( Sweden )",
+    "output": "Sweden"
+  },
+  {
+    "input": "OTTAWA 1996-08-30",
+    "output": "OTTAWA"
+  },
+  {
+    "input": "It was also Williams ' first win in three career decisions against San Francisco.",
+    "output": "San Francisco"
+  },
+  {
+    "input": "New Zealand - Tries : Sean Fitzpatrick, Walter Little, Justin Marshall.",
+    "output": "New Zealand"
+  },
+  {
+    "input": "MOTORCYCLING - SAN MARINO GRAND PRIX PRACTICE TIMES.",
+    "output": "SAN MARINO"
+  },
+  {
+    "input": "30. Lithuania 8.06",
+    "output": "Lithuania"
+  },
+  {
+    "input": "- King : Jordan is entering a new era.",
+    "output": "Jordan"
+  },
+  {
+    "input": "9. Robbie McEwen ( Australia ) Rabobank",
+    "output": "Australia"
+  },
+  {
+    "input": "PRESS DIGEST - Bosnia - Aug 22.",
+    "output": "Bosnia"
+  },
+  {
+    "input": "-- Helsinki newsroom +358 - 0 - 680 50 248",
+    "output": "Helsinki"
+  },
+  {
+    "input": "2. Natalya Shikolenko ( Belarus ) 57.44",
+    "output": "Belarus"
+  },
+  {
+    "input": "12. Paul McGinley ( Ireland ) 208,978",
+    "output": "Ireland"
+  },
+  {
+    "input": "Orders increased 1.8 percent to a seasonally adjusted $ 317.6 billion, significantly stronger than the 1 percent rise forecast by Wall Street economists.",
+    "output": "Wall Street"
+  },
+  {
+    "input": "4. Kenny Harrison ( U.S. ) 16.97",
+    "output": "U.S."
+  },
+  {
+    "input": "3. Nastja Rysich ( germany ) 3.75",
+    "output": "germany"
+  },
+  {
+    "input": "\" We have chosen the challenge because it is our only option, \" proclaimed one banner on the road to Tripoli airport which serves only internal flights because of the sanctions.",
+    "output": "Tripoli"
+  },
+  {
+    "input": "Katarina Studenikova ( Slovakia ) beat 6 - Karina Habsudova",
+    "output": "Slovakia"
+  },
+  {
+    "input": "( Yugoslavia ) 1 ( 1-0 )",
+    "output": "Yugoslavia"
+  },
+  {
+    "input": "-- New York newsroom, ( 212 ) 859-1610",
+    "output": "New York"
+  },
+  {
+    "input": "2. Jacques Villeneuve ( Canada ) Williams 5.602 seconds",
+    "output": "Canada"
+  },
+  {
+    "input": "LONDON 1996-08-26",
+    "output": "LONDON"
+  },
+  {
+    "input": "CAIRO 1996-08-27",
+    "output": "CAIRO"
+  },
+  {
+    "input": "MANILA 1996-08-31",
+    "output": "MANILA"
+  },
+  {
+    "input": "Earlier this month, Jumbish denied a Kabul government statement that the two sides had agreed to a ceasefire in the north.",
+    "output": "Kabul"
+  },
+  {
+    "input": "Felicia Ballanger of France confirmed her status as the world 's number one woman sprinter when she retained her title at the world cycling championships on Friday.",
+    "output": "France"
+  },
+  {
+    "input": "At Headingley : Yorkshire 305-5 ( C. White 66 not out, M. Moxon",
+    "output": "Headingley"
+  },
+  {
+    "input": "Gazeta Wyborcza quoted Rosati as saying Yeltsin was very ill and effectively on leave, but for now retained control in Russia although matters were passing into the hands of his close collaborators.",
+    "output": "Russia"
+  },
+  {
+    "input": "This allowed Djorkaeff to play further up and his cross from the right fell for Ouedec, who has joined Espanyol of Barcelona from Nantes since missing the European championship finals through injury, to score after a mistake by midfielder Joaquin del Olmo.",
+    "output": "Barcelona"
+  },
+  {
+    "input": "About 3,500 naval shipyard workers marched in the centre of the northern port town of Cherbourg on Thursday to protest against defence restructuring, a union official said.",
+    "output": "Cherbourg"
+  },
+  {
+    "input": "1940 - In World War Two the German airforce under Hermann Goering began its \" Blitz \" bombing campaign on London.",
+    "output": "London"
+  },
+  {
+    "input": "Passengers rescued from blazing ferry off France.",
+    "output": "France"
+  },
+  {
+    "input": "Qualifier vs. Petr Korda ( Czech Republic )",
+    "output": "Czech Republic"
+  },
+  {
+    "input": "It could be a sobering experience for the Kremlin security chief who, just two months after being appointed by the president and two heady weeks after taking charge of the Chechen crisis, had promised to wrap up the 20-month war by the weekend.",
+    "output": "Kremlin"
+  },
+  {
+    "input": "NEW YORK AT CALIFORNIA",
+    "output": "CALIFORNIA"
+  },
+  {
+    "input": "Palestinians want Arab East Jerusalem as the capital of a future independent state.",
+    "output": "Arab East Jerusalem"
+  },
+  {
+    "input": "JOHANNESBURG 1996-08-26",
+    "output": "JOHANNESBURG"
+  },
+  {
+    "input": "GENEVA 1996-08-23",
+    "output": "GENEVA"
+  },
+  {
+    "input": "Wis.",
+    "output": "Wis"
+  },
+  {
+    "input": "LONDON 1996-08-25",
+    "output": "LONDON"
+  },
+  {
+    "input": "Dutch couple kidnapped in Costa Rica.",
+    "output": "Costa Rica"
+  },
+  {
+    "input": "Thursday at the 7,149 yard, par 70 Firestone C.C course",
+    "output": "Firestone C.C"
+  },
+  {
+    "input": "In Chicago, Erik Hanson outdueled Alex Fernandez, and Jacob Brumfield drove in Otis Nixon with the game 's only run in the sixth inning as the Toronto Blue Jays blanked the White Sox 1-0 in a game shortened to six innings due to rain.",
+    "output": "Chicago"
+  },
+  {
+    "input": "Fagan had earlier telephoned an Auckland radio station in a distraught state, saying he feared for his life.",
+    "output": "Auckland"
+  },
+  {
+    "input": "29. Macedonia 8.07",
+    "output": "Macedonia"
+  },
+  {
+    "input": "\" I have told Bangladesh leaders that British goverment has attached serious importance to the resolution of the tragic death of Siraj Mia, \" Under-Secretary of State for Foreign and Commonwealth Affairs Liam Fox Fox, told reporters.",
+    "output": "Bangladesh"
+  },
+  {
+    "input": "Far East gold traders thumped foreheads in frustration at the market 's foot-dragging this week and forecast on Friday that next week would not be much better.",
+    "output": "Far East"
+  },
+  {
+    "input": "SYDNEY 1996-08-26",
+    "output": "SYDNEY"
+  },
+  {
+    "input": "10. Stephen Ames ( Trinidad ) 211,175",
+    "output": "Trinidad"
+  },
+  {
+    "input": "SAN DIEGO 1996-08-26",
+    "output": "SAN DIEGO"
+  },
+  {
+    "input": "This is n't San Diego ( site of the Republican convention ), \" Mrs. Brady joked to her husband, who was serving as Reagan 's press secretary when he was shot.",
+    "output": "San Diego"
+  },
+  {
+    "input": "19. Pedro Lamy ( Portugal ) Minardi 1:56.830",
+    "output": "Portugal"
+  },
+  {
+    "input": "Police said James Lee Williams, 28, was stopped at a Bangkok airport departure lounge on Monday after officials found the drug in a bag that Williams planned to carry onto the plane.",
+    "output": "Bangkok"
+  },
+  {
+    "input": "ANKARA 1996-08-28",
+    "output": "ANKARA"
+  },
+  {
+    "input": "NZ bills gain ground after see-saw session.",
+    "output": "NZ"
+  },
+  {
+    "input": "3. William Tanui ( Kenya ) 3:33.36",
+    "output": "Kenya"
+  },
+  {
+    "input": "Jaora n.a Yellow - -",
+    "output": "Jaora"
+  },
+  {
+    "input": "Vicorp Restaurants names Sabourin CFO.",
+    "output": "Sabourin"
+  },
+  {
+    "input": "Montana weekly muni bond indices - Piper Jaffray.",
+    "output": "Montana"
+  },
+  {
+    "input": "CHICAGO 1996-08-29",
+    "output": "CHICAGO"
+  },
+  {
+    "input": "A senior Belarus politician accused President Alexander Lukashenko on Friday of attempting to set up a dictatorship in the former Soviet republic.",
+    "output": "Belarus"
+  },
+  {
+    "input": "The rain also severely hindered Belgian investigators ' excavations in the southern village of Jumet, where they are looking for bodies in one of the houses of the main character in a paedophile sex-and-murder scandal.",
+    "output": "Jumet"
+  },
+  {
+    "input": "St Helens secured the two points they needed in the last game of the season at Knowsley Road to win their first championship since 1975 and their first double since 1966.",
+    "output": "Knowsley Road"
+  },
+  {
+    "input": "\" The problem of land is one of the most serious facing Brazil, \" said Lucas Moreira Neves, president of the Catholic church 's National Conference of Bishops of Brazil.",
+    "output": "Brazil"
+  },
+  {
+    "input": "U.N. oficials have said Ekeus would hold talks with Iraqi Deputy Prime Minister Tareq Aziz and other officials as part of an agreement Iraq reached with the United Nations in June to hold higher level political talks with Ekeus.",
+    "output": "Iraq"
+  },
+  {
+    "input": "NEW YORK 1996-08-24",
+    "output": "NEW YORK"
+  },
+  {
+    "input": "PRESS DIGEST - Jordan - Aug 25.",
+    "output": "Jordan"
+  },
+  {
+    "input": "Thiel has managed to get most of the Olympic 100 metres champions since 1948 to attend the meeting, which is being held in the stadium where Owens won four gold medals 60 years ago at the Berlin Olympics.",
+    "output": "Berlin"
+  },
+  {
+    "input": "MILWAUKEE AT CHICAGO",
+    "output": "CHICAGO"
+  },
+  {
+    "input": "BOXING - PANAMA 'S ROBERTO DURAN FIGHTS THE SANDS OF TIME.",
+    "output": "PANAMA"
+  },
+  {
+    "input": "BUENOS AIRES 1996-08-26",
+    "output": "BUENOS AIRES"
+  },
+  {
+    "input": "\" Once it arrives in Yingkou, it is subject to monitoring by the State Planning Commission, which has to give permission for any more movement ; it is out of the hands of traders, \" he said.",
+    "output": "Yingkou"
+  },
+  {
+    "input": "But the radio report did not specify what guarantees, if any, the U.S. envoy had provided.",
+    "output": "U.S."
+  },
+  {
+    "input": "ABIDJAN 1996-08-29",
+    "output": "ABIDJAN"
+  },
+  {
+    "input": "\" They have confirmed to us that Iraqi troops are taking part in the attack on Arbil...",
+    "output": "Arbil"
+  },
+  {
+    "input": "KIEV 1996-08-26",
+    "output": "KIEV"
+  },
+  {
+    "input": "\" The current account deficit of around two percent of GDP is a sustainable level of deficit given the expected real growth rate and the trends in imports and exports, \" Rangarajan said in an address to business leaders in New Delhi.",
+    "output": "New Delhi"
+  },
+  {
+    "input": "211 Robert Allenby ( Australia ) 69 71 71",
+    "output": "Australia"
+  },
+  {
+    "input": "The hostages were held in a house in or near Grozny which was bombarded regularly.",
+    "output": "Grozny"
+  },
+  {
+    "input": "CHICAGO 1996-08-28",
+    "output": "CHICAGO"
+  },
+  {
+    "input": "Marion Clignet ( France ) 3:30.974 ( World Record ) beat Jane",
+    "output": "France"
+  },
+  {
+    "input": "NEW YORK 1996-08-28",
+    "output": "NEW YORK"
+  },
+  {
+    "input": "Russian troops began to pull out from southern Chechnya on Sunday under a ceasefire agreement between Russian security chief Alexander Lebed and rebel leaders.",
+    "output": "Chechnya"
+  },
+  {
+    "input": "LONDON 1996-08-28",
+    "output": "LONDON"
+  },
+  {
+    "input": "Hong Kong jails 88-year-old drug trafficker.",
+    "output": "Hong Kong"
+  },
+  {
+    "input": "7. Margarita Maruseva ( Russia ) 4:10.87",
+    "output": "Russia"
+  },
+  {
+    "input": "Griqualand West - Tries : Andre Cloete, Leon van der Wath.",
+    "output": "Griqualand West"
+  },
+  {
+    "input": "JOHANNESBURG 1996-08-31",
+    "output": "JOHANNESBURG"
+  },
+  {
+    "input": "VIENNA 1996-08-26",
+    "output": "VIENNA"
+  },
+  {
+    "input": "No closures of airports due to bad weather are expected in the Commonwealth of Independent States on August 28 and August 29, the Russian Weather Service said on Tuesday.",
+    "output": "Commonwealth of Independent States"
+  },
+  {
+    "input": "Canada 's 8.0 percent bond due 2023 fell C$ 0.45 to C$ 101.15 to yield 7.894 percent.",
+    "output": "Canada"
+  },
+  {
+    "input": "Mamatuyev joked that his sister Lisa was a rebel too, and she responded by grabbing hold of his gun and shouting the Chechen war cry \" Allahu Akhbar \" ( God is Greatest ) and \" Freedom for Chechnya ! \"",
+    "output": "Chechnya"
+  },
+  {
+    "input": "3. John Regis ( Britain ) 20.63",
+    "output": "Britain"
+  },
+  {
+    "input": "7. Carlos Calado ( Portugal ) 16.31",
+    "output": "Portugal"
+  },
+  {
+    "input": "BONN 1996-08-28",
+    "output": "BONN"
+  },
+  {
+    "input": "U.S. corn gluten meal steady-higher, feed flat.",
+    "output": "U.S."
+  },
+  {
+    "input": "RTRS - Budget cuts to boost Australia savings - RBA.",
+    "output": "Australia"
+  },
+  {
+    "input": "Chile 's ENAP buys Oriente, Escravos crude for Oct.",
+    "output": "Chile"
+  },
+  {
+    "input": "7. Norihiko Fujiwara ( Japan ) Yamaha 38:43.253",
+    "output": "Japan"
+  },
+  {
+    "input": "Two pct India current account deficit viable - RBI.",
+    "output": "India"
+  },
+  {
+    "input": "Lauck 's worldwide network has been the main source of anti-Semitic propaganda material flowing into Germany since the 1970s.",
+    "output": "Germany"
+  },
+  {
+    "input": "6. Peter Pieters - Tomas Post ( Netherlands ) 14",
+    "output": "Netherlands"
+  },
+  {
+    "input": "The value of maintenance works, which will last 120 hours straight, is 20 million dinars and the funds have been secured by Belgrade airport, Tanjug said.",
+    "output": "Belgrade"
+  },
+  {
+    "input": "Germany ) 72 72 72 76",
+    "output": "Germany"
+  },
+  {
+    "input": "-- Caracas newsroom, 582 834405",
+    "output": "Caracas"
+  },
+  {
+    "input": "WASHINGTON 1996-08-23",
+    "output": "WASHINGTON"
+  },
+  {
+    "input": "4. Pavel Buran ( Czech Republic )",
+    "output": "Czech Republic"
+  },
+  {
+    "input": "COLORADO AT ST LOUIS",
+    "output": "ST LOUIS"
+  },
+  {
+    "input": "The understandings forbid firing from or at civilian targest but do not rule out guerrilla attacks on Israeli troops and their local militia allies in south Lebanon.",
+    "output": "Lebanon"
+  },
+  {
+    "input": "In Grozny, Shkirko told Interfax he was suspending the pullout of troops from the capital until weapons seized by the Chechens were returned.",
+    "output": "Grozny"
+  },
+  {
+    "input": "PARIS 1996-08-26",
+    "output": "PARIS"
+  },
+  {
+    "input": "French Premier Alain Juppe will pay an official visit to Greece on September 15 to celebrate 150 years of the French Archaeological Society, government spokesman Dimitris Reppas said on Wednesday.",
+    "output": "Greece"
+  },
+  {
+    "input": "Chad government closes university after protests.",
+    "output": "Chad"
+  },
+  {
+    "input": "6. Zhanna Pintusevich ( Ukraine ) 11.27",
+    "output": "Ukraine"
+  },
+  {
+    "input": "\" We Albanians, sons of Buzuku, believed our language had a written document but now we do not have it any more, \" lamented scholar Musa Hamiti, told of the loss by the Vatican library.",
+    "output": "Vatican"
+  },
+  {
+    "input": "Iraqi Kurdish areas bordering Iran are under the control of guerrillas of the Iraqi Kurdish Patriotic Union of Kurdistan ( PUK ) group.",
+    "output": "Iran"
+  },
+  {
+    "input": "TAIPEI 1996-08-27",
+    "output": "TAIPEI"
+  },
+  {
+    "input": "A mild-mannered and youthful man who rose rapidly after entering the Senate in 1987, he presented himself as a Midwest moderate, as a Democratic winner in a Republican state able to unite Senate factions.",
+    "output": "Midwest"
+  },
+  {
+    "input": "1. Michael Schumacher ( Germany ) Ferrari 1 hour 28 minutes",
+    "output": "Germany"
+  },
+  {
+    "input": "Belgium - Marc Degryse ( 13th ), Luis Oliveira ( 38th )",
+    "output": "Belgium"
+  },
+  {
+    "input": "\" We change lanes all the time in Barcelona.",
+    "output": "Barcelona"
+  },
+  {
+    "input": "Gupta said there might be an increase in the number of people infiltrating the Kashmir valley to create disturbance in the region.",
+    "output": "Kashmir"
+  },
+  {
+    "input": "Armoured cars had patrolled streets in Karak, traditional bastion of communist ideology and Baath socialism that swept the region in the 1950s, and guarded entrances to the hill-top city famed for its Crusader castle before the prayers.",
+    "output": "Karak"
+  },
+  {
+    "input": "Unconfirmed news reports said a vehicle belonging to them was found abandoned at Santa Maria de Pocosol, about 12 miles ( 20 km ) north of the site of the abduction.",
+    "output": "Santa Maria de Pocosol"
+  },
+  {
+    "input": "It said another, the Cometra et al Morinville 11-13, has logged 128 feet of productive Leduc Reef at 5,400 feet and is flowing water free at the rate of 590 barrels of oil per day on a 15 / 64ths-inch choke.",
+    "output": "Leduc Reef"
+  },
+  {
+    "input": "Of this number 64 foreign and 598 local staff would be in the northern Kurdish provinces, no longer the direct control of the Baghdad government.",
+    "output": "Baghdad"
+  },
+  {
+    "input": "( Morocco ) 5-7 6-3 3-0 retired",
+    "output": "Morocco"
+  },
+  {
+    "input": "LISBON 1996-08-23",
+    "output": "LISBON"
+  },
+  {
+    "input": "TORONTO 1996-08-21",
+    "output": "TORONTO"
+  },
+  {
+    "input": "THE HAGUE 1996-08-30",
+    "output": "THE HAGUE"
+  },
+  {
+    "input": "In San Francisco, Osvaldo Fenandez fired a seven-hitter and Trenidad Hubbard belted a two-run homer as the San Francisco Giants ended a three-game losing streak by defeating the Montreal Expos, 7-2.",
+    "output": "San Francisco"
+  },
+  {
+    "input": "3. Marcus Gronholm ( Finland ) Toyota Celica 2:09",
+    "output": "Finland"
+  },
+  {
+    "input": "BELGRADE 1996-08-29",
+    "output": "BELGRADE"
+  },
+  {
+    "input": "CHICAGO 1996-08-28",
+    "output": "CHICAGO"
+  },
+  {
+    "input": "Shortly after the report appeared showing the confidence index rising to 109.4 in August from a revised 107.0 in July, Wall Street relinquished virtually all its morning gains.",
+    "output": "Wall Street"
+  },
+  {
+    "input": "Corporate America taking new view on compensation.",
+    "output": "America"
+  },
+  {
+    "input": "3. Goulnara Fatkoullina ( Russia ) 16",
+    "output": "Russia"
+  },
+  {
+    "input": "Police said the 111 passengers and six crew on board the ferry Trident Seven, owned by France 's Emeraud line, were rescued by a variety of private and commercial boats after fire broke out in the engine room soon after it left port.",
+    "output": "France"
+  },
+  {
+    "input": "Our mission in Chechnya has done all it can within the given limitations. \"",
+    "output": "Chechnya"
+  },
+  {
+    "input": "course ( players U.S. unless noted ) :",
+    "output": "U.S."
+  },
+  {
+    "input": "\" Ukraine 's biggest achievements for five years are the preservation of civil peace and inter-ethnic harmony, \" President Leonid Kuchma said in televised statement this week.",
+    "output": "Ukraine"
+  },
+  {
+    "input": "Czech coach in fatal crash in Austria.",
+    "output": "Austria"
+  },
+  {
+    "input": "Meri garnered 49 votes and Meri 34 in Tuesday 's ballot for the five-year presidency of Estonia.",
+    "output": "Estonia"
+  },
+  {
+    "input": "ROME 1996-08-28",
+    "output": "ROME"
+  },
+  {
+    "input": "BALANCE - Ohio refunding bonds at $ 290,000.",
+    "output": "Ohio"
+  },
+  {
+    "input": "PARIS 1996-08-28",
+    "output": "PARIS"
+  },
+  {
+    "input": "Lebed interrupted talks with Chechnya 's separatists on a political deal on Sunday, saying he had to consult with Yeltsin.",
+    "output": "Chechnya"
+  },
+  {
+    "input": "Brazilian striker Marcelo scored a hat-trick as PSV Eindhoven maintained their 100 percent record and stayed on top of the Dutch first division with a 3-1 win at Volendam on Wednesday.",
+    "output": "Volendam"
+  },
+  {
+    "input": "1. Jonathan Edwards ( Britain ) 17.50 metres",
+    "output": "Britain"
+  },
+  {
+    "input": "Partly cloudy in northern India with a few light showers.",
+    "output": "India"
+  },
+  {
+    "input": "1. Dionne Rose ( Jamaica ) 12.83",
+    "output": "Jamaica"
+  },
+  {
+    "input": "The U.N. Department of Humanitarian Affairs ( DHA ), which has to coordinate the distribution of food, medicine and other goods, increased the number of monitors earlier this month at the insistence of the United States.",
+    "output": "United States"
+  },
+  {
+    "input": "The announcement came 24 hours after the team from the French Riviera lost at home to Guingamp 2-1 in a league match.",
+    "output": "French Riviera"
+  },
+  {
+    "input": "4. Gideon Chirchir ( Kenya ) 8:15.69",
+    "output": "Kenya"
+  },
+  {
+    "input": "1. Ludmila Engquist ( Sweden ) 12.60 seconds",
+    "output": "Sweden"
+  },
+  {
+    "input": "WASHINGTON 1996-08-30",
+    "output": "WASHINGTON"
+  },
+  {
+    "input": "Davies said he knew of no plans to return the man to Cuba.",
+    "output": "Cuba"
+  },
+  {
+    "input": "3. Anna Knoroz ( Russia ) 57.02",
+    "output": "Russia"
+  },
+  {
+    "input": "Bosnia 's election organisers will decide on Tuesday whether or not to postpone municipal elections scheduled as part of nationwide balloting, an OSCE spokeswoman said on Monday.",
+    "output": "Bosnia"
+  },
+  {
+    "input": "1. Ana Fidelia Quirot ( Cuba ) 1 minute 58.98 seconds",
+    "output": "Cuba"
+  },
+  {
+    "input": "BANGKOK 1996-08-29",
+    "output": "BANGKOK"
+  },
+  {
+    "input": "SOCCER - DUTCH DRAW 2-2 WITH BRAZIL IN FRIENDLY INTERNATIONAL.",
+    "output": "BRAZIL"
+  },
+  {
+    "input": "MOSCOW 1996-08-26",
+    "output": "MOSCOW"
+  },
+  {
+    "input": "He was likely to return on Saturday to his holiday resort, a hunting lodge some 100 km ( 60 miles ) from Moscow.",
+    "output": "Moscow"
+  },
+  {
+    "input": "A Polish consortium including the Bank Rozwoju Exportu SA ( BRE ) plans to rival France 's Hachette in bidding for Polish state-owned press distribution chain Ruch SA, Zycie Warszawy daily said on Saturday.",
+    "output": "France"
+  },
+  {
+    "input": "Pakistan win series 2-0",
+    "output": "Pakistan"
+  },
+  {
+    "input": "If that is true, then any new Treasury chief would need to be as effective as Rubin in convincing markets that the White House does indeed want a strong currency.",
+    "output": "White House"
+  },
+  {
+    "input": "BANGKOK",
+    "output": "BANGKOK"
+  },
+  {
+    "input": "The European Union agreed on Thursday to increase by 300,000 tonnes the quota of German intervention barley available for export, France ONIC said.",
+    "output": "France"
+  },
+  {
+    "input": "Batumi ( Georgia ) 3 ( 0-2 )",
+    "output": "Georgia"
+  },
+  {
+    "input": "In Philadelphia, Delino DeShields 's triple in the top of the 12th off Jeff Parrett ( 2-3 ) scored Chad Curtis and lifted the Los Angeles Dodgers to a 7-6 victory over the Phillies.",
+    "output": "Philadelphia"
+  },
+  {
+    "input": "LONDON 1996-08-29",
+    "output": "LONDON"
+  },
+  {
+    "input": "The ICAC has kept a close eye on passport scams after a U.S. official was jailed for trafficking fake Honduran passports as part of an immigration racket aimed at Chinese.",
+    "output": "U.S."
+  },
+  {
+    "input": "2. Heike Drechsler ( Germany ) 6.65",
+    "output": "Germany"
+  },
+  {
+    "input": "DHAKA 1996-08-22",
+    "output": "DHAKA"
+  },
+  {
+    "input": "BOMBAY 1996-08-22",
+    "output": "BOMBAY"
+  },
+  {
+    "input": "3. Lance Armstrong ( U.S. ) Motorola",
+    "output": "U.S."
+  },
+  {
+    "input": "5. Mika Hakkinen ( Finland ) 23",
+    "output": "Finland"
+  },
+  {
+    "input": "\" It 's a win that I can be proud of, \" said the 30-year-old Swede, winner of two U.S. Opens and six Grand Slam titles in all. \"",
+    "output": "U.S."
+  },
+  {
+    "input": "LONDON 1996-08-23",
+    "output": "LONDON"
+  },
+  {
+    "input": "2. Marie-Jose Perec ( France ) 49.72",
+    "output": "France"
+  },
+  {
+    "input": "One Romanian passenger was killed, and 14 others were injured on Thursday when a Romanian-registered bus collided with a Bulgarian one in northern Bulgaria, police said.",
+    "output": "Bulgaria"
+  },
+  {
+    "input": "Brazil 's Eletropaulo names new president.",
+    "output": "Brazil"
+  },
+  {
+    "input": "JERUSALEM 1996-08-28",
+    "output": "JERUSALEM"
+  },
+  {
+    "input": "Australia",
+    "output": "Australia"
+  },
+  {
+    "input": "INDICATORS - Hungary - updated Aug 22.",
+    "output": "Hungary"
+  },
+  {
+    "input": "An estimated 50,000 people have died in Algeria 's violence pitting Moslem rebels against government forces since early 1992 when the authorities cancelled a general election in which radical Islamists had taken a commanding lead.",
+    "output": "Algeria"
+  },
+  {
+    "input": "The greatest increase was in the East North Central region.",
+    "output": "East North Central"
+  },
+  {
+    "input": "5. Olabisi Afolabi ( Nigeria ) 51.98",
+    "output": "Nigeria"
+  },
+  {
+    "input": "BONN 1996-08-22",
+    "output": "BONN"
+  },
+  {
+    "input": "9. Worku Bekila ( Ethiopia ) 28.42.23",
+    "output": "Ethiopia"
+  },
+  {
+    "input": "Should Rubin leave, Wall Street would worry that he might take his strong-dollar policy with him.",
+    "output": "Wall Street"
+  },
+  {
+    "input": "BAGHDAD 1996-08-22",
+    "output": "BAGHDAD"
+  },
+  {
+    "input": "2. Isaac Viciosa ( Spain ) 3:33.00",
+    "output": "Spain"
+  },
+  {
+    "input": "3. Margaret Crowley ( Australia ) 2:02.40",
+    "output": "Australia"
+  },
+  {
+    "input": "Sunday 's Vancouver IndyCar race after final qualifying on",
+    "output": "Vancouver"
+  },
+  {
+    "input": "Brooks 69 69 74 71, Nick Faldo ( Britain ) 70 71 68 74",
+    "output": "Britain"
+  },
+  {
+    "input": "Venezuela unions harden towards CVG privatization.",
+    "output": "Venezuela"
+  },
+  {
+    "input": "SAN DIEGO AT NEW YORK",
+    "output": "NEW YORK"
+  },
+  {
+    "input": "Arulanandam denied the fishermen charged the refugees for passage to India and said it was unfair to penalise them for the refugees ' arrival.",
+    "output": "India"
+  },
+  {
+    "input": "NEW YORK 1996-08-29",
+    "output": "NEW YORK"
+  },
+  {
+    "input": "DKBA members have since launched intermittent cross-border attacks on Karen refugee camps in Thailand, where the majority of inhabitants are KNU supporters, and on Thai villages and police posts near the border.",
+    "output": "Thailand"
+  },
+  {
+    "input": "Martin Gates 71 77 72, Bradley Hughes ( Australia ) 73 75 72,",
+    "output": "Australia"
+  },
+  {
+    "input": "LOS ANGELES AT MONTREAL",
+    "output": "MONTREAL"
+  },
+  {
+    "input": "4. Natalya Sadova ( Russia ) 61.64",
+    "output": "Russia"
+  },
+  {
+    "input": "Ibrahim 's assistant, Hussein Khalaf, was expelled earlier this year for similar reasons amid rising tension in bilateral ties after King Hussein began calling for change in Baghdad following top Iraqi defections in August 1995.",
+    "output": "Baghdad"
+  },
+  {
+    "input": "Christie is due to retire from international competition at the end of the season although he may compete for Britain in next season 's European Cup.",
+    "output": "Britain"
+  },
+  {
+    "input": "Colombia 's peso closed lower at 1,044 after coming under pressure from dollar-buying by importers seeking to meet their commitments abroad, interbank dealers said.",
+    "output": "Colombia"
+  },
+  {
+    "input": "HAVANA 1996-08-31",
+    "output": "HAVANA"
+  },
+  {
+    "input": "Alcan aluminum, U.S. Midwest ( effective date : August 1, 1996 )",
+    "output": "U.S. Midwest"
+  },
+  {
+    "input": "The PUK statement follows KDP assertions that the PUK is receiving military support from Iran.",
+    "output": "Iran"
+  },
+  {
+    "input": "We know many of the people who live in Barentsburg, some of them could have been on the plane, \" said Johan Sletten, 52.",
+    "output": "Barentsburg"
+  },
+  {
+    "input": "But he warned that the situation was not as ideal in central and southern Texas, where mositure levels were still short despite the rains brought by Hurricane Dolly last week.",
+    "output": "Texas"
+  },
+  {
+    "input": "SEOUL 1996-08-25",
+    "output": "SEOUL"
+  },
+  {
+    "input": "ATHENS 1996-08-23",
+    "output": "ATHENS"
+  },
+  {
+    "input": "BONN 1996-08-30",
+    "output": "BONN"
+  },
+  {
+    "input": "Toronto returned home from a 10-game road trip and won for the eighth time in nine games as Guzman ( 11-8 ) allowed nine hits and struck out eight without a walk.",
+    "output": "Toronto"
+  },
+  {
+    "input": "CHICAGO AT HOUSTON",
+    "output": "HOUSTON"
+  },
+  {
+    "input": "( Sweden ), Paul Eales, David Williams, Andrew Coltart,",
+    "output": "Sweden"
+  },
+  {
+    "input": "Algerian security forces have shot dead three Moslem guerrillas suspected of killing a leading French bishop in western Algeria, the Algerian state-run television said on Thursday.",
+    "output": "Algeria"
+  },
+  {
+    "input": "Grozny quiet overnight after raids.",
+    "output": "Grozny"
+  },
+  {
+    "input": "Results of first round matches on Tuesday in the U.S. Open tennis championships at the National Tennis Centre ( prefix denotes seeding ) :",
+    "output": "National Tennis Centre"
+  },
+  {
+    "input": "The record of four minutes, 12.56 seconds in Zurich earned Masterkova a bonus of $ 50,000 plus one kilo of gold.",
+    "output": "Zurich"
+  },
+  {
+    "input": "MOSCOW 1996-08-28",
+    "output": "MOSCOW"
+  },
+  {
+    "input": "The girl, Abyss DeJesus, suffers from a \" hairy nevus \" on the right side of her face, a condition that has only been reported a few times in medical journals, the St. Christopher Children 's Hospital said.",
+    "output": "St. Christopher Children 's Hospital"
+  },
+  {
+    "input": "BOSTON 1996-08-28",
+    "output": "BOSTON"
+  },
+  {
+    "input": "2. Michael Andretti ( U.S. ), Lola Ford Cosworth, 54.483",
+    "output": "U.S."
+  },
+  {
+    "input": "Other polls also showed a strong Dole bounce after San Diego but Clinton then rebuilding his lead.",
+    "output": "San Diego"
+  },
+  {
+    "input": "Fowler 's predecessor Raymond Mabus returned to the United States in May.",
+    "output": "United States"
+  },
+  {
+    "input": "MADRID 1996-08-30",
+    "output": "MADRID"
+  },
+  {
+    "input": "In Detroit, Todd Van Poppel pitched a five-hitter for his first career shutout and Tony Clark homered to cap a four-run first inning as the Tigers blanked the Kansas City Royals 4-0.",
+    "output": "Detroit"
+  },
+  {
+    "input": "MELBOURNE 1996-08-26",
+    "output": "MELBOURNE"
+  },
+  {
+    "input": "DUBLIN 1996-08-31",
+    "output": "DUBLIN"
+  },
+  {
+    "input": "1 - Jansher Khan ( Pakistnn ) beat Jackie Lee ( Hong Kong ) 15-8 15-8",
+    "output": "Hong Kong"
+  },
+  {
+    "input": "CHICAGO 1996-08-26",
+    "output": "CHICAGO"
+  },
+  {
+    "input": "LONDON 1996-08-24",
+    "output": "LONDON"
+  },
+  {
+    "input": "5. Dietmar Lalcher ( Germany ) Honda",
+    "output": "Germany"
+  },
+  {
+    "input": "U.S. Cardinal Bernardin says has terminal cancer.",
+    "output": "U.S."
+  },
+  {
+    "input": "3/4 - Qiang Hong / Liu Lu ( China ) 10-15 17-14 17-16",
+    "output": "China"
+  },
+  {
+    "input": "New Zealand - 15 - Christian Cullen ( Alama Ieremia, 70 ), 14 - Jeff Wilson, 13 - Walter Little, 12 - Frank Bunce, 11 - Glen Osborne ; 10 - Andrew Mehrtens, 9 - Justin Marshall ; 8 - Zinzan Brooke, 7 - Josh Kronfeld, 6 - Michael Jones ( Glenn Taylor, 53 ), 5 - Robin Brooke, 4 - Ian Jones, 3 - Olo Brown, 2 - Sean Fitzpatrick ( captain ), 1 - Craig Dowd.",
+    "output": "New Zealand"
+  },
+  {
+    "input": "In Jakarta, Tsang will meet President Suharto, Minister of Finance Mar'ie Muhammad, Minister of Foreign Affairs Ali Alatas and Minister of Trade and Industry Tungky Ariwibowo.",
+    "output": "Jakarta"
+  },
+  {
+    "input": "\" The police interrogated several Slovak girls who said that they had been invited by Mark Dutroux to visit Belgium, \" Gajdos said.",
+    "output": "Belgium"
+  },
+  {
+    "input": "AC Milan midfielder Edgar Davids, who was sent home early from the European championship in England after a clash with the coach, was left out of the squad.",
+    "output": "England"
+  },
+  {
+    "input": "NEW DELHI 1996-08-25",
+    "output": "NEW DELHI"
+  },
+  {
+    "input": "\" Turkish people are watching closely the developments in Bosnia.",
+    "output": "Bosnia"
+  },
+  {
+    "input": "He said volatility levels should be stable until markets reassess the situation after a long weekend in Britain.",
+    "output": "Britain"
+  },
+  {
+    "input": "31. Austria 8.05",
+    "output": "Austria"
+  },
+  {
+    "input": "3. Florian Schwarthoff ( Germany ) 13.36",
+    "output": "Germany"
+  },
+  {
+    "input": "AUCKLAND 1996-08-30",
+    "output": "AUCKLAND"
+  },
+  {
+    "input": "Two people were killed and six were injured after a helicopter crashed in bad weather in northern Cambodia, a government minister said on Wednesday.",
+    "output": "Cambodia"
+  },
+  {
+    "input": "Bamerindus, Brazil 's fourth-largest private bank, has been facing liquidity troubles.",
+    "output": "Brazil"
+  },
+  {
+    "input": "India - Sachin Tendulkar ( captain ), Anil Kumble, Ajay Jadeja, Sourav Ganguly, Mohamed Azharuddin, Vinod Kambli, Rahul Dravid, Nayan Mongia, Javagal Srinath, Venkatesh Prasad, Ashish Kapoor.",
+    "output": "India"
+  },
+  {
+    "input": "Napoleon entered Moscow a week later.",
+    "output": "Moscow"
+  },
+  {
+    "input": "BELGRADE 1996-08-30",
+    "output": "BELGRADE"
+  },
+  {
+    "input": "PARIS 1996-08-27",
+    "output": "PARIS"
+  },
+  {
+    "input": "LONDON 1996-08-23",
+    "output": "LONDON"
+  },
+  {
+    "input": "AMSTERDAM 1996-08-26",
+    "output": "AMSTERDAM"
+  },
+  {
+    "input": "The joint venture has two motorcycle plants making Xingfu motorcycles and aims to be China 's biggest producer by the year 2000, with output of two million units.",
+    "output": "China"
+  },
+  {
+    "input": "Ecuador president to lunch with ethnic Indians.",
+    "output": "Ecuador"
+  },
+  {
+    "input": "KINSHASA 1996-08-29",
+    "output": "KINSHASA"
+  },
+  {
+    "input": "NEW YORK 1996-08-30",
+    "output": "NEW YORK"
+  },
+  {
+    "input": "COLOMBO 1996-08-22",
+    "output": "COLOMBO"
+  },
+  {
+    "input": "Hungary 's Gross Domestic Product fell one percentage point in the first quarter while real wages plunged 7.2 percentage points in the first half of 1996.",
+    "output": "Hungary"
+  },
+  {
+    "input": "\" My prediction is that the Names will appeal, \" said Kenneth Chiate, a U.S. Name and a chief negotiator for the American Names Association.",
+    "output": "U.S."
+  },
+  {
+    "input": "MANILA 1996-08-26",
+    "output": "MANILA"
+  },
+  {
+    "input": "Nigerian police shot dead six robbery suspects as they tried to escape from custody in the northern city of Sokoto, the national news agency reported on Friday.",
+    "output": "Sokoto"
+  },
+  {
+    "input": "12. Giovanna Troldi ( Italy ) 38.285",
+    "output": "Italy"
+  },
+  {
+    "input": "Moroccan King meets former Israel PM Peres.",
+    "output": "Israel"
+  },
+  {
+    "input": "3. Jeff Williams ( U.S. ) 20.21",
+    "output": "U.S."
+  },
+  {
+    "input": "Saudi Arabia beheads convicted drug smugglers, rapists, murderers and other criminals.",
+    "output": "Saudi Arabia"
+  },
+  {
+    "input": "He said there was some possibility of further talks with Germany before the next Commission meeting of September 4.",
+    "output": "Germany"
+  },
+  {
+    "input": "KATHMANDU 1996-08-23",
+    "output": "KATHMANDU"
+  },
+  {
+    "input": "Johnson, who played eight seasons in Baltimore, was named Orioles manager in the off-season replacing Phil Regan.",
+    "output": "Baltimore"
+  },
+  {
+    "input": "1. Giovanni Lombardi ( Italy ) Polti 2 hours 35 minutes",
+    "output": "Italy"
+  },
+  {
+    "input": "Malcolm Marshall ( West Indies ) 376, 81",
+    "output": "West Indies"
+  },
+  {
+    "input": "Scores : World XI 102-0 ( M. Waugh 39 not out, S. Tendulkar 56 not out ) off 21.4 overs v Sri Lanka.",
+    "output": "Sri Lanka"
+  },
+  {
+    "input": "TIRANA 1996-08-24",
+    "output": "TIRANA"
+  },
+  {
+    "input": "Chesterfield : Worcestershire 238 ( W. Weston 100 not out, V. Solanki 58 ; A. Harris 4-31 ), Derbyshire 166-1 ( K. Barnett 83 not out )",
+    "output": "Chesterfield"
+  },
+  {
+    "input": "Elephant tramples woman to death in Nepal.",
+    "output": "Nepal"
+  },
+  {
+    "input": "Camacho took a controversial points decision against the Panamanian in Atlantic City in June in a title fight.",
+    "output": "Atlantic City"
+  },
+  {
+    "input": "2. Inga Babakova ( Ukraine ) 2.00 metres",
+    "output": "Ukraine"
+  },
+  {
+    "input": "278 Greg Norman ( Australia ) 70 68 69 71",
+    "output": "Australia"
+  },
+  {
+    "input": "But the influx has triggered fears of a repeat of the 1980s when some 200,000 refugees landed in Tamil Nadu.",
+    "output": "Tamil Nadu"
+  },
+  {
+    "input": "DHAKA 1996-08-22",
+    "output": "DHAKA"
+  },
+  {
+    "input": "Before the match Deportivo chairman Augusto Lendoiro said he would ignore a FIFA decision banning Brazilian midfielder Mauro Silva from playing in the match for failing to join his national side 's tour of Europe.",
+    "output": "Europe"
+  },
+  {
+    "input": "The commander-in-chief of Tajikistan 's armed forces, Major-General Nikolai Sherbatov, took a group of journalists by helicopter to the remote, and now devastated, town to show that his forces held it.",
+    "output": "Tajikistan"
+  },
+  {
+    "input": "A total of 116 delegates to Zaire 's National Election Commission ( CNE ) were formally installed on Thursday, launching another phase of the Central African nation 's much-delayed democratic transition.",
+    "output": "Zaire"
+  },
+  {
+    "input": "Christie, who is retiring from international competition at the end of the season, was not due to compete in the German capital but Berlin promoter Rudi Thiel said : \" We are still hopeful of getting him to come. \"",
+    "output": "Berlin"
+  },
+  {
+    "input": "Daughter of Henry VIII and his second wife Anne Boleyn, she was queen of England 1558-1603.",
+    "output": "England"
+  },
+  {
+    "input": "News Corp said revenue gains at its magazines and inserts division were offset by higher paper prices and lower sales at the U.S. TV Guide.",
+    "output": "U.S."
+  },
+  {
+    "input": "+3 Anders Forsbrand ( Sweden ) through 5",
+    "output": "Sweden"
+  },
+  {
+    "input": "PITTSBURGH AT COLORADO",
+    "output": "COLORADO"
+  },
+  {
+    "input": "1. Jeff Williams ( U.S. ) 20.45",
+    "output": "U.S."
+  },
+  {
+    "input": "SYDNEY 2,292.9 +18.3 2,326.00 2,096.10",
+    "output": "SYDNEY"
+  },
+  {
+    "input": "Kuchma has said Kiev wants membership of the European Union, associate membership of the Western European Union defence grouping and to move closer to NATO.",
+    "output": "Kiev"
+  },
+  {
+    "input": "LONDON 1996-08-30",
+    "output": "LONDON"
+  },
+  {
+    "input": "SHANGHAI 1996-08-24",
+    "output": "SHANGHAI"
+  },
+  {
+    "input": "Bosnia 's Moslem political parties have urged their refugees to boycott the elections until irregularities with voter registration are resolved.",
+    "output": "Bosnia"
+  },
+  {
+    "input": "He said there had been searches at three sites on Sunday, including one at the Charleroi judicial police headquarters where Zicot worked.",
+    "output": "Charleroi"
+  },
+  {
+    "input": "The president 's daughter is going into her senior year of high school at Sidwell Friends School, a private school in Washington.",
+    "output": "Washington"
+  },
+  {
+    "input": "Information Minister Marwan Muasher says there is evidence that \" some official parties in Iraq \" were behind the disturbances in the south.",
+    "output": "Iraq"
+  },
+  {
+    "input": "TORONTO 1996-08-23",
+    "output": "TORONTO"
+  },
+  {
+    "input": "12. Craig MacLean ( Britain ) 1:05.735",
+    "output": "Britain"
+  },
+  {
+    "input": "+4 Stewart Ginn ( Australia ) through 13",
+    "output": "Australia"
+  },
+  {
+    "input": "DAKAR 1996-08-22",
+    "output": "DAKAR"
+  },
+  {
+    "input": "The 60-year-old Moslem cleric, jailed by Israel since 1989, is serving a life sentence for ordering attacks by Hamas guerrillas against Israeli targets.",
+    "output": "Israel"
+  },
+  {
+    "input": "BONN 1996-08-28",
+    "output": "BONN"
+  },
+  {
+    "input": "8. Gianluca Corini ( Italy ) Aki same time",
+    "output": "Italy"
+  },
+  {
+    "input": "One of the great monarchs who presided over a period of English assertion in Europe in politics and the arts.",
+    "output": "Europe"
+  },
+  {
+    "input": "LONDON 1996-08-28",
+    "output": "LONDON"
+  },
+  {
+    "input": "AMSTERDAM 1996-08-30",
+    "output": "AMSTERDAM"
+  },
+  {
+    "input": "He said former PSG team mate David Ginola, who now plays for English premier league Newcastle, was influential in his move to Scotland.",
+    "output": "Scotland"
+  },
+  {
+    "input": "Result : Sri Lanka won by 9 wickets",
+    "output": "Sri Lanka"
+  },
+  {
+    "input": "National Tennis Centre ( prefix denotes seeding ) :",
+    "output": "National Tennis Centre"
+  },
+  {
+    "input": "Lebed himself said he was concerned that powerful interests in Moscow, who have profited from the war and want it to go on, would seize on any inadequacy in the deal to remove him.",
+    "output": "Moscow"
+  },
+  {
+    "input": "Chechnya must be accorded the maximum autonomy possible within the framework of Russian integrity, \" said Cotti.",
+    "output": "Chechnya"
+  },
+  {
+    "input": "S. Korea asked to stop China-bound missionaries.",
+    "output": "S. Korea"
+  },
+  {
+    "input": "Eight claymore mines fitted with powerful C-4 plastic explosives were found stashed in a real estate office on Friday located about two blocks from Colombia 's presidential palace, police said.",
+    "output": "Colombia"
+  },
+  {
+    "input": "3. Anthuan Maybank ( U.S. ) 44.92",
+    "output": "U.S."
+  },
+  {
+    "input": "3. Robert Allenby ( Australia ) 407,748",
+    "output": "Australia"
+  },
+  {
+    "input": "7. Gillian Russell ( Jamaica ) 13.17",
+    "output": "Jamaica"
+  },
+  {
+    "input": "Williams seized two wickets in two deliveries and left-armer Ilott also captured two as Gloucestershire, 252 behind on first innings, slumped to 27 for four at the close on the third day of the four-day game at Colchester.",
+    "output": "Colchester"
+  },
+  {
+    "input": "Taiwan dollar ends higher, narrow trade seen.",
+    "output": "Taiwan"
+  },
+  {
+    "input": "- Parliament completes draft law on protection of river waters in Iraq.",
+    "output": "Iraq"
+  },
+  {
+    "input": "8. Gabriele Colombo ( Italy ) 58",
+    "output": "Italy"
+  },
+  {
+    "input": "Argentina 's top Roman Catholic cleric said the Biblical commandment \" Thou shalt not steal \" would get special emphasis \" because it has to be about the most common thing these days. \"",
+    "output": "Argentina"
+  },
+  {
+    "input": "The talks between Maskhadov and Russia 's Vyacheslav Tikhomirov are aimed at putting the finishing touches to a ceasefire sealed last week in talks with Russian security chief Alexander Lebed.",
+    "output": "Russia"
+  },
+  {
+    "input": "There will be no Palestinian state without Jerusalem.",
+    "output": "Jerusalem"
+  },
+  {
+    "input": "21. Slovakia 8.15",
+    "output": "Slovakia"
+  },
+  {
+    "input": "Brad Clontz ( 6-2 ) picked up the win in relief for Atlanta, which has won 11 of its last 13 games.",
+    "output": "Atlanta"
+  },
+  {
+    "input": "\" The United Kingdom looks forward to the early signature of the treaty, \" the statement said.",
+    "output": "United Kingdom"
+  }
+]

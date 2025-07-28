@@ -1,0 +1,426 @@
+[
+  {
+    "input": "A visual spectacle full of stunning images and effects.",
+    "output": "positive"
+  },
+  {
+    "input": "Did we really need a remake of ``Charade?''",
+    "output": "negative"
+  },
+  {
+    "input": "Crammed with incident, and bristles with passion and energy.",
+    "output": "positive"
+  },
+  {
+    "input": "A slight but sweet film.",
+    "output": "positive"
+  },
+  {
+    "input": "Brilliantly written and well-acted, Yellow Asphalt is an uncompromising film.",
+    "output": "positive"
+  },
+  {
+    "input": "All in all, a great party.",
+    "output": "positive"
+  },
+  {
+    "input": "Perhaps the best sports movie I've ever seen.",
+    "output": "positive"
+  },
+  {
+    "input": "Definitely worth 95 minutes of your time.",
+    "output": "positive"
+  },
+  {
+    "input": "An extraordinary dramatic experience.",
+    "output": "positive"
+  },
+  {
+    "input": "Witless and utterly pointless.",
+    "output": "negative"
+  },
+  {
+    "input": "A banal, virulently unpleasant excuse for a romantic comedy.",
+    "output": "negative"
+  },
+  {
+    "input": "The picture emerges as a surprisingly anemic disappointment.",
+    "output": "negative"
+  },
+  {
+    "input": "Psychologically revealing.",
+    "output": "positive"
+  },
+  {
+    "input": "I liked this film a lot...",
+    "output": "positive"
+  },
+  {
+    "input": "Nothing about this movie works.",
+    "output": "negative"
+  },
+  {
+    "input": "A complete waste of time.",
+    "output": "negative"
+  },
+  {
+    "input": "A tremendous piece of work.",
+    "output": "positive"
+  },
+  {
+    "input": "Reggio and Glass put on an intoxicating show.",
+    "output": "positive"
+  },
+  {
+    "input": "The script is high on squaddie banter, low on shocks.",
+    "output": "positive"
+  },
+  {
+    "input": "It looks good, but it is essentially empty.",
+    "output": "negative"
+  },
+  {
+    "input": "Michel Piccoli's moving performance is this films reason for being.",
+    "output": "positive"
+  },
+  {
+    "input": "This ludicrous film is predictable at every turn.",
+    "output": "negative"
+  },
+  {
+    "input": "A full-frontal attack on audience patience.",
+    "output": "negative"
+  },
+  {
+    "input": "A three-hour cinema master class.",
+    "output": "positive"
+  },
+  {
+    "input": "The movie is well done, but slow.",
+    "output": "negative"
+  },
+  {
+    "input": "Top-notch action powers this romantic drama.",
+    "output": "positive"
+  },
+  {
+    "input": "One funny popcorn flick.",
+    "output": "positive"
+  },
+  {
+    "input": "A non-mystery mystery.",
+    "output": "negative"
+  },
+  {
+    "input": "Jackson is always watchable.",
+    "output": "positive"
+  },
+  {
+    "input": "Kapur weighs down the tale with bogus profundities.",
+    "output": "negative"
+  },
+  {
+    "input": "A loud, brash and mainly unfunny high school comedy.",
+    "output": "negative"
+  },
+  {
+    "input": "This is a superior horror flick.",
+    "output": "positive"
+  },
+  {
+    "input": "As the dominant Christine, Sylvie Testud is icily brilliant.",
+    "output": "positive"
+  },
+  {
+    "input": "Quite simply, a joy to watch and--especially--to listen to.",
+    "output": "positive"
+  },
+  {
+    "input": "Sex is one of those films that aims to confuse.",
+    "output": "negative"
+  },
+  {
+    "input": "...a solid, well-formed satire.",
+    "output": "positive"
+  },
+  {
+    "input": "Hopelessly inane, humorless and under-inspired.",
+    "output": "negative"
+  },
+  {
+    "input": "Fairly run-of-the-mill.",
+    "output": "negative"
+  },
+  {
+    "input": "...a solid, unassuming drama.",
+    "output": "positive"
+  },
+  {
+    "input": "I liked a lot of the smaller scenes.",
+    "output": "positive"
+  },
+  {
+    "input": "Entirely suspenseful, extremely well-paced and ultimately... dare I say, entertaining!",
+    "output": "positive"
+  },
+  {
+    "input": "A humorless journey into a philosophical void.",
+    "output": "negative"
+  },
+  {
+    "input": "The film is a verbal duel between two gifted performers.",
+    "output": "positive"
+  },
+  {
+    "input": "A true-blue delight.",
+    "output": "positive"
+  },
+  {
+    "input": "...bibbidy-bobbidi-bland.",
+    "output": "negative"
+  },
+  {
+    "input": "Meticulously uncovers a trail of outrageous force and craven concealment.",
+    "output": "positive"
+  },
+  {
+    "input": "A very charming and funny movie.",
+    "output": "positive"
+  },
+  {
+    "input": "Shallow, noisy and pretentious.",
+    "output": "negative"
+  },
+  {
+    "input": "Intelligent and moving.",
+    "output": "positive"
+  },
+  {
+    "input": "Third time's the charm...yeah, baby!",
+    "output": "positive"
+  },
+  {
+    "input": "Exceptionally well acted by Diane Lane and Richard Gere.",
+    "output": "positive"
+  },
+  {
+    "input": "What I saw, I enjoyed.",
+    "output": "positive"
+  },
+  {
+    "input": "A big fat pain.",
+    "output": "negative"
+  },
+  {
+    "input": "It's not original enough.",
+    "output": "negative"
+  },
+  {
+    "input": "Too bland and fustily tasteful to be truly prurient.",
+    "output": "negative"
+  },
+  {
+    "input": "It's a wonderful, sobering, heart-felt drama.",
+    "output": "positive"
+  },
+  {
+    "input": "An escapist confection that's pure entertainment.",
+    "output": "positive"
+  },
+  {
+    "input": "Throw Smoochy from the train!",
+    "output": "negative"
+  },
+  {
+    "input": "An unsuccessful attempt at a movie of ideas.",
+    "output": "negative"
+  },
+  {
+    "input": "A marvel of production design.",
+    "output": "positive"
+  },
+  {
+    "input": "Rarely does such high-profile talent serve such literate material.",
+    "output": "positive"
+  },
+  {
+    "input": "An almost unbearably morbid love story.",
+    "output": "negative"
+  },
+  {
+    "input": "Bad and baffling from the get-go.",
+    "output": "negative"
+  },
+  {
+    "input": "A modestly surprising movie.",
+    "output": "positive"
+  },
+  {
+    "input": "The cast delivers without sham the raw-nerved story.",
+    "output": "positive"
+  },
+  {
+    "input": "Hoffman's performance is authentic to the core of his being.",
+    "output": "positive"
+  },
+  {
+    "input": "Lacks dramatic punch and depth.",
+    "output": "negative"
+  },
+  {
+    "input": "All mood and no movie.",
+    "output": "negative"
+  },
+  {
+    "input": "A cleverly crafted but ultimately hollow mockumentary.",
+    "output": "negative"
+  },
+  {
+    "input": "Funny, sexy, devastating and incurably romantic.",
+    "output": "positive"
+  },
+  {
+    "input": "I liked it because it was so endlessly, grotesquely, inventive.",
+    "output": "positive"
+  },
+  {
+    "input": "By its modest, straight-ahead standards, Undisputed scores a direct hit.",
+    "output": "positive"
+  },
+  {
+    "input": "Nothing short of a masterpiece -- and a challenging one.",
+    "output": "positive"
+  },
+  {
+    "input": "Unwieldy contraption.",
+    "output": "negative"
+  },
+  {
+    "input": "Beautifully directed and convincingly acted.",
+    "output": "positive"
+  },
+  {
+    "input": "Funny and touching.",
+    "output": "positive"
+  },
+  {
+    "input": "Poignant and delicately complex.",
+    "output": "positive"
+  },
+  {
+    "input": "A rote exercise in both animation and storytelling.",
+    "output": "negative"
+  },
+  {
+    "input": "overburdened with complicated plotting and banal dialogue",
+    "output": "negative"
+  },
+  {
+    "input": "``Abandon'' will leave you wanting to abandon the theater.",
+    "output": "negative"
+  },
+  {
+    "input": "A film that suffers because of its many excesses.",
+    "output": "negative"
+  },
+  {
+    "input": "Schneidermeister... Makin' a fool of himself... Losin' his fan base...",
+    "output": "negative"
+  },
+  {
+    "input": "A forceful drama of an alienated executive who re-invents himself.",
+    "output": "positive"
+  },
+  {
+    "input": "... manages to deliver a fair bit of vampire fun.",
+    "output": "positive"
+  },
+  {
+    "input": "My own minority report is that it stinks.",
+    "output": "negative"
+  },
+  {
+    "input": "Marvelously entertaining and deliriously joyous documentary.",
+    "output": "positive"
+  },
+  {
+    "input": "It is a likable story, told with competence.",
+    "output": "positive"
+  },
+  {
+    "input": "It's super- violent, super-serious and super-stupid.",
+    "output": "negative"
+  },
+  {
+    "input": "The cumulative effect of the movie is repulsive and depressing.",
+    "output": "negative"
+  },
+  {
+    "input": "The cast is phenomenal, especially the women.",
+    "output": "positive"
+  },
+  {
+    "input": "Never once predictable.",
+    "output": "positive"
+  },
+  {
+    "input": "A harrowing account of a psychological breakdown.",
+    "output": "positive"
+  },
+  {
+    "input": "The movie is a mess from start to finish.",
+    "output": "negative"
+  },
+  {
+    "input": "There's lots of cool stuff packed into ESPN's Ultimate X.",
+    "output": "positive"
+  },
+  {
+    "input": "A refreshingly realistic, affectation-free coming-of-age tale.",
+    "output": "positive"
+  },
+  {
+    "input": "Shrewd but pointless.",
+    "output": "negative"
+  },
+  {
+    "input": "A poignant comedy that offers food for thought.",
+    "output": "positive"
+  },
+  {
+    "input": "One of the funnier movies in town.",
+    "output": "positive"
+  },
+  {
+    "input": "Rarely has sex on screen been so aggressively anti-erotic.",
+    "output": "negative"
+  },
+  {
+    "input": "Chai's structure and pacing are disconcertingly slack.",
+    "output": "negative"
+  },
+  {
+    "input": "Initially gripping, eventually cloying POW drama.",
+    "output": "positive"
+  },
+  {
+    "input": "A modestly made but profoundly moving documentary.",
+    "output": "positive"
+  },
+  {
+    "input": "Sleek and arty.",
+    "output": "positive"
+  },
+  {
+    "input": "more precious than perspicacious",
+    "output": "positive"
+  },
+  {
+    "input": "Worth catching for Griffiths' warm and winning central performance.",
+    "output": "positive"
+  },
+  {
+    "input": "Highly watchable stuff.",
+    "output": "positive"
+  }
+]

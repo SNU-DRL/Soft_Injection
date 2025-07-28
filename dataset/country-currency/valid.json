@@ -1,0 +1,74 @@
+[
+  {
+    "input": "Zambia",
+    "output": "Kwacha"
+  },
+  {
+    "input": "Mozambique",
+    "output": "Metical (MZN)"
+  },
+  {
+    "input": "Azerbaijan",
+    "output": "Manat"
+  },
+  {
+    "input": "New Zealand",
+    "output": "New Zealand Dollar (NZD)"
+  },
+  {
+    "input": "Mongolia",
+    "output": "Tugrik (MNT)"
+  },
+  {
+    "input": "Cote d'Ivoire",
+    "output": "CFA Franc (XOF)"
+  },
+  {
+    "input": "United Arab Emirates",
+    "output": "UAE Dirham"
+  },
+  {
+    "input": "Jordan",
+    "output": "Jordanian Dinar (JOD)"
+  },
+  {
+    "input": "Bosnia and Herzegovina",
+    "output": "Convertible Mark (KM or BAM)"
+  },
+  {
+    "input": "Eswatini",
+    "output": "Lilangeni"
+  },
+  {
+    "input": "Malawi",
+    "output": "Malawian Kwacha (MWK)"
+  },
+  {
+    "input": "Singapore",
+    "output": "Singapore Dollar (SGD)"
+  },
+  {
+    "input": "Burkina Faso",
+    "output": "West African CFA franc"
+  },
+  {
+    "input": "Honduras",
+    "output": "Lempira"
+  },
+  {
+    "input": "Madagascar",
+    "output": "Ariary"
+  },
+  {
+    "input": "Libya",
+    "output": "Libyan Dinar (LYD)"
+  },
+  {
+    "input": "Chad",
+    "output": "Central African CFA franc"
+  },
+  {
+    "input": "Barbados",
+    "output": "Barbadian Dollar (BBD)"
+  }
+]

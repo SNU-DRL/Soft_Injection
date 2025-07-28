@@ -1,0 +1,306 @@
+[
+  {
+    "input": "San Canzian d'Isonzo",
+    "output": "Italy"
+  },
+  {
+    "input": "Mahalangur Himal",
+    "output": "Nepal"
+  },
+  {
+    "input": "Gavork-e Nalin Rural District",
+    "output": "Iran"
+  },
+  {
+    "input": "County Leitrim",
+    "output": "Ireland"
+  },
+  {
+    "input": "Illertissen",
+    "output": "Germany"
+  },
+  {
+    "input": "Mosque of Uqba",
+    "output": "Tunisia"
+  },
+  {
+    "input": "Tarnobrzeg Voivodeship",
+    "output": "Poland"
+  },
+  {
+    "input": "Dent Island Light",
+    "output": "Australia"
+  },
+  {
+    "input": "Villars-Burquin",
+    "output": "Switzerland"
+  },
+  {
+    "input": "Aucanquilcha",
+    "output": "Chile"
+  },
+  {
+    "input": "FC Volochanin-Ratmir Vyshny Volochyok",
+    "output": "Russia"
+  },
+  {
+    "input": "Enghien-les-Bains",
+    "output": "France"
+  },
+  {
+    "input": "Morshi",
+    "output": "India"
+  },
+  {
+    "input": "Buchans",
+    "output": "Canada"
+  },
+  {
+    "input": "Trans-Sahara Highway",
+    "output": "Nigeria"
+  },
+  {
+    "input": "Kamikita District",
+    "output": "Japan"
+  },
+  {
+    "input": "Augustinergasse",
+    "output": "Switzerland"
+  },
+  {
+    "input": "Cappoquin",
+    "output": "Ireland"
+  },
+  {
+    "input": "Virgin Classics",
+    "output": "France"
+  },
+  {
+    "input": "Shire of Wambo",
+    "output": "Australia"
+  },
+  {
+    "input": "Hultsfred Municipality",
+    "output": "Sweden"
+  },
+  {
+    "input": "Attingal",
+    "output": "India"
+  },
+  {
+    "input": "Higashikagawa",
+    "output": "Japan"
+  },
+  {
+    "input": "Minu District",
+    "output": "Iran"
+  },
+  {
+    "input": "St Lucia",
+    "output": "Australia"
+  },
+  {
+    "input": "regiopolis",
+    "output": "Germany"
+  },
+  {
+    "input": "Saint Gayane Church",
+    "output": "Armenia"
+  },
+  {
+    "input": "Central Black Forest",
+    "output": "Germany"
+  },
+  {
+    "input": "South East Forests National Park",
+    "output": "Australia"
+  },
+  {
+    "input": "Wiener Singakademie",
+    "output": "Austria"
+  },
+  {
+    "input": "Sena Medal",
+    "output": "India"
+  },
+  {
+    "input": "Ogrodzieniec",
+    "output": "Poland"
+  },
+  {
+    "input": "Stara Zagora",
+    "output": "Bulgaria"
+  },
+  {
+    "input": "Wabush Airport",
+    "output": "Canada"
+  },
+  {
+    "input": "Bintulu Division",
+    "output": "Malaysia"
+  },
+  {
+    "input": "Uromi",
+    "output": "Nigeria"
+  },
+  {
+    "input": "Ateneo de Madrid",
+    "output": "Spain"
+  },
+  {
+    "input": "Valdemarsvik",
+    "output": "Sweden"
+  },
+  {
+    "input": "Inami, Toyama",
+    "output": "Japan"
+  },
+  {
+    "input": "Amsterdam dance event",
+    "output": "Netherlands"
+  },
+  {
+    "input": "Instituto Pedro Nunes",
+    "output": "Portugal"
+  },
+  {
+    "input": "Nea Zichni Municipality",
+    "output": "Greece"
+  },
+  {
+    "input": "New Era University",
+    "output": "Philippines"
+  },
+  {
+    "input": "Miramichi Centre",
+    "output": "Canada"
+  },
+  {
+    "input": "Logatec",
+    "output": "Slovenia"
+  },
+  {
+    "input": "Zwiefalten",
+    "output": "Germany"
+  },
+  {
+    "input": "Hohenwestedt",
+    "output": "Germany"
+  },
+  {
+    "input": "Zelenchukskaya",
+    "output": "Russia"
+  },
+  {
+    "input": "Simeulue",
+    "output": "Indonesia"
+  },
+  {
+    "input": "Badoc",
+    "output": "Philippines"
+  },
+  {
+    "input": "Oder-Spree District",
+    "output": "Germany"
+  },
+  {
+    "input": "Tienen",
+    "output": "Belgium"
+  },
+  {
+    "input": "Umarex",
+    "output": "Germany"
+  },
+  {
+    "input": "Hellenic Police",
+    "output": "Greece"
+  },
+  {
+    "input": "Argentine National Anthem",
+    "output": "Argentina"
+  },
+  {
+    "input": "Gjerpen",
+    "output": "Norway"
+  },
+  {
+    "input": "Orpheus Island National Park",
+    "output": "Australia"
+  },
+  {
+    "input": "Westerburg",
+    "output": "Germany"
+  },
+  {
+    "input": "European route E25",
+    "output": "Luxembourg"
+  },
+  {
+    "input": "Polish Football Association",
+    "output": "Poland"
+  },
+  {
+    "input": "Sonitpur district",
+    "output": "India"
+  },
+  {
+    "input": "FC Gorodeya",
+    "output": "Belarus"
+  },
+  {
+    "input": "Gmina Leszno",
+    "output": "Poland"
+  },
+  {
+    "input": "Orikhiv",
+    "output": "Ukraine"
+  },
+  {
+    "input": "Ticho House",
+    "output": "Israel"
+  },
+  {
+    "input": "Northern Territory",
+    "output": "Australia"
+  },
+  {
+    "input": "Bad Vilbel",
+    "output": "Germany"
+  },
+  {
+    "input": "Bugis Junction",
+    "output": "Singapore"
+  },
+  {
+    "input": "FC Anker Wismar",
+    "output": "Germany"
+  },
+  {
+    "input": "SooToday.com",
+    "output": "Canada"
+  },
+  {
+    "input": "Anak Bukit",
+    "output": "Malaysia"
+  },
+  {
+    "input": "Neryungri",
+    "output": "Russia"
+  },
+  {
+    "input": "Sumulong Highway",
+    "output": "Philippines"
+  },
+  {
+    "input": "Porto Azzurro",
+    "output": "Italy"
+  },
+  {
+    "input": "Addanki mandal",
+    "output": "India"
+  },
+  {
+    "input": "Gulf of Bothnia",
+    "output": "Finland"
+  }
+]

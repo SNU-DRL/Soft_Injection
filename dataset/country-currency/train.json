@@ -1,0 +1,550 @@
+[
+  {
+    "input": "Papua New Guinea",
+    "output": "Kina (PGK)"
+  },
+  {
+    "input": "Yemen",
+    "output": "Yemeni Rial"
+  },
+  {
+    "input": "Tuvalu",
+    "output": "Tuvaluan Dollar (TVD)"
+  },
+  {
+    "input": "Uganda",
+    "output": "Ugandan Shilling"
+  },
+  {
+    "input": "Bahrain",
+    "output": "Bahraini Dinar (BHD)"
+  },
+  {
+    "input": "Bangladesh",
+    "output": "Taka"
+  },
+  {
+    "input": "Latvia",
+    "output": "Latvian Lats (LVL)"
+  },
+  {
+    "input": "Belgium",
+    "output": "Euro (EUR)"
+  },
+  {
+    "input": "Mauritania",
+    "output": "Ouguiya (MRO)"
+  },
+  {
+    "input": "South Africa",
+    "output": "South African Rand (ZAR)"
+  },
+  {
+    "input": "Estonia",
+    "output": "Euro (EUR)"
+  },
+  {
+    "input": "Fiji",
+    "output": "Fijian Dollar (FJD)"
+  },
+  {
+    "input": "Congo",
+    "output": "Congolese Franc (CDF)"
+  },
+  {
+    "input": "Croatia",
+    "output": "Kuna (HRK)"
+  },
+  {
+    "input": "Democratic Republic of the Congo",
+    "output": "Congolese Franc (CDF)"
+  },
+  {
+    "input": "Palau",
+    "output": "US Dollar (USD)"
+  },
+  {
+    "input": "Cameroon",
+    "output": "Central African CFA franc"
+  },
+  {
+    "input": "Bhutan",
+    "output": "Ngultrum (BTN)"
+  },
+  {
+    "input": "Paraguay",
+    "output": "Guarani (PYG)"
+  },
+  {
+    "input": "Kenya",
+    "output": "Kenyan Shilling (KES)"
+  },
+  {
+    "input": "Turkmenistan",
+    "output": "Turkmenistani Manat"
+  },
+  {
+    "input": "Malaysia",
+    "output": "Malaysian Ringgit (MYR)"
+  },
+  {
+    "input": "Colombia",
+    "output": "Colombian Peso"
+  },
+  {
+    "input": "Sri Lanka",
+    "output": "Sri Lankan Rupee"
+  },
+  {
+    "input": "Montenegro",
+    "output": "Euro (EUR)"
+  },
+  {
+    "input": "Djibouti",
+    "output": "Djiboutian Franc (DJF)"
+  },
+  {
+    "input": "Albania",
+    "output": "Albanian Lek (ALL)"
+  },
+  {
+    "input": "Sweden",
+    "output": "Swedish Krona (SEK)"
+  },
+  {
+    "input": "Belarus",
+    "output": "Belarusian Ruble (BYN)"
+  },
+  {
+    "input": "Argentina",
+    "output": "Argentine Peso"
+  },
+  {
+    "input": "Georgia",
+    "output": "Lari"
+  },
+  {
+    "input": "Guinea",
+    "output": "Guinean Franc"
+  },
+  {
+    "input": "Pakistan",
+    "output": "Pakistani Rupee"
+  },
+  {
+    "input": "Jamaica",
+    "output": "Jamaican Dollar (JMD)"
+  },
+  {
+    "input": "Sao Tome and Principe",
+    "output": "Dobra (STD)"
+  },
+  {
+    "input": "Dominica",
+    "output": "East Caribbean Dollar (XCD)"
+  },
+  {
+    "input": "Dominican Republic",
+    "output": "Dominican Peso"
+  },
+  {
+    "input": "Mauritius",
+    "output": "Mauritian Rupee"
+  },
+  {
+    "input": "Solomon Islands",
+    "output": "Solomon Islands Dollar (SBD)"
+  },
+  {
+    "input": "North Macedonia",
+    "output": "Macedonian Denar (MKD)"
+  },
+  {
+    "input": "Laos",
+    "output": "Lao Kip (LAK)"
+  },
+  {
+    "input": "Peru",
+    "output": "Sol (PEN)"
+  },
+  {
+    "input": "France",
+    "output": "Euro (EUR)"
+  },
+  {
+    "input": "Finland",
+    "output": "Euro (EUR)"
+  },
+  {
+    "input": "Australia",
+    "output": "Australian Dollar (AUD)"
+  },
+  {
+    "input": "Comoros",
+    "output": "Comorian Franc"
+  },
+  {
+    "input": "Greece",
+    "output": "Euro (EUR)"
+  },
+  {
+    "input": "Qatar",
+    "output": "Qatari Riyal"
+  },
+  {
+    "input": "Saint Lucia",
+    "output": "East Caribbean Dollar (XCD)"
+  },
+  {
+    "input": "Myanmar",
+    "output": "Kyat"
+  },
+  {
+    "input": "Lithuania",
+    "output": "Lithuanian Litas (LTL)"
+  },
+  {
+    "input": "Somalia",
+    "output": "Somali Shilling (SOS)"
+  },
+  {
+    "input": "Moldova",
+    "output": "Moldovan Leu (MDL)"
+  },
+  {
+    "input": "Spain",
+    "output": "Euro (EUR)"
+  },
+  {
+    "input": "Uzbekistan",
+    "output": "Uzbekistani Som (UZS)"
+  },
+  {
+    "input": "Saudi Arabia",
+    "output": "Saudi Riyal"
+  },
+  {
+    "input": "Venezuela",
+    "output": "Bol\u00edvar Soberano (VES)"
+  },
+  {
+    "input": "Central African Republic",
+    "output": "Central African CFA franc"
+  },
+  {
+    "input": "Netherlands",
+    "output": "Euro (EUR)"
+  },
+  {
+    "input": "Lesotho",
+    "output": "Loti (LSL)"
+  },
+  {
+    "input": "Namibia",
+    "output": "Namibian Dollar (NAD)"
+  },
+  {
+    "input": "Saint Kitts and Nevis",
+    "output": "East Caribbean Dollar (XCD)"
+  },
+  {
+    "input": "Tonga",
+    "output": "Pa'anga (TOP)"
+  },
+  {
+    "input": "United Kingdom",
+    "output": "British Pound (GBP)"
+  },
+  {
+    "input": "Uruguay",
+    "output": "Uruguayan Peso"
+  },
+  {
+    "input": "Haiti",
+    "output": "Gourde"
+  },
+  {
+    "input": "Thailand",
+    "output": "Thai Baht"
+  },
+  {
+    "input": "Belize",
+    "output": "Belize Dollar (BZD)"
+  },
+  {
+    "input": "Vietnam",
+    "output": "Vietnamese Dong (VND)"
+  },
+  {
+    "input": "Rwanda",
+    "output": "Rwandan Franc (RWF)"
+  },
+  {
+    "input": "Malta",
+    "output": "Euro (EUR)"
+  },
+  {
+    "input": "Guinea-Bissau",
+    "output": "West African CFA franc (XOF)"
+  },
+  {
+    "input": "Armenia",
+    "output": "Dram (AMD)"
+  },
+  {
+    "input": "India",
+    "output": "Indian Rupee"
+  },
+  {
+    "input": "Norway",
+    "output": "Norwegian Krone (NOK)"
+  },
+  {
+    "input": "Samoa",
+    "output": "Tala"
+  },
+  {
+    "input": "Equatorial Guinea",
+    "output": "Central African CFA franc"
+  },
+  {
+    "input": "Iran",
+    "output": "Iranian Rial"
+  },
+  {
+    "input": "Nigeria",
+    "output": "Naira"
+  },
+  {
+    "input": "Afghanistan",
+    "output": "Afghani (AFN)"
+  },
+  {
+    "input": "Egypt",
+    "output": "Egyptian Pound (EGP)"
+  },
+  {
+    "input": "Niger",
+    "output": "Naira"
+  },
+  {
+    "input": "Bulgaria",
+    "output": "Bulgarian Lev (BGN)"
+  },
+  {
+    "input": "Ireland",
+    "output": "Euro (EUR)"
+  },
+  {
+    "input": "San Marino",
+    "output": "Euro (EUR)"
+  },
+  {
+    "input": "Israel",
+    "output": "Israeli Shekel"
+  },
+  {
+    "input": "Japan",
+    "output": "Japanese Yen"
+  },
+  {
+    "input": "Guatemala",
+    "output": "Quetzal"
+  },
+  {
+    "input": "Mali",
+    "output": "CFA Franc (XOF)"
+  },
+  {
+    "input": "Liechtenstein",
+    "output": "Swiss Franc (CHF)"
+  },
+  {
+    "input": "Zimbabwe",
+    "output": "Zimbabwean Dollar"
+  },
+  {
+    "input": "South Sudan",
+    "output": "South Sudanese Pound (SSP)"
+  },
+  {
+    "input": "Micronesia",
+    "output": "US Dollar (USD)"
+  },
+  {
+    "input": "Senegal",
+    "output": "West African CFA franc"
+  },
+  {
+    "input": "Suriname",
+    "output": "Surinamese Dollar (SRD)"
+  },
+  {
+    "input": "Gabon",
+    "output": "Central African CFA franc"
+  },
+  {
+    "input": "Hungary",
+    "output": "Forint (HUF)"
+  },
+  {
+    "input": "Ecuador",
+    "output": "US Dollar (USD)"
+  },
+  {
+    "input": "Slovenia",
+    "output": "Euro (EUR)"
+  },
+  {
+    "input": "Syria",
+    "output": "Syrian Pound"
+  },
+  {
+    "input": "Lebanon",
+    "output": "Lebanese Pound (LBP)"
+  },
+  {
+    "input": "Mexico",
+    "output": "Mexican Peso"
+  },
+  {
+    "input": "Panama",
+    "output": "Balboa (PAB)"
+  },
+  {
+    "input": "Switzerland",
+    "output": "Swiss Franc (CHF)"
+  },
+  {
+    "input": "Germany",
+    "output": "Euro (EUR)"
+  },
+  {
+    "input": "Kuwait",
+    "output": "Kuwaiti Dinar (KWD)"
+  },
+  {
+    "input": "El Salvador",
+    "output": "US Dollar (USD)"
+  },
+  {
+    "input": "Slovakia",
+    "output": "Euro (EUR)"
+  },
+  {
+    "input": "Nauru",
+    "output": "Australian Dollar (AUD)"
+  },
+  {
+    "input": "Ukraine",
+    "output": "Ukrainian Hryvnia (UAH)"
+  },
+  {
+    "input": "Gambia",
+    "output": "Dalasi (GMD)"
+  },
+  {
+    "input": "Bahamas",
+    "output": "Bahamian Dollar"
+  },
+  {
+    "input": "Indonesia",
+    "output": "Indonesian Rupiah"
+  },
+  {
+    "input": "Sudan",
+    "output": "Sudanese Pound (SDG)"
+  },
+  {
+    "input": "Timor-Leste",
+    "output": "US Dollar (USD)"
+  },
+  {
+    "input": "Luxembourg",
+    "output": "Euro (EUR)"
+  },
+  {
+    "input": "Philippines",
+    "output": "Philippine Peso"
+  },
+  {
+    "input": "Italy",
+    "output": "Euro (EUR)"
+  },
+  {
+    "input": "Cuba",
+    "output": "Cuban Peso (CUP)"
+  },
+  {
+    "input": "Brunei",
+    "output": "Brunei Dollar (BND)"
+  },
+  {
+    "input": "China",
+    "output": "Renminbi (RMB)"
+  },
+  {
+    "input": "South Korea",
+    "output": "South Korean Won (KRW)"
+  },
+  {
+    "input": "Ghana",
+    "output": "Ghana Cedi (GHS)"
+  },
+  {
+    "input": "United States of America",
+    "output": "US Dollar (USD)"
+  },
+  {
+    "input": "Poland",
+    "output": "Polish Zloty (PLN)"
+  },
+  {
+    "input": "Angola",
+    "output": "Kwanza (AOA)"
+  },
+  {
+    "input": "Austria",
+    "output": "Euro (EUR)"
+  },
+  {
+    "input": "Andorra",
+    "output": "Euro (EUR)"
+  },
+  {
+    "input": "Kosovo",
+    "output": "Euro (EUR)"
+  },
+  {
+    "input": "Guyana",
+    "output": "Guyanese Dollar"
+  },
+  {
+    "input": "Saint Vincent and the Grenadines",
+    "output": "East Caribbean Dollar (XCD)"
+  },
+  {
+    "input": "Kiribati",
+    "output": "Australian Dollar (AUD)"
+  },
+  {
+    "input": "Vanuatu",
+    "output": "Vatu (VUV)"
+  },
+  {
+    "input": "Nicaragua",
+    "output": "C\u00f3rdoba (NIO)"
+  },
+  {
+    "input": "Eritrea",
+    "output": "Nakfa"
+  },
+  {
+    "input": "Palestine",
+    "output": "Israeli New Shekel (ILS)"
+  },
+  {
+    "input": "Cyprus",
+    "output": "Euro (EUR)"
+  }
+]

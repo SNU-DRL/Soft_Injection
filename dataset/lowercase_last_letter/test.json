@@ -1,0 +1,686 @@
+[
+  {
+    "input": "DIVIDE",
+    "output": "e"
+  },
+  {
+    "input": "BAT",
+    "output": "t"
+  },
+  {
+    "input": "CAMEL",
+    "output": "l"
+  },
+  {
+    "input": "CHICKEN",
+    "output": "n"
+  },
+  {
+    "input": "SHEEP",
+    "output": "p"
+  },
+  {
+    "input": "HAMMOCK",
+    "output": "k"
+  },
+  {
+    "input": "PARTICIPATE",
+    "output": "e"
+  },
+  {
+    "input": "CUP",
+    "output": "p"
+  },
+  {
+    "input": "MARACAS",
+    "output": "s"
+  },
+  {
+    "input": "INVENTIVE",
+    "output": "e"
+  },
+  {
+    "input": "CARING",
+    "output": "g"
+  },
+  {
+    "input": "COMPLETE",
+    "output": "e"
+  },
+  {
+    "input": "OVER",
+    "output": "r"
+  },
+  {
+    "input": "INCENSE",
+    "output": "e"
+  },
+  {
+    "input": "HIM",
+    "output": "m"
+  },
+  {
+    "input": "DATE",
+    "output": "e"
+  },
+  {
+    "input": "HIMSELF",
+    "output": "f"
+  },
+  {
+    "input": "CHIPMUNK",
+    "output": "k"
+  },
+  {
+    "input": "SCORPION",
+    "output": "n"
+  },
+  {
+    "input": "PURPLE",
+    "output": "e"
+  },
+  {
+    "input": "BOUNTIFUL",
+    "output": "l"
+  },
+  {
+    "input": "MYSELF",
+    "output": "f"
+  },
+  {
+    "input": "AFFECTIONATE",
+    "output": "e"
+  },
+  {
+    "input": "ERASER",
+    "output": "r"
+  },
+  {
+    "input": "TAMBOURINE",
+    "output": "e"
+  },
+  {
+    "input": "KILL",
+    "output": "l"
+  },
+  {
+    "input": "JUMP",
+    "output": "p"
+  },
+  {
+    "input": "KINDLE",
+    "output": "e"
+  },
+  {
+    "input": "KNIT",
+    "output": "t"
+  },
+  {
+    "input": "DUMBBELL",
+    "output": "l"
+  },
+  {
+    "input": "ACHIEVE",
+    "output": "e"
+  },
+  {
+    "input": "OVERSEE",
+    "output": "e"
+  },
+  {
+    "input": "SENSIBLE",
+    "output": "e"
+  },
+  {
+    "input": "TRY",
+    "output": "y"
+  },
+  {
+    "input": "OPOSSUM",
+    "output": "m"
+  },
+  {
+    "input": "SINCE",
+    "output": "e"
+  },
+  {
+    "input": "PORK",
+    "output": "k"
+  },
+  {
+    "input": "GOOSE",
+    "output": "e"
+  },
+  {
+    "input": "ZEALOUS",
+    "output": "s"
+  },
+  {
+    "input": "WEASEL",
+    "output": "l"
+  },
+  {
+    "input": "DARK",
+    "output": "k"
+  },
+  {
+    "input": "OPTIMISTIC",
+    "output": "c"
+  },
+  {
+    "input": "KITE",
+    "output": "e"
+  },
+  {
+    "input": "THESE",
+    "output": "e"
+  },
+  {
+    "input": "GIVE",
+    "output": "e"
+  },
+  {
+    "input": "GRACIOUS",
+    "output": "s"
+  },
+  {
+    "input": "DOVE",
+    "output": "e"
+  },
+  {
+    "input": "GORILLA",
+    "output": "a"
+  },
+  {
+    "input": "KANGAROO",
+    "output": "o"
+  },
+  {
+    "input": "NEWSPAPER",
+    "output": "r"
+  },
+  {
+    "input": "PASTA",
+    "output": "a"
+  },
+  {
+    "input": "KEEN",
+    "output": "n"
+  },
+  {
+    "input": "REMOTE",
+    "output": "e"
+  },
+  {
+    "input": "PENCIL",
+    "output": "l"
+  },
+  {
+    "input": "SOLVE",
+    "output": "e"
+  },
+  {
+    "input": "FAN",
+    "output": "n"
+  },
+  {
+    "input": "OBTAIN",
+    "output": "n"
+  },
+  {
+    "input": "CHERRY",
+    "output": "y"
+  },
+  {
+    "input": "CELEBRATE",
+    "output": "e"
+  },
+  {
+    "input": "CONSULT",
+    "output": "t"
+  },
+  {
+    "input": "VIOLET",
+    "output": "t"
+  },
+  {
+    "input": "CHEERFUL",
+    "output": "l"
+  },
+  {
+    "input": "LION",
+    "output": "n"
+  },
+  {
+    "input": "KOMODO",
+    "output": "o"
+  },
+  {
+    "input": "CRAB",
+    "output": "b"
+  },
+  {
+    "input": "BOWL",
+    "output": "l"
+  },
+  {
+    "input": "FROG",
+    "output": "g"
+  },
+  {
+    "input": "FROM",
+    "output": "m"
+  },
+  {
+    "input": "SCHEDULE",
+    "output": "e"
+  },
+  {
+    "input": "ELOQUENT",
+    "output": "t"
+  },
+  {
+    "input": "BANANA",
+    "output": "a"
+  },
+  {
+    "input": "VISIT",
+    "output": "t"
+  },
+  {
+    "input": "HEAR",
+    "output": "r"
+  },
+  {
+    "input": "BADGER",
+    "output": "r"
+  },
+  {
+    "input": "HAT",
+    "output": "t"
+  },
+  {
+    "input": "COYOTE",
+    "output": "e"
+  },
+  {
+    "input": "CHARISMATIC",
+    "output": "c"
+  },
+  {
+    "input": "MORAY",
+    "output": "y"
+  },
+  {
+    "input": "IBEX",
+    "output": "x"
+  },
+  {
+    "input": "RAKE",
+    "output": "e"
+  },
+  {
+    "input": "BAG",
+    "output": "g"
+  },
+  {
+    "input": "MODERN",
+    "output": "n"
+  },
+  {
+    "input": "DOOR",
+    "output": "r"
+  },
+  {
+    "input": "LECTURE",
+    "output": "e"
+  },
+  {
+    "input": "POTATO",
+    "output": "o"
+  },
+  {
+    "input": "WITTY",
+    "output": "y"
+  },
+  {
+    "input": "YACHT",
+    "output": "t"
+  },
+  {
+    "input": "SELECT",
+    "output": "t"
+  },
+  {
+    "input": "GRAPE",
+    "output": "e"
+  },
+  {
+    "input": "HOPEFUL",
+    "output": "l"
+  },
+  {
+    "input": "SERENE",
+    "output": "e"
+  },
+  {
+    "input": "CARROT",
+    "output": "t"
+  },
+  {
+    "input": "COUGAR",
+    "output": "r"
+  },
+  {
+    "input": "ENTHUSIASTIC",
+    "output": "c"
+  },
+  {
+    "input": "VERIFY",
+    "output": "y"
+  },
+  {
+    "input": "BARRACUDA",
+    "output": "a"
+  },
+  {
+    "input": "FLOWER",
+    "output": "r"
+  },
+  {
+    "input": "QUIRKY",
+    "output": "y"
+  },
+  {
+    "input": "MIRTHFUL",
+    "output": "l"
+  },
+  {
+    "input": "FOUNTAIN",
+    "output": "n"
+  },
+  {
+    "input": "ATTACK",
+    "output": "k"
+  },
+  {
+    "input": "ROUND",
+    "output": "d"
+  },
+  {
+    "input": "PICTURE",
+    "output": "e"
+  },
+  {
+    "input": "ADORING",
+    "output": "g"
+  },
+  {
+    "input": "HOOP",
+    "output": "p"
+  },
+  {
+    "input": "PILLOW",
+    "output": "w"
+  },
+  {
+    "input": "BEYOND",
+    "output": "d"
+  },
+  {
+    "input": "EARMUFFS",
+    "output": "s"
+  },
+  {
+    "input": "CRY",
+    "output": "y"
+  },
+  {
+    "input": "TANGERINE",
+    "output": "e"
+  },
+  {
+    "input": "NOTEBOOK",
+    "output": "k"
+  },
+  {
+    "input": "THROUGHOUT",
+    "output": "t"
+  },
+  {
+    "input": "CHOOSE",
+    "output": "e"
+  },
+  {
+    "input": "FOR",
+    "output": "r"
+  },
+  {
+    "input": "DONUT",
+    "output": "t"
+  },
+  {
+    "input": "KNOT",
+    "output": "t"
+  },
+  {
+    "input": "WHOM",
+    "output": "m"
+  },
+  {
+    "input": "MOTH",
+    "output": "h"
+  },
+  {
+    "input": "KNEEL",
+    "output": "l"
+  },
+  {
+    "input": "DARING",
+    "output": "g"
+  },
+  {
+    "input": "MOOSE",
+    "output": "e"
+  },
+  {
+    "input": "SHIRT",
+    "output": "t"
+  },
+  {
+    "input": "BICYCLE",
+    "output": "e"
+  },
+  {
+    "input": "SWAN",
+    "output": "n"
+  },
+  {
+    "input": "DURIAN",
+    "output": "n"
+  },
+  {
+    "input": "UNIQUE",
+    "output": "e"
+  },
+  {
+    "input": "ELK",
+    "output": "k"
+  },
+  {
+    "input": "EGG",
+    "output": "g"
+  },
+  {
+    "input": "MERGE",
+    "output": "e"
+  },
+  {
+    "input": "PEAR",
+    "output": "r"
+  },
+  {
+    "input": "PUMA",
+    "output": "a"
+  },
+  {
+    "input": "LOUD",
+    "output": "d"
+  },
+  {
+    "input": "KETTLE",
+    "output": "e"
+  },
+  {
+    "input": "COW",
+    "output": "w"
+  },
+  {
+    "input": "PHONE",
+    "output": "e"
+  },
+  {
+    "input": "INK",
+    "output": "k"
+  },
+  {
+    "input": "ZOOM",
+    "output": "m"
+  },
+  {
+    "input": "CHAIR",
+    "output": "r"
+  },
+  {
+    "input": "ZANY",
+    "output": "y"
+  },
+  {
+    "input": "SHARK",
+    "output": "k"
+  },
+  {
+    "input": "PUZZLE",
+    "output": "e"
+  },
+  {
+    "input": "GRAY",
+    "output": "y"
+  },
+  {
+    "input": "AMAZING",
+    "output": "g"
+  },
+  {
+    "input": "UNDER",
+    "output": "r"
+  },
+  {
+    "input": "MINT",
+    "output": "t"
+  },
+  {
+    "input": "WINDOW",
+    "output": "w"
+  },
+  {
+    "input": "GAZELLE",
+    "output": "e"
+  },
+  {
+    "input": "YOUTHFUL",
+    "output": "l"
+  },
+  {
+    "input": "ACROSS",
+    "output": "s"
+  },
+  {
+    "input": "DESPITE",
+    "output": "e"
+  },
+  {
+    "input": "GATHER",
+    "output": "r"
+  },
+  {
+    "input": "CAR",
+    "output": "r"
+  },
+  {
+    "input": "COLD",
+    "output": "d"
+  },
+  {
+    "input": "ABOUT",
+    "output": "t"
+  },
+  {
+    "input": "BEEF",
+    "output": "f"
+  },
+  {
+    "input": "WALRUS",
+    "output": "s"
+  },
+  {
+    "input": "LAUNCH",
+    "output": "h"
+  },
+  {
+    "input": "UNTIL",
+    "output": "l"
+  },
+  {
+    "input": "NARWHAL",
+    "output": "l"
+  },
+  {
+    "input": "BOTTLE",
+    "output": "e"
+  },
+  {
+    "input": "BLANKET",
+    "output": "t"
+  },
+  {
+    "input": "ANT",
+    "output": "t"
+  },
+  {
+    "input": "DELIGHTFUL",
+    "output": "l"
+  },
+  {
+    "input": "CONCERNING",
+    "output": "g"
+  },
+  {
+    "input": "DYNAMIC",
+    "output": "c"
+  },
+  {
+    "input": "GOOSEBERRY",
+    "output": "y"
+  },
+  {
+    "input": "HERSELF",
+    "output": "f"
+  },
+  {
+    "input": "ONION",
+    "output": "n"
+  },
+  {
+    "input": "TRAIN",
+    "output": "n"
+  },
+  {
+    "input": "PARROT",
+    "output": "t"
+  },
+  {
+    "input": "LABEL",
+    "output": "l"
+  }
+]

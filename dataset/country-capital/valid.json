@@ -1,0 +1,74 @@
+[
+  {
+    "input": "Zambia",
+    "output": "Lusaka"
+  },
+  {
+    "input": "Mozambique",
+    "output": "Maputo"
+  },
+  {
+    "input": "Azerbaijan",
+    "output": "Baku"
+  },
+  {
+    "input": "New Zealand",
+    "output": "Wellington"
+  },
+  {
+    "input": "Mongolia",
+    "output": "Ulaanbaatar"
+  },
+  {
+    "input": "Cote d'Ivoire",
+    "output": "Yamoussoukro"
+  },
+  {
+    "input": "United Arab Emirates",
+    "output": "Abu Dhabi"
+  },
+  {
+    "input": "Jordan",
+    "output": "Amman"
+  },
+  {
+    "input": "Bosnia and Herzegovina",
+    "output": "Sarajevo"
+  },
+  {
+    "input": "Eswatini",
+    "output": "Mbabane"
+  },
+  {
+    "input": "Malawi",
+    "output": "Lilongwe"
+  },
+  {
+    "input": "Singapore",
+    "output": "Singapore"
+  },
+  {
+    "input": "Burkina Faso",
+    "output": "Ouagadougou"
+  },
+  {
+    "input": "Honduras",
+    "output": "Tegucigalpa"
+  },
+  {
+    "input": "Madagascar",
+    "output": "Antananarivo"
+  },
+  {
+    "input": "Libya",
+    "output": "Tripoli"
+  },
+  {
+    "input": "Chad",
+    "output": "N'Djamena"
+  },
+  {
+    "input": "Barbados",
+    "output": "Bridgetown"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "input": "serve, design, jubilant, examine, change",
+    "output": "jubilant"
+  },
+  {
+    "input": "kiss, merge, target, jubilant, search",
+    "output": "jubilant"
+  },
+  {
+    "input": "thirsty, read, notice, launch, zap",
+    "output": "thirsty"
+  },
+  {
+    "input": "memorize, question, serve, cry, quick-witted",
+    "output": "quick-witted"
+  },
+  {
+    "input": "finish, cry, exist, serious, kindle",
+    "output": "serious"
+  },
+  {
+    "input": "knot, exuberant, oversee, knock, organize",
+    "output": "exuberant"
+  },
+  {
+    "input": "manipulate, enjoy, optimistic, view, understand",
+    "output": "optimistic"
+  },
+  {
+    "input": "compete, target, obtain, examine, tall",
+    "output": "tall"
+  },
+  {
+    "input": "remove, dry, visualize, overcome, kill",
+    "output": "dry"
+  },
+  {
+    "input": "collect, walk, long, create, land",
+    "output": "long"
+  },
+  {
+    "input": "like, teach, organize, recruit, pensive",
+    "output": "pensive"
+  },
+  {
+    "input": "focus, lively, design, manage, kindle",
+    "output": "lively"
+  },
+  {
+    "input": "paint, minimize, serene, dislike, prepare",
+    "output": "serene"
+  },
+  {
+    "input": "navigate, verify, keep, judge, fierce",
+    "output": "fierce"
+  },
+  {
+    "input": "sail, qualify, solve, win, unwavering",
+    "output": "unwavering"
+  },
+  {
+    "input": "dislike, sail, adventurous, achieve, live",
+    "output": "adventurous"
+  },
+  {
+    "input": "enthusiastic, overcome, give, knit, xerox",
+    "output": "enthusiastic"
+  },
+  {
+    "input": "noble, remember, compete, fight, navigate",
+    "output": "noble"
+  },
+  {
+    "input": "dark, train, test, release, cry",
+    "output": "dark"
+  },
+  {
+    "input": "lift, eager, jog, judge, unite",
+    "output": "eager"
+  },
+  {
+    "input": "bountiful, view, develop, explore, examine",
+    "output": "bountiful"
+  },
+  {
+    "input": "use, study, sincere, search, practice",
+    "output": "sincere"
+  },
+  {
+    "input": "discover, knot, judge, reflect, exquisite",
+    "output": "exquisite"
+  },
+  {
+    "input": "save, think, complete, warm, yearn",
+    "output": "warm"
+  },
+  {
+    "input": "unite, kneel, reliable, win, treat",
+    "output": "reliable"
+  },
+  {
+    "input": "value, jolt, consult, merge, radiant",
+    "output": "radiant"
+  },
+  {
+    "input": "argue, need, modern, zap, nourish",
+    "output": "modern"
+  },
+  {
+    "input": "sensible, maximize, join, learn, yield",
+    "output": "sensible"
+  },
+  {
+    "input": "join, land, mild, manipulate, kill",
+    "output": "mild"
+  },
+  {
+    "input": "visualize, jolt, knock, kill, zany",
+    "output": "zany"
+  },
+  {
+    "input": "salty, oversee, complete, focus, give",
+    "output": "salty"
+  },
+  {
+    "input": "solve, know, hate, understand, charming",
+    "output": "charming"
+  },
+  {
+    "input": "serene, zap, believe, select, reflect",
+    "output": "serene"
+  },
+  {
+    "input": "trustworthy, collect, lecture, organize, search",
+    "output": "trustworthy"
+  },
+  {
+    "input": "calculate, talk, cry, obtain, bright",
+    "output": "bright"
+  },
+  {
+    "input": "explore, bountiful, argue, kneel, talk",
+    "output": "bountiful"
+  },
+  {
+    "input": "fascinating, knot, fear, arrive, view",
+    "output": "fascinating"
+  },
+  {
+    "input": "jolt, versatile, create, discover, realize",
+    "output": "versatile"
+  },
+  {
+    "input": "develop, copy, teach, talented, give",
+    "output": "talented"
+  },
+  {
+    "input": "grateful, race, teach, discover, join",
+    "output": "grateful"
+  },
+  {
+    "input": "breathe, walk, know, realize, new",
+    "output": "new"
+  },
+  {
+    "input": "remember, win, reliable, quiet, kindle",
+    "output": "reliable"
+  },
+  {
+    "input": "play, forgive, jovial, knock, save",
+    "output": "jovial"
+  },
+  {
+    "input": "zap, argue, give, sample, affable",
+    "output": "affable"
+  },
+  {
+    "input": "visit, live, realize, verify, talented",
+    "output": "talented"
+  },
+  {
+    "input": "exuberant, arrive, land, operate, breathe",
+    "output": "exuberant"
+  },
+  {
+    "input": "notice, practice, view, perform, natural",
+    "output": "natural"
+  },
+  {
+    "input": "thirsty, validate, notice, prepare, calculate",
+    "output": "thirsty"
+  },
+  {
+    "input": "read, train, yield, cry, sensible",
+    "output": "sensible"
+  },
+  {
+    "input": "warmhearted, select, navigate, create, know",
+    "output": "warmhearted"
+  },
+  {
+    "input": "update, complete, navigate, devoted, judge",
+    "output": "devoted"
+  },
+  {
+    "input": "perform, persuade, solve, watch, sensitive",
+    "output": "sensitive"
+  },
+  {
+    "input": "gather, attack, lift, funny, lecture",
+    "output": "funny"
+  },
+  {
+    "input": "visualize, optimistic, change, mark, jolt",
+    "output": "optimistic"
+  },
+  {
+    "input": "volunteer, naive, divide, realize, build",
+    "output": "naive"
+  },
+  {
+    "input": "divide, solve, vivacious, handle, mark",
+    "output": "vivacious"
+  },
+  {
+    "input": "focus, target, save, wet, speak",
+    "output": "wet"
+  },
+  {
+    "input": "focus, use, memorize, minimize, patient",
+    "output": "patient"
+  },
+  {
+    "input": "naughty, minimize, notice, watch, join",
+    "output": "naughty"
+  },
+  {
+    "input": "train, speak, approve, genuine, nourish",
+    "output": "genuine"
+  },
+  {
+    "input": "nourish, travel, know, master, tenacious",
+    "output": "tenacious"
+  },
+  {
+    "input": "work, eloquent, divide, plan, lift",
+    "output": "eloquent"
+  },
+  {
+    "input": "solve, realize, transform, natural, climb",
+    "output": "natural"
+  },
+  {
+    "input": "strong, knit, deliver, unite, maximize",
+    "output": "strong"
+  },
+  {
+    "input": "celebrate, mark, spicy, zoom, open",
+    "output": "spicy"
+  },
+  {
+    "input": "treat, like, laugh, teach, mellow",
+    "output": "mellow"
+  },
+  {
+    "input": "luminous, xerox, juggle, develop, handle",
+    "output": "luminous"
+  },
+  {
+    "input": "consider, hard, uncover, fear, reach",
+    "output": "hard"
+  },
+  {
+    "input": "climb, visualize, celebrate, determined, yearn",
+    "output": "determined"
+  },
+  {
+    "input": "define, unite, paint, cowardly, jolt",
+    "output": "cowardly"
+  },
+  {
+    "input": "eager, target, finish, nourish, design",
+    "output": "eager"
+  },
+  {
+    "input": "diligent, grow, handle, race, breathe",
+    "output": "diligent"
+  },
+  {
+    "input": "need, measure, insightful, mark, jolt",
+    "output": "insightful"
+  },
+  {
+    "input": "jump, believe, new, reflect, persuade",
+    "output": "new"
+  },
+  {
+    "input": "wet, question, race, paint, test",
+    "output": "wet"
+  },
+  {
+    "input": "exist, strong, remember, grow, discover",
+    "output": "strong"
+  },
+  {
+    "input": "race, hate, knit, quirky, practice",
+    "output": "quirky"
+  },
+  {
+    "input": "arrive, compete, save, jump, resourceful",
+    "output": "resourceful"
+  },
+  {
+    "input": "query, kiss, relax, breathe, gracious",
+    "output": "gracious"
+  },
+  {
+    "input": "fear, sail, memorize, bold, jump",
+    "output": "bold"
+  },
+  {
+    "input": "finish, destroy, select, use, eager",
+    "output": "eager"
+  },
+  {
+    "input": "schedule, courageous, teach, give, learn",
+    "output": "courageous"
+  },
+  {
+    "input": "forgive, knot, open, whimsical, question",
+    "output": "whimsical"
+  },
+  {
+    "input": "dislike, laugh, enjoy, adventurous, obtain",
+    "output": "adventurous"
+  },
+  {
+    "input": "decide, remove, honest, test, examine",
+    "output": "honest"
+  },
+  {
+    "input": "destroy, learn, lively, climb, write",
+    "output": "lively"
+  },
+  {
+    "input": "kind, launch, oversee, zap, remove",
+    "output": "kind"
+  },
+  {
+    "input": "knit, land, long, jump, learn",
+    "output": "long"
+  },
+  {
+    "input": "navigate, create, master, open, talented",
+    "output": "talented"
+  },
+  {
+    "input": "zap, jog, paint, knot, hopeful",
+    "output": "hopeful"
+  }
+]

@@ -1,0 +1,298 @@
+[
+  {
+    "input": "yearn",
+    "output": 5
+  },
+  {
+    "input": "play",
+    "output": 4
+  },
+  {
+    "input": "ice",
+    "output": 3
+  },
+  {
+    "input": "treat",
+    "output": 5
+  },
+  {
+    "input": "silly",
+    "output": 5
+  },
+  {
+    "input": "aardvark",
+    "output": 8
+  },
+  {
+    "input": "okapi",
+    "output": 5
+  },
+  {
+    "input": "piano",
+    "output": 5
+  },
+  {
+    "input": "genuine",
+    "output": 7
+  },
+  {
+    "input": "yield",
+    "output": 5
+  },
+  {
+    "input": "ball",
+    "output": 4
+  },
+  {
+    "input": "thin",
+    "output": 4
+  },
+  {
+    "input": "gumball",
+    "output": 7
+  },
+  {
+    "input": "from",
+    "output": 4
+  },
+  {
+    "input": "sail",
+    "output": 4
+  },
+  {
+    "input": "fight",
+    "output": 5
+  },
+  {
+    "input": "cookie",
+    "output": 6
+  },
+  {
+    "input": "hat",
+    "output": 3
+  },
+  {
+    "input": "llama",
+    "output": 5
+  },
+  {
+    "input": "bee",
+    "output": 3
+  },
+  {
+    "input": "target",
+    "output": 6
+  },
+  {
+    "input": "design",
+    "output": 6
+  },
+  {
+    "input": "carefree",
+    "output": 8
+  },
+  {
+    "input": "natural",
+    "output": 7
+  },
+  {
+    "input": "pig",
+    "output": 3
+  },
+  {
+    "input": "achieve",
+    "output": 7
+  },
+  {
+    "input": "win",
+    "output": 3
+  },
+  {
+    "input": "panther",
+    "output": 7
+  },
+  {
+    "input": "gnu",
+    "output": 3
+  },
+  {
+    "input": "calm",
+    "output": 4
+  },
+  {
+    "input": "airplane",
+    "output": 8
+  },
+  {
+    "input": "crab",
+    "output": 4
+  },
+  {
+    "input": "cry",
+    "output": 3
+  },
+  {
+    "input": "violet",
+    "output": 6
+  },
+  {
+    "input": "white",
+    "output": 5
+  },
+  {
+    "input": "rotten",
+    "output": 6
+  },
+  {
+    "input": "with",
+    "output": 4
+  },
+  {
+    "input": "passionfruit",
+    "output": 12
+  },
+  {
+    "input": "myself",
+    "output": 6
+  },
+  {
+    "input": "lemur",
+    "output": 5
+  },
+  {
+    "input": "sculpture",
+    "output": 9
+  },
+  {
+    "input": "bat",
+    "output": 3
+  },
+  {
+    "input": "jaguar",
+    "output": 6
+  },
+  {
+    "input": "scorpion",
+    "output": 8
+  },
+  {
+    "input": "kick",
+    "output": 4
+  },
+  {
+    "input": "maximize",
+    "output": 8
+  },
+  {
+    "input": "zebra",
+    "output": 5
+  },
+  {
+    "input": "incense",
+    "output": 7
+  },
+  {
+    "input": "pencil",
+    "output": 6
+  },
+  {
+    "input": "monkey",
+    "output": 6
+  },
+  {
+    "input": "question",
+    "output": 8
+  },
+  {
+    "input": "clock",
+    "output": 5
+  },
+  {
+    "input": "gorilla",
+    "output": 7
+  },
+  {
+    "input": "jolt",
+    "output": 4
+  },
+  {
+    "input": "master",
+    "output": 6
+  },
+  {
+    "input": "think",
+    "output": 5
+  },
+  {
+    "input": "save",
+    "output": 4
+  },
+  {
+    "input": "bad",
+    "output": 3
+  },
+  {
+    "input": "transform",
+    "output": 9
+  },
+  {
+    "input": "affectionate",
+    "output": 12
+  },
+  {
+    "input": "crocodile",
+    "output": 9
+  },
+  {
+    "input": "train",
+    "output": 5
+  },
+  {
+    "input": "honest",
+    "output": 6
+  },
+  {
+    "input": "hate",
+    "output": 4
+  },
+  {
+    "input": "mandrill",
+    "output": 8
+  },
+  {
+    "input": "help",
+    "output": 4
+  },
+  {
+    "input": "paintbrush",
+    "output": 10
+  },
+  {
+    "input": "goose",
+    "output": 5
+  },
+  {
+    "input": "alarm",
+    "output": 5
+  },
+  {
+    "input": "juggle",
+    "output": 6
+  },
+  {
+    "input": "focus",
+    "output": 5
+  },
+  {
+    "input": "vacuum",
+    "output": 6
+  },
+  {
+    "input": "define",
+    "output": 6
+  },
+  {
+    "input": "yo-yo",
+    "output": 5
+  }
+]

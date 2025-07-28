@@ -1,0 +1,3950 @@
+[
+  {
+    "input": "opinion",
+    "output": "avis"
+  },
+  {
+    "input": "careful",
+    "output": "prudent"
+  },
+  {
+    "input": "philosophical",
+    "output": "philosophique"
+  },
+  {
+    "input": "gathered",
+    "output": "rassembl\u00e9"
+  },
+  {
+    "input": "event",
+    "output": "\u00e9v\u00e9nement"
+  },
+  {
+    "input": "pocket",
+    "output": "poche"
+  },
+  {
+    "input": "encounter",
+    "output": "rencontre"
+  },
+  {
+    "input": "newfoundland",
+    "output": "Terre-Neuve"
+  },
+  {
+    "input": "defined",
+    "output": "d\u00e9fini"
+  },
+  {
+    "input": "irish",
+    "output": "irlandais"
+  },
+  {
+    "input": "considerably",
+    "output": "consid\u00e9rablement"
+  },
+  {
+    "input": "federal",
+    "output": "f\u00e9d\u00e9ral"
+  },
+  {
+    "input": "closing",
+    "output": "fermeture"
+  },
+  {
+    "input": "feed",
+    "output": "nourrir"
+  },
+  {
+    "input": "blocking",
+    "output": "blocage"
+  },
+  {
+    "input": "distinguish",
+    "output": "distinguer"
+  },
+  {
+    "input": "allows",
+    "output": "permet"
+  },
+  {
+    "input": "infinite",
+    "output": "infini"
+  },
+  {
+    "input": "subjects",
+    "output": "sujets"
+  },
+  {
+    "input": "authority",
+    "output": "autorit\u00e9"
+  },
+  {
+    "input": "hull",
+    "output": "coque"
+  },
+  {
+    "input": "stars",
+    "output": "\u00e9toiles"
+  },
+  {
+    "input": "money",
+    "output": "argent"
+  },
+  {
+    "input": "disputes",
+    "output": "diff\u00e9rends"
+  },
+  {
+    "input": "concentrated",
+    "output": "concentr\u00e9"
+  },
+  {
+    "input": "new",
+    "output": "nouveau"
+  },
+  {
+    "input": "linked",
+    "output": "li\u00e9"
+  },
+  {
+    "input": "advisor",
+    "output": "conseiller"
+  },
+  {
+    "input": "graphics",
+    "output": "graphiques"
+  },
+  {
+    "input": "stone",
+    "output": "pierre"
+  },
+  {
+    "input": "shadow",
+    "output": "ombre"
+  },
+  {
+    "input": "deceased",
+    "output": "d\u00e9c\u00e9d\u00e9"
+  },
+  {
+    "input": "apparently",
+    "output": "apparemment"
+  },
+  {
+    "input": "she",
+    "output": "elle"
+  },
+  {
+    "input": "blood",
+    "output": "sang"
+  },
+  {
+    "input": "olympics",
+    "output": "olympiques"
+  },
+  {
+    "input": "old",
+    "output": "vieux"
+  },
+  {
+    "input": "twenty",
+    "output": "vingt"
+  },
+  {
+    "input": "austrian",
+    "output": "autrichien"
+  },
+  {
+    "input": "mechanical",
+    "output": "m\u00e9canique"
+  },
+  {
+    "input": "argentina",
+    "output": "argentine"
+  },
+  {
+    "input": "equal",
+    "output": "\u00e9gal"
+  },
+  {
+    "input": "disruption",
+    "output": "perturbation"
+  },
+  {
+    "input": "proceedings",
+    "output": "proc\u00e9dures"
+  },
+  {
+    "input": "supposedly",
+    "output": "soi-disant"
+  },
+  {
+    "input": "aerial",
+    "output": "antenne"
+  },
+  {
+    "input": "incomplete",
+    "output": "incomplet"
+  },
+  {
+    "input": "varieties",
+    "output": "vari\u00e9t\u00e9s"
+  },
+  {
+    "input": "completion",
+    "output": "ach\u00e8vement"
+  },
+  {
+    "input": "iceland",
+    "output": "Islande"
+  },
+  {
+    "input": "why",
+    "output": "pourquoi"
+  },
+  {
+    "input": "relationship",
+    "output": "relation"
+  },
+  {
+    "input": "diving",
+    "output": "plong\u00e9e"
+  },
+  {
+    "input": "runtime",
+    "output": "temps d'ex\u00e9cution"
+  },
+  {
+    "input": "unnecessary",
+    "output": "inutile"
+  },
+  {
+    "input": "participated",
+    "output": "particip\u00e9"
+  },
+  {
+    "input": "atomic",
+    "output": "atomique"
+  },
+  {
+    "input": "ranked",
+    "output": "class\u00e9"
+  },
+  {
+    "input": "drafted",
+    "output": "\u00e9bauch\u00e9"
+  },
+  {
+    "input": "signed",
+    "output": "sign\u00e9"
+  },
+  {
+    "input": "weapon",
+    "output": "arme"
+  },
+  {
+    "input": "olympic",
+    "output": "olympique"
+  },
+  {
+    "input": "young",
+    "output": "jeune"
+  },
+  {
+    "input": "every",
+    "output": "chaque"
+  },
+  {
+    "input": "virtually",
+    "output": "virtuellement"
+  },
+  {
+    "input": "upcoming",
+    "output": "\u00e0 venir"
+  },
+  {
+    "input": "effective",
+    "output": "efficace"
+  },
+  {
+    "input": "became",
+    "output": "devenu"
+  },
+  {
+    "input": "discovers",
+    "output": "d\u00e9couvre"
+  },
+  {
+    "input": "goalkeeper",
+    "output": "gardien de but"
+  },
+  {
+    "input": "opportunities",
+    "output": "opportunit\u00e9s"
+  },
+  {
+    "input": "creating",
+    "output": "cr\u00e9ation"
+  },
+  {
+    "input": "paradise",
+    "output": "paradis"
+  },
+  {
+    "input": "pool",
+    "output": "piscine"
+  },
+  {
+    "input": "works",
+    "output": "travaux"
+  },
+  {
+    "input": "lords",
+    "output": "seigneurs"
+  },
+  {
+    "input": "heights",
+    "output": "hauteurs"
+  },
+  {
+    "input": "presented",
+    "output": "pr\u00e9sent\u00e9"
+  },
+  {
+    "input": "snow",
+    "output": "neige"
+  },
+  {
+    "input": "atlantic",
+    "output": "atlantique"
+  },
+  {
+    "input": "churches",
+    "output": "\u00e9glises"
+  },
+  {
+    "input": "fund",
+    "output": "fonds"
+  },
+  {
+    "input": "existing",
+    "output": "existant"
+  },
+  {
+    "input": "electricity",
+    "output": "\u00e9lectricit\u00e9"
+  },
+  {
+    "input": "lebanese",
+    "output": "libanais"
+  },
+  {
+    "input": "overseas",
+    "output": "\u00e0 l'\u00e9tranger"
+  },
+  {
+    "input": "balance",
+    "output": "\u00e9quilibre"
+  },
+  {
+    "input": "recording",
+    "output": "enregistrement"
+  },
+  {
+    "input": "spaces",
+    "output": "espaces"
+  },
+  {
+    "input": "felt",
+    "output": "ressenti"
+  },
+  {
+    "input": "less",
+    "output": "moins"
+  },
+  {
+    "input": "wet",
+    "output": "mouill\u00e9"
+  },
+  {
+    "input": "bond",
+    "output": "lien"
+  },
+  {
+    "input": "chip",
+    "output": "puce"
+  },
+  {
+    "input": "sixth",
+    "output": "sixi\u00e8me"
+  },
+  {
+    "input": "integrated",
+    "output": "int\u00e9gr\u00e9"
+  },
+  {
+    "input": "key",
+    "output": "cl\u00e9"
+  },
+  {
+    "input": "gods",
+    "output": "dieux"
+  },
+  {
+    "input": "helping",
+    "output": "aidant"
+  },
+  {
+    "input": "molecular",
+    "output": "mol\u00e9culaire"
+  },
+  {
+    "input": "greatly",
+    "output": "grandement"
+  },
+  {
+    "input": "tools",
+    "output": "outils"
+  },
+  {
+    "input": "encountered",
+    "output": "rencontr\u00e9"
+  },
+  {
+    "input": "much",
+    "output": "beaucoup"
+  },
+  {
+    "input": "deep",
+    "output": "profond"
+  },
+  {
+    "input": "memory",
+    "output": "m\u00e9moire"
+  },
+  {
+    "input": "den",
+    "output": "tani\u00e8re"
+  },
+  {
+    "input": "bones",
+    "output": "os"
+  },
+  {
+    "input": "footballer",
+    "output": "footballeur"
+  },
+  {
+    "input": "counts",
+    "output": "compte"
+  },
+  {
+    "input": "programming",
+    "output": "programmation"
+  },
+  {
+    "input": "reported",
+    "output": "signal\u00e9"
+  },
+  {
+    "input": "understood",
+    "output": "compris"
+  },
+  {
+    "input": "buy",
+    "output": "acheter"
+  },
+  {
+    "input": "boarding",
+    "output": "embarquement"
+  },
+  {
+    "input": "needs",
+    "output": "besoins"
+  },
+  {
+    "input": "psychology",
+    "output": "psychologie"
+  },
+  {
+    "input": "activated",
+    "output": "activ\u00e9"
+  },
+  {
+    "input": "relay",
+    "output": "relais"
+  },
+  {
+    "input": "projects",
+    "output": "projets"
+  },
+  {
+    "input": "enable",
+    "output": "activer"
+  },
+  {
+    "input": "traded",
+    "output": "\u00e9chang\u00e9"
+  },
+  {
+    "input": "producers",
+    "output": "producteurs"
+  },
+  {
+    "input": "politician",
+    "output": "politicien"
+  },
+  {
+    "input": "seriously",
+    "output": "s\u00e9rieusement"
+  },
+  {
+    "input": "users",
+    "output": "utilisateurs"
+  },
+  {
+    "input": "between",
+    "output": "entre"
+  },
+  {
+    "input": "edited",
+    "output": "modifi\u00e9"
+  },
+  {
+    "input": "allegations",
+    "output": "all\u00e9gations"
+  },
+  {
+    "input": "cylinder",
+    "output": "cylindre"
+  },
+  {
+    "input": "crown",
+    "output": "couronne"
+  },
+  {
+    "input": "recognised",
+    "output": "reconnu"
+  },
+  {
+    "input": "connects",
+    "output": "se connecte"
+  },
+  {
+    "input": "pale",
+    "output": "p\u00e2le"
+  },
+  {
+    "input": "elder",
+    "output": "a\u00een\u00e9"
+  },
+  {
+    "input": "called",
+    "output": "appel\u00e9"
+  },
+  {
+    "input": "sell",
+    "output": "vendre"
+  },
+  {
+    "input": "taking",
+    "output": "prenant"
+  },
+  {
+    "input": "residing",
+    "output": "r\u00e9sidant"
+  },
+  {
+    "input": "disabled",
+    "output": "handicap\u00e9"
+  },
+  {
+    "input": "located",
+    "output": "situ\u00e9"
+  },
+  {
+    "input": "voluntary",
+    "output": "volontaire"
+  },
+  {
+    "input": "amendment",
+    "output": "amendement"
+  },
+  {
+    "input": "gospel",
+    "output": "\u00e9vangile"
+  },
+  {
+    "input": "crazy",
+    "output": "fou"
+  },
+  {
+    "input": "cable",
+    "output": "c\u00e2ble"
+  },
+  {
+    "input": "heavyweight",
+    "output": "poids lourd"
+  },
+  {
+    "input": "prepare",
+    "output": "pr\u00e9parer"
+  },
+  {
+    "input": "internationally",
+    "output": "internationalement"
+  },
+  {
+    "input": "glory",
+    "output": "gloire"
+  },
+  {
+    "input": "becomes",
+    "output": "devient"
+  },
+  {
+    "input": "fled",
+    "output": "s'est enfui"
+  },
+  {
+    "input": "merit",
+    "output": "m\u00e9rite"
+  },
+  {
+    "input": "worn",
+    "output": "us\u00e9"
+  },
+  {
+    "input": "pakistani",
+    "output": "pakistanais"
+  },
+  {
+    "input": "fortress",
+    "output": "forteresse"
+  },
+  {
+    "input": "breed",
+    "output": "race"
+  },
+  {
+    "input": "cloud",
+    "output": "nuage"
+  },
+  {
+    "input": "criminal",
+    "output": "criminel"
+  },
+  {
+    "input": "good",
+    "output": "bon"
+  },
+  {
+    "input": "worthy",
+    "output": "digne"
+  },
+  {
+    "input": "taiwan",
+    "output": "Ta\u00efwan"
+  },
+  {
+    "input": "accessed",
+    "output": "acc\u00e9d\u00e9"
+  },
+  {
+    "input": "none",
+    "output": "aucun"
+  },
+  {
+    "input": "wonder",
+    "output": "merveille"
+  },
+  {
+    "input": "solar",
+    "output": "solaire"
+  },
+  {
+    "input": "announcement",
+    "output": "annonce"
+  },
+  {
+    "input": "consciousness",
+    "output": "conscience"
+  },
+  {
+    "input": "essentially",
+    "output": "essentiellement"
+  },
+  {
+    "input": "requirements",
+    "output": "exigences"
+  },
+  {
+    "input": "heroes",
+    "output": "h\u00e9ros"
+  },
+  {
+    "input": "requiring",
+    "output": "n\u00e9cessitant"
+  },
+  {
+    "input": "calling",
+    "output": "appelant"
+  },
+  {
+    "input": "edit",
+    "output": "modifier"
+  },
+  {
+    "input": "survival",
+    "output": "survie"
+  },
+  {
+    "input": "riding",
+    "output": "\u00e9quitation"
+  },
+  {
+    "input": "authorities",
+    "output": "autorit\u00e9s"
+  },
+  {
+    "input": "corner",
+    "output": "coin"
+  },
+  {
+    "input": "driver",
+    "output": "conducteur"
+  },
+  {
+    "input": "theory",
+    "output": "th\u00e9orie"
+  },
+  {
+    "input": "territory",
+    "output": "territoire"
+  },
+  {
+    "input": "lasted",
+    "output": "dernier"
+  },
+  {
+    "input": "framework",
+    "output": "cadre"
+  },
+  {
+    "input": "wall",
+    "output": "mur"
+  },
+  {
+    "input": "romania",
+    "output": "Roumanie"
+  },
+  {
+    "input": "tenor",
+    "output": "t\u00e9nor"
+  },
+  {
+    "input": "hood",
+    "output": "capuche"
+  },
+  {
+    "input": "dubbed",
+    "output": "doubl\u00e9"
+  },
+  {
+    "input": "constantly",
+    "output": "constamment"
+  },
+  {
+    "input": "tip",
+    "output": "pourboire"
+  },
+  {
+    "input": "negotiations",
+    "output": "n\u00e9gociations"
+  },
+  {
+    "input": "shares",
+    "output": "actions"
+  },
+  {
+    "input": "gap",
+    "output": "\u00e9cart"
+  },
+  {
+    "input": "married",
+    "output": "mari\u00e9"
+  },
+  {
+    "input": "promise",
+    "output": "promesse"
+  },
+  {
+    "input": "mistake",
+    "output": "erreur"
+  },
+  {
+    "input": "advanced",
+    "output": "avanc\u00e9"
+  },
+  {
+    "input": "summary",
+    "output": "r\u00e9sum\u00e9"
+  },
+  {
+    "input": "fork",
+    "output": "fourchette"
+  },
+  {
+    "input": "crowned",
+    "output": "couronn\u00e9"
+  },
+  {
+    "input": "entirely",
+    "output": "enti\u00e8rement"
+  },
+  {
+    "input": "dress",
+    "output": "robe"
+  },
+  {
+    "input": "deliver",
+    "output": "livrer"
+  },
+  {
+    "input": "predominantly",
+    "output": "principalement"
+  },
+  {
+    "input": "allow",
+    "output": "permettre"
+  },
+  {
+    "input": "joined",
+    "output": "rejoint"
+  },
+  {
+    "input": "brothers",
+    "output": "fr\u00e8res"
+  },
+  {
+    "input": "wedding",
+    "output": "mariage"
+  },
+  {
+    "input": "cannon",
+    "output": "canon"
+  },
+  {
+    "input": "either",
+    "output": "soit"
+  },
+  {
+    "input": "adventures",
+    "output": "aventures"
+  },
+  {
+    "input": "sculptor",
+    "output": "sculpteur"
+  },
+  {
+    "input": "favour",
+    "output": "faveur"
+  },
+  {
+    "input": "researcher",
+    "output": "chercheur"
+  },
+  {
+    "input": "result",
+    "output": "r\u00e9sultat"
+  },
+  {
+    "input": "procedures",
+    "output": "proc\u00e9dures"
+  },
+  {
+    "input": "sales",
+    "output": "ventes"
+  },
+  {
+    "input": "military",
+    "output": "militaire"
+  },
+  {
+    "input": "editor",
+    "output": "r\u00e9dacteur"
+  },
+  {
+    "input": "expensive",
+    "output": "cher"
+  },
+  {
+    "input": "musicians",
+    "output": "musiciens"
+  },
+  {
+    "input": "world",
+    "output": "monde"
+  },
+  {
+    "input": "news",
+    "output": "nouvelles"
+  },
+  {
+    "input": "edinburgh",
+    "output": "\u00c9dimbourg"
+  },
+  {
+    "input": "citizens",
+    "output": "citoyens"
+  },
+  {
+    "input": "conflicts",
+    "output": "conflits"
+  },
+  {
+    "input": "designated",
+    "output": "d\u00e9sign\u00e9"
+  },
+  {
+    "input": "parishes",
+    "output": "paroisses"
+  },
+  {
+    "input": "sentenced",
+    "output": "condamn\u00e9"
+  },
+  {
+    "input": "alive",
+    "output": "vivant"
+  },
+  {
+    "input": "again",
+    "output": "encore"
+  },
+  {
+    "input": "ability",
+    "output": "capacit\u00e9"
+  },
+  {
+    "input": "christian",
+    "output": "chr\u00e9tien"
+  },
+  {
+    "input": "warsaw",
+    "output": "Varsovie"
+  },
+  {
+    "input": "surrender",
+    "output": "capituler"
+  },
+  {
+    "input": "lift",
+    "output": "ascenseur"
+  },
+  {
+    "input": "played",
+    "output": "jou\u00e9"
+  },
+  {
+    "input": "unity",
+    "output": "unit\u00e9"
+  },
+  {
+    "input": "napoleon",
+    "output": "Napol\u00e9on"
+  },
+  {
+    "input": "likes",
+    "output": "aime"
+  },
+  {
+    "input": "holder",
+    "output": "porte"
+  },
+  {
+    "input": "shaped",
+    "output": "form\u00e9"
+  },
+  {
+    "input": "primary",
+    "output": "primaire"
+  },
+  {
+    "input": "horse",
+    "output": "cheval"
+  },
+  {
+    "input": "preparation",
+    "output": "pr\u00e9paration"
+  },
+  {
+    "input": "challenged",
+    "output": "d\u00e9fi\u00e9"
+  },
+  {
+    "input": "holes",
+    "output": "trous"
+  },
+  {
+    "input": "free",
+    "output": "gratuit"
+  },
+  {
+    "input": "inland",
+    "output": "\u00e0 l'int\u00e9rieur des"
+  },
+  {
+    "input": "nominee",
+    "output": "nomin\u00e9"
+  },
+  {
+    "input": "auxiliary",
+    "output": "auxiliaire"
+  },
+  {
+    "input": "covered",
+    "output": "couvert"
+  },
+  {
+    "input": "technically",
+    "output": "techniquement"
+  },
+  {
+    "input": "motion",
+    "output": "mouvement"
+  },
+  {
+    "input": "polish",
+    "output": "polir"
+  },
+  {
+    "input": "malaysian",
+    "output": "malaisien"
+  },
+  {
+    "input": "arrival",
+    "output": "arriv\u00e9e"
+  },
+  {
+    "input": "warrant",
+    "output": "mandat"
+  },
+  {
+    "input": "hero",
+    "output": "h\u00e9ros"
+  },
+  {
+    "input": "cuts",
+    "output": "coupures"
+  },
+  {
+    "input": "parts",
+    "output": "pi\u00e8ces"
+  },
+  {
+    "input": "reached",
+    "output": "atteint"
+  },
+  {
+    "input": "stages",
+    "output": "\u00e9tapes"
+  },
+  {
+    "input": "thirteen",
+    "output": "treize"
+  },
+  {
+    "input": "indeed",
+    "output": "en effet"
+  },
+  {
+    "input": "device",
+    "output": "appareil"
+  },
+  {
+    "input": "makeup",
+    "output": "maquillage"
+  },
+  {
+    "input": "swiss",
+    "output": "suisse"
+  },
+  {
+    "input": "relief",
+    "output": "soulagement"
+  },
+  {
+    "input": "feature",
+    "output": "caract\u00e9ristique"
+  },
+  {
+    "input": "revival",
+    "output": "r\u00e9surrection"
+  },
+  {
+    "input": "merchant",
+    "output": "marchand"
+  },
+  {
+    "input": "followers",
+    "output": "abonn\u00e9s"
+  },
+  {
+    "input": "escaped",
+    "output": "\u00e9chapp\u00e9"
+  },
+  {
+    "input": "night",
+    "output": "nuit"
+  },
+  {
+    "input": "increases",
+    "output": "augmente"
+  },
+  {
+    "input": "thank",
+    "output": "remercier"
+  },
+  {
+    "input": "fair",
+    "output": "juste"
+  },
+  {
+    "input": "chicken",
+    "output": "poulet"
+  },
+  {
+    "input": "surviving",
+    "output": "survivre"
+  },
+  {
+    "input": "margaret",
+    "output": "Marguerite"
+  },
+  {
+    "input": "belgian",
+    "output": "belge"
+  },
+  {
+    "input": "precedent",
+    "output": "pr\u00e9c\u00e9dent"
+  },
+  {
+    "input": "credits",
+    "output": "cr\u00e9dits"
+  },
+  {
+    "input": "opening",
+    "output": "ouverture"
+  },
+  {
+    "input": "editions",
+    "output": "\u00e9ditions"
+  },
+  {
+    "input": "mythology",
+    "output": "mythologie"
+  },
+  {
+    "input": "rhine",
+    "output": "Rhin"
+  },
+  {
+    "input": "tape",
+    "output": "ruban"
+  },
+  {
+    "input": "decrease",
+    "output": "diminuer"
+  },
+  {
+    "input": "plot",
+    "output": "intrigue"
+  },
+  {
+    "input": "read",
+    "output": "lire"
+  },
+  {
+    "input": "times",
+    "output": "fois"
+  },
+  {
+    "input": "demographics",
+    "output": "d\u00e9mographie"
+  },
+  {
+    "input": "holdings",
+    "output": "avoirs"
+  },
+  {
+    "input": "prestigious",
+    "output": "prestigieux"
+  },
+  {
+    "input": "april",
+    "output": "avril"
+  },
+  {
+    "input": "hungarian",
+    "output": "hongrois"
+  },
+  {
+    "input": "writings",
+    "output": "\u00e9crits"
+  },
+  {
+    "input": "call",
+    "output": "appel"
+  },
+  {
+    "input": "optical",
+    "output": "optique"
+  },
+  {
+    "input": "centers",
+    "output": "centres"
+  },
+  {
+    "input": "motor",
+    "output": "moteur"
+  },
+  {
+    "input": "interviews",
+    "output": "entretiens"
+  },
+  {
+    "input": "attend",
+    "output": "assister"
+  },
+  {
+    "input": "count",
+    "output": "compter"
+  },
+  {
+    "input": "mayor",
+    "output": "maire"
+  },
+  {
+    "input": "career",
+    "output": "carri\u00e8re"
+  },
+  {
+    "input": "sung",
+    "output": "chant\u00e9"
+  },
+  {
+    "input": "dynasty",
+    "output": "dynastie"
+  },
+  {
+    "input": "business",
+    "output": "affaires"
+  },
+  {
+    "input": "genes",
+    "output": "g\u00e8nes"
+  },
+  {
+    "input": "chest",
+    "output": "poitrine"
+  },
+  {
+    "input": "credited",
+    "output": "cr\u00e9dit\u00e9"
+  },
+  {
+    "input": "playoff",
+    "output": "\u00e9liminatoires"
+  },
+  {
+    "input": "take",
+    "output": "prendre"
+  },
+  {
+    "input": "prussian",
+    "output": "prusse"
+  },
+  {
+    "input": "relocated",
+    "output": "d\u00e9plac\u00e9"
+  },
+  {
+    "input": "offices",
+    "output": "bureaux"
+  },
+  {
+    "input": "including",
+    "output": "y compris"
+  },
+  {
+    "input": "petition",
+    "output": "p\u00e9tition"
+  },
+  {
+    "input": "subway",
+    "output": "m\u00e9tro"
+  },
+  {
+    "input": "maintains",
+    "output": "maintient"
+  },
+  {
+    "input": "milk",
+    "output": "lait"
+  },
+  {
+    "input": "movies",
+    "output": "films"
+  },
+  {
+    "input": "requests",
+    "output": "demandes"
+  },
+  {
+    "input": "traffic",
+    "output": "trafic"
+  },
+  {
+    "input": "scheduled",
+    "output": "pr\u00e9vu"
+  },
+  {
+    "input": "resolve",
+    "output": "r\u00e9soudre"
+  },
+  {
+    "input": "terminology",
+    "output": "terminologie"
+  },
+  {
+    "input": "aftermath",
+    "output": "cons\u00e9quences"
+  },
+  {
+    "input": "czechoslovakia",
+    "output": "Tch\u00e9coslova"
+  },
+  {
+    "input": "rifles",
+    "output": "fusils"
+  },
+  {
+    "input": "problems",
+    "output": "probl\u00e8mes"
+  },
+  {
+    "input": "brings",
+    "output": "apporte"
+  },
+  {
+    "input": "opponent",
+    "output": "adversaire"
+  },
+  {
+    "input": "implement",
+    "output": "mettre en \u0153uvre"
+  },
+  {
+    "input": "shared",
+    "output": "partag\u00e9"
+  },
+  {
+    "input": "manila",
+    "output": "Manille"
+  },
+  {
+    "input": "edition",
+    "output": "\u00e9dition"
+  },
+  {
+    "input": "rebellion",
+    "output": "r\u00e9bellion"
+  },
+  {
+    "input": "freestyle",
+    "output": "style libre"
+  },
+  {
+    "input": "liberation",
+    "output": "lib\u00e9ration"
+  },
+  {
+    "input": "even",
+    "output": "m\u00eame"
+  },
+  {
+    "input": "obtained",
+    "output": "obtenu"
+  },
+  {
+    "input": "collecting",
+    "output": "collecter"
+  },
+  {
+    "input": "everything",
+    "output": "tout"
+  },
+  {
+    "input": "forget",
+    "output": "oublier"
+  },
+  {
+    "input": "youth",
+    "output": "jeunesse"
+  },
+  {
+    "input": "corresponding",
+    "output": "correspondant"
+  },
+  {
+    "input": "meaning",
+    "output": "signification"
+  },
+  {
+    "input": "treat",
+    "output": "traiter"
+  },
+  {
+    "input": "soil",
+    "output": "sol"
+  },
+  {
+    "input": "two",
+    "output": "deux"
+  },
+  {
+    "input": "aim",
+    "output": "but"
+  },
+  {
+    "input": "universities",
+    "output": "universit\u00e9s"
+  },
+  {
+    "input": "griffin",
+    "output": "griffon"
+  },
+  {
+    "input": "linear",
+    "output": "lin\u00e9aire"
+  },
+  {
+    "input": "nominate",
+    "output": "nommer"
+  },
+  {
+    "input": "tracks",
+    "output": "pistes"
+  },
+  {
+    "input": "officers",
+    "output": "officiers"
+  },
+  {
+    "input": "engaged",
+    "output": "engag\u00e9"
+  },
+  {
+    "input": "acted",
+    "output": "agi"
+  },
+  {
+    "input": "default",
+    "output": "d\u00e9faut"
+  },
+  {
+    "input": "topics",
+    "output": "sujets"
+  },
+  {
+    "input": "austria",
+    "output": "autriche"
+  },
+  {
+    "input": "goals",
+    "output": "objectifs"
+  },
+  {
+    "input": "consecutive",
+    "output": "cons\u00e9cutif"
+  },
+  {
+    "input": "industry",
+    "output": "industrie"
+  },
+  {
+    "input": "exactly",
+    "output": "exactement"
+  },
+  {
+    "input": "coaching",
+    "output": "entra\u00eenement"
+  },
+  {
+    "input": "here",
+    "output": "ici"
+  },
+  {
+    "input": "dutch",
+    "output": "n\u00e9erlandais"
+  },
+  {
+    "input": "cyclists",
+    "output": "cyclistes"
+  },
+  {
+    "input": "friday",
+    "output": "vendredi"
+  },
+  {
+    "input": "boats",
+    "output": "bateaux"
+  },
+  {
+    "input": "asian",
+    "output": "asiatique"
+  },
+  {
+    "input": "buses",
+    "output": "autobus"
+  },
+  {
+    "input": "switzerland",
+    "output": "suisse"
+  },
+  {
+    "input": "trick",
+    "output": "tour"
+  },
+  {
+    "input": "easy",
+    "output": "facile"
+  },
+  {
+    "input": "responses",
+    "output": "r\u00e9ponses"
+  },
+  {
+    "input": "brands",
+    "output": "marques"
+  },
+  {
+    "input": "mediation",
+    "output": "m\u00e9diation"
+  },
+  {
+    "input": "offer",
+    "output": "offre"
+  },
+  {
+    "input": "depression",
+    "output": "d\u00e9pression"
+  },
+  {
+    "input": "duty",
+    "output": "devoir"
+  },
+  {
+    "input": "real",
+    "output": "r\u00e9el"
+  },
+  {
+    "input": "bay",
+    "output": "baie"
+  },
+  {
+    "input": "transportation",
+    "output": "transport"
+  },
+  {
+    "input": "template",
+    "output": "mod\u00e8le"
+  },
+  {
+    "input": "signing",
+    "output": "signer"
+  },
+  {
+    "input": "platform",
+    "output": "plateforme"
+  },
+  {
+    "input": "geometry",
+    "output": "g\u00e9om\u00e9trie"
+  },
+  {
+    "input": "banking",
+    "output": "bancaire"
+  },
+  {
+    "input": "eastern",
+    "output": "oriental"
+  },
+  {
+    "input": "tanzania",
+    "output": "Tanzanie"
+  },
+  {
+    "input": "speaker",
+    "output": "haut-parleur"
+  },
+  {
+    "input": "supporter",
+    "output": "supporteur"
+  },
+  {
+    "input": "harmony",
+    "output": "harmonie"
+  },
+  {
+    "input": "come",
+    "output": "venir"
+  },
+  {
+    "input": "merge",
+    "output": "fusionner"
+  },
+  {
+    "input": "democracy",
+    "output": "d\u00e9mocratie"
+  },
+  {
+    "input": "hypothesis",
+    "output": "hypoth\u00e8se"
+  },
+  {
+    "input": "demands",
+    "output": "exigences"
+  },
+  {
+    "input": "committees",
+    "output": "comit\u00e9s"
+  },
+  {
+    "input": "redirect",
+    "output": "rediriger"
+  },
+  {
+    "input": "shape",
+    "output": "forme"
+  },
+  {
+    "input": "redirected",
+    "output": "redirig\u00e9"
+  },
+  {
+    "input": "efficiency",
+    "output": "efficacit\u00e9"
+  },
+  {
+    "input": "loves",
+    "output": "aime"
+  },
+  {
+    "input": "cat",
+    "output": "chat"
+  },
+  {
+    "input": "literature",
+    "output": "litt\u00e9rature"
+  },
+  {
+    "input": "lock",
+    "output": "verrou"
+  },
+  {
+    "input": "grace",
+    "output": "gr\u00e2ce"
+  },
+  {
+    "input": "means",
+    "output": "moyens"
+  },
+  {
+    "input": "threat",
+    "output": "menace"
+  },
+  {
+    "input": "justify",
+    "output": "justifier"
+  },
+  {
+    "input": "remember",
+    "output": "souvenir"
+  },
+  {
+    "input": "follows",
+    "output": "suites"
+  },
+  {
+    "input": "headquarters",
+    "output": "si\u00e8ge"
+  },
+  {
+    "input": "anonymous",
+    "output": "anonyme"
+  },
+  {
+    "input": "midfielder",
+    "output": "milieu de terrain"
+  },
+  {
+    "input": "management",
+    "output": "gestion"
+  },
+  {
+    "input": "diameter",
+    "output": "diam\u00e8tre"
+  },
+  {
+    "input": "accompanied",
+    "output": "accompagn\u00e9"
+  },
+  {
+    "input": "need",
+    "output": "besoin"
+  },
+  {
+    "input": "height",
+    "output": "hauteur"
+  },
+  {
+    "input": "square",
+    "output": "carr\u00e9"
+  },
+  {
+    "input": "customs",
+    "output": "douanes"
+  },
+  {
+    "input": "creates",
+    "output": "cr\u00e9e"
+  },
+  {
+    "input": "predecessor",
+    "output": "pr\u00e9d\u00e9cesse"
+  },
+  {
+    "input": "kiss",
+    "output": "baiser"
+  },
+  {
+    "input": "generally",
+    "output": "g\u00e9n\u00e9ralement"
+  },
+  {
+    "input": "hotel",
+    "output": "h\u00f4tel"
+  },
+  {
+    "input": "gardens",
+    "output": "jardins"
+  },
+  {
+    "input": "morning",
+    "output": "matin"
+  },
+  {
+    "input": "supplement",
+    "output": "compl\u00e9ment"
+  },
+  {
+    "input": "achievements",
+    "output": "r\u00e9alisations"
+  },
+  {
+    "input": "cancelled",
+    "output": "annul\u00e9"
+  },
+  {
+    "input": "ninth",
+    "output": "neuvi\u00e8me"
+  },
+  {
+    "input": "oldest",
+    "output": "le plus ancien"
+  },
+  {
+    "input": "focusing",
+    "output": "se concentrer"
+  },
+  {
+    "input": "artwork",
+    "output": "\u0153uvre d'art"
+  },
+  {
+    "input": "god",
+    "output": "dieu"
+  },
+  {
+    "input": "son",
+    "output": "fils"
+  },
+  {
+    "input": "burns",
+    "output": "br\u00fblures"
+  },
+  {
+    "input": "treated",
+    "output": "trait\u00e9"
+  },
+  {
+    "input": "proteins",
+    "output": "prot\u00e9ines"
+  },
+  {
+    "input": "scoring",
+    "output": "marquer"
+  },
+  {
+    "input": "eliminated",
+    "output": "\u00e9limin\u00e9"
+  },
+  {
+    "input": "chapters",
+    "output": "chapitres"
+  },
+  {
+    "input": "lower",
+    "output": "inf\u00e9rieur"
+  },
+  {
+    "input": "classic",
+    "output": "classique"
+  },
+  {
+    "input": "characters",
+    "output": "personnages"
+  },
+  {
+    "input": "send",
+    "output": "envoyer"
+  },
+  {
+    "input": "vulnerable",
+    "output": "vuln\u00e9rable"
+  },
+  {
+    "input": "dog",
+    "output": "chien"
+  },
+  {
+    "input": "assault",
+    "output": "agression"
+  },
+  {
+    "input": "fighting",
+    "output": "combat"
+  },
+  {
+    "input": "soviet",
+    "output": "sovi\u00e9tique"
+  },
+  {
+    "input": "classified",
+    "output": "classifi\u00e9"
+  },
+  {
+    "input": "reveals",
+    "output": "r\u00e9v\u00e8le"
+  },
+  {
+    "input": "wikipedia",
+    "output": "wikip\u00e9dia"
+  },
+  {
+    "input": "unable",
+    "output": "incapable"
+  },
+  {
+    "input": "bishop",
+    "output": "\u00e9v\u00eaque"
+  },
+  {
+    "input": "his",
+    "output": "son"
+  },
+  {
+    "input": "lap",
+    "output": "genou"
+  },
+  {
+    "input": "presenter",
+    "output": "pr\u00e9sentateur"
+  },
+  {
+    "input": "males",
+    "output": "hommes"
+  },
+  {
+    "input": "powerful",
+    "output": "puissant"
+  },
+  {
+    "input": "acceptance",
+    "output": "acceptation"
+  },
+  {
+    "input": "start",
+    "output": "commencer"
+  },
+  {
+    "input": "kids",
+    "output": "enfants"
+  },
+  {
+    "input": "elaborate",
+    "output": "\u00e9laborer"
+  },
+  {
+    "input": "battle",
+    "output": "bataille"
+  },
+  {
+    "input": "your",
+    "output": "votre"
+  },
+  {
+    "input": "bias",
+    "output": "pr\u00e9jug\u00e9"
+  },
+  {
+    "input": "liberal",
+    "output": "lib\u00e9ral"
+  },
+  {
+    "input": "alexandria",
+    "output": "Alexandrie"
+  },
+  {
+    "input": "thirty",
+    "output": "trente"
+  },
+  {
+    "input": "television",
+    "output": "t\u00e9l\u00e9vision"
+  },
+  {
+    "input": "investment",
+    "output": "investissement"
+  },
+  {
+    "input": "mutual",
+    "output": "mutuel"
+  },
+  {
+    "input": "sound",
+    "output": "son"
+  },
+  {
+    "input": "centered",
+    "output": "centr\u00e9"
+  },
+  {
+    "input": "incorporated",
+    "output": "incorpor\u00e9"
+  },
+  {
+    "input": "jam",
+    "output": "confiture"
+  },
+  {
+    "input": "timber",
+    "output": "bois"
+  },
+  {
+    "input": "percentage",
+    "output": "pourcentage"
+  },
+  {
+    "input": "geographic",
+    "output": "g\u00e9ographique"
+  },
+  {
+    "input": "giants",
+    "output": "g\u00e9ants"
+  },
+  {
+    "input": "porter",
+    "output": "porteur"
+  },
+  {
+    "input": "grammar",
+    "output": "grammaire"
+  },
+  {
+    "input": "invented",
+    "output": "invent\u00e9"
+  },
+  {
+    "input": "various",
+    "output": "divers"
+  },
+  {
+    "input": "epic",
+    "output": "\u00e9pique"
+  },
+  {
+    "input": "twins",
+    "output": "jumeaux"
+  },
+  {
+    "input": "element",
+    "output": "\u00e9l\u00e9ment"
+  },
+  {
+    "input": "trip",
+    "output": "voyage"
+  },
+  {
+    "input": "probability",
+    "output": "probabilit\u00e9"
+  },
+  {
+    "input": "credit",
+    "output": "cr\u00e9dit"
+  },
+  {
+    "input": "blocked",
+    "output": "bloqu\u00e9"
+  },
+  {
+    "input": "path",
+    "output": "chemin"
+  },
+  {
+    "input": "arriving",
+    "output": "arrivant"
+  },
+  {
+    "input": "characterized",
+    "output": "caract\u00e9ris\u00e9"
+  },
+  {
+    "input": "coordinates",
+    "output": "coordonn\u00e9es"
+  },
+  {
+    "input": "assisted",
+    "output": "assist\u00e9"
+  },
+  {
+    "input": "asking",
+    "output": "demandant"
+  },
+  {
+    "input": "disappeared",
+    "output": "disparu"
+  },
+  {
+    "input": "keys",
+    "output": "cl\u00e9s"
+  },
+  {
+    "input": "fairly",
+    "output": "assez"
+  },
+  {
+    "input": "eat",
+    "output": "manger"
+  },
+  {
+    "input": "earl",
+    "output": "comte"
+  },
+  {
+    "input": "superintendent",
+    "output": "surintendant"
+  },
+  {
+    "input": "bin",
+    "output": "poubelle"
+  },
+  {
+    "input": "pushing",
+    "output": "pousser"
+  },
+  {
+    "input": "derived",
+    "output": "d\u00e9riv\u00e9"
+  },
+  {
+    "input": "major",
+    "output": "majeur"
+  },
+  {
+    "input": "rain",
+    "output": "pluie"
+  },
+  {
+    "input": "consequences",
+    "output": "cons\u00e9quences"
+  },
+  {
+    "input": "engage",
+    "output": "s'engager"
+  },
+  {
+    "input": "stories",
+    "output": "histoires"
+  },
+  {
+    "input": "afraid",
+    "output": "peur"
+  },
+  {
+    "input": "method",
+    "output": "m\u00e9thode"
+  },
+  {
+    "input": "indonesia",
+    "output": "Indon\u00e9sie"
+  },
+  {
+    "input": "love",
+    "output": "amour"
+  },
+  {
+    "input": "recently",
+    "output": "r\u00e9cemment"
+  },
+  {
+    "input": "performing",
+    "output": "ex\u00e9cutant"
+  },
+  {
+    "input": "buildings",
+    "output": "b\u00e2timents"
+  },
+  {
+    "input": "contrary",
+    "output": "contraire"
+  },
+  {
+    "input": "arbitrators",
+    "output": "arbitres"
+  },
+  {
+    "input": "location",
+    "output": "emplacement"
+  },
+  {
+    "input": "tiger",
+    "output": "tigre"
+  },
+  {
+    "input": "giving",
+    "output": "donnant"
+  },
+  {
+    "input": "error",
+    "output": "erreur"
+  },
+  {
+    "input": "christians",
+    "output": "chr\u00e9tiens"
+  },
+  {
+    "input": "studying",
+    "output": "\u00e9tudier"
+  },
+  {
+    "input": "dangerous",
+    "output": "dangereux"
+  },
+  {
+    "input": "warning",
+    "output": "avertissement"
+  },
+  {
+    "input": "decorated",
+    "output": "d\u00e9cor\u00e9"
+  },
+  {
+    "input": "audience",
+    "output": "public"
+  },
+  {
+    "input": "restored",
+    "output": "restaur\u00e9"
+  },
+  {
+    "input": "like",
+    "output": "comme"
+  },
+  {
+    "input": "adventure",
+    "output": "aventure"
+  },
+  {
+    "input": "gear",
+    "output": "engrenage"
+  },
+  {
+    "input": "fought",
+    "output": "s'est battu"
+  },
+  {
+    "input": "european",
+    "output": "europ\u00e9en"
+  },
+  {
+    "input": "daily",
+    "output": "quotidien"
+  },
+  {
+    "input": "due",
+    "output": "d\u00fb"
+  },
+  {
+    "input": "fix",
+    "output": "r\u00e9parer"
+  },
+  {
+    "input": "thunder",
+    "output": "tonnerre"
+  },
+  {
+    "input": "these",
+    "output": "ces"
+  },
+  {
+    "input": "muslims",
+    "output": "musulmans"
+  },
+  {
+    "input": "wild",
+    "output": "sauvage"
+  },
+  {
+    "input": "intellectual",
+    "output": "intellectuel"
+  },
+  {
+    "input": "teen",
+    "output": "adolescent"
+  },
+  {
+    "input": "tuesday",
+    "output": "mardi"
+  },
+  {
+    "input": "hydrogen",
+    "output": "hydrog\u00e8ne"
+  },
+  {
+    "input": "factors",
+    "output": "facteurs"
+  },
+  {
+    "input": "voiced",
+    "output": "exprim\u00e9"
+  },
+  {
+    "input": "scottish",
+    "output": "\u00e9cossais"
+  },
+  {
+    "input": "units",
+    "output": "unit\u00e9s"
+  },
+  {
+    "input": "response",
+    "output": "r\u00e9ponse"
+  },
+  {
+    "input": "others",
+    "output": "autres"
+  },
+  {
+    "input": "historians",
+    "output": "historiens"
+  },
+  {
+    "input": "contributing",
+    "output": "contribuant"
+  },
+  {
+    "input": "day",
+    "output": "jour"
+  },
+  {
+    "input": "positive",
+    "output": "positif"
+  },
+  {
+    "input": "prior",
+    "output": "avant"
+  },
+  {
+    "input": "diplomatic",
+    "output": "diplomatique"
+  },
+  {
+    "input": "admins",
+    "output": "administrateurs"
+  },
+  {
+    "input": "aids",
+    "output": "aides"
+  },
+  {
+    "input": "cinema",
+    "output": "cin\u00e9ma"
+  },
+  {
+    "input": "engineer",
+    "output": "ing\u00e9nieur"
+  },
+  {
+    "input": "loaded",
+    "output": "charg\u00e9"
+  },
+  {
+    "input": "weeks",
+    "output": "semaines"
+  },
+  {
+    "input": "fri",
+    "output": "vendredi"
+  },
+  {
+    "input": "licensed",
+    "output": "autoris\u00e9"
+  },
+  {
+    "input": "issued",
+    "output": "\u00e9mis"
+  },
+  {
+    "input": "boys",
+    "output": "gar\u00e7ons"
+  },
+  {
+    "input": "logic",
+    "output": "logique"
+  },
+  {
+    "input": "mad",
+    "output": "f\u00e2ch\u00e9"
+  },
+  {
+    "input": "collect",
+    "output": "recueillir"
+  },
+  {
+    "input": "designers",
+    "output": "concepteurs"
+  },
+  {
+    "input": "truly",
+    "output": "vraiment"
+  },
+  {
+    "input": "declined",
+    "output": "refus\u00e9"
+  },
+  {
+    "input": "senior",
+    "output": "a\u00een\u00e9"
+  },
+  {
+    "input": "technical",
+    "output": "technique"
+  },
+  {
+    "input": "chinese",
+    "output": "chinois"
+  },
+  {
+    "input": "nothing",
+    "output": "rien"
+  },
+  {
+    "input": "indonesian",
+    "output": "indon\u00e9sien"
+  },
+  {
+    "input": "break",
+    "output": "pause"
+  },
+  {
+    "input": "chapter",
+    "output": "chapitre"
+  },
+  {
+    "input": "substitute",
+    "output": "remplacer"
+  },
+  {
+    "input": "portuguese",
+    "output": "portugais"
+  },
+  {
+    "input": "bulk",
+    "output": "en vrac"
+  },
+  {
+    "input": "scout",
+    "output": "\u00e9claireur"
+  },
+  {
+    "input": "try",
+    "output": "essayer"
+  },
+  {
+    "input": "treaties",
+    "output": "trait\u00e9s"
+  },
+  {
+    "input": "thus",
+    "output": "ainsi"
+  },
+  {
+    "input": "associate",
+    "output": "associer"
+  },
+  {
+    "input": "served",
+    "output": "servi"
+  },
+  {
+    "input": "dramatic",
+    "output": "dramatique"
+  },
+  {
+    "input": "differ",
+    "output": "diff\u00e9rer"
+  },
+  {
+    "input": "mathematical",
+    "output": "math\u00e9matique"
+  },
+  {
+    "input": "track",
+    "output": "piste"
+  },
+  {
+    "input": "rank",
+    "output": "rang"
+  },
+  {
+    "input": "brick",
+    "output": "brique"
+  },
+  {
+    "input": "burn",
+    "output": "br\u00fbler"
+  },
+  {
+    "input": "begins",
+    "output": "commence"
+  },
+  {
+    "input": "appearances",
+    "output": "apparences"
+  },
+  {
+    "input": "automated",
+    "output": "automatis\u00e9"
+  },
+  {
+    "input": "celebrated",
+    "output": "c\u00e9l\u00e9br\u00e9"
+  },
+  {
+    "input": "measure",
+    "output": "mesurer"
+  },
+  {
+    "input": "naturally",
+    "output": "naturellement"
+  },
+  {
+    "input": "mansion",
+    "output": "manoir"
+  },
+  {
+    "input": "chart",
+    "output": "graphique"
+  },
+  {
+    "input": "hill",
+    "output": "colline"
+  },
+  {
+    "input": "shop",
+    "output": "magasin"
+  },
+  {
+    "input": "withdrawn",
+    "output": "retir\u00e9"
+  },
+  {
+    "input": "mix",
+    "output": "m\u00e9langer"
+  },
+  {
+    "input": "full",
+    "output": "plein"
+  },
+  {
+    "input": "anchor",
+    "output": "ancre"
+  },
+  {
+    "input": "society",
+    "output": "soci\u00e9t\u00e9"
+  },
+  {
+    "input": "work",
+    "output": "travail"
+  },
+  {
+    "input": "numbers",
+    "output": "nombres"
+  },
+  {
+    "input": "enters",
+    "output": "entre"
+  },
+  {
+    "input": "noticed",
+    "output": "remarqu\u00e9"
+  },
+  {
+    "input": "thursday",
+    "output": "jeudi"
+  },
+  {
+    "input": "provided",
+    "output": "fourni"
+  },
+  {
+    "input": "flows",
+    "output": "coule"
+  },
+  {
+    "input": "master",
+    "output": "ma\u00eetre"
+  },
+  {
+    "input": "guardian",
+    "output": "tuteur"
+  },
+  {
+    "input": "evening",
+    "output": "soir\u00e9e"
+  },
+  {
+    "input": "reasonably",
+    "output": "raisonnablement"
+  },
+  {
+    "input": "advance",
+    "output": "avancer"
+  },
+  {
+    "input": "stop",
+    "output": "arr\u00eater"
+  },
+  {
+    "input": "entrance",
+    "output": "entr\u00e9e"
+  },
+  {
+    "input": "remains",
+    "output": "reste"
+  },
+  {
+    "input": "sleep",
+    "output": "dormir"
+  },
+  {
+    "input": "channels",
+    "output": "cha\u00eenes"
+  },
+  {
+    "input": "significantly",
+    "output": "significativement"
+  },
+  {
+    "input": "might",
+    "output": "pourrait"
+  },
+  {
+    "input": "bishops",
+    "output": "\u00e9v\u00eaques"
+  },
+  {
+    "input": "factory",
+    "output": "usine"
+  },
+  {
+    "input": "taught",
+    "output": "enseign\u00e9"
+  },
+  {
+    "input": "owner",
+    "output": "propri\u00e9taire"
+  },
+  {
+    "input": "speaks",
+    "output": "parle"
+  },
+  {
+    "input": "revised",
+    "output": "r\u00e9vis\u00e9"
+  },
+  {
+    "input": "enhanced",
+    "output": "am\u00e9lior\u00e9"
+  },
+  {
+    "input": "given",
+    "output": "donn\u00e9"
+  },
+  {
+    "input": "beijing",
+    "output": "P\u00e9kin"
+  },
+  {
+    "input": "goods",
+    "output": "marchandises"
+  },
+  {
+    "input": "biology",
+    "output": "biologie"
+  },
+  {
+    "input": "appropriate",
+    "output": "appropri\u00e9"
+  },
+  {
+    "input": "occur",
+    "output": "se produire"
+  },
+  {
+    "input": "academics",
+    "output": "universitaires"
+  },
+  {
+    "input": "concern",
+    "output": "inqui\u00e9tude"
+  },
+  {
+    "input": "bone",
+    "output": "os"
+  },
+  {
+    "input": "well",
+    "output": "bien"
+  },
+  {
+    "input": "addresses",
+    "output": "adresses"
+  },
+  {
+    "input": "displayed",
+    "output": "affich\u00e9"
+  },
+  {
+    "input": "samples",
+    "output": "\u00e9chantillons"
+  },
+  {
+    "input": "wave",
+    "output": "vague"
+  },
+  {
+    "input": "february",
+    "output": "f\u00e9vrier"
+  },
+  {
+    "input": "publish",
+    "output": "publier"
+  },
+  {
+    "input": "relative",
+    "output": "parent\u00e9"
+  },
+  {
+    "input": "government",
+    "output": "gouvernement"
+  },
+  {
+    "input": "movie",
+    "output": "film"
+  },
+  {
+    "input": "us$",
+    "output": "dollars am\u00e9ricains"
+  },
+  {
+    "input": "advertisement",
+    "output": "publicit\u00e9"
+  },
+  {
+    "input": "nickname",
+    "output": "surnom"
+  },
+  {
+    "input": "cardinals",
+    "output": "cardinaux"
+  },
+  {
+    "input": "tomorrow",
+    "output": "demain"
+  },
+  {
+    "input": "landscape",
+    "output": "paysage"
+  },
+  {
+    "input": "concrete",
+    "output": "b\u00e9ton"
+  },
+  {
+    "input": "painter",
+    "output": "peintre"
+  },
+  {
+    "input": "nationality",
+    "output": "nationalit\u00e9"
+  },
+  {
+    "input": "biographical",
+    "output": "biographique"
+  },
+  {
+    "input": "women",
+    "output": "femmes"
+  },
+  {
+    "input": "summit",
+    "output": "sommet"
+  },
+  {
+    "input": "politically",
+    "output": "politiquement"
+  },
+  {
+    "input": "fundamental",
+    "output": "fondamental"
+  },
+  {
+    "input": "dinner",
+    "output": "d\u00eener"
+  },
+  {
+    "input": "display",
+    "output": "affichage"
+  },
+  {
+    "input": "preceding",
+    "output": "pr\u00e9c\u00e9dent"
+  },
+  {
+    "input": "perform",
+    "output": "ex\u00e9cuter"
+  },
+  {
+    "input": "patrolling",
+    "output": "patrouiller"
+  },
+  {
+    "input": "founder",
+    "output": "fondateur"
+  },
+  {
+    "input": "pond",
+    "output": "\u00e9tang"
+  },
+  {
+    "input": "continuing",
+    "output": "continuant"
+  },
+  {
+    "input": "soul",
+    "output": "\u00e2me"
+  },
+  {
+    "input": "complaint",
+    "output": "plainte"
+  },
+  {
+    "input": "because",
+    "output": "parce que"
+  },
+  {
+    "input": "bavaria",
+    "output": "Bavi\u00e8re"
+  },
+  {
+    "input": "uprising",
+    "output": "soul\u00e8vement"
+  },
+  {
+    "input": "illustrated",
+    "output": "illustr\u00e9"
+  },
+  {
+    "input": "cuban",
+    "output": "cubain"
+  },
+  {
+    "input": "gender",
+    "output": "sexe"
+  },
+  {
+    "input": "submission",
+    "output": "soumission"
+  },
+  {
+    "input": "defense",
+    "output": "d\u00e9fense"
+  },
+  {
+    "input": "nato",
+    "output": "OTAN"
+  },
+  {
+    "input": "registered",
+    "output": "enregistr\u00e9"
+  },
+  {
+    "input": "also",
+    "output": "aussi"
+  },
+  {
+    "input": "eligible",
+    "output": "\u00e9ligible"
+  },
+  {
+    "input": "controlled",
+    "output": "contr\u00f4l\u00e9"
+  },
+  {
+    "input": "spacecraft",
+    "output": "vaisseau spatial"
+  },
+  {
+    "input": "fine",
+    "output": "bien"
+  },
+  {
+    "input": "widow",
+    "output": "veuve"
+  },
+  {
+    "input": "ballot",
+    "output": "bulletin de vote"
+  },
+  {
+    "input": "independently",
+    "output": "ind\u00e9pendamment"
+  },
+  {
+    "input": "supposed",
+    "output": "suppos\u00e9"
+  },
+  {
+    "input": "character",
+    "output": "personnage"
+  },
+  {
+    "input": "routes",
+    "output": "itin\u00e9raires"
+  },
+  {
+    "input": "palestinian",
+    "output": "palestinien"
+  },
+  {
+    "input": "hide",
+    "output": "cacher"
+  },
+  {
+    "input": "fictional",
+    "output": "fictif"
+  },
+  {
+    "input": "originally",
+    "output": "\u00e0 l'origine"
+  },
+  {
+    "input": "surname",
+    "output": "nom de famille"
+  },
+  {
+    "input": "pull",
+    "output": "tirer"
+  },
+  {
+    "input": "suspended",
+    "output": "suspendu"
+  },
+  {
+    "input": "priests",
+    "output": "pr\u00eatres"
+  },
+  {
+    "input": "november",
+    "output": "novembre"
+  },
+  {
+    "input": "victorian",
+    "output": "victorien"
+  },
+  {
+    "input": "child",
+    "output": "enfant"
+  },
+  {
+    "input": "iraq",
+    "output": "Irak"
+  },
+  {
+    "input": "below",
+    "output": "en dessous"
+  },
+  {
+    "input": "stamp",
+    "output": "timbre"
+  },
+  {
+    "input": "log",
+    "output": "journal"
+  },
+  {
+    "input": "admitted",
+    "output": "admis"
+  },
+  {
+    "input": "watch",
+    "output": "regarder"
+  },
+  {
+    "input": "denmark",
+    "output": "danemark"
+  },
+  {
+    "input": "journals",
+    "output": "journaux"
+  },
+  {
+    "input": "translations",
+    "output": "traductions"
+  },
+  {
+    "input": "bonus",
+    "output": "prime"
+  },
+  {
+    "input": "memorial",
+    "output": "m\u00e9morial"
+  },
+  {
+    "input": "broke",
+    "output": "fauch\u00e9"
+  },
+  {
+    "input": "worse",
+    "output": "pire"
+  },
+  {
+    "input": "care",
+    "output": "soin"
+  },
+  {
+    "input": "california",
+    "output": "Californie"
+  },
+  {
+    "input": "helped",
+    "output": "aid\u00e9"
+  },
+  {
+    "input": "pushed",
+    "output": "pouss\u00e9"
+  },
+  {
+    "input": "licensing",
+    "output": "licenciement"
+  },
+  {
+    "input": "external",
+    "output": "externe"
+  },
+  {
+    "input": "lists",
+    "output": "listes"
+  },
+  {
+    "input": "seat",
+    "output": "si\u00e8ge"
+  },
+  {
+    "input": "yards",
+    "output": "m\u00e8tres"
+  },
+  {
+    "input": "restoration",
+    "output": "restauration"
+  },
+  {
+    "input": "bears",
+    "output": "ours"
+  },
+  {
+    "input": "inch",
+    "output": "pouce"
+  },
+  {
+    "input": "hour",
+    "output": "heure"
+  },
+  {
+    "input": "improving",
+    "output": "am\u00e9liorant"
+  },
+  {
+    "input": "appeals",
+    "output": "appels"
+  },
+  {
+    "input": "territories",
+    "output": "territoires"
+  },
+  {
+    "input": "releases",
+    "output": "sorties"
+  },
+  {
+    "input": "attached",
+    "output": "attach\u00e9"
+  },
+  {
+    "input": "attempts",
+    "output": "tentatives"
+  },
+  {
+    "input": "punishment",
+    "output": "punition"
+  },
+  {
+    "input": "ukrainian",
+    "output": "ukrainien"
+  },
+  {
+    "input": "ancestry",
+    "output": "anc\u00eatres"
+  },
+  {
+    "input": "remarks",
+    "output": "remarques"
+  },
+  {
+    "input": "visitors",
+    "output": "visiteurs"
+  },
+  {
+    "input": "shield",
+    "output": "bouclier"
+  },
+  {
+    "input": "meter",
+    "output": "m\u00e8tre"
+  },
+  {
+    "input": "gothic",
+    "output": "gothique"
+  },
+  {
+    "input": "distinctive",
+    "output": "distinctif"
+  },
+  {
+    "input": "months",
+    "output": "mois"
+  },
+  {
+    "input": "brazil",
+    "output": "br\u00e9sil"
+  },
+  {
+    "input": "gone",
+    "output": "parti"
+  },
+  {
+    "input": "louisiana",
+    "output": "Louisiane"
+  },
+  {
+    "input": "athlete",
+    "output": "athl\u00e8te"
+  },
+  {
+    "input": "mother",
+    "output": "m\u00e8re"
+  },
+  {
+    "input": "ten",
+    "output": "dix"
+  },
+  {
+    "input": "script",
+    "output": "sc\u00e9nario"
+  },
+  {
+    "input": "occasionally",
+    "output": "occasionnellement"
+  },
+  {
+    "input": "describes",
+    "output": "d\u00e9crit"
+  },
+  {
+    "input": "member",
+    "output": "membre"
+  },
+  {
+    "input": "arguing",
+    "output": "se disputer"
+  },
+  {
+    "input": "neck",
+    "output": "cou"
+  },
+  {
+    "input": "saturday",
+    "output": "samedi"
+  },
+  {
+    "input": "residence",
+    "output": "r\u00e9sidence"
+  },
+  {
+    "input": "starting",
+    "output": "commen\u00e7ant"
+  },
+  {
+    "input": "electoral",
+    "output": "\u00e9lectoral"
+  },
+  {
+    "input": "topic",
+    "output": "sujet"
+  },
+  {
+    "input": "sand",
+    "output": "sable"
+  },
+  {
+    "input": "doing",
+    "output": "faire"
+  },
+  {
+    "input": "pioneer",
+    "output": "pionnier"
+  },
+  {
+    "input": "reed",
+    "output": "roseau"
+  },
+  {
+    "input": "templates",
+    "output": "mod\u00e8les"
+  },
+  {
+    "input": "brought",
+    "output": "apport\u00e9"
+  },
+  {
+    "input": "acclaimed",
+    "output": "acclam\u00e9"
+  },
+  {
+    "input": "convoy",
+    "output": "convoi"
+  },
+  {
+    "input": "posting",
+    "output": "affichage"
+  },
+  {
+    "input": "honors",
+    "output": "honneurs"
+  },
+  {
+    "input": "generations",
+    "output": "g\u00e9n\u00e9rations"
+  },
+  {
+    "input": "overview",
+    "output": "aper\u00e7u"
+  },
+  {
+    "input": "lessons",
+    "output": "le\u00e7ons"
+  },
+  {
+    "input": "names",
+    "output": "noms"
+  },
+  {
+    "input": "applied",
+    "output": "appliqu\u00e9"
+  },
+  {
+    "input": "peoples",
+    "output": "peuples"
+  },
+  {
+    "input": "lying",
+    "output": "mentir"
+  },
+  {
+    "input": "dam",
+    "output": "barrage"
+  },
+  {
+    "input": "hired",
+    "output": "embauch\u00e9"
+  },
+  {
+    "input": "judaism",
+    "output": "juda\u00efsme"
+  },
+  {
+    "input": "exposed",
+    "output": "expos\u00e9"
+  },
+  {
+    "input": "coached",
+    "output": "entra\u00een\u00e9"
+  },
+  {
+    "input": "astronomy",
+    "output": "astronomie"
+  },
+  {
+    "input": "solve",
+    "output": "r\u00e9soudre"
+  },
+  {
+    "input": "removed",
+    "output": "supprim\u00e9"
+  },
+  {
+    "input": "rocket",
+    "output": "fus\u00e9e"
+  },
+  {
+    "input": "paint",
+    "output": "peindre"
+  },
+  {
+    "input": "fires",
+    "output": "incendies"
+  },
+  {
+    "input": "british",
+    "output": "britannique"
+  },
+  {
+    "input": "tobacco",
+    "output": "tabac"
+  },
+  {
+    "input": "ethnicity",
+    "output": "ethnicit\u00e9"
+  },
+  {
+    "input": "tan",
+    "output": "bronzage"
+  },
+  {
+    "input": "lats",
+    "output": "dorsaux"
+  },
+  {
+    "input": "survey",
+    "output": "sondage"
+  },
+  {
+    "input": "exposure",
+    "output": "exposition"
+  },
+  {
+    "input": "fees",
+    "output": "frais"
+  },
+  {
+    "input": "deleted",
+    "output": "supprim\u00e9"
+  },
+  {
+    "input": "evangelical",
+    "output": "\u00e9vang\u00e9lique"
+  },
+  {
+    "input": "altered",
+    "output": "modifi\u00e9"
+  },
+  {
+    "input": "tags",
+    "output": "\u00e9tiquettes"
+  },
+  {
+    "input": "touring",
+    "output": "visite"
+  },
+  {
+    "input": "disruptive",
+    "output": "perturbateur"
+  },
+  {
+    "input": "academy",
+    "output": "acad\u00e9mie"
+  },
+  {
+    "input": "edge",
+    "output": "bord"
+  },
+  {
+    "input": "prisoner",
+    "output": "prisonnier"
+  },
+  {
+    "input": "necessary",
+    "output": "n\u00e9cessaire"
+  },
+  {
+    "input": "ground",
+    "output": "sol"
+  },
+  {
+    "input": "practical",
+    "output": "pratique"
+  },
+  {
+    "input": "establish",
+    "output": "\u00e9tablir"
+  },
+  {
+    "input": "tin",
+    "output": "\u00e9tain"
+  },
+  {
+    "input": "actor",
+    "output": "acteur"
+  },
+  {
+    "input": "stationed",
+    "output": "stationn\u00e9"
+  },
+  {
+    "input": "parliament",
+    "output": "parlement"
+  },
+  {
+    "input": "formula",
+    "output": "formule"
+  },
+  {
+    "input": "sunday",
+    "output": "dimanche"
+  },
+  {
+    "input": "mps",
+    "output": "I'm sorry, but"
+  },
+  {
+    "input": "critics",
+    "output": "critiques"
+  },
+  {
+    "input": "eighth",
+    "output": "huiti\u00e8me"
+  },
+  {
+    "input": "browser",
+    "output": "navigateur"
+  },
+  {
+    "input": "inside",
+    "output": "\u00e0 l'int\u00e9rieur"
+  },
+  {
+    "input": "unified",
+    "output": "unifi\u00e9"
+  },
+  {
+    "input": "former",
+    "output": "ancien"
+  },
+  {
+    "input": "rivals",
+    "output": "rivaux"
+  },
+  {
+    "input": "digital",
+    "output": "num\u00e9rique"
+  },
+  {
+    "input": "spirit",
+    "output": "esprit"
+  },
+  {
+    "input": "rooms",
+    "output": "chambres"
+  },
+  {
+    "input": "bell",
+    "output": "cloche"
+  },
+  {
+    "input": "chilean",
+    "output": "chilien"
+  },
+  {
+    "input": "boom",
+    "output": "explosion"
+  },
+  {
+    "input": "sailors",
+    "output": "marins"
+  },
+  {
+    "input": "performs",
+    "output": "ex\u00e9cute"
+  },
+  {
+    "input": "winds",
+    "output": "vents"
+  },
+  {
+    "input": "since",
+    "output": "depuis"
+  },
+  {
+    "input": "repeated",
+    "output": "r\u00e9p\u00e9t\u00e9"
+  },
+  {
+    "input": "dear",
+    "output": "cher"
+  },
+  {
+    "input": "subsidiary",
+    "output": "filiale"
+  },
+  {
+    "input": "lake",
+    "output": "lac"
+  },
+  {
+    "input": "fleet",
+    "output": "flotte"
+  },
+  {
+    "input": "special",
+    "output": "sp\u00e9cial"
+  },
+  {
+    "input": "earth",
+    "output": "terre"
+  },
+  {
+    "input": "know",
+    "output": "savoir"
+  },
+  {
+    "input": "leon",
+    "output": "L\u00e9on"
+  },
+  {
+    "input": "believes",
+    "output": "croit"
+  },
+  {
+    "input": "comparison",
+    "output": "comparaison"
+  },
+  {
+    "input": "victor",
+    "output": "victoire"
+  },
+  {
+    "input": "additional",
+    "output": "suppl\u00e9mentaire"
+  },
+  {
+    "input": "apartment",
+    "output": "appartement"
+  },
+  {
+    "input": "streets",
+    "output": "rues"
+  },
+  {
+    "input": "language",
+    "output": "langue"
+  },
+  {
+    "input": "indian",
+    "output": "indien"
+  },
+  {
+    "input": "jurisdiction",
+    "output": "juridiction"
+  },
+  {
+    "input": "released",
+    "output": "lib\u00e9r\u00e9"
+  },
+  {
+    "input": "reasoning",
+    "output": "raisonnement"
+  },
+  {
+    "input": "end",
+    "output": "fin"
+  },
+  {
+    "input": "sergeant",
+    "output": "sergent"
+  },
+  {
+    "input": "atmosphere",
+    "output": "atmosph\u00e8re"
+  },
+  {
+    "input": "system",
+    "output": "syst\u00e8me"
+  },
+  {
+    "input": "implementation",
+    "output": "mise en \u0153uvre"
+  },
+  {
+    "input": "heir",
+    "output": "h\u00e9ritier"
+  },
+  {
+    "input": "inspired",
+    "output": "inspir\u00e9"
+  },
+  {
+    "input": "draw",
+    "output": "dessiner"
+  },
+  {
+    "input": "canvas",
+    "output": "toile"
+  },
+  {
+    "input": "phone",
+    "output": "t\u00e9l\u00e9phone"
+  },
+  {
+    "input": "injuries",
+    "output": "blessures"
+  },
+  {
+    "input": "conferences",
+    "output": "conf\u00e9rences"
+  },
+  {
+    "input": "accounts",
+    "output": "comptes"
+  },
+  {
+    "input": "monk",
+    "output": "moine"
+  },
+  {
+    "input": "gravity",
+    "output": "gravit\u00e9"
+  },
+  {
+    "input": "hispanic",
+    "output": "hispanique"
+  },
+  {
+    "input": "records",
+    "output": "disques"
+  },
+  {
+    "input": "airport",
+    "output": "a\u00e9roport"
+  },
+  {
+    "input": "publisher",
+    "output": "\u00e9diteur"
+  },
+  {
+    "input": "senator",
+    "output": "s\u00e9nateur"
+  },
+  {
+    "input": "increasing",
+    "output": "augmentant"
+  },
+  {
+    "input": "convinced",
+    "output": "convaincu"
+  },
+  {
+    "input": "sounds",
+    "output": "sons"
+  },
+  {
+    "input": "name",
+    "output": "nom"
+  },
+  {
+    "input": "worship",
+    "output": "adoration"
+  },
+  {
+    "input": "reputation",
+    "output": "r\u00e9putation"
+  },
+  {
+    "input": "hurricane",
+    "output": "ouragan"
+  },
+  {
+    "input": "similar",
+    "output": "similaire"
+  },
+  {
+    "input": "identifying",
+    "output": "identifier"
+  },
+  {
+    "input": "presidential",
+    "output": "pr\u00e9sidentiel"
+  },
+  {
+    "input": "sum",
+    "output": "somme"
+  },
+  {
+    "input": "broadcasting",
+    "output": "diffusion"
+  },
+  {
+    "input": "escape",
+    "output": "\u00e9vasion"
+  },
+  {
+    "input": "deeply",
+    "output": "profond\u00e9ment"
+  },
+  {
+    "input": "scale",
+    "output": "\u00e9chelle"
+  },
+  {
+    "input": "percent",
+    "output": "pour cent"
+  },
+  {
+    "input": "compound",
+    "output": "compos\u00e9"
+  },
+  {
+    "input": "consumer",
+    "output": "consommateur"
+  },
+  {
+    "input": "crash",
+    "output": "accident"
+  },
+  {
+    "input": "market",
+    "output": "march\u00e9"
+  },
+  {
+    "input": "seventh",
+    "output": "septi\u00e8me"
+  },
+  {
+    "input": "entity",
+    "output": "entit\u00e9"
+  },
+  {
+    "input": "thesis",
+    "output": "th\u00e8se"
+  },
+  {
+    "input": "tenth",
+    "output": "dixi\u00e8me"
+  },
+  {
+    "input": "considered",
+    "output": "consid\u00e9r\u00e9"
+  },
+  {
+    "input": "outline",
+    "output": "contour"
+  },
+  {
+    "input": "opposing",
+    "output": "opposant"
+  },
+  {
+    "input": "assuming",
+    "output": "supposant"
+  },
+  {
+    "input": "wealth",
+    "output": "richesse"
+  },
+  {
+    "input": "operators",
+    "output": "op\u00e9rateurs"
+  },
+  {
+    "input": "fifth",
+    "output": "cinqui\u00e8me"
+  },
+  {
+    "input": "precisely",
+    "output": "pr\u00e9cis\u00e9ment"
+  },
+  {
+    "input": "determined",
+    "output": "d\u00e9termin\u00e9"
+  },
+  {
+    "input": "honest",
+    "output": "honn\u00eate"
+  },
+  {
+    "input": "restore",
+    "output": "restaurer"
+  },
+  {
+    "input": "naked",
+    "output": "nu"
+  },
+  {
+    "input": "historically",
+    "output": "historiquement"
+  },
+  {
+    "input": "scotland",
+    "output": "\u00c9cosse"
+  },
+  {
+    "input": "historical",
+    "output": "historique"
+  },
+  {
+    "input": "coast",
+    "output": "c\u00f4te"
+  },
+  {
+    "input": "failed",
+    "output": "\u00e9chou\u00e9"
+  },
+  {
+    "input": "monastery",
+    "output": "monast\u00e8re"
+  },
+  {
+    "input": "ends",
+    "output": "fins"
+  },
+  {
+    "input": "promoting",
+    "output": "promouvoir"
+  },
+  {
+    "input": "climate",
+    "output": "climat"
+  },
+  {
+    "input": "unsuccessful",
+    "output": "rat\u00e9"
+  },
+  {
+    "input": "legion",
+    "output": "l\u00e9gion"
+  },
+  {
+    "input": "teach",
+    "output": "enseigner"
+  },
+  {
+    "input": "split",
+    "output": "diviser"
+  },
+  {
+    "input": "varying",
+    "output": "variant"
+  },
+  {
+    "input": "speaking",
+    "output": "parler"
+  },
+  {
+    "input": "governors",
+    "output": "gouverneurs"
+  },
+  {
+    "input": "merging",
+    "output": "fusion"
+  },
+  {
+    "input": "finnish",
+    "output": "finir"
+  },
+  {
+    "input": "equation",
+    "output": "\u00e9quation"
+  },
+  {
+    "input": "stated",
+    "output": "d\u00e9clar\u00e9"
+  },
+  {
+    "input": "but",
+    "output": "mais"
+  },
+  {
+    "input": "singing",
+    "output": "chantant"
+  },
+  {
+    "input": "fields",
+    "output": "champs"
+  },
+  {
+    "input": "hunt",
+    "output": "chasser"
+  },
+  {
+    "input": "requires",
+    "output": "exige"
+  },
+  {
+    "input": "airing",
+    "output": "diffusion"
+  },
+  {
+    "input": "affiliated",
+    "output": "affili\u00e9"
+  },
+  {
+    "input": "capitol",
+    "output": "capitale"
+  },
+  {
+    "input": "fantasy",
+    "output": "fantaisie"
+  },
+  {
+    "input": "resigned",
+    "output": "d\u00e9missionn\u00e9"
+  },
+  {
+    "input": "lights",
+    "output": "lumi\u00e8res"
+  },
+  {
+    "input": "personalities",
+    "output": "personnalit\u00e9s"
+  },
+  {
+    "input": "linking",
+    "output": "liant"
+  },
+  {
+    "input": "neat",
+    "output": "soign\u00e9"
+  },
+  {
+    "input": "views",
+    "output": "vues"
+  },
+  {
+    "input": "appreciate",
+    "output": "appr\u00e9cier"
+  },
+  {
+    "input": "idea",
+    "output": "id\u00e9e"
+  },
+  {
+    "input": "refugees",
+    "output": "r\u00e9fugi\u00e9s"
+  },
+  {
+    "input": "choir",
+    "output": "ch\u0153ur"
+  },
+  {
+    "input": "print",
+    "output": "imprimer"
+  },
+  {
+    "input": "lecturer",
+    "output": "conf\u00e9rencier"
+  },
+  {
+    "input": "commitment",
+    "output": "engagement"
+  },
+  {
+    "input": "artists",
+    "output": "artistes"
+  },
+  {
+    "input": "creation",
+    "output": "cr\u00e9ation"
+  },
+  {
+    "input": "members",
+    "output": "membres"
+  },
+  {
+    "input": "limestone",
+    "output": "calcaire"
+  },
+  {
+    "input": "considerable",
+    "output": "consid\u00e9rable"
+  },
+  {
+    "input": "secular",
+    "output": "la\u00efque"
+  },
+  {
+    "input": "privacy",
+    "output": "intimit\u00e9"
+  },
+  {
+    "input": "certified",
+    "output": "certifi\u00e9"
+  },
+  {
+    "input": "entertainment",
+    "output": "divertissement"
+  },
+  {
+    "input": "among",
+    "output": "parmi"
+  },
+  {
+    "input": "shelter",
+    "output": "abri"
+  }
+]

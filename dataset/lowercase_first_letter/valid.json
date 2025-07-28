@@ -1,0 +1,298 @@
+[
+  {
+    "input": "FOUNTAIN",
+    "output": "f"
+  },
+  {
+    "input": "THIRSTY",
+    "output": "t"
+  },
+  {
+    "input": "AFFECTIONATE",
+    "output": "a"
+  },
+  {
+    "input": "HEDGEHOG",
+    "output": "h"
+  },
+  {
+    "input": "HARD",
+    "output": "h"
+  },
+  {
+    "input": "SPIDER",
+    "output": "s"
+  },
+  {
+    "input": "DISCUSS",
+    "output": "d"
+  },
+  {
+    "input": "AMAZING",
+    "output": "a"
+  },
+  {
+    "input": "GRAY",
+    "output": "g"
+  },
+  {
+    "input": "KNOCK",
+    "output": "k"
+  },
+  {
+    "input": "EAGLE",
+    "output": "e"
+  },
+  {
+    "input": "MODERN",
+    "output": "m"
+  },
+  {
+    "input": "MOTORCYCLE",
+    "output": "m"
+  },
+  {
+    "input": "ON",
+    "output": "o"
+  },
+  {
+    "input": "VALIDATE",
+    "output": "v"
+  },
+  {
+    "input": "JUICE",
+    "output": "j"
+  },
+  {
+    "input": "STRONG",
+    "output": "s"
+  },
+  {
+    "input": "JIGSAW",
+    "output": "j"
+  },
+  {
+    "input": "LAUGHING",
+    "output": "l"
+  },
+  {
+    "input": "YAK",
+    "output": "y"
+  },
+  {
+    "input": "VISUALIZE",
+    "output": "v"
+  },
+  {
+    "input": "QUILL",
+    "output": "q"
+  },
+  {
+    "input": "QUIET",
+    "output": "q"
+  },
+  {
+    "input": "CONCERNING",
+    "output": "c"
+  },
+  {
+    "input": "NECKLACE",
+    "output": "n"
+  },
+  {
+    "input": "SENSIBLE",
+    "output": "s"
+  },
+  {
+    "input": "GENTLE",
+    "output": "g"
+  },
+  {
+    "input": "GENUINE",
+    "output": "g"
+  },
+  {
+    "input": "MASTER",
+    "output": "m"
+  },
+  {
+    "input": "THOUGHTFUL",
+    "output": "t"
+  },
+  {
+    "input": "PLANT",
+    "output": "p"
+  },
+  {
+    "input": "LAPTOP",
+    "output": "l"
+  },
+  {
+    "input": "LANTERN",
+    "output": "l"
+  },
+  {
+    "input": "MARACAS",
+    "output": "m"
+  },
+  {
+    "input": "INNOCENT",
+    "output": "i"
+  },
+  {
+    "input": "JELLYFISH",
+    "output": "j"
+  },
+  {
+    "input": "MORAY",
+    "output": "m"
+  },
+  {
+    "input": "MANGO",
+    "output": "m"
+  },
+  {
+    "input": "RELIABLE",
+    "output": "r"
+  },
+  {
+    "input": "CHEETAH",
+    "output": "c"
+  },
+  {
+    "input": "TENNIS RACKET",
+    "output": "t"
+  },
+  {
+    "input": "US",
+    "output": "u"
+  },
+  {
+    "input": "CRANE",
+    "output": "c"
+  },
+  {
+    "input": "VOLUNTEER",
+    "output": "v"
+  },
+  {
+    "input": "SHE",
+    "output": "s"
+  },
+  {
+    "input": "MONKEY",
+    "output": "m"
+  },
+  {
+    "input": "COUGAR",
+    "output": "c"
+  },
+  {
+    "input": "BLANKET",
+    "output": "b"
+  },
+  {
+    "input": "COCKROACH",
+    "output": "c"
+  },
+  {
+    "input": "COBRA",
+    "output": "c"
+  },
+  {
+    "input": "COPY",
+    "output": "c"
+  },
+  {
+    "input": "WRITE",
+    "output": "w"
+  },
+  {
+    "input": "KINDRED",
+    "output": "k"
+  },
+  {
+    "input": "FISH",
+    "output": "f"
+  },
+  {
+    "input": "NEED",
+    "output": "n"
+  },
+  {
+    "input": "SHOE",
+    "output": "s"
+  },
+  {
+    "input": "VIOLET",
+    "output": "v"
+  },
+  {
+    "input": "OVER",
+    "output": "o"
+  },
+  {
+    "input": "BEE",
+    "output": "b"
+  },
+  {
+    "input": "ALTRUISTIC",
+    "output": "a"
+  },
+  {
+    "input": "THROUGHOUT",
+    "output": "t"
+  },
+  {
+    "input": "SILVER",
+    "output": "s"
+  },
+  {
+    "input": "CARIBOU",
+    "output": "c"
+  },
+  {
+    "input": "LABEL",
+    "output": "l"
+  },
+  {
+    "input": "HANDLE",
+    "output": "h"
+  },
+  {
+    "input": "GENEROUS",
+    "output": "g"
+  },
+  {
+    "input": "LEMON",
+    "output": "l"
+  },
+  {
+    "input": "OURSELVES",
+    "output": "o"
+  },
+  {
+    "input": "SODA",
+    "output": "s"
+  },
+  {
+    "input": "BUT",
+    "output": "b"
+  },
+  {
+    "input": "LAUNCH",
+    "output": "l"
+  },
+  {
+    "input": "CAKE",
+    "output": "c"
+  },
+  {
+    "input": "AT",
+    "output": "a"
+  },
+  {
+    "input": "YELLOW",
+    "output": "y"
+  }
+]

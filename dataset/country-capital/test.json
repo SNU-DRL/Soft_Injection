@@ -1,0 +1,170 @@
+[
+  {
+    "input": "Portugal",
+    "output": "Lisbon"
+  },
+  {
+    "input": "Cabo Verde",
+    "output": "Praia"
+  },
+  {
+    "input": "Canada",
+    "output": "Ottawa"
+  },
+  {
+    "input": "Morocco",
+    "output": "Rabat"
+  },
+  {
+    "input": "Monaco",
+    "output": "Monaco-Ville"
+  },
+  {
+    "input": "Romania",
+    "output": "Bucharest"
+  },
+  {
+    "input": "Russia",
+    "output": "Moscow"
+  },
+  {
+    "input": "Oman",
+    "output": "Muscat"
+  },
+  {
+    "input": "Sierra Leone",
+    "output": "Freetown"
+  },
+  {
+    "input": "Chile",
+    "output": "Santiago"
+  },
+  {
+    "input": "Bolivia",
+    "output": "La Paz"
+  },
+  {
+    "input": "Brazil",
+    "output": "Brasilia"
+  },
+  {
+    "input": "Benin",
+    "output": "Porto-Novo"
+  },
+  {
+    "input": "Turkey",
+    "output": "Ankara"
+  },
+  {
+    "input": "Serbia",
+    "output": "Belgrade"
+  },
+  {
+    "input": "Liberia",
+    "output": "Monrovia"
+  },
+  {
+    "input": "Maldives",
+    "output": "Mal\u00e9"
+  },
+  {
+    "input": "Tanzania",
+    "output": "Dodoma"
+  },
+  {
+    "input": "Costa Rica",
+    "output": "San Jos\u00e9"
+  },
+  {
+    "input": "Grenada",
+    "output": "St. George's"
+  },
+  {
+    "input": "Seychelles",
+    "output": "Victoria"
+  },
+  {
+    "input": "Iraq",
+    "output": "Baghdad"
+  },
+  {
+    "input": "Marshall Islands",
+    "output": "Majuro"
+  },
+  {
+    "input": "Tajikistan",
+    "output": "Dushanbe"
+  },
+  {
+    "input": "Trinidad and Tobago",
+    "output": "Port of Spain"
+  },
+  {
+    "input": "North Korea",
+    "output": "Pyongyang"
+  },
+  {
+    "input": "Nepal",
+    "output": "Kathmandu"
+  },
+  {
+    "input": "Burundi",
+    "output": "Bujumbura"
+  },
+  {
+    "input": "Kazakhstan",
+    "output": "Astana"
+  },
+  {
+    "input": "Denmark",
+    "output": "Copenhagen"
+  },
+  {
+    "input": "Algeria",
+    "output": "Algiers"
+  },
+  {
+    "input": "Vatican City",
+    "output": "Vatican City"
+  },
+  {
+    "input": "Ethiopia",
+    "output": "Addis Ababa"
+  },
+  {
+    "input": "Taiwan",
+    "output": "Taipei"
+  },
+  {
+    "input": "Togo",
+    "output": "Lome"
+  },
+  {
+    "input": "Tunisia",
+    "output": "Tunis"
+  },
+  {
+    "input": "Czech Republic",
+    "output": "Prague"
+  },
+  {
+    "input": "Kyrgyzstan",
+    "output": "Bishkek"
+  },
+  {
+    "input": "Antigua and Barbuda",
+    "output": "St. John's"
+  },
+  {
+    "input": "Cambodia",
+    "output": "Phnom Penh"
+  },
+  {
+    "input": "Botswana",
+    "output": "Gaborone"
+  },
+  {
+    "input": "Iceland",
+    "output": "Reykjavik"
+  }
+]

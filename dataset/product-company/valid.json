@@ -1,0 +1,194 @@
+[
+  {
+    "input": "Windows Server 2012",
+    "output": "Microsoft"
+  },
+  {
+    "input": "iPod shuffle",
+    "output": "Apple"
+  },
+  {
+    "input": "Acura CL",
+    "output": "Honda"
+  },
+  {
+    "input": "Bionz",
+    "output": "Sony"
+  },
+  {
+    "input": "Prince R380",
+    "output": "Nissan"
+  },
+  {
+    "input": "Windows Aero",
+    "output": "Microsoft"
+  },
+  {
+    "input": "UNIX System Services",
+    "output": "IBM"
+  },
+  {
+    "input": "B-52 Stratofortress",
+    "output": "Boeing"
+  },
+  {
+    "input": "Zune",
+    "output": "Microsoft"
+  },
+  {
+    "input": "HFS Plus",
+    "output": "Apple"
+  },
+  {
+    "input": "Windows NT 3.1",
+    "output": "Microsoft"
+  },
+  {
+    "input": "Dynix",
+    "output": "IBM"
+  },
+  {
+    "input": "Pentium II",
+    "output": "Intel"
+  },
+  {
+    "input": "Audio Interchange File Format",
+    "output": "Apple"
+  },
+  {
+    "input": "Nasr-1",
+    "output": "Iran"
+  },
+  {
+    "input": "Lancia Dedra",
+    "output": "Fiat"
+  },
+  {
+    "input": "AMC 35",
+    "output": "Renault"
+  },
+  {
+    "input": "SNES-CD",
+    "output": "Sony"
+  },
+  {
+    "input": "Visual Basic .NET",
+    "output": "Microsoft"
+  },
+  {
+    "input": "Android Runtime",
+    "output": "Google"
+  },
+  {
+    "input": "LGA 775",
+    "output": "Intel"
+  },
+  {
+    "input": "PowerFlite",
+    "output": "Chrysler"
+  },
+  {
+    "input": "Dashboard",
+    "output": "Apple"
+  },
+  {
+    "input": "Donkey Kong",
+    "output": "Nintendo"
+  },
+  {
+    "input": "Android Auto",
+    "output": "Google"
+  },
+  {
+    "input": "iPod Classic",
+    "output": "Apple"
+  },
+  {
+    "input": "Tizen",
+    "output": "Intel"
+  },
+  {
+    "input": "Baku Baku Animal",
+    "output": "Sega"
+  },
+  {
+    "input": "Pentium",
+    "output": "Intel"
+  },
+  {
+    "input": "IntelliPoint",
+    "output": "Microsoft"
+  },
+  {
+    "input": "iOS",
+    "output": "Apple"
+  },
+  {
+    "input": "XEDIT",
+    "output": "IBM"
+  },
+  {
+    "input": "MessagePad",
+    "output": "Apple"
+  },
+  {
+    "input": "AGM-69 SRAM",
+    "output": "Boeing"
+  },
+  {
+    "input": "Scion tC",
+    "output": "Toyota"
+  },
+  {
+    "input": "iPod Nano",
+    "output": "Apple"
+  },
+  {
+    "input": "Family Computer Disk System",
+    "output": "Nintendo"
+  },
+  {
+    "input": "Andrew File System",
+    "output": "IBM"
+  },
+  {
+    "input": "PGM-17 Thor",
+    "output": "Douglas"
+  },
+  {
+    "input": "Applesoft BASIC",
+    "output": "Microsoft"
+  },
+  {
+    "input": "Dino",
+    "output": "Ferrari"
+  },
+  {
+    "input": "Office Open XML",
+    "output": "Microsoft"
+  },
+  {
+    "input": "Kindle Fire",
+    "output": "Amazon"
+  },
+  {
+    "input": "iDisk",
+    "output": "Apple"
+  },
+  {
+    "input": "Flicky",
+    "output": "Sega"
+  },
+  {
+    "input": "Mac OS",
+    "output": "Apple"
+  },
+  {
+    "input": "TypeScript",
+    "output": "Microsoft"
+  },
+  {
+    "input": "Windows Embedded Automotive",
+    "output": "Microsoft"
+  }
+]

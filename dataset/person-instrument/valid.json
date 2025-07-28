@@ -1,0 +1,186 @@
+[
+  {
+    "input": "Yuriy Oliynyk",
+    "output": "piano"
+  },
+  {
+    "input": "Jaap Spaanderman",
+    "output": "piano"
+  },
+  {
+    "input": "Marvin Stamm",
+    "output": "trumpet"
+  },
+  {
+    "input": "Gene Pitney",
+    "output": "piano"
+  },
+  {
+    "input": "Antonio Vivaldi",
+    "output": "violin"
+  },
+  {
+    "input": "Homero Francesch",
+    "output": "piano"
+  },
+  {
+    "input": "Cyril Scott",
+    "output": "piano"
+  },
+  {
+    "input": "Jimmy McCracklin",
+    "output": "piano"
+  },
+  {
+    "input": "Morten Harket",
+    "output": "guitar"
+  },
+  {
+    "input": "Jared Leto",
+    "output": "guitar"
+  },
+  {
+    "input": "Ivar Antonsen",
+    "output": "piano"
+  },
+  {
+    "input": "Daniel Kobialka",
+    "output": "violin"
+  },
+  {
+    "input": "Van Cliburn",
+    "output": "piano"
+  },
+  {
+    "input": "Buster Harding",
+    "output": "piano"
+  },
+  {
+    "input": "Blind Willie McTell",
+    "output": "guitar"
+  },
+  {
+    "input": "Chris Thile",
+    "output": "guitar"
+  },
+  {
+    "input": "Gamal Abdel-Rahim",
+    "output": "piano"
+  },
+  {
+    "input": "Arve Henriksen",
+    "output": "trumpet"
+  },
+  {
+    "input": "Rick Wakeman",
+    "output": "piano"
+  },
+  {
+    "input": "Valery Sigalevitch",
+    "output": "piano"
+  },
+  {
+    "input": "Roland Orzabal",
+    "output": "guitar"
+  },
+  {
+    "input": "Sergiu Luca",
+    "output": "violin"
+  },
+  {
+    "input": "Rodrigo Prats",
+    "output": "violin"
+  },
+  {
+    "input": "Marco Benevento",
+    "output": "piano"
+  },
+  {
+    "input": "Claude Delvincourt",
+    "output": "piano"
+  },
+  {
+    "input": "Peter Head",
+    "output": "piano"
+  },
+  {
+    "input": "Ernest Chausson",
+    "output": "piano"
+  },
+  {
+    "input": "Pino Palladino",
+    "output": "guitar"
+  },
+  {
+    "input": "Ruth Laredo",
+    "output": "piano"
+  },
+  {
+    "input": "Franz Liszt",
+    "output": "piano"
+  },
+  {
+    "input": "Eddie Harvey",
+    "output": "piano"
+  },
+  {
+    "input": "Bix Beiderbecke",
+    "output": "trumpet"
+  },
+  {
+    "input": "Stephen Hough",
+    "output": "piano"
+  },
+  {
+    "input": "Matthieu Chedid",
+    "output": "guitar"
+  },
+  {
+    "input": "Pat Sansone",
+    "output": "guitar"
+  },
+  {
+    "input": "Lady Gaga",
+    "output": "piano"
+  },
+  {
+    "input": "Chris Daughtry",
+    "output": "guitar"
+  },
+  {
+    "input": "Friedrich Wieck",
+    "output": "piano"
+  },
+  {
+    "input": "Cat Power",
+    "output": "piano"
+  },
+  {
+    "input": "Samuil Feinberg",
+    "output": "piano"
+  },
+  {
+    "input": "Jamie Cook",
+    "output": "guitar"
+  },
+  {
+    "input": "Hughie Thomasson",
+    "output": "guitar"
+  },
+  {
+    "input": "Keith Tippett",
+    "output": "piano"
+  },
+  {
+    "input": "Derek Trucks",
+    "output": "guitar"
+  },
+  {
+    "input": "Neil Hagerty",
+    "output": "guitar"
+  },
+  {
+    "input": "Roy Paci",
+    "output": "trumpet"
+  }
+]

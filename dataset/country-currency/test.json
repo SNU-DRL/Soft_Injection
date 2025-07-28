@@ -1,0 +1,170 @@
+[
+  {
+    "input": "Portugal",
+    "output": "Euro (EUR)"
+  },
+  {
+    "input": "Cabo Verde",
+    "output": "Escudo (CVE)"
+  },
+  {
+    "input": "Canada",
+    "output": "Canadian Dollar (CAD)"
+  },
+  {
+    "input": "Morocco",
+    "output": "Moroccan Dirham (MAD)"
+  },
+  {
+    "input": "Monaco",
+    "output": "Euro (EUR)"
+  },
+  {
+    "input": "Romania",
+    "output": "Romanian Leu (RON)"
+  },
+  {
+    "input": "Russia",
+    "output": "Russian Ruble"
+  },
+  {
+    "input": "Oman",
+    "output": "Omani Rial"
+  },
+  {
+    "input": "Sierra Leone",
+    "output": "Leone (SLL)"
+  },
+  {
+    "input": "Chile",
+    "output": "Chilean Peso"
+  },
+  {
+    "input": "Bolivia",
+    "output": "Bolivian Boliviano (BOB)"
+  },
+  {
+    "input": "Brazil",
+    "output": "Brazilian Real (BRL)"
+  },
+  {
+    "input": "Benin",
+    "output": "CFA Franc (XOF)"
+  },
+  {
+    "input": "Turkey",
+    "output": "Turkish Lira (TRY)"
+  },
+  {
+    "input": "Serbia",
+    "output": "Serbian Dinar (RSD)"
+  },
+  {
+    "input": "Liberia",
+    "output": "Liberian Dollar"
+  },
+  {
+    "input": "Maldives",
+    "output": "Maldivian Rufiyaa (MVR)"
+  },
+  {
+    "input": "Tanzania",
+    "output": "Tanzanian Shilling"
+  },
+  {
+    "input": "Costa Rica",
+    "output": "Col\u00f3n (CRC)"
+  },
+  {
+    "input": "Grenada",
+    "output": "East Caribbean Dollar (XCD)"
+  },
+  {
+    "input": "Seychelles",
+    "output": "Seychellois Rupee (SCR)"
+  },
+  {
+    "input": "Iraq",
+    "output": "Iraqi Dinar (IQD)"
+  },
+  {
+    "input": "Marshall Islands",
+    "output": "US Dollar (USD)"
+  },
+  {
+    "input": "Tajikistan",
+    "output": "Tajikistani Somoni"
+  },
+  {
+    "input": "Trinidad and Tobago",
+    "output": "Trinidad and Tobago Dollar (TTD)"
+  },
+  {
+    "input": "North Korea",
+    "output": "North Korean Won (KPW)"
+  },
+  {
+    "input": "Nepal",
+    "output": "Nepalese Rupee"
+  },
+  {
+    "input": "Burundi",
+    "output": "Burundian Franc (BIF)"
+  },
+  {
+    "input": "Kazakhstan",
+    "output": "Tenge"
+  },
+  {
+    "input": "Denmark",
+    "output": "Danish Krone"
+  },
+  {
+    "input": "Algeria",
+    "output": "Algerian Dinar"
+  },
+  {
+    "input": "Vatican City",
+    "output": "Euro (EUR)"
+  },
+  {
+    "input": "Ethiopia",
+    "output": "Ethiopian Birr"
+  },
+  {
+    "input": "Taiwan",
+    "output": "New Taiwan Dollar (TWD)"
+  },
+  {
+    "input": "Togo",
+    "output": "CFA Franc"
+  },
+  {
+    "input": "Tunisia",
+    "output": "Tunisian Dinar (TND)"
+  },
+  {
+    "input": "Czech Republic",
+    "output": "Czech Koruna (CZK)"
+  },
+  {
+    "input": "Kyrgyzstan",
+    "output": "Som (KGS)"
+  },
+  {
+    "input": "Antigua and Barbuda",
+    "output": "East Caribbean Dollar (XCD)"
+  },
+  {
+    "input": "Cambodia",
+    "output": "Riel"
+  },
+  {
+    "input": "Botswana",
+    "output": "Pula"
+  },
+  {
+    "input": "Iceland",
+    "output": "Icelandic Kr\u00f3na (ISK)"
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "input": "hairdryer",
+    "output": "hairdryers"
+  },
+  {
+    "input": "glue",
+    "output": "glues"
+  },
+  {
+    "input": "computer",
+    "output": "computers"
+  },
+  {
+    "input": "magazine",
+    "output": "magazines"
+  },
+  {
+    "input": "clock",
+    "output": "clocks"
+  },
+  {
+    "input": "tongs",
+    "output": "tongs"
+  },
+  {
+    "input": "bus",
+    "output": "buses"
+  },
+  {
+    "input": "sky",
+    "output": "skies"
+  },
+  {
+    "input": "axe",
+    "output": "axes"
+  },
+  {
+    "input": "toothpaste",
+    "output": "toothpastes"
+  },
+  {
+    "input": "hat",
+    "output": "hats"
+  },
+  {
+    "input": "valley",
+    "output": "valleys"
+  },
+  {
+    "input": "stove",
+    "output": "stoves"
+  },
+  {
+    "input": "bicycle",
+    "output": "bicycles"
+  },
+  {
+    "input": "grater",
+    "output": "graters"
+  },
+  {
+    "input": "tape",
+    "output": "tapes"
+  },
+  {
+    "input": "poster",
+    "output": "posters"
+  },
+  {
+    "input": "paper",
+    "output": "papers"
+  },
+  {
+    "input": "speaker",
+    "output": "speakers"
+  },
+  {
+    "input": "fork",
+    "output": "forks"
+  },
+  {
+    "input": "mountain",
+    "output": "mountains"
+  },
+  {
+    "input": "motorcycle",
+    "output": "motorcycles"
+  },
+  {
+    "input": "blender",
+    "output": "blenders"
+  },
+  {
+    "input": "stapler",
+    "output": "staplers"
+  },
+  {
+    "input": "soap",
+    "output": "soaps"
+  },
+  {
+    "input": "pot",
+    "output": "pots"
+  },
+  {
+    "input": "nail",
+    "output": "nails"
+  },
+  {
+    "input": "roller",
+    "output": "rollers"
+  },
+  {
+    "input": "hoe",
+    "output": "hoes"
+  },
+  {
+    "input": "bat",
+    "output": "bats"
+  },
+  {
+    "input": "lipstick",
+    "output": "lipsticks"
+  },
+  {
+    "input": "trash can",
+    "output": "trash cans"
+  },
+  {
+    "input": "rag",
+    "output": "rags"
+  },
+  {
+    "input": "fabric",
+    "output": "fabrics"
+  },
+  {
+    "input": "mouse",
+    "output": "mice"
+  },
+  {
+    "input": "house",
+    "output": "houses"
+  },
+  {
+    "input": "toothbrush",
+    "output": "toothbrushes"
+  },
+  {
+    "input": "train",
+    "output": "trains"
+  },
+  {
+    "input": "cloud",
+    "output": "clouds"
+  },
+  {
+    "input": "paintbrush",
+    "output": "paintbrushes"
+  },
+  {
+    "input": "ladle",
+    "output": "ladles"
+  },
+  {
+    "input": "matches",
+    "output": "matches"
+  },
+  {
+    "input": "newspaper",
+    "output": "newspapers"
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "input": "indigo, horse, elephant",
+    "output": "indigo"
+  },
+  {
+    "input": "dragonfly, salmon, komodo",
+    "output": "salmon"
+  },
+  {
+    "input": "bunny, gecko, blue",
+    "output": "blue"
+  },
+  {
+    "input": "aardvark, puma, red",
+    "output": "red"
+  },
+  {
+    "input": "panda, green, magpie",
+    "output": "green"
+  },
+  {
+    "input": "ostrich, elephant, coral",
+    "output": "coral"
+  },
+  {
+    "input": "hamster, olive, pig",
+    "output": "olive"
+  },
+  {
+    "input": "butterfly, beaver, silver",
+    "output": "silver"
+  },
+  {
+    "input": "dove, bird, yellow",
+    "output": "yellow"
+  },
+  {
+    "input": "llama, cream, chinchilla",
+    "output": "cream"
+  },
+  {
+    "input": "whale, mustard, okapi",
+    "output": "mustard"
+  },
+  {
+    "input": "sloth, orange, llama",
+    "output": "orange"
+  },
+  {
+    "input": "raccoon, lizard, violet",
+    "output": "violet"
+  },
+  {
+    "input": "indigo, shark, mouse",
+    "output": "indigo"
+  },
+  {
+    "input": "caterpillar, jellyfish, navy",
+    "output": "navy"
+  },
+  {
+    "input": "gray, butterfly, okapi",
+    "output": "gray"
+  },
+  {
+    "input": "python, turtle, navy",
+    "output": "navy"
+  },
+  {
+    "input": "pink, alligator, scorpion",
+    "output": "pink"
+  },
+  {
+    "input": "elk, olive, crow",
+    "output": "olive"
+  },
+  {
+    "input": "yellow, turkey, dog",
+    "output": "yellow"
+  },
+  {
+    "input": "squirrel, leopard, mint",
+    "output": "mint"
+  },
+  {
+    "input": "ostrich, zebra, green",
+    "output": "green"
+  },
+  {
+    "input": "octopus, bird, silver",
+    "output": "silver"
+  },
+  {
+    "input": "snail, python, salmon",
+    "output": "salmon"
+  },
+  {
+    "input": "navy, cockroach, caterpillar",
+    "output": "navy"
+  },
+  {
+    "input": "indigo, zebra, okapi",
+    "output": "indigo"
+  },
+  {
+    "input": "blue, meerkat, cockroach",
+    "output": "blue"
+  },
+  {
+    "input": "fox, baboon, orange",
+    "output": "orange"
+  },
+  {
+    "input": "pink, anteater, ibex",
+    "output": "pink"
+  },
+  {
+    "input": "ocelot, gold, yak",
+    "output": "gold"
+  },
+  {
+    "input": "pelican, green, gorilla",
+    "output": "green"
+  },
+  {
+    "input": "alligator, bison, salmon",
+    "output": "salmon"
+  },
+  {
+    "input": "chinchilla, purple, tiger",
+    "output": "purple"
+  },
+  {
+    "input": "rabbit, armadillo, navy",
+    "output": "navy"
+  },
+  {
+    "input": "green, penguin, hamster",
+    "output": "green"
+  },
+  {
+    "input": "wombat, navy, sheep",
+    "output": "navy"
+  },
+  {
+    "input": "brown, lion, lobster",
+    "output": "brown"
+  },
+  {
+    "input": "purple, cobra, toucan",
+    "output": "purple"
+  },
+  {
+    "input": "narwhal, violet, shark",
+    "output": "violet"
+  },
+  {
+    "input": "mint, worm, donkey",
+    "output": "mint"
+  },
+  {
+    "input": "dove, orange, gazelle",
+    "output": "orange"
+  },
+  {
+    "input": "giraffe, gray, horse",
+    "output": "gray"
+  },
+  {
+    "input": "navy, quokka, sloth",
+    "output": "navy"
+  },
+  {
+    "input": "cheetah, gorilla, cream",
+    "output": "cream"
+  },
+  {
+    "input": "mustard, cougar, capybara",
+    "output": "mustard"
+  },
+  {
+    "input": "kangaroo, mint, chicken",
+    "output": "mint"
+  },
+  {
+    "input": "eel, purple, worm",
+    "output": "purple"
+  },
+  {
+    "input": "okapi, coral, hornet",
+    "output": "coral"
+  },
+  {
+    "input": "impala, orange, bee",
+    "output": "orange"
+  },
+  {
+    "input": "grizzly, alpaca, mustard",
+    "output": "mustard"
+  },
+  {
+    "input": "mustard, panda, oryx",
+    "output": "mustard"
+  },
+  {
+    "input": "dolphin, ocelot, navy",
+    "output": "navy"
+  },
+  {
+    "input": "parrot, panda, mustard",
+    "output": "mustard"
+  },
+  {
+    "input": "owl, penguin, pink",
+    "output": "pink"
+  },
+  {
+    "input": "moose, gold, ferret",
+    "output": "gold"
+  },
+  {
+    "input": "silver, crane, panda",
+    "output": "silver"
+  },
+  {
+    "input": "narwhal, violet, fossa",
+    "output": "violet"
+  },
+  {
+    "input": "black, fish, meerkat",
+    "output": "black"
+  },
+  {
+    "input": "cream, peacock, cheetah",
+    "output": "cream"
+  },
+  {
+    "input": "gray, dingo, mouse",
+    "output": "gray"
+  },
+  {
+    "input": "olive, bison, rat",
+    "output": "olive"
+  },
+  {
+    "input": "manatee, oryx, green",
+    "output": "green"
+  },
+  {
+    "input": "cream, manatee, rhinoceros",
+    "output": "cream"
+  },
+  {
+    "input": "pig, impala, coral",
+    "output": "coral"
+  },
+  {
+    "input": "komodo, worm, purple",
+    "output": "purple"
+  },
+  {
+    "input": "ocelot, green, salamander",
+    "output": "green"
+  },
+  {
+    "input": "reindeer, blue, seal",
+    "output": "blue"
+  },
+  {
+    "input": "rat, alpaca, red",
+    "output": "red"
+  },
+  {
+    "input": "mantis, white, bear",
+    "output": "white"
+  },
+  {
+    "input": "mustard, dove, fox",
+    "output": "mustard"
+  },
+  {
+    "input": "white, crane, moose",
+    "output": "white"
+  },
+  {
+    "input": "gold, salamander, orangutan",
+    "output": "gold"
+  },
+  {
+    "input": "butterfly, mint, snake",
+    "output": "mint"
+  },
+  {
+    "input": "mustard, cat, whale",
+    "output": "mustard"
+  },
+  {
+    "input": "giraffe, mustard, lobster",
+    "output": "mustard"
+  },
+  {
+    "input": "okapi, salmon, snail",
+    "output": "salmon"
+  },
+  {
+    "input": "green, tiger, capybara",
+    "output": "green"
+  },
+  {
+    "input": "capybara, snail, blue",
+    "output": "blue"
+  },
+  {
+    "input": "green, cheetah, barracuda",
+    "output": "green"
+  },
+  {
+    "input": "parrot, buffalo, yellow",
+    "output": "yellow"
+  },
+  {
+    "input": "white, raccoon, bat",
+    "output": "white"
+  },
+  {
+    "input": "duck, purple, caterpillar",
+    "output": "purple"
+  },
+  {
+    "input": "giraffe, monkey, pink",
+    "output": "pink"
+  },
+  {
+    "input": "green, hamster, bat",
+    "output": "green"
+  },
+  {
+    "input": "monkey, quokka, yellow",
+    "output": "yellow"
+  },
+  {
+    "input": "woodpecker, spider, red",
+    "output": "red"
+  },
+  {
+    "input": "penguin, ibex, indigo",
+    "output": "indigo"
+  },
+  {
+    "input": "peacock, indigo, vulture",
+    "output": "indigo"
+  },
+  {
+    "input": "hedgehog, green, weasel",
+    "output": "green"
+  },
+  {
+    "input": "purple, manatee, vulture",
+    "output": "purple"
+  },
+  {
+    "input": "salmon, cockroach, fox",
+    "output": "salmon"
+  },
+  {
+    "input": "vulture, pink, magpie",
+    "output": "pink"
+  },
+  {
+    "input": "eagle, green, aardvark",
+    "output": "green"
+  },
+  {
+    "input": "narwhal, turkey, green",
+    "output": "green"
+  },
+  {
+    "input": "swan, red, walrus",
+    "output": "red"
+  },
+  {
+    "input": "blue, goose, hyena",
+    "output": "blue"
+  },
+  {
+    "input": "ostrich, rat, blue",
+    "output": "blue"
+  },
+  {
+    "input": "duck, violet, barracuda",
+    "output": "violet"
+  },
+  {
+    "input": "hippopotamus, cream, emu",
+    "output": "cream"
+  },
+  {
+    "input": "salmon, fox, koala",
+    "output": "salmon"
+  },
+  {
+    "input": "salmon, lobster, dolphin",
+    "output": "salmon"
+  },
+  {
+    "input": "blue, baboon, mantis",
+    "output": "blue"
+  },
+  {
+    "input": "gazelle, beaver, orange",
+    "output": "orange"
+  },
+  {
+    "input": "caribou, mustard, iguana",
+    "output": "mustard"
+  },
+  {
+    "input": "cream, bunny, duck",
+    "output": "cream"
+  },
+  {
+    "input": "gecko, crab, white",
+    "output": "white"
+  },
+  {
+    "input": "puma, hornet, yellow",
+    "output": "yellow"
+  },
+  {
+    "input": "black, dog, parrot",
+    "output": "black"
+  },
+  {
+    "input": "salmon, moray, snake",
+    "output": "salmon"
+  },
+  {
+    "input": "crocodile, iguana, black",
+    "output": "black"
+  },
+  {
+    "input": "duck, pink, dingo",
+    "output": "pink"
+  },
+  {
+    "input": "monkey, oryx, white",
+    "output": "white"
+  },
+  {
+    "input": "woodpecker, baboon, coral",
+    "output": "coral"
+  },
+  {
+    "input": "coral, toucan, chipmunk",
+    "output": "coral"
+  },
+  {
+    "input": "butterfly, cobra, navy",
+    "output": "navy"
+  },
+  {
+    "input": "cream, kangaroo, coyote",
+    "output": "cream"
+  },
+  {
+    "input": "cream, badger, parrot",
+    "output": "cream"
+  },
+  {
+    "input": "cream, bunny, coyote",
+    "output": "cream"
+  },
+  {
+    "input": "chicken, pelican, blue",
+    "output": "blue"
+  },
+  {
+    "input": "hyena, impala, navy",
+    "output": "navy"
+  },
+  {
+    "input": "mint, whale, ibex",
+    "output": "mint"
+  },
+  {
+    "input": "turtle, olive, panda",
+    "output": "olive"
+  },
+  {
+    "input": "fox, salmon, snail",
+    "output": "salmon"
+  },
+  {
+    "input": "giraffe, olive, bird",
+    "output": "olive"
+  },
+  {
+    "input": "dolphin, pink, cat",
+    "output": "pink"
+  },
+  {
+    "input": "tiger, ant, brown",
+    "output": "brown"
+  },
+  {
+    "input": "vulture, manatee, pink",
+    "output": "pink"
+  },
+  {
+    "input": "pink, lemur, alpaca",
+    "output": "pink"
+  },
+  {
+    "input": "coral, barracuda, chipmunk",
+    "output": "coral"
+  },
+  {
+    "input": "pelican, peacock, white",
+    "output": "white"
+  },
+  {
+    "input": "camel, bird, green",
+    "output": "green"
+  },
+  {
+    "input": "cream, elk, macaw",
+    "output": "cream"
+  },
+  {
+    "input": "eel, raccoon, white",
+    "output": "white"
+  },
+  {
+    "input": "ant, quokka, cream",
+    "output": "cream"
+  },
+  {
+    "input": "alligator, moose, gold",
+    "output": "gold"
+  },
+  {
+    "input": "turkey, lynx, purple",
+    "output": "purple"
+  },
+  {
+    "input": "bird, goose, yellow",
+    "output": "yellow"
+  },
+  {
+    "input": "olive, python, crow",
+    "output": "olive"
+  },
+  {
+    "input": "jackal, blue, quokka",
+    "output": "blue"
+  },
+  {
+    "input": "gnu, komodo, indigo",
+    "output": "indigo"
+  },
+  {
+    "input": "violet, jaguar, woodpecker",
+    "output": "violet"
+  },
+  {
+    "input": "dragonfly, fossa, orange",
+    "output": "orange"
+  },
+  {
+    "input": "mouse, purple, dragonfly",
+    "output": "purple"
+  },
+  {
+    "input": "otter, orange, pigeon",
+    "output": "orange"
+  },
+  {
+    "input": "bunny, cream, giraffe",
+    "output": "cream"
+  },
+  {
+    "input": "gold, pigeon, oryx",
+    "output": "gold"
+  },
+  {
+    "input": "octopus, macaw, salmon",
+    "output": "salmon"
+  },
+  {
+    "input": "badger, walrus, orange",
+    "output": "orange"
+  },
+  {
+    "input": "crane, silver, chicken",
+    "output": "silver"
+  },
+  {
+    "input": "vulture, lemur, violet",
+    "output": "violet"
+  },
+  {
+    "input": "quokka, crab, yellow",
+    "output": "yellow"
+  },
+  {
+    "input": "wolf, navy, horse",
+    "output": "navy"
+  },
+  {
+    "input": "reindeer, gold, okapi",
+    "output": "gold"
+  },
+  {
+    "input": "donkey, meerkat, navy",
+    "output": "navy"
+  },
+  {
+    "input": "salmon, gnu, chimpanzee",
+    "output": "salmon"
+  },
+  {
+    "input": "cockroach, shark, mint",
+    "output": "mint"
+  },
+  {
+    "input": "crow, blue, lynx",
+    "output": "blue"
+  },
+  {
+    "input": "gnu, squirrel, orange",
+    "output": "orange"
+  },
+  {
+    "input": "purple, ant, newt",
+    "output": "purple"
+  },
+  {
+    "input": "monkey, llama, cream",
+    "output": "cream"
+  },
+  {
+    "input": "violet, raccoon, orangutan",
+    "output": "violet"
+  },
+  {
+    "input": "seahorse, wolf, orange",
+    "output": "orange"
+  },
+  {
+    "input": "grizzly, navy, cougar",
+    "output": "navy"
+  },
+  {
+    "input": "donkey, cobra, salmon",
+    "output": "salmon"
+  },
+  {
+    "input": "moose, pink, cougar",
+    "output": "pink"
+  },
+  {
+    "input": "yellow, goat, hornet",
+    "output": "yellow"
+  },
+  {
+    "input": "lizard, purple, iguana",
+    "output": "purple"
+  },
+  {
+    "input": "white, hedgehog, sheep",
+    "output": "white"
+  },
+  {
+    "input": "indigo, gazelle, ocelot",
+    "output": "indigo"
+  },
+  {
+    "input": "hamster, mustard, fossa",
+    "output": "mustard"
+  },
+  {
+    "input": "gold, mantis, lion",
+    "output": "gold"
+  },
+  {
+    "input": "elephant, green, meerkat",
+    "output": "green"
+  },
+  {
+    "input": "indigo, moray, salamander",
+    "output": "indigo"
+  },
+  {
+    "input": "caterpillar, orange, lizard",
+    "output": "orange"
+  },
+  {
+    "input": "woodpecker, red, butterfly",
+    "output": "red"
+  },
+  {
+    "input": "monkey, gold, shark",
+    "output": "gold"
+  },
+  {
+    "input": "coral, jellyfish, dragonfly",
+    "output": "coral"
+  },
+  {
+    "input": "manatee, mantis, purple",
+    "output": "purple"
+  },
+  {
+    "input": "pig, pink, bear",
+    "output": "pink"
+  },
+  {
+    "input": "octopus, elk, black",
+    "output": "black"
+  },
+  {
+    "input": "bat, anteater, cream",
+    "output": "cream"
+  },
+  {
+    "input": "okapi, rhinoceros, gold",
+    "output": "gold"
+  },
+  {
+    "input": "cougar, yak, pink",
+    "output": "pink"
+  },
+  {
+    "input": "mandrill, indigo, jaguar",
+    "output": "indigo"
+  },
+  {
+    "input": "indigo, reindeer, chipmunk",
+    "output": "indigo"
+  },
+  {
+    "input": "quokka, purple, macaw",
+    "output": "purple"
+  },
+  {
+    "input": "iguana, eagle, purple",
+    "output": "purple"
+  },
+  {
+    "input": "salmon, baboon, moose",
+    "output": "salmon"
+  },
+  {
+    "input": "yellow, alligator, gecko",
+    "output": "yellow"
+  },
+  {
+    "input": "crocodile, duck, purple",
+    "output": "purple"
+  },
+  {
+    "input": "duck, indigo, cow",
+    "output": "indigo"
+  },
+  {
+    "input": "narwhal, gold, wolf",
+    "output": "gold"
+  },
+  {
+    "input": "bird, goose, brown",
+    "output": "brown"
+  },
+  {
+    "input": "hamster, red, jackal",
+    "output": "red"
+  },
+  {
+    "input": "bison, donkey, black",
+    "output": "black"
+  },
+  {
+    "input": "dog, white, donkey",
+    "output": "white"
+  },
+  {
+    "input": "seahorse, scorpion, cream",
+    "output": "cream"
+  },
+  {
+    "input": "purple, pigeon, otter",
+    "output": "purple"
+  },
+  {
+    "input": "blue, caribou, lizard",
+    "output": "blue"
+  },
+  {
+    "input": "wombat, white, ibex",
+    "output": "white"
+  },
+  {
+    "input": "violet, leopard, turkey",
+    "output": "violet"
+  },
+  {
+    "input": "navy, lobster, snail",
+    "output": "navy"
+  },
+  {
+    "input": "mustard, wolf, dove",
+    "output": "mustard"
+  },
+  {
+    "input": "olive, seal, badger",
+    "output": "olive"
+  },
+  {
+    "input": "pelican, purple, finch",
+    "output": "purple"
+  },
+  {
+    "input": "navy, cat, camel",
+    "output": "navy"
+  },
+  {
+    "input": "bunny, mustard, coyote",
+    "output": "mustard"
+  },
+  {
+    "input": "macaw, butterfly, white",
+    "output": "white"
+  },
+  {
+    "input": "wolverine, giraffe, navy",
+    "output": "navy"
+  },
+  {
+    "input": "yellow, dog, mouse",
+    "output": "yellow"
+  }
+]

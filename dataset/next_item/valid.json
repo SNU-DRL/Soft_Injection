@@ -1,0 +1,86 @@
+[
+  {
+    "input": "EE",
+    "output": "FF"
+  },
+  {
+    "input": "fourteen",
+    "output": "fifteen"
+  },
+  {
+    "input": "R",
+    "output": "S"
+  },
+  {
+    "input": "ix",
+    "output": "x"
+  },
+  {
+    "input": "mm",
+    "output": "nn"
+  },
+  {
+    "input": "viii",
+    "output": "ix"
+  },
+  {
+    "input": "dd",
+    "output": "ee"
+  },
+  {
+    "input": "hh",
+    "output": "ii"
+  },
+  {
+    "input": "friday",
+    "output": "saturday"
+  },
+  {
+    "input": "2",
+    "output": "3"
+  },
+  {
+    "input": "S",
+    "output": "T"
+  },
+  {
+    "input": "june",
+    "output": "july"
+  },
+  {
+    "input": "CC",
+    "output": "DD"
+  },
+  {
+    "input": "x",
+    "output": "y"
+  },
+  {
+    "input": "SS",
+    "output": "TT"
+  },
+  {
+    "input": "XI",
+    "output": "XII"
+  },
+  {
+    "input": "two",
+    "output": "three"
+  },
+  {
+    "input": "14",
+    "output": "15"
+  },
+  {
+    "input": "Friday",
+    "output": "Saturday"
+  },
+  {
+    "input": "9",
+    "output": "10"
+  },
+  {
+    "input": "october",
+    "output": "november"
+  }
+]

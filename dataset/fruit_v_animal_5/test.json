@@ -1,0 +1,842 @@
+[
+  {
+    "input": "weasel, woodpecker, apricot, goose, jaguar",
+    "output": "apricot"
+  },
+  {
+    "input": "caribou, anteater, hornet, jackal, plum",
+    "output": "plum"
+  },
+  {
+    "input": "moth, fig, cobra, butterfly, skunk",
+    "output": "fig"
+  },
+  {
+    "input": "monkey, grizzly, python, eel, nectarine",
+    "output": "nectarine"
+  },
+  {
+    "input": "weasel, grapefruit, turtle, cockroach, bear",
+    "output": "grapefruit"
+  },
+  {
+    "input": "gecko, anteater, mandarine, opossum, dove",
+    "output": "mandarine"
+  },
+  {
+    "input": "horse, tiger, plum, pig, emu",
+    "output": "plum"
+  },
+  {
+    "input": "impala, gazelle, whale, grape, gecko",
+    "output": "grape"
+  },
+  {
+    "input": "moose, chimpanzee, rat, panda, pineapple",
+    "output": "pineapple"
+  },
+  {
+    "input": "cobra, deer, moray, orange, scorpion",
+    "output": "orange"
+  },
+  {
+    "input": "cow, bear, plantain, okapi, tiger",
+    "output": "plantain"
+  },
+  {
+    "input": "pelican, grape, firefly, bear, bird",
+    "output": "grape"
+  },
+  {
+    "input": "mouse, alpaca, weasel, orange, seahorse",
+    "output": "orange"
+  },
+  {
+    "input": "reindeer, barracuda, aardvark, dragonfruit, ant",
+    "output": "dragonfruit"
+  },
+  {
+    "input": "hedgehog, kumquat, yak, cat, cow",
+    "output": "kumquat"
+  },
+  {
+    "input": "quokka, pelican, skunk, jackal, passionfruit",
+    "output": "passionfruit"
+  },
+  {
+    "input": "cat, hornet, durian, snail, narwhal",
+    "output": "durian"
+  },
+  {
+    "input": "octopus, apricot, frog, dragonfly, chicken",
+    "output": "apricot"
+  },
+  {
+    "input": "barracuda, skunk, avocado, vulture, chicken",
+    "output": "avocado"
+  },
+  {
+    "input": "woodpecker, kiwifruit, cheetah, manatee, dove",
+    "output": "kiwifruit"
+  },
+  {
+    "input": "jackal, salamander, seal, duck, mango",
+    "output": "mango"
+  },
+  {
+    "input": "lion, hornet, lizard, dragonfruit, koala",
+    "output": "dragonfruit"
+  },
+  {
+    "input": "ostrich, grape, whale, spider, sloth",
+    "output": "grape"
+  },
+  {
+    "input": "chicken, moth, date, mouse, oryx",
+    "output": "date"
+  },
+  {
+    "input": "guava, moose, bunny, bear, impala",
+    "output": "guava"
+  },
+  {
+    "input": "anteater, quokka, strawberry, shark, pelican",
+    "output": "strawberry"
+  },
+  {
+    "input": "hornet, jaguar, kiwifruit, bunny, capybara",
+    "output": "kiwifruit"
+  },
+  {
+    "input": "capybara, squirrel, clementine, chimpanzee, hyena",
+    "output": "clementine"
+  },
+  {
+    "input": "mandarine, lobster, impala, flamingo, lynx",
+    "output": "mandarine"
+  },
+  {
+    "input": "seahorse, bunny, lion, nectarine, zebra",
+    "output": "nectarine"
+  },
+  {
+    "input": "nectarine, jaguar, reindeer, dolphin, puma",
+    "output": "nectarine"
+  },
+  {
+    "input": "aardvark, giraffe, toucan, tangerine, rhinoceros",
+    "output": "tangerine"
+  },
+  {
+    "input": "plum, orangutan, hamster, duck, gazelle",
+    "output": "plum"
+  },
+  {
+    "input": "jellyfish, barracuda, bunny, chinchilla, guava",
+    "output": "guava"
+  },
+  {
+    "input": "hippopotamus, oryx, kiwifruit, mandrill, wolverine",
+    "output": "kiwifruit"
+  },
+  {
+    "input": "camel, newt, flamingo, kumquat, falcon",
+    "output": "kumquat"
+  },
+  {
+    "input": "spider, mantis, elephant, huckleberry, elk",
+    "output": "huckleberry"
+  },
+  {
+    "input": "beaver, persimmon, boar, python, dingo",
+    "output": "persimmon"
+  },
+  {
+    "input": "panda, manatee, raspberry, ferret, dragonfly",
+    "output": "raspberry"
+  },
+  {
+    "input": "magpie, donkey, falcon, cat, huckleberry",
+    "output": "huckleberry"
+  },
+  {
+    "input": "goose, elephant, boar, mantis, prune",
+    "output": "prune"
+  },
+  {
+    "input": "lemon, chinchilla, leopard, gnu, koala",
+    "output": "lemon"
+  },
+  {
+    "input": "jellyfish, hedgehog, huckleberry, mantis, horse",
+    "output": "huckleberry"
+  },
+  {
+    "input": "otter, butterfly, crane, mandarine, frog",
+    "output": "mandarine"
+  },
+  {
+    "input": "meerkat, fox, hamster, plum, parrot",
+    "output": "plum"
+  },
+  {
+    "input": "apple, flamingo, gorilla, meerkat, peacock",
+    "output": "apple"
+  },
+  {
+    "input": "fig, elk, bear, cow, fish",
+    "output": "fig"
+  },
+  {
+    "input": "buffalo, jackal, cheetah, strawberry, dingo",
+    "output": "strawberry"
+  },
+  {
+    "input": "mandarine, aardvark, donkey, boar, beaver",
+    "output": "mandarine"
+  },
+  {
+    "input": "reindeer, woodpecker, apricot, elephant, bee",
+    "output": "apricot"
+  },
+  {
+    "input": "dragonfruit, dingo, manatee, moth, grizzly",
+    "output": "dragonfruit"
+  },
+  {
+    "input": "cougar, fossa, seahorse, alligator, grapefruit",
+    "output": "grapefruit"
+  },
+  {
+    "input": "alligator, sheep, peach, dragonfly, wombat",
+    "output": "peach"
+  },
+  {
+    "input": "nectarine, moray, eagle, iguana, goose",
+    "output": "nectarine"
+  },
+  {
+    "input": "bird, zebra, coconut, whale, ferret",
+    "output": "coconut"
+  },
+  {
+    "input": "flamingo, shark, turtle, ostrich, peach",
+    "output": "peach"
+  },
+  {
+    "input": "capybara, swan, wombat, bird, guava",
+    "output": "guava"
+  },
+  {
+    "input": "capybara, coyote, bear, coconut, lizard",
+    "output": "coconut"
+  },
+  {
+    "input": "eel, pomegranate, dingo, chinchilla, scorpion",
+    "output": "pomegranate"
+  },
+  {
+    "input": "squirrel, scorpion, persimmon, octopus, moth",
+    "output": "persimmon"
+  },
+  {
+    "input": "zebra, jellyfish, dragonfruit, parrot, armadillo",
+    "output": "dragonfruit"
+  },
+  {
+    "input": "ostrich, plum, hyena, goat, gnu",
+    "output": "plum"
+  },
+  {
+    "input": "cougar, tangerine, turtle, walrus, coyote",
+    "output": "tangerine"
+  },
+  {
+    "input": "moose, tangerine, badger, gnu, horse",
+    "output": "tangerine"
+  },
+  {
+    "input": "lime, owl, cobra, manatee, cow",
+    "output": "lime"
+  },
+  {
+    "input": "gecko, cherry, baboon, owl, lizard",
+    "output": "cherry"
+  },
+  {
+    "input": "duck, firefly, jaguar, durian, crow",
+    "output": "durian"
+  },
+  {
+    "input": "crow, coyote, wolverine, mandarine, cheetah",
+    "output": "mandarine"
+  },
+  {
+    "input": "crab, elephant, lemur, peach, firefly",
+    "output": "peach"
+  },
+  {
+    "input": "raspberry, octopus, macaw, donkey, swan",
+    "output": "raspberry"
+  },
+  {
+    "input": "donkey, octopus, turtle, dolphin, tangerine",
+    "output": "tangerine"
+  },
+  {
+    "input": "baboon, raccoon, jackfruit, turkey, meerkat",
+    "output": "jackfruit"
+  },
+  {
+    "input": "dog, nectarine, fish, crane, moth",
+    "output": "nectarine"
+  },
+  {
+    "input": "sloth, seahorse, prune, eel, deer",
+    "output": "prune"
+  },
+  {
+    "input": "narwhal, pear, snake, raccoon, mouse",
+    "output": "pear"
+  },
+  {
+    "input": "swan, hedgehog, ibex, nectarine, bison",
+    "output": "nectarine"
+  },
+  {
+    "input": "raspberry, wombat, grizzly, elephant, panda",
+    "output": "raspberry"
+  },
+  {
+    "input": "wolf, capybara, okapi, mandarine, wombat",
+    "output": "mandarine"
+  },
+  {
+    "input": "moray, strawberry, walrus, cheetah, owl",
+    "output": "strawberry"
+  },
+  {
+    "input": "chimpanzee, otter, pig, cat, peach",
+    "output": "peach"
+  },
+  {
+    "input": "pig, yak, falcon, rhinoceros, persimmon",
+    "output": "persimmon"
+  },
+  {
+    "input": "koala, hippopotamus, bison, apple, lizard",
+    "output": "apple"
+  },
+  {
+    "input": "mandrill, raccoon, beaver, grapefruit, rabbit",
+    "output": "grapefruit"
+  },
+  {
+    "input": "wombat, jellyfish, nectarine, dove, iguana",
+    "output": "nectarine"
+  },
+  {
+    "input": "zebra, owl, swan, chinchilla, jackfruit",
+    "output": "jackfruit"
+  },
+  {
+    "input": "panda, bison, dragonfly, goat, fig",
+    "output": "fig"
+  },
+  {
+    "input": "caribou, oryx, hedgehog, capybara, orange",
+    "output": "orange"
+  },
+  {
+    "input": "wolf, ostrich, date, otter, seal",
+    "output": "date"
+  },
+  {
+    "input": "iguana, dolphin, grape, quokka, magpie",
+    "output": "grape"
+  },
+  {
+    "input": "lynx, kumquat, octopus, chinchilla, gnu",
+    "output": "kumquat"
+  },
+  {
+    "input": "firefly, dove, lobster, crab, plum",
+    "output": "plum"
+  },
+  {
+    "input": "wolf, panther, chimpanzee, jackfruit, sloth",
+    "output": "jackfruit"
+  },
+  {
+    "input": "swan, lemon, snake, armadillo, dragonfly",
+    "output": "lemon"
+  },
+  {
+    "input": "woodpecker, shark, papaya, alligator, emu",
+    "output": "papaya"
+  },
+  {
+    "input": "bird, avocado, caribou, mouse, otter",
+    "output": "avocado"
+  },
+  {
+    "input": "eel, pineapple, chinchilla, python, lobster",
+    "output": "pineapple"
+  },
+  {
+    "input": "pelican, clementine, lobster, skunk, moose",
+    "output": "clementine"
+  },
+  {
+    "input": "apricot, salamander, cockroach, komodo, elk",
+    "output": "apricot"
+  },
+  {
+    "input": "zebra, fossa, pomegranate, goat, pigeon",
+    "output": "pomegranate"
+  },
+  {
+    "input": "strawberry, alligator, tiger, lion, elephant",
+    "output": "strawberry"
+  },
+  {
+    "input": "guava, whale, okapi, eagle, vulture",
+    "output": "guava"
+  },
+  {
+    "input": "alligator, moth, boar, guava, opossum",
+    "output": "guava"
+  },
+  {
+    "input": "aardvark, crab, pineapple, manatee, falcon",
+    "output": "pineapple"
+  },
+  {
+    "input": "kiwifruit, walrus, seal, owl, tiger",
+    "output": "kiwifruit"
+  },
+  {
+    "input": "alligator, swan, lion, raspberry, lizard",
+    "output": "raspberry"
+  },
+  {
+    "input": "monkey, date, cheetah, snake, donkey",
+    "output": "date"
+  },
+  {
+    "input": "toucan, prune, octopus, magpie, ocelot",
+    "output": "prune"
+  },
+  {
+    "input": "grapefruit, python, goose, tiger, gnu",
+    "output": "grapefruit"
+  },
+  {
+    "input": "iguana, apple, fish, dragonfly, turkey",
+    "output": "apple"
+  },
+  {
+    "input": "snail, alpaca, prune, pelican, narwhal",
+    "output": "prune"
+  },
+  {
+    "input": "oryx, reindeer, jellyfish, pineapple, python",
+    "output": "pineapple"
+  },
+  {
+    "input": "hornet, jaguar, chipmunk, goat, orange",
+    "output": "orange"
+  },
+  {
+    "input": "papaya, butterfly, baboon, squirrel, komodo",
+    "output": "papaya"
+  },
+  {
+    "input": "dolphin, quokka, lizard, coconut, gazelle",
+    "output": "coconut"
+  },
+  {
+    "input": "mouse, eel, impala, persimmon, macaw",
+    "output": "persimmon"
+  },
+  {
+    "input": "wolf, mandrill, hornet, blackberry, moray",
+    "output": "blackberry"
+  },
+  {
+    "input": "impala, penguin, pomegranate, firefly, magpie",
+    "output": "pomegranate"
+  },
+  {
+    "input": "skunk, quokka, lizard, orange, eagle",
+    "output": "orange"
+  },
+  {
+    "input": "puma, goose, emu, mandarine, pelican",
+    "output": "mandarine"
+  },
+  {
+    "input": "kangaroo, python, barracuda, falcon, banana",
+    "output": "banana"
+  },
+  {
+    "input": "yak, clementine, owl, aardvark, cougar",
+    "output": "clementine"
+  },
+  {
+    "input": "gooseberry, alpaca, walrus, mandrill, jackal",
+    "output": "gooseberry"
+  },
+  {
+    "input": "squirrel, avocado, gorilla, spider, rabbit",
+    "output": "avocado"
+  },
+  {
+    "input": "crab, seahorse, eel, iguana, fig",
+    "output": "fig"
+  },
+  {
+    "input": "llama, firefly, pineapple, hornet, crow",
+    "output": "pineapple"
+  },
+  {
+    "input": "lynx, boar, dolphin, cat, kiwifruit",
+    "output": "kiwifruit"
+  },
+  {
+    "input": "alpaca, pig, vulture, pineapple, chimpanzee",
+    "output": "pineapple"
+  },
+  {
+    "input": "cat, moose, peach, wolverine, skunk",
+    "output": "peach"
+  },
+  {
+    "input": "elk, hornet, llama, rabbit, mandarine",
+    "output": "mandarine"
+  },
+  {
+    "input": "eagle, firefly, hyena, walrus, mandarine",
+    "output": "mandarine"
+  },
+  {
+    "input": "crow, bird, durian, lynx, boar",
+    "output": "durian"
+  },
+  {
+    "input": "badger, jackfruit, newt, gecko, panther",
+    "output": "jackfruit"
+  },
+  {
+    "input": "magpie, crow, plantain, cat, hamster",
+    "output": "plantain"
+  },
+  {
+    "input": "magpie, plantain, gecko, dragonfly, quokka",
+    "output": "plantain"
+  },
+  {
+    "input": "fox, panther, owl, dragonfly, apricot",
+    "output": "apricot"
+  },
+  {
+    "input": "owl, narwhal, plantain, wombat, bison",
+    "output": "plantain"
+  },
+  {
+    "input": "cat, snail, cherry, toucan, pelican",
+    "output": "cherry"
+  },
+  {
+    "input": "emu, mantis, mango, bison, octopus",
+    "output": "mango"
+  },
+  {
+    "input": "mandrill, hyena, nectarine, crow, lynx",
+    "output": "nectarine"
+  },
+  {
+    "input": "llama, hippopotamus, durian, snake, turtle",
+    "output": "durian"
+  },
+  {
+    "input": "chipmunk, whale, durian, seal, woodpecker",
+    "output": "durian"
+  },
+  {
+    "input": "mandrill, vulture, firefly, raspberry, ostrich",
+    "output": "raspberry"
+  },
+  {
+    "input": "falcon, ferret, reindeer, seahorse, blackberry",
+    "output": "blackberry"
+  },
+  {
+    "input": "grape, chinchilla, hippopotamus, gnu, tiger",
+    "output": "grape"
+  },
+  {
+    "input": "camel, caterpillar, aardvark, barracuda, peach",
+    "output": "peach"
+  },
+  {
+    "input": "tiger, turkey, huckleberry, moth, jaguar",
+    "output": "huckleberry"
+  },
+  {
+    "input": "raccoon, penguin, quokka, cheetah, pear",
+    "output": "pear"
+  },
+  {
+    "input": "iguana, eagle, gooseberry, bunny, bear",
+    "output": "gooseberry"
+  },
+  {
+    "input": "mandrill, lemon, bee, walrus, fossa",
+    "output": "lemon"
+  },
+  {
+    "input": "finch, macaw, blackberry, wolverine, lobster",
+    "output": "blackberry"
+  },
+  {
+    "input": "vulture, caribou, impala, magpie, apple",
+    "output": "apple"
+  },
+  {
+    "input": "boar, huckleberry, yak, aardvark, frog",
+    "output": "huckleberry"
+  },
+  {
+    "input": "kumquat, lion, dingo, snake, okapi",
+    "output": "kumquat"
+  },
+  {
+    "input": "prune, turkey, jellyfish, bee, swan",
+    "output": "prune"
+  },
+  {
+    "input": "strawberry, ostrich, moth, snake, chinchilla",
+    "output": "strawberry"
+  },
+  {
+    "input": "strawberry, coyote, aardvark, lynx, lizard",
+    "output": "strawberry"
+  },
+  {
+    "input": "fish, oryx, iguana, banana, spider",
+    "output": "banana"
+  },
+  {
+    "input": "alligator, wolf, crab, guava, bird",
+    "output": "guava"
+  },
+  {
+    "input": "crab, moose, nectarine, buffalo, chipmunk",
+    "output": "nectarine"
+  },
+  {
+    "input": "newt, dragonfruit, giraffe, bunny, okapi",
+    "output": "dragonfruit"
+  },
+  {
+    "input": "tangerine, spider, bird, anteater, weasel",
+    "output": "tangerine"
+  },
+  {
+    "input": "magpie, moose, chimpanzee, apricot, dolphin",
+    "output": "apricot"
+  },
+  {
+    "input": "barracuda, gnu, gooseberry, badger, hippopotamus",
+    "output": "gooseberry"
+  },
+  {
+    "input": "swan, bee, rabbit, cherry, wolf",
+    "output": "cherry"
+  },
+  {
+    "input": "tiger, jackal, anteater, huckleberry, manatee",
+    "output": "huckleberry"
+  },
+  {
+    "input": "boar, seahorse, cat, ant, cherry",
+    "output": "cherry"
+  },
+  {
+    "input": "clementine, dingo, zebra, manatee, lizard",
+    "output": "clementine"
+  },
+  {
+    "input": "lion, pigeon, pomegranate, ant, bunny",
+    "output": "pomegranate"
+  },
+  {
+    "input": "ferret, emu, python, horse, cranberry",
+    "output": "cranberry"
+  },
+  {
+    "input": "tangerine, otter, wombat, mandrill, jackal",
+    "output": "tangerine"
+  },
+  {
+    "input": "cobra, pigeon, elephant, woodpecker, cranberry",
+    "output": "cranberry"
+  },
+  {
+    "input": "hippopotamus, bird, goose, turkey, cherry",
+    "output": "cherry"
+  },
+  {
+    "input": "seahorse, jackfruit, rat, meerkat, pig",
+    "output": "jackfruit"
+  },
+  {
+    "input": "impala, ant, moose, lemon, firefly",
+    "output": "lemon"
+  },
+  {
+    "input": "apple, cheetah, flamingo, goose, moose",
+    "output": "apple"
+  },
+  {
+    "input": "bison, cougar, koala, guava, jellyfish",
+    "output": "guava"
+  },
+  {
+    "input": "jackfruit, rabbit, raccoon, hippopotamus, rhinoceros",
+    "output": "jackfruit"
+  },
+  {
+    "input": "impala, bison, ibex, fig, manatee",
+    "output": "fig"
+  },
+  {
+    "input": "coconut, narwhal, crab, barracuda, eagle",
+    "output": "coconut"
+  },
+  {
+    "input": "dingo, sheep, meerkat, grapefruit, chicken",
+    "output": "grapefruit"
+  },
+  {
+    "input": "flamingo, okapi, mango, bunny, bird",
+    "output": "mango"
+  },
+  {
+    "input": "sloth, turkey, iguana, peach, grizzly",
+    "output": "peach"
+  },
+  {
+    "input": "mandarine, wolf, dingo, hedgehog, caribou",
+    "output": "mandarine"
+  },
+  {
+    "input": "cherry, crab, narwhal, lobster, flamingo",
+    "output": "cherry"
+  },
+  {
+    "input": "crab, wolf, cockroach, goose, blackberry",
+    "output": "blackberry"
+  },
+  {
+    "input": "grape, lynx, lemur, toucan, sheep",
+    "output": "grape"
+  },
+  {
+    "input": "wombat, caribou, mouse, panda, nectarine",
+    "output": "nectarine"
+  },
+  {
+    "input": "dingo, newt, crow, snake, strawberry",
+    "output": "strawberry"
+  },
+  {
+    "input": "giraffe, ferret, orange, zebra, goose",
+    "output": "orange"
+  },
+  {
+    "input": "nectarine, komodo, snake, vulture, boar",
+    "output": "nectarine"
+  },
+  {
+    "input": "turtle, coyote, date, monkey, bat",
+    "output": "date"
+  },
+  {
+    "input": "eel, bat, plantain, lion, goose",
+    "output": "plantain"
+  },
+  {
+    "input": "dragonfruit, tiger, gnu, ocelot, dog",
+    "output": "dragonfruit"
+  },
+  {
+    "input": "papaya, orangutan, ibex, donkey, jaguar",
+    "output": "papaya"
+  },
+  {
+    "input": "jackfruit, butterfly, peacock, chimpanzee, mouse",
+    "output": "jackfruit"
+  },
+  {
+    "input": "guava, komodo, manatee, wolf, moth",
+    "output": "guava"
+  },
+  {
+    "input": "bird, swan, macaw, jackfruit, skunk",
+    "output": "jackfruit"
+  },
+  {
+    "input": "ocelot, hornet, lobster, skunk, guava",
+    "output": "guava"
+  },
+  {
+    "input": "monkey, peach, camel, vulture, giraffe",
+    "output": "peach"
+  },
+  {
+    "input": "lemur, coyote, armadillo, meerkat, nectarine",
+    "output": "nectarine"
+  },
+  {
+    "input": "shark, plantain, turkey, finch, meerkat",
+    "output": "plantain"
+  },
+  {
+    "input": "dingo, apple, pelican, iguana, python",
+    "output": "apple"
+  },
+  {
+    "input": "swan, cobra, bird, leopard, blackberry",
+    "output": "blackberry"
+  },
+  {
+    "input": "gazelle, buffalo, pigeon, shark, apricot",
+    "output": "apricot"
+  },
+  {
+    "input": "fossa, panda, passionfruit, seal, jellyfish",
+    "output": "passionfruit"
+  },
+  {
+    "input": "plum, hedgehog, anteater, frog, cat",
+    "output": "plum"
+  },
+  {
+    "input": "macaw, giraffe, grape, bird, eagle",
+    "output": "grape"
+  },
+  {
+    "input": "durian, bunny, leopard, lynx, firefly",
+    "output": "durian"
+  },
+  {
+    "input": "skunk, chicken, buffalo, wolf, coconut",
+    "output": "coconut"
+  },
+  {
+    "input": "snail, turkey, bee, tangerine, moose",
+    "output": "tangerine"
+  }
+]

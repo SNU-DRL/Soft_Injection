@@ -1,0 +1,290 @@
+[
+  {
+    "input": "hat",
+    "output": "A"
+  },
+  {
+    "input": "select",
+    "output": "E"
+  },
+  {
+    "input": "cow",
+    "output": "O"
+  },
+  {
+    "input": "marker",
+    "output": "A"
+  },
+  {
+    "input": "cherry",
+    "output": "H"
+  },
+  {
+    "input": "watermelon",
+    "output": "A"
+  },
+  {
+    "input": "overcome",
+    "output": "V"
+  },
+  {
+    "input": "kick",
+    "output": "I"
+  },
+  {
+    "input": "build",
+    "output": "U"
+  },
+  {
+    "input": "lovely",
+    "output": "O"
+  },
+  {
+    "input": "television",
+    "output": "E"
+  },
+  {
+    "input": "in",
+    "output": "N"
+  },
+  {
+    "input": "volleyball",
+    "output": "O"
+  },
+  {
+    "input": "long",
+    "output": "O"
+  },
+  {
+    "input": "anchor",
+    "output": "N"
+  },
+  {
+    "input": "honest",
+    "output": "O"
+  },
+  {
+    "input": "kayak",
+    "output": "A"
+  },
+  {
+    "input": "inventive",
+    "output": "N"
+  },
+  {
+    "input": "jigsaw",
+    "output": "I"
+  },
+  {
+    "input": "camera",
+    "output": "A"
+  },
+  {
+    "input": "hot",
+    "output": "O"
+  },
+  {
+    "input": "snake",
+    "output": "N"
+  },
+  {
+    "input": "crocodile",
+    "output": "R"
+  },
+  {
+    "input": "young",
+    "output": "O"
+  },
+  {
+    "input": "talented",
+    "output": "A"
+  },
+  {
+    "input": "jump",
+    "output": "U"
+  },
+  {
+    "input": "eraser",
+    "output": "R"
+  },
+  {
+    "input": "speak",
+    "output": "P"
+  },
+  {
+    "input": "define",
+    "output": "E"
+  },
+  {
+    "input": "cougar",
+    "output": "O"
+  },
+  {
+    "input": "xylophone",
+    "output": "Y"
+  },
+  {
+    "input": "save",
+    "output": "A"
+  },
+  {
+    "input": "car",
+    "output": "A"
+  },
+  {
+    "input": "bright",
+    "output": "R"
+  },
+  {
+    "input": "join",
+    "output": "O"
+  },
+  {
+    "input": "create",
+    "output": "R"
+  },
+  {
+    "input": "tranquil",
+    "output": "R"
+  },
+  {
+    "input": "lynx",
+    "output": "Y"
+  },
+  {
+    "input": "hungry",
+    "output": "U"
+  },
+  {
+    "input": "kneel",
+    "output": "N"
+  },
+  {
+    "input": "cold",
+    "output": "O"
+  },
+  {
+    "input": "window",
+    "output": "I"
+  },
+  {
+    "input": "arrive",
+    "output": "R"
+  },
+  {
+    "input": "wristwatch",
+    "output": "R"
+  },
+  {
+    "input": "spider",
+    "output": "P"
+  },
+  {
+    "input": "exchange",
+    "output": "X"
+  },
+  {
+    "input": "eloquent",
+    "output": "L"
+  },
+  {
+    "input": "talk",
+    "output": "A"
+  },
+  {
+    "input": "jolly",
+    "output": "O"
+  },
+  {
+    "input": "against",
+    "output": "G"
+  },
+  {
+    "input": "fear",
+    "output": "E"
+  },
+  {
+    "input": "help",
+    "output": "E"
+  },
+  {
+    "input": "zap",
+    "output": "A"
+  },
+  {
+    "input": "jolt",
+    "output": "O"
+  },
+  {
+    "input": "zesty",
+    "output": "E"
+  },
+  {
+    "input": "on",
+    "output": "N"
+  },
+  {
+    "input": "doubt",
+    "output": "O"
+  },
+  {
+    "input": "phone",
+    "output": "H"
+  },
+  {
+    "input": "uncover",
+    "output": "N"
+  },
+  {
+    "input": "strawberry",
+    "output": "T"
+  },
+  {
+    "input": "cranberry",
+    "output": "R"
+  },
+  {
+    "input": "easel",
+    "output": "A"
+  },
+  {
+    "input": "quiet",
+    "output": "U"
+  },
+  {
+    "input": "need",
+    "output": "E"
+  },
+  {
+    "input": "kumquat",
+    "output": "U"
+  },
+  {
+    "input": "fascinating",
+    "output": "A"
+  },
+  {
+    "input": "match",
+    "output": "A"
+  },
+  {
+    "input": "persuade",
+    "output": "E"
+  },
+  {
+    "input": "sheep",
+    "output": "H"
+  },
+  {
+    "input": "cheerful",
+    "output": "H"
+  },
+  {
+    "input": "as",
+    "output": "S"
+  },
+  {
+    "input": "youthful",
+    "output": "O"
+  }
+]
