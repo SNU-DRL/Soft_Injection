@@ -1,6 +1,9 @@
 # Soft Injection of Task Embeddings Outperforms Prompt-Based In-Context Learning
 Official Pytorch Implementation of "Soft Injection of Task Embeddings Outperforms Prompt-Based In-Context Learning" 
 
+### [Paper Link](https://arxiv.org/abs/2507.20906)
+
+
 ## Setup
 
 This code was tested with Python 3.12.2 using A6000 GPU.
