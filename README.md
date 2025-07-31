@@ -29,3 +29,14 @@ This project builds on the codes from the following repositories:
 - [Multimodal Task Vector](https://github.com/Brandon3964/MultiModal-Task-Vector)
 
 We thank the creators of these projects for making their codes available.
+
+## Citation
+
+``` bibtex
+@article{park2025soft,
+  title={Soft Injection of Task Embeddings Outperforms Prompt-Based In-Context Learning},
+  author={Park, Jungwon and Rhee, Wonjong},
+  journal={arXiv preprint arXiv:2507.20906},
+  year={2025}
+}
+```
